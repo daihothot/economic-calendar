@@ -1,0 +1,86 @@
+name: Update free official indicator values
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-economic-calendar-values
+  cancel-in-progress: false
+
+jobs:
+  update-values:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - name: Check out the latest default branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fast-forward before updating
+        run: git pull --ff-only origin "$GITHUB_REF_NAME"
+
+      - name: Test the updater offline
+        run: node scripts/test-update-values.mjs
+
+      - name: Fetch free official values
+        run: node scripts/update-values.mjs
+
+      - name: Build and validate all calendars
+        run: npm test
+
+      - name: Commit changed values and feeds
+        id: commit
+        shell: bash
+        run: |
+          git add data/values.json dist
+          if git diff --cached --quiet; then
+            echo "No indicator value changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(values): refresh official indicator data"
+          git push origin "HEAD:$GITHUB_REF_NAME"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Preserve the /dist subscription paths
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          mkdir -p .pages-site
+          cp -R dist .pages-site/dist
+
+      - name: Upload the Pages artifact
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .pages-site
+
+  deploy-pages:
+    needs: update-values
+    if: needs.update-values.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the refreshed calendars
+        id: deployment
+        uses: actions/deploy-pages@v4

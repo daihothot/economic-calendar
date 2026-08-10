@@ -1,0 +1,472 @@
+{
+  "schemaVersion": 1,
+  "providers": {
+    "fred": {
+      "kind": "fred-csv",
+      "baseUrl": "https://fred.stlouisfed.org/graph/fredgraph.csv"
+    },
+    "dbnomics": {
+      "kind": "dbnomics-json",
+      "baseUrl": "https://api.db.nomics.world/v22/series/"
+    },
+    "chinamoney-lpr": {
+      "kind": "chinamoney-lpr",
+      "baseUrl": "https://www.chinamoney.com.cn/ags/ms/cm-u-bk-currency/LprHis?lang=CN"
+    },
+    "bls-public-api": {
+      "kind": "bls-json",
+      "baseUrl": "https://api.bls.gov/publicAPI/v2/timeseries/data/"
+    },
+    "none": {
+      "kind": "none"
+    }
+  },
+  "types": {
+    "us-cpi": {
+      "provider": "fred",
+      "idPattern": "^us-cpi-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+      "sourceUrl": "https://www.bls.gov/cpi/",
+      "metrics": [
+        {
+          "seriesId": "CPIAUCNS",
+          "label": "CPI 同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "CPIAUCSL",
+          "label": "CPI 环比（季调）",
+          "transformation": "percent-change",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "CPILFENS",
+          "label": "核心 CPI 同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "CPILFESL",
+          "label": "核心 CPI 环比（季调）",
+          "transformation": "percent-change",
+          "decimals": 1,
+          "unit": "%"
+        }
+      ]
+    },
+    "us-ppi": {
+      "provider": "bls-public-api",
+      "idPattern": "^us-ppi-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "美国劳工统计局（BLS）",
+      "sourceUrl": "https://www.bls.gov/ppi/",
+      "metrics": [
+        {
+          "seriesId": "WPUFD4",
+          "label": "PPI 同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "WPSFD4",
+          "label": "PPI 环比（季调）",
+          "transformation": "percent-change",
+          "decimals": 1,
+          "unit": "%"
+        }
+      ]
+    },
+    "us-pce": {
+      "provider": "fred",
+      "idPattern": "^us-pce-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+      "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "metrics": [
+        {
+          "seriesId": "PCEPI",
+          "label": "PCE 物价指数同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "PCEPILFE",
+          "label": "核心 PCE 同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "PCEPILFE",
+          "label": "核心 PCE 环比",
+          "transformation": "percent-change",
+          "decimals": 1,
+          "unit": "%"
+        }
+      ]
+    },
+    "us-nfp": {
+      "provider": "fred",
+      "idPattern": "^us-nfp-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+      "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm",
+      "metrics": [
+        {
+          "seriesId": "PAYEMS",
+          "label": "非农就业变动",
+          "transformation": "change",
+          "decimals": 0,
+          "unit": "千人",
+          "showPlus": true
+        },
+        {
+          "seriesId": "UNRATE",
+          "label": "失业率",
+          "transformation": "value",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "CES0500000003",
+          "label": "平均时薪同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        }
+      ]
+    },
+    "us-gdp": {
+      "provider": "fred",
+      "idPattern": "^us-gdp-(?<year>\\d{4})-q(?<quarter>[1-4])-(?:advance|second|third)$",
+      "frequency": "quarterly",
+      "freezeReleasedActual": true,
+      "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+      "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product",
+      "metrics": [
+        {
+          "seriesId": "A191RL1Q225SBEA",
+          "label": "实际 GDP 环比年化（当前官方修订值）",
+          "transformation": "value",
+          "decimals": 1,
+          "unit": "%",
+          "showPlus": true
+        }
+      ]
+    },
+    "us-ism-manufacturing": {
+      "provider": "none",
+      "sourceName": "美国供应管理协会（ISM）",
+      "sourceUrl": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/",
+      "unavailableReason": "ISM PMI 属许可数据，FRED 序列已下架，免费镜像的制造业数值校验异常，暂不自动填充"
+    },
+    "us-ism-services": {
+      "provider": "none",
+      "sourceName": "美国供应管理协会（ISM）",
+      "sourceUrl": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/",
+      "unavailableReason": "ISM PMI 属许可数据，免费公开源无法保证及时性和再分发权，暂不自动填充"
+    },
+    "us-fomc-decision": {
+      "provider": "fred",
+      "idPattern": "^us-fomc-(?<year>\\d{4})-(?<month>\\d{2})-decision$",
+      "frequency": "monthly",
+      "observationMode": "policy-decision",
+      "lookaheadDays": 3,
+      "sourceName": "美国联邦储备委员会（经 FRED 获取）",
+      "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
+      "metrics": [
+        {
+          "seriesId": "DFEDTARL",
+          "label": "联邦基金目标区间下限",
+          "transformation": "value",
+          "decimals": 2,
+          "unit": "%"
+        },
+        {
+          "seriesId": "DFEDTARU",
+          "label": "联邦基金目标区间上限",
+          "transformation": "value",
+          "decimals": 2,
+          "unit": "%"
+        }
+      ]
+    },
+    "us-fed-press-conference": {
+      "provider": "none",
+      "sourceName": "美国联邦储备委员会（Federal Reserve）",
+      "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "forecastLine": "不适用（关注政策措辞）",
+      "unavailableReason": "新闻发布会为非数值事件，不适用实际值和前值自动填充"
+    },
+    "us-fomc-minutes": {
+      "provider": "none",
+      "sourceName": "美国联邦储备委员会（Federal Reserve）",
+      "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "forecastLine": "不适用（关注政策措辞）",
+      "unavailableReason": "会议纪要为非数值事件，不适用实际值和前值自动填充"
+    },
+    "cn-cpi-ppi": {
+      "provider": "dbnomics",
+      "idPattern": "^cn-cpi-ppi-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/",
+      "metrics": [
+        {
+          "seriesId": "NBS/M_A01010J/A01010J01",
+          "label": "CPI 同比",
+          "transformation": "value",
+          "valueOffset": -100,
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "NBS/M_A010801/A01080101",
+          "label": "PPI 同比",
+          "transformation": "value",
+          "valueOffset": -100,
+          "decimals": 1,
+          "unit": "%"
+        }
+      ]
+    },
+    "cn-official-pmi": {
+      "provider": "dbnomics",
+      "idPattern": "^cn-official-pmi-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/",
+      "metrics": [
+        {
+          "seriesId": "NBS/M_A0B01/A0B0101",
+          "label": "制造业 PMI",
+          "transformation": "value",
+          "decimals": 1,
+          "unit": ""
+        },
+        {
+          "seriesId": "NBS/M_A0B02/A0B0201",
+          "label": "非制造业商务活动指数",
+          "transformation": "value",
+          "decimals": 1,
+          "unit": ""
+        }
+      ]
+    },
+    "cn-gdp": {
+      "provider": "dbnomics",
+      "idPattern": "^cn-gdp-(?<year>\\d{4})-(?:q(?<quarter>[1-4])|(?<period>full-year))$",
+      "frequency": "quarterly",
+      "quarterAliases": {
+        "full-year": 4
+      },
+      "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/",
+      "metrics": [
+        {
+          "seriesId": "NBS/Q_A0103/A010301",
+          "label": "当季实际 GDP 同比",
+          "transformation": "value",
+          "valueOffset": -100,
+          "decimals": 1,
+          "unit": "%",
+          "showPlus": true
+        },
+        {
+          "seriesId": "NBS/Q_A0103/A010302",
+          "label": "年内累计实际 GDP 同比",
+          "transformation": "value",
+          "valueOffset": -100,
+          "decimals": 1,
+          "unit": "%",
+          "showPlus": true
+        },
+        {
+          "seriesId": "NBS/Q_A0104/A010401",
+          "label": "实际 GDP 环比",
+          "transformation": "value",
+          "decimals": 1,
+          "unit": "%",
+          "showPlus": true
+        }
+      ]
+    },
+    "cn-lpr": {
+      "provider": "chinamoney-lpr",
+      "idPattern": "^cn-lpr-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
+      "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/",
+      "metrics": [
+        {
+          "seriesId": "1Y",
+          "label": "1 年期 LPR",
+          "transformation": "value",
+          "decimals": 2,
+          "unit": "%"
+        },
+        {
+          "seriesId": "5Y",
+          "label": "5 年期以上 LPR",
+          "transformation": "value",
+          "decimals": 2,
+          "unit": "%"
+        }
+      ]
+    },
+    "eu-ecb-decision": {
+      "provider": "fred",
+      "idPattern": "^eu-ecb-(?<year>\\d{4})-(?<month>\\d{2})-decision$",
+      "frequency": "monthly",
+      "observationMode": "policy-decision",
+      "lookaheadDays": 14,
+      "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
+      "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html",
+      "metrics": [
+        {
+          "seriesId": "ECBDFR",
+          "label": "存款机制利率",
+          "transformation": "value",
+          "decimals": 2,
+          "unit": "%"
+        },
+        {
+          "seriesId": "ECBMRRFR",
+          "label": "主要再融资操作利率",
+          "transformation": "value",
+          "decimals": 2,
+          "unit": "%"
+        },
+        {
+          "seriesId": "ECBMLFR",
+          "label": "边际贷款机制利率",
+          "transformation": "value",
+          "decimals": 2,
+          "unit": "%"
+        }
+      ]
+    },
+    "eu-ecb-press-conference": {
+      "provider": "none",
+      "sourceName": "欧洲中央银行（ECB）",
+      "sourceUrl": "https://www.ecb.europa.eu/press/press_conference/html/index.en.html",
+      "forecastLine": "不适用（关注政策措辞）",
+      "unavailableReason": "新闻发布会为非数值事件，不适用实际值和前值自动填充"
+    },
+    "eu-hicp-flash": {
+      "provider": "fred",
+      "idPattern": "^eu-hicp-flash-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+      "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp",
+      "metrics": [
+        {
+          "seriesId": "CP0000EZCCM086NEST",
+          "label": "HICP 同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        }
+      ]
+    },
+    "eu-gdp-flash": {
+      "provider": "fred",
+      "idPattern": "^eu-gdp-flash-(?<year>\\d{4})-q(?<quarter>[1-4])$",
+      "frequency": "quarterly",
+      "freezeReleasedActual": true,
+      "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+      "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts",
+      "metrics": [
+        {
+          "seriesId": "CLVMNACSCAB1GQEA",
+          "label": "实际 GDP 环比（当前官方修订值）",
+          "transformation": "percent-change",
+          "decimals": 1,
+          "unit": "%",
+          "showPlus": true
+        }
+      ]
+    },
+    "eu-hcob-pmi-flash": {
+      "provider": "none",
+      "sourceName": "S&P Global / HCOB",
+      "sourceUrl": "https://www.spglobal.com/market-intelligence/en/solutions/products/pmi",
+      "unavailableReason": "HCOB PMI 属商业许可数据，免费官方来源不提供可再分发的一致预期或完整机器接口"
+    },
+    "jp-boj-decision": {
+      "provider": "none",
+      "sourceName": "日本银行（BOJ）",
+      "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmdeci/index.htm",
+      "forecastLine": "不适用（关注利率、购债与政策指引）",
+      "unavailableReason": "日本央行决议可能同时涉及利率、购债和政策指引，暂无可审计的单一数值映射"
+    },
+    "jp-boj-press-conference": {
+      "provider": "none",
+      "sourceName": "日本银行（BOJ）",
+      "sourceUrl": "https://www.boj.or.jp/en/about/press/kaiken/index.htm",
+      "forecastLine": "不适用（关注政策措辞）",
+      "unavailableReason": "记者会为非数值事件，不适用实际值和前值自动填充"
+    },
+    "jp-cpi": {
+      "provider": "dbnomics",
+      "idPattern": "^jp-cpi-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "日本总务省统计局（经 DBnomics 获取）",
+      "sourceUrl": "https://www.stat.go.jp/english/data/cpi/",
+      "metrics": [
+        {
+          "seriesId": "STATJP/CPIm/001",
+          "label": "全国 CPI 同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "STATJP/CPIm/733",
+          "label": "核心 CPI 同比（除生鲜食品）",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        },
+        {
+          "seriesId": "STATJP/CPIm/740",
+          "label": "核心核心 CPI 同比（除生鲜食品及能源）",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%"
+        }
+      ]
+    },
+    "jp-gdp": {
+      "provider": "dbnomics",
+      "idPattern": "^jp-gdp-(?<year>\\d{4})-q(?<quarter>[1-4])-(?:first|second)$",
+      "frequency": "quarterly",
+      "freezeReleasedActual": true,
+      "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
+      "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html",
+      "metrics": [
+        {
+          "seriesId": "ESRI/nritu-jk/GDP",
+          "label": "实际 GDP 环比年化（当前官方修订值）",
+          "transformation": "value",
+          "decimals": 1,
+          "unit": "%",
+          "showPlus": true
+        }
+      ]
+    },
+    "jp-tankan": {
+      "provider": "none",
+      "sourceName": "日本银行（BOJ）",
+      "sourceUrl": "https://www.boj.or.jp/en/statistics/tk/index.htm",
+      "unavailableReason": "短观调查暂无已验证、免密钥且适合稳定自动更新的单一公共序列"
+    }
+  }
+}

@@ -10,11 +10,15 @@ export const distDir = path.join(repoRoot, "dist");
 const REQUIRED_EVENT_FIELDS = ["id", "type", "date", "time", "timezone", "period"];
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/;
 const LOCAL_TIME = /^\d{2}:\d{2}$/;
-const HTTPS_URL = /^https:\/\//;
+const OBSOLETE_PLACEHOLDER = "\uFF08\u9884\u7559\uFF09";
+const VALUE_FIELDS = ["actual", "forecast", "previous"];
+const VALUE_STATUSES = new Set(["available", "unavailable", "pending", "not-applicable"]);
+const VALUE_MODES = new Set(["quantitative", "narrative"]);
+const VALUE_OBJECT_FIELDS = new Set(["status", "lines", "asOf", "sourceName", "sourceUrl"]);
 const ALLOWED_EVENT_FIELDS = new Set([
   "id", "type", "date", "time", "timezone", "period", "durationMinutes", "scheduleStatus",
   "note", "title", "verifiedAt", "timePrecision", "status", "sourceStatus", "scheduleUrl",
-  "allDay", "revision"
+  "allDay", "revision", ...VALUE_FIELDS
 ]);
 
 const TIMEZONE_COMPONENTS = {
@@ -104,15 +108,135 @@ async function readJson(filePath) {
   return JSON.parse(await readFile(filePath, "utf8"));
 }
 
-export async function loadProject() {
+async function readOptionalJson(filePath) {
+  try {
+    return await readJson(filePath);
+  } catch (error) {
+    if (error?.code === "ENOENT") return null;
+    throw error;
+  }
+}
+
+function isPlainObject(value) {
+  return value !== null && typeof value === "object" && !Array.isArray(value);
+}
+
+function isIsoInstant(value) {
+  if (typeof value !== "string" || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?Z$/.test(value)) return false;
+  const parsed = new Date(value);
+  return !Number.isNaN(parsed.valueOf()) && parsed.toISOString().slice(0, 19) === value.slice(0, 19);
+}
+
+function isHttpsUrl(value) {
+  if (typeof value !== "string") return false;
+  try {
+    const parsed = new URL(value);
+    return parsed.protocol === "https:" && parsed.hostname.length > 0;
+  } catch {
+    return false;
+  }
+}
+
+function isAsOf(value) {
+  return isRealIsoDate(value) || isIsoInstant(value);
+}
+
+function validateValueObject(value, context) {
+  assert(isPlainObject(value), `${context} must be an object`);
+  for (const field of Object.keys(value)) {
+    assert(VALUE_OBJECT_FIELDS.has(field), `${context} has unknown field ${field}`);
+  }
+  assert(VALUE_STATUSES.has(value.status), `${context}.status must be available, unavailable, pending, or not-applicable`);
+  assert(Array.isArray(value.lines) && value.lines.length > 0, `${context}.lines must be a non-empty array`);
+  for (const [index, line] of value.lines.entries()) {
+    assert(typeof line === "string" && line.trim().length > 0, `${context}.lines[${index}] must be a non-empty string`);
+    assert(!line.includes(OBSOLETE_PLACEHOLDER), `${context}.lines[${index}] cannot contain a placeholder`);
+  }
+  assert(value.asOf === undefined || isAsOf(value.asOf), `${context}.asOf must be a real YYYY-MM-DD date or UTC ISO timestamp`);
+  assert(value.sourceName === undefined || (typeof value.sourceName === "string" && value.sourceName.trim().length > 0), `${context}.sourceName must be a non-empty string`);
+  assert(value.sourceUrl === undefined || isHttpsUrl(value.sourceUrl), `${context}.sourceUrl must be a valid https URL`);
+  assert((value.sourceName === undefined) === (value.sourceUrl === undefined), `${context}.sourceName and sourceUrl must be provided together`);
+}
+
+function validateCatalog(catalog) {
+  assert(isPlainObject(catalog.regions) && Object.keys(catalog.regions).length > 0, "catalog.json regions must be a non-empty object");
+  assert(isPlainObject(catalog.categories) && Object.keys(catalog.categories).length > 0, "catalog.json categories must be a non-empty object");
+  assert(isPlainObject(catalog.types) && Object.keys(catalog.types).length > 0, "catalog.json types must be a non-empty object");
+
+  const expectedMarketFocus = {
+    us: [
+      "💱 外汇｜美元与主要货币对　↗｜↘",
+      "🏛️ 债券｜美国国债收益率　↗｜↘",
+      "🥇 贵金属｜黄金　↗｜↘",
+      "📊 股票｜美股　↗｜↘",
+      "₿ 加密资产｜Bitcoin　↗｜↘"
+    ],
+    eurozone: [
+      "💱 外汇｜欧元与主要货币对　↗｜↘",
+      "🏛️ 债券｜德国国债与欧元区收益率　↗｜↘",
+      "🥇 贵金属｜黄金　↗｜↘",
+      "📊 股票｜欧洲股市　↗｜↘",
+      "₿ 加密资产｜Bitcoin　↗｜↘"
+    ],
+    japan: [
+      "💱 外汇｜日元与主要货币对　↗｜↘",
+      "🏛️ 债券｜日本国债收益率　↗｜↘",
+      "🥇 贵金属｜黄金　↗｜↘",
+      "📊 股票｜日经指数　↗｜↘",
+      "₿ 加密资产｜Bitcoin　↗｜↘"
+    ],
+    china: [
+      "💱 外汇｜人民币与离岸人民币　↗｜↘",
+      "🏛️ 债券｜中国国债收益率　↗｜↘",
+      "🥇 贵金属｜黄金　↗｜↘",
+      "📊 股票｜A 股与港股　↗｜↘",
+      "₿ 加密资产｜Bitcoin　↗｜↘"
+    ]
+  };
+
+  for (const [typeId, type] of Object.entries(catalog.types)) {
+    assert(isPlainObject(type), `catalog.json type ${typeId} must be an object`);
+    assert(catalog.regions[type.region], `catalog.json type ${typeId} has unknown region ${type.region}`);
+    assert(catalog.categories[type.category], `catalog.json type ${typeId} has unknown category ${type.category}`);
+    assert(VALUE_MODES.has(type.valueMode), `catalog.json type ${typeId} valueMode must be quantitative or narrative`);
+    for (const field of ["title", "description", "sourceName", "location"]) {
+      assert(typeof type[field] === "string" && type[field].trim().length > 0, `catalog.json type ${typeId} ${field} must be a non-empty string`);
+    }
+    assert(Array.isArray(type.marketFocus) && type.marketFocus.length > 0, `catalog.json type ${typeId} marketFocus must be a non-empty array`);
+    for (const [index, line] of type.marketFocus.entries()) {
+      assert(typeof line === "string" && line.trim().length > 0, `catalog.json type ${typeId} marketFocus[${index}] must be a non-empty string`);
+    }
+    assert(isHttpsUrl(type.sourceUrl), `catalog.json type ${typeId} sourceUrl must be a valid https URL`);
+    assert(isHttpsUrl(type.scheduleUrl), `catalog.json type ${typeId} scheduleUrl must be a valid https URL`);
+    assert(
+      JSON.stringify(type.marketFocus) === JSON.stringify(expectedMarketFocus[type.region]),
+      `catalog.json type ${typeId} must use the standard ${type.region} marketFocus list`
+    );
+  }
+}
+
+export async function loadProject(options = {}) {
+  const { includeValues = true } = options;
   const catalog = await readJson(path.join(dataDir, "catalog.json"));
+  const values = includeValues ? await readOptionalJson(path.join(dataDir, "values.json")) : null;
   const names = (await readdir(dataDir))
     .filter((name) => /^events-\d{4}\.json$/.test(name))
     .sort();
 
   assert(catalog.schemaVersion === 1, "catalog.json schemaVersion must be 1");
   assert(Number.isInteger(catalog.calendarRevision) && catalog.calendarRevision > 0 && catalog.calendarRevision <= 2_147_483_647, "catalog.json calendarRevision must be a positive 32-bit integer");
+  validateCatalog(catalog);
   assert(names.length > 0, "At least one data/events-YYYY.json file is required");
+
+  if (values) {
+    assert(isPlainObject(values), "values.json must contain an object");
+    const allowedFields = new Set(["schemaVersion", "revision", "updatedAt", "events"]);
+    for (const field of Object.keys(values)) assert(allowedFields.has(field), `values.json has unknown field ${field}`);
+    assert(values.schemaVersion === 1, "values.json schemaVersion must be 1");
+    assert(Number.isInteger(values.revision) && values.revision > 0 && values.revision <= 2_147_483_647, "values.json revision must be a positive 32-bit integer");
+    assert(isIsoInstant(values.updatedAt), "values.json updatedAt must be a UTC ISO timestamp");
+    assert(isPlainObject(values.events), "values.json events must be an object keyed by event id");
+  }
 
   const datasets = [];
   const events = [];
@@ -158,12 +282,15 @@ export async function loadProject() {
       assert(event.allDay === undefined || typeof event.allDay === "boolean", `${event.id}: allDay must be boolean`);
       assert(!event.verifiedAt || isRealIsoDate(event.verifiedAt), `${event.id}: verifiedAt must be a real date`);
       assert(!event.revision || (Number.isInteger(event.revision) && event.revision > 0 && event.revision <= 2_147_483_647), `${event.id}: revision must be a positive 32-bit integer`);
+      for (const valueField of VALUE_FIELDS) {
+        if (event[valueField] !== undefined) validateValueObject(event[valueField], `${event.id}.${valueField}`);
+      }
 
       const type = catalog.types[event.type];
       assert(catalog.regions[type.region], `${event.id}: unknown region ${type.region}`);
       assert(catalog.categories[type.category], `${event.id}: unknown category ${type.category}`);
-      assert(HTTPS_URL.test(type.sourceUrl), `${event.id}: sourceUrl must use https`);
-      assert(HTTPS_URL.test(event.scheduleUrl ?? type.scheduleUrl), `${event.id}: scheduleUrl must use https`);
+      assert(isHttpsUrl(type.sourceUrl), `${event.id}: sourceUrl must be a valid https URL`);
+      assert(isHttpsUrl(event.scheduleUrl ?? type.scheduleUrl), `${event.id}: scheduleUrl must be a valid https URL`);
 
       events.push({
         ...event,
@@ -176,8 +303,42 @@ export async function loadProject() {
     datasets.push({ ...dataset, fileName: name });
   }
 
+  if (values) {
+    const eventsById = new Map(events.map((event) => [event.id, event]));
+    for (const [eventId, externalValues] of Object.entries(values.events)) {
+      assert(eventsById.has(eventId), `values.json references unknown event id ${eventId}`);
+      assert(isPlainObject(externalValues), `values.json event ${eventId} must be an object`);
+      const allowedFields = new Set(["revision", "updatedAt", ...VALUE_FIELDS]);
+      for (const field of Object.keys(externalValues)) {
+        assert(allowedFields.has(field), `values.json event ${eventId} has unknown field ${field}`);
+      }
+      assert(
+        Number.isInteger(externalValues.revision) && externalValues.revision > 0 && externalValues.revision <= 2_147_483_647,
+        `values.json event ${eventId} revision must be a positive 32-bit integer`
+      );
+      assert(isIsoInstant(externalValues.updatedAt), `values.json event ${eventId} updatedAt must be a UTC ISO timestamp`);
+      assert(VALUE_FIELDS.some((field) => externalValues[field] !== undefined), `values.json event ${eventId} must contain at least one value`);
+      for (const field of VALUE_FIELDS) {
+        if (externalValues[field] !== undefined) {
+          validateValueObject(externalValues[field], `values.json event ${eventId}.${field}`);
+        }
+      }
+
+      const event = eventsById.get(eventId);
+      for (const field of VALUE_FIELDS) {
+        if (externalValues[field] !== undefined && event[field] === undefined) event[field] = externalValues[field];
+      }
+      event.revision += externalValues.revision;
+      assert(event.revision <= 2_147_483_647, `${event.id}: combined calendar and values revision exceeds 32-bit SEQUENCE`);
+      const verifiedInstant = `${event.verifiedAt}T00:00:00Z`;
+      event.lastModifiedAt = Date.parse(externalValues.updatedAt) > Date.parse(verifiedInstant)
+        ? externalValues.updatedAt
+        : verifiedInstant;
+    }
+  }
+
   events.sort((a, b) => `${a.date}T${a.time}:${a.id}`.localeCompare(`${b.date}T${b.time}:${b.id}`));
-  return { catalog, datasets, events };
+  return { catalog, datasets, events, values };
 }
 
 function partsInTimezone(date, timeZone) {
@@ -287,6 +448,34 @@ function displayTitle(event, type, region) {
   return `${region.flag} ${event.title ?? type.title}`;
 }
 
+const VALUE_HEADINGS = {
+  actual: "✅ 实际值：",
+  forecast: "🔮 预测值：",
+  previous: "📌 前值："
+};
+
+function defaultValueLines(type, field) {
+  if (type.valueMode === "narrative") return ["不适用（此类事件不以单一数值衡量）"];
+  if (field === "forecast") return ["官方来源不提供市场一致预期。"];
+  if (field === "previous") return ["等待官方数据更新。"];
+  return [];
+}
+
+function displayValueLines(value) {
+  const lines = [...value.lines];
+  if (value.asOf) lines.push(`数据期：${value.asOf}`);
+  if (value.sourceName) lines.push(`数据来源：${value.sourceName}`, value.sourceUrl);
+  return lines;
+}
+
+function appendValueSection(lines, event, type, field) {
+  const value = event[field];
+  if (field === "actual" && value?.status !== "available") return;
+  const valueLines = value ? displayValueLines(value) : defaultValueLines(type, field);
+  if (valueLines.length === 0) return;
+  lines.push("", VALUE_HEADINGS[field], ...valueLines);
+}
+
 function descriptionFor(event, type, region) {
   const title = displayTitle(event, type, region);
   const instant = event.allDay ? null : zonedLocalToUtc(event.date, event.time, event.timezone);
@@ -302,42 +491,43 @@ function descriptionFor(event, type, region) {
     title,
     "⭐⭐⭐ 高影响",
     "",
-    "公布时间：",
+    "⏰ 公布时间：",
     displayedTime,
     sourceTime,
     "",
-    "统计期：",
+    "🗓️ 统计期：",
     event.period,
     "",
-    "事件说明：",
+    "🧭 事件说明：",
     type.description,
     "",
-    "市场关注：",
-    ...type.marketFocus,
+    "🎯 市场关注：",
+    ...type.marketFocus
+  ];
+
+  appendValueSection(lines, event, type, "actual");
+  appendValueSection(lines, event, type, "forecast");
+  appendValueSection(lines, event, type, "previous");
+  lines.push(
     "",
-    "预测值：",
-    "（预留）",
-    "",
-    "前值：",
-    "（预留）",
-    "",
-    "官方来源：",
+    "🏛️ 官方来源：",
     type.sourceName,
     type.sourceUrl,
     "",
-    "官方日程：",
+    "🔗 官方日程：",
     event.scheduleUrl ?? type.scheduleUrl,
     "",
-    "日程状态：",
+    "📋 日程状态：",
     scheduleStatus
-  ];
+  );
 
-  if (event.note) lines.push("", "特别说明：", event.note);
+  if (event.note) lines.push("", "💡 特别说明：", event.note);
   return lines.join("\n");
 }
 
-function calendarDateStamp(verifiedAt) {
-  return `${verifiedAt.replaceAll("-", "")}T000000Z`;
+function calendarDateStamp(value) {
+  if (ISO_DATE.test(value)) return `${value.replaceAll("-", "")}T000000Z`;
+  return new Date(value).toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
 }
 
 function eventLines(event, catalog) {
@@ -360,7 +550,7 @@ function eventLines(event, catalog) {
     "BEGIN:VEVENT",
     `UID:${event.id}@economic-calendar-pro`,
     `DTSTAMP:${calendarDateStamp(event.verifiedAt)}`,
-    `LAST-MODIFIED:${calendarDateStamp(event.verifiedAt)}`,
+    `LAST-MODIFIED:${calendarDateStamp(event.lastModifiedAt ?? event.verifiedAt)}`,
     `SEQUENCE:${event.revision}`,
     startLine,
     endLine,
@@ -424,7 +614,7 @@ export async function projectSourceHash(project) {
   const buildInputs = Object.fromEntries(
     await Promise.all(buildFiles.map(async (fileName) => [fileName, await readFile(path.join(repoRoot, fileName), "utf8")]))
   );
-  const payload = JSON.stringify({ catalog: project.catalog, datasets: project.datasets, buildInputs });
+  const payload = JSON.stringify({ catalog: project.catalog, datasets: project.datasets, values: project.values, buildInputs });
   return createHash("sha256").update(payload).digest("hex");
 }
 
@@ -509,7 +699,10 @@ export async function writeAllCalendars(project) {
     schemaVersion: 1,
     verifiedAt,
     sourceSha256: await projectSourceHash(project),
-    sourceFiles: project.datasets.map((dataset) => dataset.fileName),
+    sourceFiles: [
+      ...project.datasets.map((dataset) => dataset.fileName),
+      ...(project.values ? ["values.json"] : [])
+    ],
     coverage: Object.fromEntries(project.datasets.map((dataset) => [dataset.year, dataset.coverageStatus])),
     totalEventCount: project.events.length,
     feeds

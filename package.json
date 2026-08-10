@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "validate": "node scripts/validate.mjs",
-    "test": "npm run build && npm run validate",
+    "test": "node --test scripts/test-update-values.mjs && npm run build && npm run validate",
     "check:coverage": "node scripts/check-coverage.mjs"
   },
   "engines": {

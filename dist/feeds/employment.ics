@@ -34,23 +34,31 @@ BEGIN:VEVENT
 UID:us-nfp-2025-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260109T083000
 DTEND;TZID=America/New_York:20260109T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年01月09日 21:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-01-09 08:30（Ameri
- ca/New_York）\n\n统计期：\n2025年12月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年01月09日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-01-09 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2025年12月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就
+ 业变动：-17千人\n失业率：4.4%\n平均时薪同比：3.7%\n数据
+ 期：2025-12-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：+41千人\n失业率：4.5%\n平均时薪同比：3.9%\n
+ 数据期：2025-11-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -75,24 +83,33 @@ BEGIN:VEVENT
 UID:us-nfp-2026-01@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260211T083000
 DTEND;TZID=America/New_York:20260211T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年02月11日 21:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-02-11 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年1月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。\n\n特别说明：\n原定 2 月 6 日，BLS 因 202
- 6 年拨款中断修订为 2 月 11 日。
+ \n\n⏰ 公布时间：\n2026年02月11日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-02-11 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年1月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+160千人\n失业率：4.3%\n平均时薪同比：3.7%\n数据
+ 期：2026-01-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：-17千人\n失业率：4.4%\n平均时薪同比：3.7%\n
+ 数据期：2025-12-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。\n\n
+ 💡 特别说明：\n原定 2 月 6 日，BLS 因 2026 年拨款中断修
+ 订为 2 月 11 日。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -117,23 +134,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-02@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260306T083000
 DTEND;TZID=America/New_York:20260306T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年03月06日 21:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-03-06 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年2月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年03月06日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-03-06 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年2月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：-156千人\n失业率：4.4%\n平均时薪同比：3.7%\n数据
+ 期：2026-02-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：+160千人\n失业率：4.3%\n平均时薪同比：3.7%\
+ n数据期：2026-01-01\n数据来源：美国劳工统计局（BLS，经
+  FRED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛
+ ️ 官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/n
+ ews.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sc
+ hedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026
+  日程，已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -158,23 +183,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-03@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260403T083000
 DTEND;TZID=America/New_York:20260403T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年04月03日 20:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-04-03 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年3月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年04月03日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-04-03 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年3月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+214千人\n失业率：4.3%\n平均时薪同比：3.4%\n数据
+ 期：2026-03-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：-156千人\n失业率：4.4%\n平均时薪同比：3.7%\
+ n数据期：2026-02-01\n数据来源：美国劳工统计局（BLS，经
+  FRED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛
+ ️ 官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/n
+ ews.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sc
+ hedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026
+  日程，已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -199,23 +232,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-04@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260508T083000
 DTEND;TZID=America/New_York:20260508T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年05月08日 20:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-05-08 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年4月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年05月08日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-05-08 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年4月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+148千人\n失业率：4.3%\n平均时薪同比：3.6%\n数据
+ 期：2026-04-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：+214千人\n失业率：4.3%\n平均时薪同比：3.4%\
+ n数据期：2026-03-01\n数据来源：美国劳工统计局（BLS，经
+  FRED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛
+ ️ 官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/n
+ ews.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sc
+ hedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026
+  日程，已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -240,23 +281,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-05@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260605T083000
 DTEND;TZID=America/New_York:20260605T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年06月05日 20:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-06-05 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年5月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年06月05日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-06-05 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年5月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+63千人\n失业率：4.3%\n平均时薪同比：3.3%\n数据期
+ ：2026-05-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非农
+ 就业变动：+148千人\n失业率：4.3%\n平均时薪同比：3.6%\n
+ 数据期：2026-04-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -281,23 +330,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-06@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260702T083000
 DTEND;TZID=America/New_York:20260702T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年07月02日 20:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-07-02 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年6月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年07月02日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-07-02 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年6月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+20千人\n失业率：4.2%\n平均时薪同比：3.4%\n数据期
+ ：2026-06-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非农
+ 就业变动：+63千人\n失业率：4.3%\n平均时薪同比：3.3%\n数
+ 据期：2026-05-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官
+ 方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news.rel
+ ease/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/
+ news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，
+ 已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -322,23 +379,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260807T083000
 DTEND;TZID=America/New_York:20260807T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年08月07日 20:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-08-07 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年7月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年08月07日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-08-07 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年7月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：-23千人\n失业率：4.1%\n平均时薪同比：3.2%\n数据期
+ ：2026-07-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非农
+ 就业变动：+20千人\n失业率：4.2%\n平均时薪同比：3.4%\n数
+ 据期：2026-06-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官
+ 方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news.rel
+ ease/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/
+ news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，
+ 已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -363,23 +428,28 @@ BEGIN:VEVENT
 UID:us-nfp-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20260904T083000
 DTEND;TZID=America/New_York:20260904T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年09月04日 20:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-09-04 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年8月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年09月04日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-09-04 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年8月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ -23千人\n失业率：4.1%\n平均时薪同比：3.2%\n数据期：2026-0
+ 7-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhtt
+ ps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.to
+ c.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/e
+ mpsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2
+ 026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -404,23 +474,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20261002T083000
 DTEND;TZID=America/New_York:20261002T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年10月02日 20:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-10-02 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年9月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年10月02日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-10-02 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年9月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -07-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-07-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-07-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -445,23 +523,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20261106T083000
 DTEND;TZID=America/New_York:20261106T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年11月06日 21:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-11-06 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年10月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年11月06日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-11-06 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年10月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
+ 数据源不提供市场一致预期\n\n📌 前值：\n非农就业变动
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-07-01）\n失业率：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-07-01）\n平均时薪同比：免费数据源
+ 尚未提供本统计期数值（源端最新数据期 2026-07-01）\n数
+ 据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.
+ bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳
+ 工统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -486,23 +572,31 @@ BEGIN:VEVENT
 UID:us-nfp-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
 LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081101
+SEQUENCE:2026081103
 DTSTART;TZID=America/New_York:20261204T083000
 DTEND;TZID=America/New_York:20261204T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
 DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
- \n\n公布时间：\n2026年12月04日 21:30（北京时间；日历会自
- 动转换为你的本地时区）\n原始时区：2026-12-04 08:30（Ameri
- ca/New_York）\n\n统计期：\n2026年11月\n\n事件说明：\n就业形
- 势报告同时包含非农就业人数、失业率与平均时薪，是
- 判断美国经济动能、工资压力和美联储政策的重要依据
- 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债收益率\
- n📉/📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预
- 留）\n\n前值：\n（预留）\n\n官方来源：\n美国劳工统计
- 局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n官方日
- 程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm\n\n日程状
- 态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官方
- 最新公告为准。
+ \n\n⏰ 公布时间：\n2026年12月04日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-12-04 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年11月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
+ 数据源不提供市场一致预期\n\n📌 前值：\n非农就业变动
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-07-01）\n失业率：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-07-01）\n平均时薪同比：免费数据源
+ 尚未提供本统计期数值（源端最新数据期 2026-07-01）\n数
+ 据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.
+ bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳
+ 工统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
