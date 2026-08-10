@@ -1,0 +1,1836 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Economic Calendar Pro//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:中国高影响财经日历 Pro
+X-WR-CALNAME:中国高影响财经日历 Pro
+X-WR-CALDESC:中国高影响宏观事件；中文说明、官方来源、
+ 定时事件双提醒。
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT12H
+COLOR:#B26A00
+X-APPLE-CALENDAR-COLOR:#B26A00
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19910915T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2025-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260109T093000
+DTEND;TZID=Asia/Shanghai:20260109T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年01月09日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-01-09 09:30（Asia/Shanghai）\n\n统计期：\n2025年12月
+ \n\n事件说明：\n国家统计局同场发布居民消费价格和工
+ 业生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品
+ 价格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属
+ 与大宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n
+ （预留）\n\n官方来源：\n中华人民共和国国家统计局（NB
+ S）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.st
+ ats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n
+ 国家统计局 2026 年主要统计信息发布日程表中的初步计
+ 划；官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-gdp-2025-full-year@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260119T100000
+DTEND;TZID=Asia/Shanghai:20260119T103000
+SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国 GDP / 国民经济运行情况\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年01月19日 10:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-01-19 10:00
+ （Asia/Shanghai）\n\n统计期：\n2025年第四季度及全年\n\n事
+ 件说明：\n国家统计局在国民经济运行发布中公布 GDP，
+ 并同步披露工业、消费、投资等关键数据，是观察中国
+ 增长动能的核心综合事件。\n\n市场关注：\n📈/📉 人民
+ 币\n📈/📉 A 股与港股\n📈/📉 中国国债\n📈/📉 工业金
+ 属与原油\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n中华人民共和国国家统计局（NBS
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.sta
+ ts.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n
+ 国家统计局 2026 年主要统计信息发布日程表中的初步计
+ 划；官方明确提示日期可能调整。
+LOCATION:国家统计局国民经济运行发布（线上）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:经济增长,中国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 GDP / 国民经济运行情况
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 GDP / 国民经济运行
+ 情况
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260120T090000
+DTEND;TZID=Asia/Shanghai:20260120T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年01月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-01-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年1月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026012008464316247/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260131T093000
+DTEND;TZID=Asia/Shanghai:20260131T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年01月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-01-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年1月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260211T093000
+DTEND;TZID=Asia/Shanghai:20260211T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年02月11日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-02-11 09:30（Asia/Shanghai）\n\n统计期：\n2026年1月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260224T090000
+DTEND;TZID=Asia/Shanghai:20260224T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年02月24日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-02-24 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年2月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026022408185939559/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。\n\n特别说明：\n受春节假期影响，本
+ 月发布顺延至 2 月 24 日。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260304T093000
+DTEND;TZID=Asia/Shanghai:20260304T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年03月04日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-03-04 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年2月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。\n\n特别说明：\n受春节影响，
+ 国家统计局官方日程将 2 月数据安排在 3 月 4 日发布。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260309T093000
+DTEND;TZID=Asia/Shanghai:20260309T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年03月09日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-03-09 09:30（Asia/Shanghai）\n\n统计期：\n2026年2月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260320T090000
+DTEND;TZID=Asia/Shanghai:20260320T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年03月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-03-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年3月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026032008304337760/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260331T093000
+DTEND;TZID=Asia/Shanghai:20260331T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年03月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-03-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年3月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260410T093000
+DTEND;TZID=Asia/Shanghai:20260410T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年04月10日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-04-10 09:30（Asia/Shanghai）\n\n统计期：\n2026年3月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-gdp-2026-q1@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260416T100000
+DTEND;TZID=Asia/Shanghai:20260416T103000
+SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国 GDP / 国民经济运行情况\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年04月16日 10:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-04-16 10:00
+ （Asia/Shanghai）\n\n统计期：\n2026年第一季度\n\n事件说明
+ ：\n国家统计局在国民经济运行发布中公布 GDP，并同步
+ 披露工业、消费、投资等关键数据，是观察中国增长动
+ 能的核心综合事件。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 A 股与港股\n📈/📉 中国国债\n📈/📉 工业金属与原
+ 油\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局国民经济运行发布（线上）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:经济增长,中国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 GDP / 国民经济运行情况
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 GDP / 国民经济运行
+ 情况
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260420T090000
+DTEND;TZID=Asia/Shanghai:20260420T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年04月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-04-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年4月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026041714492978015/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260430T093000
+DTEND;TZID=Asia/Shanghai:20260430T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年04月30日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-04-30 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年4月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260511T093000
+DTEND;TZID=Asia/Shanghai:20260511T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年05月11日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-05-11 09:30（Asia/Shanghai）\n\n统计期：\n2026年4月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260520T090000
+DTEND;TZID=Asia/Shanghai:20260520T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年05月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-05-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年5月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026052008080196671/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260531T093000
+DTEND;TZID=Asia/Shanghai:20260531T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年05月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-05-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年5月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260610T093000
+DTEND;TZID=Asia/Shanghai:20260610T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年06月10日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-06-10 09:30（Asia/Shanghai）\n\n统计期：\n2026年5月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260622T090000
+DTEND;TZID=Asia/Shanghai:20260622T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年06月22日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-06-22 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年6月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026062208495122562/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。\n\n特别说明：\n20 日为周六，本月顺
+ 延至 6 月 22 日。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260630T093000
+DTEND;TZID=Asia/Shanghai:20260630T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年06月30日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-06-30 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年6月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260709T093000
+DTEND;TZID=Asia/Shanghai:20260709T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年07月09日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-07-09 09:30（Asia/Shanghai）\n\n统计期：\n2026年6月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-gdp-2026-q2@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260715T100000
+DTEND;TZID=Asia/Shanghai:20260715T103000
+SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国 GDP / 国民经济运行情况\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年07月15日 10:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-07-15 10:00
+ （Asia/Shanghai）\n\n统计期：\n2026年第二季度及上半年\n\n
+ 事件说明：\n国家统计局在国民经济运行发布中公布 GDP
+ ，并同步披露工业、消费、投资等关键数据，是观察中
+ 国增长动能的核心综合事件。\n\n市场关注：\n📈/📉 人
+ 民币\n📈/📉 A 股与港股\n📈/📉 中国国债\n📈/📉 工业
+ 金属与原油\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n
+ （预留）\n\n官方来源：\n中华人民共和国国家统计局（NB
+ S）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.st
+ ats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n
+ 国家统计局 2026 年主要统计信息发布日程表中的初步计
+ 划；官方明确提示日期可能调整。
+LOCATION:国家统计局国民经济运行发布（线上）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:经济增长,中国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 GDP / 国民经济运行情况
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 GDP / 国民经济运行
+ 情况
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260720T090000
+DTEND;TZID=Asia/Shanghai:20260720T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年07月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-07-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年7月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026072008093186869/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260731T093000
+DTEND;TZID=Asia/Shanghai:20260731T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年07月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-07-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年7月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260809T093000
+DTEND;TZID=Asia/Shanghai:20260809T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年08月09日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-08-09 09:30（Asia/Shanghai）\n\n统计期：\n2026年7月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260820T090000
+DTEND;TZID=Asia/Shanghai:20260820T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年08月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-08-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年8月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日规则生成的候选
+ 日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260831T093000
+DTEND;TZID=Asia/Shanghai:20260831T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年08月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-08-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年8月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260909T093000
+DTEND;TZID=Asia/Shanghai:20260909T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年09月09日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-09-09 09:30（Asia/Shanghai）\n\n统计期：\n2026年8月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260921T090000
+DTEND;TZID=Asia/Shanghai:20260921T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年09月21日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-09-21 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年9月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日遇休息日顺延规
+ 则生成的候选日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260930T093000
+DTEND;TZID=Asia/Shanghai:20260930T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年09月30日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-09-30 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年9月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261014T093000
+DTEND;TZID=Asia/Shanghai:20261014T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年10月14日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-10-14 09:30（Asia/Shanghai）\n\n统计期：\n2026年9月\
+ n\n事件说明：\n国家统计局同场发布居民消费价格和工业
+ 生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价
+ 格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n📈/
+ 📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属与大
+ 宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n中华人民共和国国家统计局（NBS）\n
+ https://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.go
+ v.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家
+ 统计局 2026 年主要统计信息发布日程表中的初步计划；
+ 官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-gdp-2026-q3@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261019T100000
+DTEND;TZID=Asia/Shanghai:20261019T103000
+SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国 GDP / 国民经济运行情况\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年10月19日 10:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-10-19 10:00
+ （Asia/Shanghai）\n\n统计期：\n2026年第三季度及前三季度\n\
+ n事件说明：\n国家统计局在国民经济运行发布中公布 GDP
+ ，并同步披露工业、消费、投资等关键数据，是观察中
+ 国增长动能的核心综合事件。\n\n市场关注：\n📈/📉 人
+ 民币\n📈/📉 A 股与港股\n📈/📉 中国国债\n📈/📉 工业
+ 金属与原油\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n
+ （预留）\n\n官方来源：\n中华人民共和国国家统计局（NB
+ S）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.st
+ ats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n
+ 国家统计局 2026 年主要统计信息发布日程表中的初步计
+ 划；官方明确提示日期可能调整。
+LOCATION:国家统计局国民经济运行发布（线上）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:经济增长,中国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 GDP / 国民经济运行情况
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 GDP / 国民经济运行
+ 情况
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261020T090000
+DTEND;TZID=Asia/Shanghai:20261020T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年10月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-10-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年10月报价\n\n事件说明：
+ \n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR
+ 。报价反映贷款定价基准，并影响企业融资与住房按揭
+ 预期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\
+ n📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoi
+ n\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日规则生成的候选
+ 日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261031T093000
+DTEND;TZID=Asia/Shanghai:20261031T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年10月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-10-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年10月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261109T093000
+DTEND;TZID=Asia/Shanghai:20261109T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年11月09日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-11-09 09:30（Asia/Shanghai）\n\n统计期：\n2026年10月
+ \n\n事件说明：\n国家统计局同场发布居民消费价格和工
+ 业生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品
+ 价格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属
+ 与大宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n
+ （预留）\n\n官方来源：\n中华人民共和国国家统计局（NB
+ S）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.st
+ ats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n
+ 国家统计局 2026 年主要统计信息发布日程表中的初步计
+ 划；官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261120T090000
+DTEND;TZID=Asia/Shanghai:20261120T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年11月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-11-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年11月报价\n\n事件说明：
+ \n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR
+ 。报价反映贷款定价基准，并影响企业融资与住房按揭
+ 预期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\
+ n📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoi
+ n\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日规则生成的候选
+ 日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261130T093000
+DTEND;TZID=Asia/Shanghai:20261130T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年11月30日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-11-30 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年11月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-cpi-ppi-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261209T093000
+DTEND;TZID=Asia/Shanghai:20261209T100000
+SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
+ 格）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
+ 者价格）\n⭐⭐⭐ 高影响\n\n公布时间：\n2026年12月09日 09
+ :30（北京时间；日历会自动转换为你的本地时区）\n原始
+ 时区：2026-12-09 09:30（Asia/Shanghai）\n\n统计期：\n2026年11月
+ \n\n事件说明：\n国家统计局同场发布居民消费价格和工
+ 业生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品
+ 价格和企业利润压力。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 中国国债\n📈/📉 A 股与港股\n📈/📉 工业金属
+ 与大宗商品\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n
+ （预留）\n\n官方来源：\n中华人民共和国国家统计局（NB
+ S）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.st
+ ats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n
+ 国家统计局 2026 年主要统计信息发布日程表中的初步计
+ 划；官方明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:通胀,中国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国 CPI / PPI（居民消费价格
+ 与工业生产者价格）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国 CPI / PPI（居民消费
+ 价格与工业生产者价格）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261221T090000
+DTEND;TZID=Asia/Shanghai:20261221T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年12月21日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-12-21 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年12月报价\n\n事件说明：
+ \n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR
+ 。报价反映贷款定价基准，并影响企业融资与住房按揭
+ 预期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\
+ n📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoi
+ n\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日遇休息日顺延规
+ 则生成的候选日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261231T093000
+DTEND;TZID=Asia/Shanghai:20261231T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年12月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-12-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年12月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,5385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Economic Calendar Pro//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:央行政策事件 Pro
+X-WR-CALNAME:央行政策事件 Pro
+X-WR-CALDESC:全球央行政策类高影响事件；适合在 Apple 日历
+ 中独立设置颜色。
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT12H
+COLOR:#B3261E
+X-APPLE-CALENDAR-COLOR:#B3261E
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19910915T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cn-lpr-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260120T090000
+DTEND;TZID=Asia/Shanghai:20260120T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年01月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-01-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年1月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026012008464316247/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-01-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年01月23日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2026年1月22日至23日会议\n\n事件说明：\
+ n日本央行在金融政策会议结束后公布政策决定与经济物
+ 价判断。政策利率、购债安排和收益率相关措辞会显著
+ 影响日元与日本资产。\n\n市场关注：\n📈/📉 日元\n📈/
+ 📉 日本国债收益率\n📈/📉 日经指数\n📉/📈 黄金\n🪙
+  Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官
+ 方来源：\n日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/mo
+ po/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/mop
+ o/mpmsche_minu/index.htm\n\n日程状态：\n日本银行官方会议日
+ 期已确认；政策决定在会议结束后立即发布，官方不设
+ 固定时刻。\n\n特别说明：\n因官方不设固定发布时间，
+ 本事件按全天保存，只提供提前 1 天提醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-01-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20260123T153000
+DTEND;TZID=Asia/Tokyo:20260123T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2026年01月23日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-01-23 15:30（Asia/
+ Tokyo）\n\n统计期：\n2026年1月22日至23日会议\n\n事件说明
+ ：\n日本央行总裁解释政策决定并回答记者提问。对工资
+ 、通胀、汇率与后续政策正常化路径的表述可能引发二
+ 次行情。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债\
+ n📈/📉 日经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n
+ （预留）\n\n前值：\n（预留）\n\n官方来源：\n日本银行
+ （Bank of Japan）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\
+ n\n官方日程：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n
+ \n日程状态：\n记者会通常在会议结束日 15:30 举行；具体
+ 时间须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-01-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260128T140000
+DTEND;TZID=America/New_York:20260128T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年01月29日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-01-28 14:00（America/New_York）\
+ n\n统计期：\n2026年1月27日至28日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-01-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260128T143000
+DTEND;TZID=America/New_York:20260128T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年01月29日 03:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-01-28 1
+ 4:30（America/New_York）\n\n统计期：\n2026年1月27日至28日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\nFederal Reserve 官方 2026 月历，已核对至 2026-08-11；
+ 主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-02-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260205T141500
+DTEND;TZID=Europe/Brussels:20260205T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年02月05日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-02-05 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年2月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-02-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260205T144500
+DTEND;TZID=Europe/Brussels:20260205T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年02月05日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-02-05 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年2月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-01-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260218T140000
+DTEND;TZID=America/New_York:20260218T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年02月19日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-02-18 14:00（America/New_York）\
+ n\n统计期：\n2026年1月27日至28日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260224T090000
+DTEND;TZID=Asia/Shanghai:20260224T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年02月24日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-02-24 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年2月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026022408185939559/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。\n\n特别说明：\n受春节假期影响，本
+ 月发布顺延至 2 月 24 日。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-03-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260318T140000
+DTEND;TZID=America/New_York:20260318T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年03月19日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-03-18 14:00（America/New_York）\
+ n\n统计期：\n2026年3月17日至18日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-03-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260318T143000
+DTEND;TZID=America/New_York:20260318T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年03月19日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-03-18 1
+ 4:30（America/New_York）\n\n统计期：\n2026年3月17日至18日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\nFederal Reserve 官方 2026 月历，已核对至 2026-08-11；
+ 主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-03-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年03月19日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2026年3月18日至19日会议\n\n事件说明：\
+ n日本央行在金融政策会议结束后公布政策决定与经济物
+ 价判断。政策利率、购债安排和收益率相关措辞会显著
+ 影响日元与日本资产。\n\n市场关注：\n📈/📉 日元\n📈/
+ 📉 日本国债收益率\n📈/📉 日经指数\n📉/📈 黄金\n🪙
+  Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官
+ 方来源：\n日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/mo
+ po/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/mop
+ o/mpmsche_minu/index.htm\n\n日程状态：\n日本银行官方会议日
+ 期已确认；政策决定在会议结束后立即发布，官方不设
+ 固定时刻。\n\n特别说明：\n因官方不设固定发布时间，
+ 本事件按全天保存，只提供提前 1 天提醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-03-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260319T141500
+DTEND;TZID=Europe/Brussels:20260319T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年03月19日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-03-19 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年3月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-03-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260319T144500
+DTEND;TZID=Europe/Brussels:20260319T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年03月19日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-03-19 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年3月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-03-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20260319T153000
+DTEND;TZID=Asia/Tokyo:20260319T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2026年03月19日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-03-19 15:30（Asia/
+ Tokyo）\n\n统计期：\n2026年3月18日至19日会议\n\n事件说明
+ ：\n日本央行总裁解释政策决定并回答记者提问。对工资
+ 、通胀、汇率与后续政策正常化路径的表述可能引发二
+ 次行情。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债\
+ n📈/📉 日经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n
+ （预留）\n\n前值：\n（预留）\n\n官方来源：\n日本银行
+ （Bank of Japan）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\
+ n\n官方日程：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n
+ \n日程状态：\n记者会通常在会议结束日 15:30 举行；具体
+ 时间须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260320T090000
+DTEND;TZID=Asia/Shanghai:20260320T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年03月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-03-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年3月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026032008304337760/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-03-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260408T140000
+DTEND;TZID=America/New_York:20260408T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年04月09日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-04-08 14:00（America/New_York）\
+ n\n统计期：\n2026年3月17日至18日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260420T090000
+DTEND;TZID=Asia/Shanghai:20260420T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年04月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-04-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年4月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026041714492978015/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-04-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年04月28日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2026年4月27日至28日会议\n\n事件说明：\
+ n日本央行在金融政策会议结束后公布政策决定与经济物
+ 价判断。政策利率、购债安排和收益率相关措辞会显著
+ 影响日元与日本资产。\n\n市场关注：\n📈/📉 日元\n📈/
+ 📉 日本国债收益率\n📈/📉 日经指数\n📉/📈 黄金\n🪙
+  Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官
+ 方来源：\n日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/mo
+ po/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/mop
+ o/mpmsche_minu/index.htm\n\n日程状态：\n日本银行官方会议日
+ 期已确认；政策决定在会议结束后立即发布，官方不设
+ 固定时刻。\n\n特别说明：\n因官方不设固定发布时间，
+ 本事件按全天保存，只提供提前 1 天提醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-04-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20260428T153000
+DTEND;TZID=Asia/Tokyo:20260428T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2026年04月28日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-04-28 15:30（Asia/
+ Tokyo）\n\n统计期：\n2026年4月27日至28日会议\n\n事件说明
+ ：\n日本央行总裁解释政策决定并回答记者提问。对工资
+ 、通胀、汇率与后续政策正常化路径的表述可能引发二
+ 次行情。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债\
+ n📈/📉 日经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n
+ （预留）\n\n前值：\n（预留）\n\n官方来源：\n日本银行
+ （Bank of Japan）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\
+ n\n官方日程：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n
+ \n日程状态：\n记者会通常在会议结束日 15:30 举行；具体
+ 时间须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-04-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260429T140000
+DTEND;TZID=America/New_York:20260429T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年04月30日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-04-29 14:00（America/New_York）\
+ n\n统计期：\n2026年4月28日至29日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-04-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260429T143000
+DTEND;TZID=America/New_York:20260429T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年04月30日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-04-29 1
+ 4:30（America/New_York）\n\n统计期：\n2026年4月28日至29日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\nFederal Reserve 官方 2026 月历，已核对至 2026-08-11；
+ 主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-04-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260430T141500
+DTEND;TZID=Europe/Brussels:20260430T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年04月30日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-04-30 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年4月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-04-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260430T144500
+DTEND;TZID=Europe/Brussels:20260430T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年04月30日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-04-30 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年4月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260520T090000
+DTEND;TZID=Asia/Shanghai:20260520T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年05月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-05-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年5月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026052008080196671/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-04-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260520T140000
+DTEND;TZID=America/New_York:20260520T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年05月21日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-05-20 14:00（America/New_York）\
+ n\n统计期：\n2026年4月28日至29日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-06-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260611T141500
+DTEND;TZID=Europe/Brussels:20260611T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年06月11日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-06-11 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年6月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-06-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260611T144500
+DTEND;TZID=Europe/Brussels:20260611T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年06月11日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-06-11 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年6月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-06-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年06月16日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2026年6月15日至16日会议\n\n事件说明：\
+ n日本央行在金融政策会议结束后公布政策决定与经济物
+ 价判断。政策利率、购债安排和收益率相关措辞会显著
+ 影响日元与日本资产。\n\n市场关注：\n📈/📉 日元\n📈/
+ 📉 日本国债收益率\n📈/📉 日经指数\n📉/📈 黄金\n🪙
+  Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官
+ 方来源：\n日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/mo
+ po/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/mop
+ o/mpmsche_minu/index.htm\n\n日程状态：\n日本银行官方会议日
+ 期已确认；政策决定在会议结束后立即发布，官方不设
+ 固定时刻。\n\n特别说明：\n因官方不设固定发布时间，
+ 本事件按全天保存，只提供提前 1 天提醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-06-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20260616T153000
+DTEND;TZID=Asia/Tokyo:20260616T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2026年06月16日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-06-16 15:30（Asia/
+ Tokyo）\n\n统计期：\n2026年6月15日至16日会议\n\n事件说明
+ ：\n日本央行总裁解释政策决定并回答记者提问。对工资
+ 、通胀、汇率与后续政策正常化路径的表述可能引发二
+ 次行情。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债\
+ n📈/📉 日经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n
+ （预留）\n\n前值：\n（预留）\n\n官方来源：\n日本银行
+ （Bank of Japan）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\
+ n\n官方日程：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n
+ \n日程状态：\n记者会通常在会议结束日 15:30 举行；具体
+ 时间须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-06-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260617T140000
+DTEND;TZID=America/New_York:20260617T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年06月18日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-06-17 14:00（America/New_York）\
+ n\n统计期：\n2026年6月16日至17日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-06-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260617T143000
+DTEND;TZID=America/New_York:20260617T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年06月18日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-06-17 1
+ 4:30（America/New_York）\n\n统计期：\n2026年6月16日至17日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\nFederal Reserve 官方 2026 月历，已核对至 2026-08-11；
+ 主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260622T090000
+DTEND;TZID=Asia/Shanghai:20260622T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年06月22日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-06-22 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年6月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026062208495122562/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。\n\n特别说明：\n20 日为周六，本月顺
+ 延至 6 月 22 日。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-06-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260708T140000
+DTEND;TZID=America/New_York:20260708T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年07月09日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-07-08 14:00（America/New_York）\
+ n\n统计期：\n2026年6月16日至17日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260720T090000
+DTEND;TZID=Asia/Shanghai:20260720T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年07月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-07-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年7月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/2026072008093186869/index.html\n\n日程状态：\n中国人民银行
+ 官方公告已确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-07-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260723T141500
+DTEND;TZID=Europe/Brussels:20260723T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年07月23日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-07-23 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年7月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-07-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260723T144500
+DTEND;TZID=Europe/Brussels:20260723T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年07月23日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-07-23 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年7月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-07-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260729T140000
+DTEND;TZID=America/New_York:20260729T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年07月30日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-07-29 14:00（America/New_York）\
+ n\n统计期：\n2026年7月28日至29日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-07-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260729T143000
+DTEND;TZID=America/New_York:20260729T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年07月30日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-07-29 1
+ 4:30（America/New_York）\n\n统计期：\n2026年7月28日至29日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\nFederal Reserve 官方 2026 月历，已核对至 2026-08-11；
+ 主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-07-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年07月31日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2026年7月30日至31日会议\n\n事件说明：\
+ n日本央行在金融政策会议结束后公布政策决定与经济物
+ 价判断。政策利率、购债安排和收益率相关措辞会显著
+ 影响日元与日本资产。\n\n市场关注：\n📈/📉 日元\n📈/
+ 📉 日本国债收益率\n📈/📉 日经指数\n📉/📈 黄金\n🪙
+  Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官
+ 方来源：\n日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/mo
+ po/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/mop
+ o/mpmsche_minu/index.htm\n\n日程状态：\n日本银行官方会议日
+ 期已确认；政策决定在会议结束后立即发布，官方不设
+ 固定时刻。\n\n特别说明：\n因官方不设固定发布时间，
+ 本事件按全天保存，只提供提前 1 天提醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-07-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20260731T153000
+DTEND;TZID=Asia/Tokyo:20260731T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2026年07月31日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-07-31 15:30（Asia/
+ Tokyo）\n\n统计期：\n2026年7月30日至31日会议\n\n事件说明
+ ：\n日本央行总裁解释政策决定并回答记者提问。对工资
+ 、通胀、汇率与后续政策正常化路径的表述可能引发二
+ 次行情。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债\
+ n📈/📉 日经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n
+ （预留）\n\n前值：\n（预留）\n\n官方来源：\n日本银行
+ （Bank of Japan）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\
+ n\n官方日程：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n
+ \n日程状态：\n记者会通常在会议结束日 15:30 举行；具体
+ 时间须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-07-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260819T140000
+DTEND;TZID=America/New_York:20260819T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年08月20日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-08-19 14:00（America/New_York）\
+ n\n统计期：\n2026年7月28日至29日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260820T090000
+DTEND;TZID=Asia/Shanghai:20260820T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年08月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-08-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年8月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日规则生成的候选
+ 日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-09-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260910T141500
+DTEND;TZID=Europe/Brussels:20260910T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年09月10日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-09-10 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年9月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-09-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260910T144500
+DTEND;TZID=Europe/Brussels:20260910T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年09月10日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-09-10 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年9月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-09-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260916T140000
+DTEND;TZID=America/New_York:20260916T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年09月17日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-09-16 14:00（America/New_York）\
+ n\n统计期：\n2026年9月15日至16日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-09-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260916T143000
+DTEND;TZID=America/New_York:20260916T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年09月17日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-09-16 1
+ 4:30（America/New_York）\n\n统计期：\n2026年9月15日至16日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\nFederal Reserve 官方 2026 月历，已核对至 2026-08-11；
+ 主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-09-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年09月18日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2026年9月17日至18日会议\n\n事件说明：\
+ n日本央行在金融政策会议结束后公布政策决定与经济物
+ 价判断。政策利率、购债安排和收益率相关措辞会显著
+ 影响日元与日本资产。\n\n市场关注：\n📈/📉 日元\n📈/
+ 📉 日本国债收益率\n📈/📉 日经指数\n📉/📈 黄金\n🪙
+  Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官
+ 方来源：\n日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/mo
+ po/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/mop
+ o/mpmsche_minu/index.htm\n\n日程状态：\n日本银行官方会议日
+ 期已确认；政策决定在会议结束后立即发布，官方不设
+ 固定时刻。\n\n特别说明：\n因官方不设固定发布时间，
+ 本事件按全天保存，只提供提前 1 天提醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-09-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20260918T153000
+DTEND;TZID=Asia/Tokyo:20260918T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2026年09月18日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-09-18 15:30（Asia/
+ Tokyo）\n\n统计期：\n2026年9月17日至18日会议\n\n事件说明
+ ：\n日本央行总裁解释政策决定并回答记者提问。对工资
+ 、通胀、汇率与后续政策正常化路径的表述可能引发二
+ 次行情。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债\
+ n📈/📉 日经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n
+ （预留）\n\n前值：\n（预留）\n\n官方来源：\n日本银行
+ （Bank of Japan）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\
+ n\n官方日程：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n
+ \n日程状态：\n记者会通常在会议结束日 15:30 举行；具体
+ 时间须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260921T090000
+DTEND;TZID=Asia/Shanghai:20260921T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年09月21日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-09-21 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年9月报价\n\n事件说明：\
+ n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。
+ 报价反映贷款定价基准，并影响企业融资与住房按揭预
+ 期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\n
+ 📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日遇休息日顺延规
+ 则生成的候选日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-09-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261007T140000
+DTEND;TZID=America/New_York:20261007T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年10月08日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-10-07 14:00（America/New_York）\
+ n\n统计期：\n2026年9月15日至16日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261020T090000
+DTEND;TZID=Asia/Shanghai:20261020T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年10月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-10-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年10月报价\n\n事件说明：
+ \n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR
+ 。报价反映贷款定价基准，并影响企业融资与住房按揭
+ 预期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\
+ n📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoi
+ n\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日规则生成的候选
+ 日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-10-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261028T140000
+DTEND;TZID=America/New_York:20261028T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年10月29日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-10-28 14:00（America/New_York）\
+ n\n统计期：\n2026年10月27日至28日会议\n\n事件说明：\n美
+ 联储公布联邦基金利率目标区间与政策声明。利率路径
+ 、通胀判断、就业评价及资产负债表措辞都可能引发快
+ 速重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国
+ 债与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitc
+ oin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来
+ 源：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.fede
+ ralreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps:
+ //www.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFeder
+ al Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-10-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261028T143000
+DTEND;TZID=America/New_York:20261028T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年10月29日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-10-28 1
+ 4:30（America/New_York）\n\n统计期：\n2026年10月27日至28日会
+ 议\n\n事件说明：\n美联储主席解释政策决定并回答记者
+ 提问。对未来利率路径、通胀风险、就业与金融条件的
+ 表述可能改变市场对声明的最初解读。\n\n市场关注：\n
+ 📈/📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全
+ 球股市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n美国联邦储备委员会（Federal Reserve
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
+ 官方日程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\
+ n日程状态：\nFederal Reserve 官方 2026 月历，已核对至 2026-0
+ 8-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-10-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261029T141500
+DTEND;TZID=Europe/Brussels:20261029T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年10月29日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-10-29 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年10月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-10-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261029T144500
+DTEND;TZID=Europe/Brussels:20261029T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年10月29日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-10-29 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年10月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-10-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年10月30日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2026年10月29日至30日会议\n\n事件说明：
+ \n日本央行在金融政策会议结束后公布政策决定与经济物
+ 价判断。政策利率、购债安排和收益率相关措辞会显著
+ 影响日元与日本资产。\n\n市场关注：\n📈/📉 日元\n📈/
+ 📉 日本国债收益率\n📈/📉 日经指数\n📉/📈 黄金\n🪙
+  Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官
+ 方来源：\n日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/mo
+ po/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/mop
+ o/mpmsche_minu/index.htm\n\n日程状态：\n日本银行官方会议日
+ 期已确认；政策决定在会议结束后立即发布，官方不设
+ 固定时刻。\n\n特别说明：\n因官方不设固定发布时间，
+ 本事件按全天保存，只提供提前 1 天提醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-10-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20261030T153000
+DTEND;TZID=Asia/Tokyo:20261030T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2026年10月30日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-10-30 15:30（Asia/
+ Tokyo）\n\n统计期：\n2026年10月29日至30日会议\n\n事件说明
+ ：\n日本央行总裁解释政策决定并回答记者提问。对工资
+ 、通胀、汇率与后续政策正常化路径的表述可能引发二
+ 次行情。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债\
+ n📈/📉 日经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n
+ （预留）\n\n前值：\n（预留）\n\n官方来源：\n日本银行
+ （Bank of Japan）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\
+ n\n官方日程：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n
+ \n日程状态：\n记者会通常在会议结束日 15:30 举行；具体
+ 时间须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-10-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261118T140000
+DTEND;TZID=America/New_York:20261118T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年11月19日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-11-18 14:00（America/New_York）\
+ n\n统计期：\n2026年10月27日至28日会议纪要\n\n事件说明：\
+ n披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261120T090000
+DTEND;TZID=Asia/Shanghai:20261120T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年11月20日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-11-20 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年11月报价\n\n事件说明：
+ \n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR
+ 。报价反映贷款定价基准，并影响企业融资与住房按揭
+ 预期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\
+ n📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoi
+ n\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日规则生成的候选
+ 日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-12-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261209T140000
+DTEND;TZID=America/New_York:20261209T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年12月10日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-12-09 14:00（America/New_York）\
+ n\n统计期：\n2026年12月8日至9日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-12-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261209T143000
+DTEND;TZID=America/New_York:20261209T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年12月10日 03:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-12-09 1
+ 4:30（America/New_York）\n\n统计期：\n2026年12月8日至9日会议\
+ n\n事件说明：\n美联储主席解释政策决定并回答记者提问
+ 。对未来利率路径、通胀风险、就业与金融条件的表述
+ 可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\nFederal Reserve 官方 2026 月历，已核对至 2026-08-11；
+ 主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-12-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261217T141500
+DTEND;TZID=Europe/Brussels:20261217T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年12月17日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-12-17 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年12月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-12-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261217T144500
+DTEND;TZID=Europe/Brussels:20261217T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年12月17日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-12-17 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年12月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-12-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年12月18日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2026年12月17日至18日会议\n\n事件说明：
+ \n日本央行在金融政策会议结束后公布政策决定与经济物
+ 价判断。政策利率、购债安排和收益率相关措辞会显著
+ 影响日元与日本资产。\n\n市场关注：\n📈/📉 日元\n📈/
+ 📉 日本国债收益率\n📈/📉 日经指数\n📉/📈 黄金\n🪙
+  Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官
+ 方来源：\n日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/mo
+ po/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/mop
+ o/mpmsche_minu/index.htm\n\n日程状态：\n日本银行官方会议日
+ 期已确认；政策决定在会议结束后立即发布，官方不设
+ 固定时刻。\n\n特别说明：\n因官方不设固定发布时间，
+ 本事件按全天保存，只提供提前 1 天提醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2026-12-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20261218T153000
+DTEND;TZID=Asia/Tokyo:20261218T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2026年12月18日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-12-18 15:30（Asia/
+ Tokyo）\n\n统计期：\n2026年12月17日至18日会议\n\n事件说明
+ ：\n日本央行总裁解释政策决定并回答记者提问。对工资
+ 、通胀、汇率与后续政策正常化路径的表述可能引发二
+ 次行情。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债\
+ n📈/📉 日经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n
+ （预留）\n\n前值：\n（预留）\n\n官方来源：\n日本银行
+ （Bank of Japan）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\
+ n\n官方日程：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n
+ \n日程状态：\n记者会通常在会议结束日 15:30 举行；具体
+ 时间须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-lpr-2026-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261221T090000
+DTEND;TZID=Asia/Shanghai:20261221T093000
+SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年12月21日 09:00（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-12-21 09:00
+ （Asia/Shanghai）\n\n统计期：\n2026年12月报价\n\n事件说明：
+ \n全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR
+ 。报价反映贷款定价基准，并影响企业融资与住房按揭
+ 预期。\n\n市场关注：\n📈/📉 人民币\n📈/📉 中国国债\
+ n📈/📉 A 股与港股\n📈/📉 房地产与银行板块\n🪙 Bitcoi
+ n\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n日程状态：\n按每月 20 日遇休息日顺延规
+ 则生成的候选日期，等待当月官方公告确认。
+LOCATION:全国银行间同业拆借中心（线上发布）
+URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
+ x.html
+CATEGORIES:央行政策,中国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国贷款市场报价利率（LPR
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国贷款市场报价利率（
+ LPR）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-12-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261230T140000
+DTEND;TZID=America/New_York:20261230T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2026年12月31日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2026-12-30 14:00（America/New_York）\
+ n\n统计期：\n2026年12月8日至9日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-01-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年01月22日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2027年1月会议（结束日 1月22日）\n\n事
+ 件说明：\n日本央行在金融政策会议结束后公布政策决定
+ 与经济物价判断。政策利率、购债安排和收益率相关措
+ 辞会显著影响日元与日本资产。\n\n市场关注：\n📈/📉
+  日元\n📈/📉 日本国债收益率\n📈/📉 日经指数\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n日本银行（Bank of Japan）\nhttps://www
+ .boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.
+ boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态：\n日本银行
+ 官方 2027 会议日期已确认；政策决定在会议结束后立即
+ 发布，官方不设固定时刻。\n\n特别说明：\n因官方不设
+ 固定发布时间，本事件按全天保存，只提供提前 1 天提
+ 醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-01-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20270122T153000
+DTEND;TZID=Asia/Tokyo:20270122T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2027年01月22日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-01-22 15:30（Asia/
+ Tokyo）\n\n统计期：\n2027年1月会议\n\n事件说明：\n日本央
+ 行总裁解释政策决定并回答记者提问。对工资、通胀、
+ 汇率与后续政策正常化路径的表述可能引发二次行情。\n
+ \n市场关注：\n📈/📉 日元\n📈/📉 日本国债\n📈/📉 日
+ 经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\
+ n前值：\n（预留）\n\n官方来源：\n日本银行（Bank of Japan
+ ）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程
+ ：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态
+ ：\n总裁记者会通常在会议结束日 15:30 举行；具体时间
+ 须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-01-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270127T140000
+DTEND;TZID=America/New_York:20270127T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年01月28日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-01-27 14:00（America/New_York）\
+ n\n统计期：\n2027年1月26日至27日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 已公布 2027 暂定会议日期；官网明确说明须由前
+ 一次会议确认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-01-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270127T143000
+DTEND;TZID=America/New_York:20270127T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2027年01月28日 03:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2027-01-27 1
+ 4:30（America/New_York）\n\n统计期：\n2027年1月26日至27日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\n随 2027 暂定 FOMC 会议安排的候选日期和标准时点
+ ；须以美联储后续月历确认。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-02-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270204T141500
+DTEND;TZID=Europe/Brussels:20270204T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年02月04日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-02-04 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年2月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-02-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270204T144500
+DTEND;TZID=Europe/Brussels:20270204T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年02月04日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-02-04 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年2月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-01-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270217T140000
+DTEND;TZID=America/New_York:20270217T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年02月18日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-02-17 14:00（America/New_York）\
+ n\n统计期：\n2027年1月26日至27日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\n依据美联储“政策决定后三周
+ 发布会议纪要”的官方规则推导；等待 2027 月历逐项确
+ 认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-03-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270317T140000
+DTEND;TZID=America/New_York:20270317T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年03月18日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-03-17 14:00（America/New_York）\
+ n\n统计期：\n2027年3月16日至17日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 已公布 2027 暂定会议日期；官网明确说明须由前
+ 一次会议确认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-03-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270317T143000
+DTEND;TZID=America/New_York:20270317T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2027年03月18日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2027-03-17 1
+ 4:30（America/New_York）\n\n统计期：\n2027年3月16日至17日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\n随 2027 暂定 FOMC 会议安排的候选日期和标准时点
+ ；须以美联储后续月历确认。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-03-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年03月18日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2027年3月会议（结束日 3月18日）\n\n事
+ 件说明：\n日本央行在金融政策会议结束后公布政策决定
+ 与经济物价判断。政策利率、购债安排和收益率相关措
+ 辞会显著影响日元与日本资产。\n\n市场关注：\n📈/📉
+  日元\n📈/📉 日本国债收益率\n📈/📉 日经指数\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n日本银行（Bank of Japan）\nhttps://www
+ .boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.
+ boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态：\n日本银行
+ 官方 2027 会议日期已确认；政策决定在会议结束后立即
+ 发布，官方不设固定时刻。\n\n特别说明：\n因官方不设
+ 固定发布时间，本事件按全天保存，只提供提前 1 天提
+ 醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-03-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270318T141500
+DTEND;TZID=Europe/Brussels:20270318T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年03月18日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-03-18 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年3月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-03-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270318T144500
+DTEND;TZID=Europe/Brussels:20270318T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年03月18日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-03-18 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年3月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-03-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20270318T153000
+DTEND;TZID=Asia/Tokyo:20270318T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2027年03月18日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-03-18 15:30（Asia/
+ Tokyo）\n\n统计期：\n2027年3月会议\n\n事件说明：\n日本央
+ 行总裁解释政策决定并回答记者提问。对工资、通胀、
+ 汇率与后续政策正常化路径的表述可能引发二次行情。\n
+ \n市场关注：\n📈/📉 日元\n📈/📉 日本国债\n📈/📉 日
+ 经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\
+ n前值：\n（预留）\n\n官方来源：\n日本银行（Bank of Japan
+ ）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程
+ ：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态
+ ：\n总裁记者会通常在会议结束日 15:30 举行；具体时间
+ 须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-03-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270407T140000
+DTEND;TZID=America/New_York:20270407T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年04月08日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-04-07 14:00（America/New_York）\
+ n\n统计期：\n2027年3月16日至17日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\n依据美联储“政策决定后三周
+ 发布会议纪要”的官方规则推导；等待 2027 月历逐项确
+ 认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-04-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年04月28日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2027年4月会议（结束日 4月28日）\n\n事
+ 件说明：\n日本央行在金融政策会议结束后公布政策决定
+ 与经济物价判断。政策利率、购债安排和收益率相关措
+ 辞会显著影响日元与日本资产。\n\n市场关注：\n📈/📉
+  日元\n📈/📉 日本国债收益率\n📈/📉 日经指数\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n日本银行（Bank of Japan）\nhttps://www
+ .boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.
+ boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态：\n日本银行
+ 官方 2027 会议日期已确认；政策决定在会议结束后立即
+ 发布，官方不设固定时刻。\n\n特别说明：\n因官方不设
+ 固定发布时间，本事件按全天保存，只提供提前 1 天提
+ 醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-04-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270428T140000
+DTEND;TZID=America/New_York:20270428T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年04月29日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-04-28 14:00（America/New_York）\
+ n\n统计期：\n2027年4月27日至28日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 已公布 2027 暂定会议日期；官网明确说明须由前
+ 一次会议确认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-04-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270428T143000
+DTEND;TZID=America/New_York:20270428T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2027年04月29日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2027-04-28 1
+ 4:30（America/New_York）\n\n统计期：\n2027年4月27日至28日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\n随 2027 暂定 FOMC 会议安排的候选日期和标准时点
+ ；须以美联储后续月历确认。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-04-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20270428T153000
+DTEND;TZID=Asia/Tokyo:20270428T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2027年04月28日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-04-28 15:30（Asia/
+ Tokyo）\n\n统计期：\n2027年4月会议\n\n事件说明：\n日本央
+ 行总裁解释政策决定并回答记者提问。对工资、通胀、
+ 汇率与后续政策正常化路径的表述可能引发二次行情。\n
+ \n市场关注：\n📈/📉 日元\n📈/📉 日本国债\n📈/📉 日
+ 经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\
+ n前值：\n（预留）\n\n官方来源：\n日本银行（Bank of Japan
+ ）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程
+ ：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态
+ ：\n总裁记者会通常在会议结束日 15:30 举行；具体时间
+ 须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-04-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270429T141500
+DTEND;TZID=Europe/Brussels:20270429T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年04月29日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-04-29 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年4月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-04-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270429T144500
+DTEND;TZID=Europe/Brussels:20270429T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年04月29日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-04-29 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年4月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-04-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270519T140000
+DTEND;TZID=America/New_York:20270519T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年05月20日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-05-19 14:00（America/New_York）\
+ n\n统计期：\n2027年4月27日至28日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\n依据美联储“政策决定后三周
+ 发布会议纪要”的官方规则推导；等待 2027 月历逐项确
+ 认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-06-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270609T140000
+DTEND;TZID=America/New_York:20270609T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年06月10日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-06-09 14:00（America/New_York）\
+ n\n统计期：\n2027年6月8日至9日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 已公布 2027 暂定会议日期；官网明确说明须由前
+ 一次会议确认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-06-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270609T143000
+DTEND;TZID=America/New_York:20270609T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2027年06月10日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2027-06-09 1
+ 4:30（America/New_York）\n\n统计期：\n2027年6月8日至9日会议\n
+ \n事件说明：\n美联储主席解释政策决定并回答记者提问
+ 。对未来利率路径、通胀风险、就业与金融条件的表述
+ 可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\n随 2027 暂定 FOMC 会议安排的候选日期和标准时点
+ ；须以美联储后续月历确认。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-06-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270610T141500
+DTEND;TZID=Europe/Brussels:20270610T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年06月10日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-06-10 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年6月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-06-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270610T144500
+DTEND;TZID=Europe/Brussels:20270610T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年06月10日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-06-10 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年6月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-06-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年06月11日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2027年6月会议（结束日 6月11日）\n\n事
+ 件说明：\n日本央行在金融政策会议结束后公布政策决定
+ 与经济物价判断。政策利率、购债安排和收益率相关措
+ 辞会显著影响日元与日本资产。\n\n市场关注：\n📈/📉
+  日元\n📈/📉 日本国债收益率\n📈/📉 日经指数\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n日本银行（Bank of Japan）\nhttps://www
+ .boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.
+ boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态：\n日本银行
+ 官方 2027 会议日期已确认；政策决定在会议结束后立即
+ 发布，官方不设固定时刻。\n\n特别说明：\n因官方不设
+ 固定发布时间，本事件按全天保存，只提供提前 1 天提
+ 醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-06-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20270611T153000
+DTEND;TZID=Asia/Tokyo:20270611T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2027年06月11日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-06-11 15:30（Asia/
+ Tokyo）\n\n统计期：\n2027年6月会议\n\n事件说明：\n日本央
+ 行总裁解释政策决定并回答记者提问。对工资、通胀、
+ 汇率与后续政策正常化路径的表述可能引发二次行情。\n
+ \n市场关注：\n📈/📉 日元\n📈/📉 日本国债\n📈/📉 日
+ 经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\
+ n前值：\n（预留）\n\n官方来源：\n日本银行（Bank of Japan
+ ）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程
+ ：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态
+ ：\n总裁记者会通常在会议结束日 15:30 举行；具体时间
+ 须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-06-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270630T140000
+DTEND;TZID=America/New_York:20270630T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年07月01日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-06-30 14:00（America/New_York）\
+ n\n统计期：\n2027年6月8日至9日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\n依据美联储“政策决定后三周
+ 发布会议纪要”的官方规则推导；等待 2027 月历逐项确
+ 认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-07-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年07月22日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2027年7月会议（结束日 7月22日）\n\n事
+ 件说明：\n日本央行在金融政策会议结束后公布政策决定
+ 与经济物价判断。政策利率、购债安排和收益率相关措
+ 辞会显著影响日元与日本资产。\n\n市场关注：\n📈/📉
+  日元\n📈/📉 日本国债收益率\n📈/📉 日经指数\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n日本银行（Bank of Japan）\nhttps://www
+ .boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.
+ boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态：\n日本银行
+ 官方 2027 会议日期已确认；政策决定在会议结束后立即
+ 发布，官方不设固定时刻。\n\n特别说明：\n因官方不设
+ 固定发布时间，本事件按全天保存，只提供提前 1 天提
+ 醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-07-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270722T141500
+DTEND;TZID=Europe/Brussels:20270722T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年07月22日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-07-22 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年7月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-07-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270722T144500
+DTEND;TZID=Europe/Brussels:20270722T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年07月22日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-07-22 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年7月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-07-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20270722T153000
+DTEND;TZID=Asia/Tokyo:20270722T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2027年07月22日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-07-22 15:30（Asia/
+ Tokyo）\n\n统计期：\n2027年7月会议\n\n事件说明：\n日本央
+ 行总裁解释政策决定并回答记者提问。对工资、通胀、
+ 汇率与后续政策正常化路径的表述可能引发二次行情。\n
+ \n市场关注：\n📈/📉 日元\n📈/📉 日本国债\n📈/📉 日
+ 经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\
+ n前值：\n（预留）\n\n官方来源：\n日本银行（Bank of Japan
+ ）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程
+ ：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态
+ ：\n总裁记者会通常在会议结束日 15:30 举行；具体时间
+ 须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-07-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270728T140000
+DTEND;TZID=America/New_York:20270728T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年07月29日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-07-28 14:00（America/New_York）\
+ n\n统计期：\n2027年7月27日至28日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 已公布 2027 暂定会议日期；官网明确说明须由前
+ 一次会议确认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-07-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270728T143000
+DTEND;TZID=America/New_York:20270728T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2027年07月29日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2027-07-28 1
+ 4:30（America/New_York）\n\n统计期：\n2027年7月27日至28日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\n随 2027 暂定 FOMC 会议安排的候选日期和标准时点
+ ；须以美联储后续月历确认。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-07-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270818T140000
+DTEND;TZID=America/New_York:20270818T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年08月19日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-08-18 14:00（America/New_York）\
+ n\n统计期：\n2027年7月27日至28日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\n依据美联储“政策决定后三周
+ 发布会议纪要”的官方规则推导；等待 2027 月历逐项确
+ 认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-09-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270909T141500
+DTEND;TZID=Europe/Brussels:20270909T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年09月09日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-09-09 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年9月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-09-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270909T144500
+DTEND;TZID=Europe/Brussels:20270909T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年09月09日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-09-09 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年9月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-09-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270915T140000
+DTEND;TZID=America/New_York:20270915T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年09月16日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-09-15 14:00（America/New_York）\
+ n\n统计期：\n2027年9月14日至15日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 已公布 2027 暂定会议日期；官网明确说明须由前
+ 一次会议确认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-09-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20270915T143000
+DTEND;TZID=America/New_York:20270915T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2027年09月16日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2027-09-15 1
+ 4:30（America/New_York）\n\n统计期：\n2027年9月14日至15日会议
+ \n\n事件说明：\n美联储主席解释政策决定并回答记者提
+ 问。对未来利率路径、通胀风险、就业与金融条件的表
+ 述可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\n随 2027 暂定 FOMC 会议安排的候选日期和标准时点
+ ；须以美联储后续月历确认。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-09-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年09月22日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2027年9月会议（结束日 9月22日）\n\n事
+ 件说明：\n日本央行在金融政策会议结束后公布政策决定
+ 与经济物价判断。政策利率、购债安排和收益率相关措
+ 辞会显著影响日元与日本资产。\n\n市场关注：\n📈/📉
+  日元\n📈/📉 日本国债收益率\n📈/📉 日经指数\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n日本银行（Bank of Japan）\nhttps://www
+ .boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.
+ boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态：\n日本银行
+ 官方 2027 会议日期已确认；政策决定在会议结束后立即
+ 发布，官方不设固定时刻。\n\n特别说明：\n因官方不设
+ 固定发布时间，本事件按全天保存，只提供提前 1 天提
+ 醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-09-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20270922T153000
+DTEND;TZID=Asia/Tokyo:20270922T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2027年09月22日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-09-22 15:30（Asia/
+ Tokyo）\n\n统计期：\n2027年9月会议\n\n事件说明：\n日本央
+ 行总裁解释政策决定并回答记者提问。对工资、通胀、
+ 汇率与后续政策正常化路径的表述可能引发二次行情。\n
+ \n市场关注：\n📈/📉 日元\n📈/📉 日本国债\n📈/📉 日
+ 经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\
+ n前值：\n（预留）\n\n官方来源：\n日本银行（Bank of Japan
+ ）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程
+ ：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态
+ ：\n总裁记者会通常在会议结束日 15:30 举行；具体时间
+ 须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-09-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20271006T140000
+DTEND;TZID=America/New_York:20271006T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年10月07日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-10-06 14:00（America/New_York）\
+ n\n统计期：\n2027年9月14日至15日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\n依据美联储“政策决定后三周
+ 发布会议纪要”的官方规则推导；等待 2027 月历逐项确
+ 认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-10-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20271027T140000
+DTEND;TZID=America/New_York:20271027T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年10月28日 02:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-10-27 14:00（America/New_York）\
+ n\n统计期：\n2027年10月26日至27日会议\n\n事件说明：\n美
+ 联储公布联邦基金利率目标区间与政策声明。利率路径
+ 、通胀判断、就业评价及资产负债表措辞都可能引发快
+ 速重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国
+ 债与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitc
+ oin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来
+ 源：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.fede
+ ralreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps:
+ //www.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFeder
+ al Reserve 已公布 2027 暂定会议日期；官网明确说明须由前
+ 一次会议确认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-10-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20271027T143000
+DTEND;TZID=America/New_York:20271027T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2027年10月28日 02:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2027-10-27 1
+ 4:30（America/New_York）\n\n统计期：\n2027年10月26日至27日会
+ 议\n\n事件说明：\n美联储主席解释政策决定并回答记者
+ 提问。对未来利率路径、通胀风险、就业与金融条件的
+ 表述可能改变市场对声明的最初解读。\n\n市场关注：\n
+ 📈/📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全
+ 球股市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预
+ 留）\n\n官方来源：\n美国联邦储备委员会（Federal Reserve
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
+ 官方日程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\
+ n日程状态：\n随 2027 暂定 FOMC 会议安排的候选日期和标
+ 准时点；须以美联储后续月历确认。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-10-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20271028T141500
+DTEND;TZID=Europe/Brussels:20271028T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年10月28日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-10-28 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年10月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-10-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20271028T144500
+DTEND;TZID=Europe/Brussels:20271028T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年10月28日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-10-28 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年10月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-10-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年10月29日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2027年10月会议（结束日 10月29日）\n\n
+ 事件说明：\n日本央行在金融政策会议结束后公布政策决
+ 定与经济物价判断。政策利率、购债安排和收益率相关
+ 措辞会显著影响日元与日本资产。\n\n市场关注：\n📈/
+ 📉 日元\n📈/📉 日本国债收益率\n📈/📉 日经指数\n📉
+ /📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n日本银行（Bank of Japan）\nhttps://www
+ .boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.
+ boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态：\n日本银行
+ 官方 2027 会议日期已确认；政策决定在会议结束后立即
+ 发布，官方不设固定时刻。\n\n特别说明：\n因官方不设
+ 固定发布时间，本事件按全天保存，只提供提前 1 天提
+ 醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-10-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20271029T153000
+DTEND;TZID=Asia/Tokyo:20271029T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2027年10月29日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-10-29 15:30（Asia/
+ Tokyo）\n\n统计期：\n2027年10月会议\n\n事件说明：\n日本央
+ 行总裁解释政策决定并回答记者提问。对工资、通胀、
+ 汇率与后续政策正常化路径的表述可能引发二次行情。\n
+ \n市场关注：\n📈/📉 日元\n📈/📉 日本国债\n📈/📉 日
+ 经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\
+ n前值：\n（预留）\n\n官方来源：\n日本银行（Bank of Japan
+ ）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程
+ ：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态
+ ：\n总裁记者会通常在会议结束日 15:30 举行；具体时间
+ 须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-10-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20271117T140000
+DTEND;TZID=America/New_York:20271117T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年11月18日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-11-17 14:00（America/New_York）\
+ n\n统计期：\n2027年10月26日至27日会议纪要\n\n事件说明：\
+ n披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\n依据美联储“政策决定后三周
+ 发布会议纪要”的官方规则推导；等待 2027 月历逐项确
+ 认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-12-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20271208T140000
+DTEND;TZID=America/New_York:20271208T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年12月09日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-12-08 14:00（America/New_York）\
+ n\n统计期：\n2027年12月7日至8日会议\n\n事件说明：\n美联
+ 储公布联邦基金利率目标区间与政策声明。利率路径、
+ 通胀判断、就业评价及资产负债表措辞都可能引发快速
+ 重定价。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债
+ 与收益率曲线\n📉/📈 黄金\n📈/📉 全球股市\n🪙 Bitcoin
+ \n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源
+ ：\n美国联邦储备委员会（Federal Reserve）\nhttps://www.federal
+ reserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日程：\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n日程状态：\nFederal
+  Reserve 已公布 2027 暂定会议日期；官网明确说明须由前
+ 一次会议确认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-12-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20271208T143000
+DTEND;TZID=America/New_York:20271208T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n公布时间：\n2027年12月09日 03:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2027-12-08 1
+ 4:30（America/New_York）\n\n统计期：\n2027年12月7日至8日会议\
+ n\n事件说明：\n美联储主席解释政策决定并回答记者提问
+ 。对未来利率路径、通胀风险、就业与金融条件的表述
+ 可能改变市场对声明的最初解读。\n\n市场关注：\n📈/
+ 📉 美元\n📈/📉 美国国债\n📉/📈 黄金\n📈/📉 全球股
+ 市\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n美国联邦储备委员会（Federal Reserve）\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n日程
+ 状态：\n随 2027 暂定 FOMC 会议安排的候选日期和标准时点
+ ；须以美联储后续月历确认。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-12-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20271216T141500
+DTEND;TZID=Europe/Brussels:20271216T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年12月16日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-12-16 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年12月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-12-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20271216T144500
+DTEND;TZID=Europe/Brussels:20271216T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年12月16日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-12-16 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年12月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-12-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇯🇵 日本央行（BOJ）金融政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年12月17日（全天事件；官方未设
+ 固定发布时间）\n原始时区：Asia/Tokyo；会议结束后立即
+ 发布\n\n统计期：\n2027年12月会议（结束日 12月17日）\n\n
+ 事件说明：\n日本央行在金融政策会议结束后公布政策决
+ 定与经济物价判断。政策利率、购债安排和收益率相关
+ 措辞会显著影响日元与日本资产。\n\n市场关注：\n📈/
+ 📉 日元\n📈/📉 日本国债收益率\n📈/📉 日经指数\n📉
+ /📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n日本银行（Bank of Japan）\nhttps://www
+ .boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程：\nhttps://www.
+ boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态：\n日本银行
+ 官方 2027 会议日期已确认；政策决定在会议结束后立即
+ 发布，官方不设固定时刻。\n\n特别说明：\n因官方不设
+ 固定发布时间，本事件按全天保存，只提供提前 1 天提
+ 醒。
+LOCATION:日本银行金融政策会议（线上发布）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行（BOJ）金融政策决
+ 定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-boj-2027-12-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20271217T153000
+DTEND;TZID=Asia/Tokyo:20271217T163000
+SUMMARY:🇯🇵 日本央行总裁记者会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇯🇵 日本央行总裁记者会\n⭐⭐⭐ 高影响\n\n
+ 公布时间：\n约 2027年12月17日 14:30（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-12-17 15:30（Asia/
+ Tokyo）\n\n统计期：\n2027年12月会议\n\n事件说明：\n日本央
+ 行总裁解释政策决定并回答记者提问。对工资、通胀、
+ 汇率与后续政策正常化路径的表述可能引发二次行情。\n
+ \n市场关注：\n📈/📉 日元\n📈/📉 日本国债\n📈/📉 日
+ 经指数\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\
+ n前值：\n（预留）\n\n官方来源：\n日本银行（Bank of Japan
+ ）\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n官方日程
+ ：\nhttps://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\n\n日程状态
+ ：\n总裁记者会通常在会议结束日 15:30 举行；具体时间
+ 须以日本银行当日公告为准。
+LOCATION:日本银行总裁记者会（线上直播）
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+CATEGORIES:央行政策,日本,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行总裁记者会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行总裁记者会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2027-12-minutes@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20271229T140000
+DTEND;TZID=America/New_York:20271229T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n公布时间
+ ：\n2027年12月30日 03:00（北京时间；日历会自动转换为你
+ 的本地时区）\n原始时区：2027-12-29 14:00（America/New_York）\
+ n\n统计期：\n2027年12月7日至8日会议纪要\n\n事件说明：\n
+ 披露决策讨论、风险判断与委员观点分布，可补充政策
+ 声明未充分展示的信息，并影响市场对后续会议的预期
+ 。\n\n市场关注：\n📈/📉 美元\n📈/📉 美国国债\n📉/
+ 📈 黄金\n📈/📉 美股\n🪙 Bitcoin\n\n预测值：\n（预留）\
+ n\n前值：\n（预留）\n\n官方来源：\n美国联邦储备委员会
+ （Federal Reserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomcc
+ alendars.htm\n\n官方日程：\nhttps://www.federalreserve.gov/newsevents
+ /calendar.htm\n\n日程状态：\n依据美联储“政策决定后三周
+ 发布会议纪要”的官方规则推导；等待 2027 月历逐项确
+ 认。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+END:VCALENDAR

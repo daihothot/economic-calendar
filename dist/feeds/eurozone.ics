@@ -1,0 +1,2621 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Economic Calendar Pro//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:欧元区高影响财经日历 Pro
+X-WR-CALNAME:欧元区高影响财经日历 Pro
+X-WR-CALDESC:欧元区高影响宏观事件；中文说明、官方来源
+ 、定时事件双提醒。
+X-WR-TIMEZONE:Europe/Brussels
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT12H
+COLOR:#1565C0
+X-APPLE-CALENDAR-COLOR:#1565C0
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:eu-hicp-flash-2025-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260107T110000
+DTEND;TZID=Europe/Brussels:20260107T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年01月07日 18:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-01-07 11:00（Europe/Brussels）\n\n统计期：\n2025年12月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260123T100000
+DTEND;TZID=Europe/Brussels:20260123T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年01月23日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-01-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年1月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-gdp-flash-2025-q4@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260130T110000
+DTEND;TZID=Europe/Brussels:20260130T113000
+SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年01月30日 18:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-01-30 11:00（Europe/Brus
+ sels）\n\n统计期：\n2025年第四季度\n\n事件说明：\n衡量欧
+ 元区经济总产出的季度变化。初步快报最先展示区域增
+ 长动能，对欧洲央行政策和企业盈利预期有直接影响。\n
+ \n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债\n📈/📉
+  欧洲股市与周期板块\n📈/📉 工业金属\n🪙 Bitcoin\n\n预
+ 测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\n欧
+ 盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/national-acc
+ ounts\n\n官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calen
+ dar\n\n日程状态：\n高置信候选日期，当前尚未逐项完成 E
+ urostat 官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/national-accounts
+CATEGORIES:经济增长,欧元区,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260204T110000
+DTEND;TZID=Europe/Brussels:20260204T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年02月04日 18:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-02-04 11:00（Europe/Brussels）\n\n统计期：\n2026年1月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-02-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260205T141500
+DTEND;TZID=Europe/Brussels:20260205T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年02月05日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-02-05 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年2月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-02-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260205T144500
+DTEND;TZID=Europe/Brussels:20260205T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年02月05日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-02-05 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年2月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260220T100000
+DTEND;TZID=Europe/Brussels:20260220T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年02月20日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-02-20 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年2月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260303T110000
+DTEND;TZID=Europe/Brussels:20260303T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年03月03日 18:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-03-03 11:00（Europe/Brussels）\n\n统计期：\n2026年2月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-03-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260319T141500
+DTEND;TZID=Europe/Brussels:20260319T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年03月19日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-03-19 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年3月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-03-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260319T144500
+DTEND;TZID=Europe/Brussels:20260319T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年03月19日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-03-19 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年3月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260324T100000
+DTEND;TZID=Europe/Brussels:20260324T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年03月24日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-03-24 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年3月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260331T110000
+DTEND;TZID=Europe/Brussels:20260331T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年03月31日 17:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-03-31 11:00（Europe/Brussels）\n\n统计期：\n2026年3月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260423T100000
+DTEND;TZID=Europe/Brussels:20260423T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年04月23日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-04-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年4月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-gdp-flash-2026-q1@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260430T110000
+DTEND;TZID=Europe/Brussels:20260430T113000
+SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年04月30日 17:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-04-30 11:00（Europe/Brus
+ sels）\n\n统计期：\n2026年第一季度\n\n事件说明：\n衡量欧
+ 元区经济总产出的季度变化。初步快报最先展示区域增
+ 长动能，对欧洲央行政策和企业盈利预期有直接影响。\n
+ \n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债\n📈/📉
+  欧洲股市与周期板块\n📈/📉 工业金属\n🪙 Bitcoin\n\n预
+ 测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\n欧
+ 盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/national-acc
+ ounts\n\n官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calen
+ dar\n\n日程状态：\n高置信候选日期，当前尚未逐项完成 E
+ urostat 官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/national-accounts
+CATEGORIES:经济增长,欧元区,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260430T110000
+DTEND;TZID=Europe/Brussels:20260430T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年04月30日 17:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-04-30 11:00（Europe/Brussels）\n\n统计期：\n2026年4月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-04-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260430T141500
+DTEND;TZID=Europe/Brussels:20260430T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年04月30日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-04-30 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年4月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-04-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260430T144500
+DTEND;TZID=Europe/Brussels:20260430T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年04月30日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-04-30 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年4月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260521T100000
+DTEND;TZID=Europe/Brussels:20260521T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年05月21日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-05-21 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年5月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260602T110000
+DTEND;TZID=Europe/Brussels:20260602T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年06月02日 17:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-06-02 11:00（Europe/Brussels）\n\n统计期：\n2026年5月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-06-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260611T141500
+DTEND;TZID=Europe/Brussels:20260611T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年06月11日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-06-11 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年6月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-06-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260611T144500
+DTEND;TZID=Europe/Brussels:20260611T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年06月11日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-06-11 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年6月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260623T100000
+DTEND;TZID=Europe/Brussels:20260623T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年06月23日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-06-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年6月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260630T110000
+DTEND;TZID=Europe/Brussels:20260630T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年06月30日 17:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-06-30 11:00（Europe/Brussels）\n\n统计期：\n2026年6月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-07-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260723T141500
+DTEND;TZID=Europe/Brussels:20260723T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年07月23日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-07-23 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年7月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-07-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260723T144500
+DTEND;TZID=Europe/Brussels:20260723T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年07月23日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-07-23 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年7月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260724T100000
+DTEND;TZID=Europe/Brussels:20260724T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年07月24日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-07-24 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年7月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-gdp-flash-2026-q2@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260730T110000
+DTEND;TZID=Europe/Brussels:20260730T113000
+SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年07月30日 17:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-07-30 11:00（Europe/Brus
+ sels）\n\n统计期：\n2026年第二季度\n\n事件说明：\n衡量欧
+ 元区经济总产出的季度变化。初步快报最先展示区域增
+ 长动能，对欧洲央行政策和企业盈利预期有直接影响。\n
+ \n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债\n📈/📉
+  欧洲股市与周期板块\n📈/📉 工业金属\n🪙 Bitcoin\n\n预
+ 测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\n欧
+ 盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/national-acc
+ ounts\n\n官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calen
+ dar\n\n日程状态：\n高置信候选日期，当前尚未逐项完成 E
+ urostat 官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/national-accounts
+CATEGORIES:经济增长,欧元区,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260731T110000
+DTEND;TZID=Europe/Brussels:20260731T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年07月31日 17:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-07-31 11:00（Europe/Brussels）\n\n统计期：\n2026年7月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260821T100000
+DTEND;TZID=Europe/Brussels:20260821T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年08月21日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-08-21 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年8月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260901T110000
+DTEND;TZID=Europe/Brussels:20260901T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年09月01日 17:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-09-01 11:00（Europe/Brussels）\n\n统计期：\n2026年8月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-09-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260910T141500
+DTEND;TZID=Europe/Brussels:20260910T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年09月10日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-09-10 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年9月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-09-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260910T144500
+DTEND;TZID=Europe/Brussels:20260910T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年09月10日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-09-10 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年9月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260923T100000
+DTEND;TZID=Europe/Brussels:20260923T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年09月23日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-09-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年9月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260930T110000
+DTEND;TZID=Europe/Brussels:20260930T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年09月30日 17:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-09-30 11:00（Europe/Brussels）\n\n统计期：\n2026年9月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261023T100000
+DTEND;TZID=Europe/Brussels:20261023T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年10月23日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-10-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年10月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-10-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261029T141500
+DTEND;TZID=Europe/Brussels:20261029T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年10月29日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-10-29 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年10月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-10-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261029T144500
+DTEND;TZID=Europe/Brussels:20261029T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年10月29日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-10-29 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年10月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-gdp-flash-2026-q3@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261030T110000
+DTEND;TZID=Europe/Brussels:20261030T113000
+SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年10月30日 18:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-10-30 11:00（Europe/Brus
+ sels）\n\n统计期：\n2026年第三季度\n\n事件说明：\n衡量欧
+ 元区经济总产出的季度变化。初步快报最先展示区域增
+ 长动能，对欧洲央行政策和企业盈利预期有直接影响。\n
+ \n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债\n📈/📉
+  欧洲股市与周期板块\n📈/📉 工业金属\n🪙 Bitcoin\n\n预
+ 测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\n欧
+ 盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/national-acc
+ ounts\n\n官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calen
+ dar\n\n日程状态：\n高置信候选日期，当前尚未逐项完成 E
+ urostat 官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/national-accounts
+CATEGORIES:经济增长,欧元区,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261030T110000
+DTEND;TZID=Europe/Brussels:20261030T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年10月30日 18:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-10-30 11:00（Europe/Brussels）\n\n统计期：\n2026年10月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261120T100000
+DTEND;TZID=Europe/Brussels:20261120T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年11月20日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-11-20 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年11月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261201T110000
+DTEND;TZID=Europe/Brussels:20261201T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n公布时间：\n2026年12月01日 18:00（北京
+ 时间；日历会自动转换为你的本地时区）\n原始时区：202
+ 6-12-01 11:00（Europe/Brussels）\n\n统计期：\n2026年11月\n\n事件
+ 说明：\nEurostat 的月度通胀初值，是欧洲央行评估物价压
+ 力的核心指标。总体、核心和服务通胀与预测的偏差最
+ 受市场关注。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德国
+ 国债收益率\n📉/📈 黄金\n📈/📉 欧洲股市\n🪙 Bitcoin\n\
+ n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\
+ n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 日程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261216T100000
+DTEND;TZID=Europe/Brussels:20261216T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年12月16日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-12-16 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年12月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-12-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261217T141500
+DTEND;TZID=Europe/Brussels:20261217T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2026年12月17日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-12-17 14:15
+ （Europe/Brussels）\n\n统计期：\n2026年12月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 2026 货币政策会议日程；后续以 ECB 最新会议
+ 日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2026-12-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261217T144500
+DTEND;TZID=Europe/Brussels:20261217T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2026年12月17日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-12-17 14:45（Europ
+ e/Brussels）\n\n统计期：\n2026年12月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 2026 货币政策会议日程；每次第二日会议后举行新闻发
+ 布会。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-02-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270204T141500
+DTEND;TZID=Europe/Brussels:20270204T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年02月04日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-02-04 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年2月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-02-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270204T144500
+DTEND;TZID=Europe/Brussels:20270204T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年02月04日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-02-04 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年2月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-03-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270318T141500
+DTEND;TZID=Europe/Brussels:20270318T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年03月18日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-03-18 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年3月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-03-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270318T144500
+DTEND;TZID=Europe/Brussels:20270318T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年03月18日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-03-18 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年3月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-04-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270429T141500
+DTEND;TZID=Europe/Brussels:20270429T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年04月29日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-04-29 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年4月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-04-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270429T144500
+DTEND;TZID=Europe/Brussels:20270429T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年04月29日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-04-29 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年4月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-06-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270610T141500
+DTEND;TZID=Europe/Brussels:20270610T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年06月10日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-06-10 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年6月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-06-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270610T144500
+DTEND;TZID=Europe/Brussels:20270610T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年06月10日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-06-10 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年6月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-07-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270722T141500
+DTEND;TZID=Europe/Brussels:20270722T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年07月22日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-07-22 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年7月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-07-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270722T144500
+DTEND;TZID=Europe/Brussels:20270722T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年07月22日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-07-22 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年7月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-09-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270909T141500
+DTEND;TZID=Europe/Brussels:20270909T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年09月09日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-09-09 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年9月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-09-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20270909T144500
+DTEND;TZID=Europe/Brussels:20270909T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年09月09日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-09-09 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年9月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-10-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20271028T141500
+DTEND;TZID=Europe/Brussels:20271028T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年10月28日 20:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-10-28 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年10月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-10-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20271028T144500
+DTEND;TZID=Europe/Brussels:20271028T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年10月28日 20:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-10-28 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年10月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-12-decision@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20271216T141500
+DTEND;TZID=Europe/Brussels:20271216T144500
+SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
+ 影响\n\n公布时间：\n2027年12月16日 21:15（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-12-16 14:15
+ （Europe/Brussels）\n\n统计期：\n2027年12月货币政策会议\n\n
+ 事件说明：\n欧洲央行公布关键利率和货币政策决定。利
+ 率路径、通胀评估、资产负债表与政策措辞会直接影响
+ 欧元和欧元区资产定价。\n\n市场关注：\n📈/📉 欧元\n
+ 📈/📉 德国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/
+ 📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（
+ 预留）\n\n官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n官方日程：\nht
+ tps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程
+ 状态：\nECB 官方 2027 货币政策会议日程；后续以 ECB 最新
+ 会议日历为准。
+LOCATION:欧洲中央银行（线上发布）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行（ECB）货币政策决
+ 定
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行（ECB）货币政策
+ 决定
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-ecb-2027-12-press@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20271216T144500
+DTEND;TZID=Europe/Brussels:20271216T154500
+SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧洲央行行长新闻发布会\n⭐⭐⭐ 高影响
+ \n\n公布时间：\n2027年12月16日 21:45（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2027-12-16 14:45（Europ
+ e/Brussels）\n\n统计期：\n2027年12月货币政策会议\n\n事件说
+ 明：\n欧洲央行行长解释政策决定并回答记者提问。对增
+ 长、通胀和未来利率路径的表述可能改变市场对政策声
+ 明的初步解读。\n\n市场关注：\n📈/📉 欧元\n📈/📉 德
+ 国国债与欧元区收益率\n📈/📉 欧洲股市\n📉/📈 黄金\n
+ 🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n
+ 官方来源：\n欧洲中央银行（ECB）\nhttps://www.ecb.europa.eu/pr
+ ess/calendars/mgcgc/html/index.en.html\n\n官方日程：\nhttps://www.ecb
+ .europa.eu/press/calendars/mgcgc/html/index.en.html\n\n日程状态：\nEC
+ B 官方 2027 货币政策会议日程；新闻发布会于决定发布后
+ 举行。
+LOCATION:欧洲中央银行新闻发布会（线上直播）
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+CATEGORIES:央行政策,欧元区,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
+END:VALARM
+END:VEVENT
+END:VCALENDAR

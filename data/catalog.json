@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "calendarRevision": 2026081101,
+  "masterColor": "#5F6368",
+  "regions": {
+    "us": {
+      "label": "美国",
+      "flag": "🇺🇸",
+      "timezone": "America/New_York",
+      "color": "#C62828"
+    },
+    "eurozone": {
+      "label": "欧元区",
+      "flag": "🇪🇺",
+      "timezone": "Europe/Brussels",
+      "color": "#1565C0"
+    },
+    "japan": {
+      "label": "日本",
+      "flag": "🇯🇵",
+      "timezone": "Asia/Tokyo",
+      "color": "#C2185B"
+    },
+    "china": {
+      "label": "中国",
+      "flag": "🇨🇳",
+      "timezone": "Asia/Shanghai",
+      "color": "#B26A00"
+    }
+  },
+  "categories": {
+    "central-bank": {
+      "label": "央行政策",
+      "color": "#B3261E"
+    },
+    "inflation": {
+      "label": "通胀",
+      "color": "#E37400"
+    },
+    "growth": {
+      "label": "经济增长",
+      "color": "#1967D2"
+    },
+    "employment": {
+      "label": "就业",
+      "color": "#137333"
+    },
+    "pmi": {
+      "label": "PMI 与景气调查",
+      "color": "#7627BB"
+    }
+  },
+  "types": {
+    "us-cpi": {
+      "region": "us",
+      "category": "inflation",
+      "title": "美国 CPI（消费者物价指数）",
+      "description": "反映美国居民消费价格的变化，是判断通胀趋势和美联储政策路径的核心指标。实际值与市场预测的偏差通常比绝对数值更能驱动行情。",
+      "marketFocus": [
+        "📈/📉 美元与主要货币对",
+        "📈/📉 美国国债收益率",
+        "📉/📈 黄金",
+        "📈/📉 美股",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国劳工统计局（BLS）",
+      "sourceUrl": "https://www.bls.gov/cpi/",
+      "scheduleUrl": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "location": "美国劳工统计局（线上发布）"
+    },
+    "us-ppi": {
+      "region": "us",
+      "category": "inflation",
+      "title": "美国 PPI（生产者物价指数）",
+      "description": "衡量美国生产端最终需求价格变化，可为消费通胀和企业利润率提供前瞻信号。核心分项及服务价格往往受到重点关注。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债收益率",
+        "📉/📈 黄金",
+        "📈/📉 成长股与大盘指数",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国劳工统计局（BLS）",
+      "sourceUrl": "https://www.bls.gov/ppi/",
+      "scheduleUrl": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "location": "美国劳工统计局（线上发布）"
+    },
+    "us-pce": {
+      "region": "us",
+      "category": "inflation",
+      "title": "美国 PCE 物价指数（个人收入与支出报告）",
+      "description": "PCE 物价指数随个人收入与支出报告发布，其中核心 PCE 是美联储重点参考的通胀指标。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债收益率",
+        "📉/📈 黄金",
+        "📈/📉 美股",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国经济分析局（BEA）",
+      "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "scheduleUrl": "https://www.bea.gov/news/schedule/full",
+      "location": "美国经济分析局（线上发布）"
+    },
+    "us-nfp": {
+      "region": "us",
+      "category": "employment",
+      "title": "美国非农就业报告（NFP）",
+      "description": "就业形势报告同时包含非农就业人数、失业率与平均时薪，是判断美国经济动能、工资压力和美联储政策的重要依据。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债收益率",
+        "📉/📈 黄金",
+        "📈/📉 美股",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国劳工统计局（BLS）",
+      "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm",
+      "scheduleUrl": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "location": "美国劳工统计局（线上发布）"
+    },
+    "us-gdp": {
+      "region": "us",
+      "category": "growth",
+      "title": "美国 GDP（国内生产总值）",
+      "description": "衡量美国经济总产出的季度变化。初值通常最受市场关注，后续估算用于确认或修正增长、消费和通胀结构。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债收益率",
+        "📈/📉 美股与周期板块",
+        "📉/📈 黄金",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国经济分析局（BEA）",
+      "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product",
+      "scheduleUrl": "https://www.bea.gov/news/schedule/full",
+      "location": "美国经济分析局（线上发布）"
+    },
+    "us-ism-manufacturing": {
+      "region": "us",
+      "category": "pmi",
+      "title": "美国 ISM 制造业 PMI",
+      "description": "调查美国制造业采购与供应管理活动。50 为扩张与收缩分界，订单、就业和价格分项可提供增长与通胀线索。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债收益率",
+        "📈/📉 工业与周期股",
+        "📈/📉 原油与铜",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国供应管理协会（ISM）",
+      "sourceUrl": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/",
+      "scheduleUrl": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "location": "美国供应管理协会（线上发布）"
+    },
+    "us-ism-services": {
+      "region": "us",
+      "category": "pmi",
+      "title": "美国 ISM 服务业 PMI",
+      "description": "调查美国服务业商业活动。服务业在美国经济中占比较高，商业活动、就业和价格分项常影响增长与通胀预期。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债收益率",
+        "📈/📉 美股",
+        "📉/📈 黄金",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国供应管理协会（ISM）",
+      "sourceUrl": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/",
+      "scheduleUrl": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "location": "美国供应管理协会（线上发布）"
+    },
+    "us-fomc-decision": {
+      "region": "us",
+      "category": "central-bank",
+      "title": "FOMC 利率决议",
+      "description": "美联储公布联邦基金利率目标区间与政策声明。利率路径、通胀判断、就业评价及资产负债表措辞都可能引发快速重定价。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债与收益率曲线",
+        "📉/📈 黄金",
+        "📈/📉 全球股市",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国联邦储备委员会（Federal Reserve）",
+      "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "scheduleUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
+      "location": "美国联邦储备委员会（线上发布）"
+    },
+    "us-fed-press-conference": {
+      "region": "us",
+      "category": "central-bank",
+      "title": "美联储主席新闻发布会（FOMC）",
+      "description": "美联储主席解释政策决定并回答记者提问。对未来利率路径、通胀风险、就业与金融条件的表述可能改变市场对声明的最初解读。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债",
+        "📉/📈 黄金",
+        "📈/📉 全球股市",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国联邦储备委员会（Federal Reserve）",
+      "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "scheduleUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
+      "location": "美联储新闻发布会（线上直播）"
+    },
+    "us-fomc-minutes": {
+      "region": "us",
+      "category": "central-bank",
+      "title": "FOMC 会议纪要",
+      "description": "披露决策讨论、风险判断与委员观点分布，可补充政策声明未充分展示的信息，并影响市场对后续会议的预期。",
+      "marketFocus": [
+        "📈/📉 美元",
+        "📈/📉 美国国债",
+        "📉/📈 黄金",
+        "📈/📉 美股",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "美国联邦储备委员会（Federal Reserve）",
+      "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "scheduleUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
+      "location": "美国联邦储备委员会（线上发布）"
+    },
+    "cn-cpi-ppi": {
+      "region": "china",
+      "category": "inflation",
+      "title": "中国 CPI / PPI（居民消费价格与工业生产者价格）",
+      "description": "国家统计局同场发布居民消费价格和工业生产者出厂价格。CPI 反映消费端通胀，PPI 反映工业品价格和企业利润压力。",
+      "marketFocus": [
+        "📈/📉 人民币",
+        "📈/📉 中国国债",
+        "📈/📉 A 股与港股",
+        "📈/📉 工业金属与大宗商品",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "中华人民共和国国家统计局（NBS）",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/",
+      "scheduleUrl": "https://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html",
+      "location": "国家统计局（线上发布）"
+    },
+    "cn-official-pmi": {
+      "region": "china",
+      "category": "pmi",
+      "title": "中国官方制造业 / 非制造业 PMI",
+      "description": "国家统计局发布制造业采购经理指数、非制造业商务活动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格分项也受到市场关注。",
+      "marketFocus": [
+        "📈/📉 人民币",
+        "📈/📉 A 股与港股",
+        "📈/📉 工业金属",
+        "📈/📉 原油与澳元",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "中华人民共和国国家统计局（NBS）",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/",
+      "scheduleUrl": "https://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html",
+      "location": "国家统计局（线上发布）"
+    },
+    "cn-gdp": {
+      "region": "china",
+      "category": "growth",
+      "title": "中国 GDP / 国民经济运行情况",
+      "description": "国家统计局在国民经济运行发布中公布 GDP，并同步披露工业、消费、投资等关键数据，是观察中国增长动能的核心综合事件。",
+      "marketFocus": [
+        "📈/📉 人民币",
+        "📈/📉 A 股与港股",
+        "📈/📉 中国国债",
+        "📈/📉 工业金属与原油",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "中华人民共和国国家统计局（NBS）",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/",
+      "scheduleUrl": "https://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html",
+      "location": "国家统计局国民经济运行发布（线上）"
+    },
+    "cn-lpr": {
+      "region": "china",
+      "category": "central-bank",
+      "title": "中国贷款市场报价利率（LPR）",
+      "description": "全国银行间同业拆借中心公布 1 年期和 5 年期以上 LPR。报价反映贷款定价基准，并影响企业融资与住房按揭预期。",
+      "marketFocus": [
+        "📈/📉 人民币",
+        "📈/📉 中国国债",
+        "📈/📉 A 股与港股",
+        "📈/📉 房地产与银行板块",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "中国人民银行 / 全国银行间同业拆借中心",
+      "sourceUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html",
+      "scheduleUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html",
+      "location": "全国银行间同业拆借中心（线上发布）"
+    },
+    "eu-ecb-decision": {
+      "region": "eurozone",
+      "category": "central-bank",
+      "title": "欧洲央行（ECB）货币政策决定",
+      "description": "欧洲央行公布关键利率和货币政策决定。利率路径、通胀评估、资产负债表与政策措辞会直接影响欧元和欧元区资产定价。",
+      "marketFocus": [
+        "📈/📉 欧元",
+        "📈/📉 德国国债与欧元区收益率",
+        "📈/📉 欧洲股市",
+        "📉/📈 黄金",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "欧洲中央银行（ECB）",
+      "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+      "scheduleUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+      "location": "欧洲中央银行（线上发布）"
+    },
+    "eu-ecb-press-conference": {
+      "region": "eurozone",
+      "category": "central-bank",
+      "title": "欧洲央行行长新闻发布会",
+      "description": "欧洲央行行长解释政策决定并回答记者提问。对增长、通胀和未来利率路径的表述可能改变市场对政策声明的初步解读。",
+      "marketFocus": [
+        "📈/📉 欧元",
+        "📈/📉 德国国债与欧元区收益率",
+        "📈/📉 欧洲股市",
+        "📉/📈 黄金",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "欧洲中央银行（ECB）",
+      "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+      "scheduleUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+      "location": "欧洲中央银行新闻发布会（线上直播）"
+    },
+    "eu-hicp-flash": {
+      "region": "eurozone",
+      "category": "inflation",
+      "title": "欧元区 HICP 初值（调和消费者物价指数）",
+      "description": "Eurostat 的月度通胀初值，是欧洲央行评估物价压力的核心指标。总体、核心和服务通胀与预测的偏差最受市场关注。",
+      "marketFocus": [
+        "📈/📉 欧元",
+        "📈/📉 德国国债收益率",
+        "📉/📈 黄金",
+        "📈/📉 欧洲股市",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "欧盟统计局（Eurostat）",
+      "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp",
+      "scheduleUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+      "location": "欧盟统计局（线上发布）"
+    },
+    "eu-gdp-flash": {
+      "region": "eurozone",
+      "category": "growth",
+      "title": "欧元区 GDP 初步快报",
+      "description": "衡量欧元区经济总产出的季度变化。初步快报最先展示区域增长动能，对欧洲央行政策和企业盈利预期有直接影响。",
+      "marketFocus": [
+        "📈/📉 欧元",
+        "📈/📉 欧元区国债",
+        "📈/📉 欧洲股市与周期板块",
+        "📈/📉 工业金属",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "欧盟统计局（Eurostat）",
+      "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts",
+      "scheduleUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+      "location": "欧盟统计局（线上发布）"
+    },
+    "eu-hcob-pmi-flash": {
+      "region": "eurozone",
+      "category": "pmi",
+      "title": "欧元区 HCOB 综合 PMI 初值",
+      "description": "S&P Global 同场发布欧元区制造业、服务业和综合 PMI 初值。数据不修订、发布时间早，是观察当月经济活动的重要领先指标。",
+      "marketFocus": [
+        "📈/📉 欧元",
+        "📈/📉 欧元区国债收益率",
+        "📈/📉 欧洲股市",
+        "📈/📉 工业金属与原油",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "HCOB / S&P Global",
+      "sourceUrl": "https://www.spglobal.com/market-intelligence/en/solutions/products/pmi",
+      "scheduleUrl": "https://www.spglobal.com/market-intelligence/en/solutions/products/pmi",
+      "location": "S&P Global（线上发布）"
+    },
+    "jp-boj-decision": {
+      "region": "japan",
+      "category": "central-bank",
+      "title": "日本央行（BOJ）金融政策决定",
+      "description": "日本央行在金融政策会议结束后公布政策决定与经济物价判断。政策利率、购债安排和收益率相关措辞会显著影响日元与日本资产。",
+      "marketFocus": [
+        "📈/📉 日元",
+        "📈/📉 日本国债收益率",
+        "📈/📉 日经指数",
+        "📉/📈 黄金",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "日本银行（Bank of Japan）",
+      "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+      "scheduleUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+      "location": "日本银行金融政策会议（线上发布）"
+    },
+    "jp-boj-press-conference": {
+      "region": "japan",
+      "category": "central-bank",
+      "title": "日本央行总裁记者会",
+      "description": "日本央行总裁解释政策决定并回答记者提问。对工资、通胀、汇率与后续政策正常化路径的表述可能引发二次行情。",
+      "marketFocus": [
+        "📈/📉 日元",
+        "📈/📉 日本国债",
+        "📈/📉 日经指数",
+        "📉/📈 黄金",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "日本银行（Bank of Japan）",
+      "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+      "scheduleUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+      "location": "日本银行总裁记者会（线上直播）"
+    },
+    "jp-cpi": {
+      "region": "japan",
+      "category": "inflation",
+      "title": "日本全国 CPI（消费者物价指数）",
+      "description": "反映日本全国消费价格变化。剔除生鲜食品及进一步剔除能源的核心指标，是判断工资价格循环和日本央行政策的重要依据。",
+      "marketFocus": [
+        "📈/📉 日元",
+        "📈/📉 日本国债收益率",
+        "📈/📉 日经指数",
+        "📉/📈 黄金",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "日本总务省统计局（Statistics Bureau of Japan）",
+      "sourceUrl": "https://www.stat.go.jp/english/data/cpi/",
+      "scheduleUrl": "https://www.stat.go.jp/english/data/cpi/1582.html",
+      "location": "日本总务省统计局（线上发布）"
+    },
+    "jp-gdp": {
+      "region": "japan",
+      "category": "growth",
+      "title": "日本 GDP（国内生产总值）",
+      "description": "衡量日本经济总产出的季度变化。初值最受市场关注，二次估算会结合企业统计修正消费、投资和净出口表现。",
+      "marketFocus": [
+        "📈/📉 日元",
+        "📈/📉 日本国债",
+        "📈/📉 日经指数与周期板块",
+        "📈/📉 亚洲股市",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "日本内阁府经济社会综合研究所（ESRI）",
+      "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html",
+      "scheduleUrl": "https://www.esri.cao.go.jp/en/sna/kouhyou/kouhyou_top.html",
+      "location": "日本内阁府（线上发布）"
+    },
+    "jp-tankan": {
+      "region": "japan",
+      "category": "pmi",
+      "title": "日本央行短观调查（Tankan）",
+      "description": "日本央行对企业景气、资本支出、价格与雇佣判断的季度调查。大型制造业景气判断指数和资本开支计划最受关注。",
+      "marketFocus": [
+        "📈/📉 日元",
+        "📈/📉 日本国债收益率",
+        "📈/📉 日经指数",
+        "📈/📉 工业与出口板块",
+        "🪙 Bitcoin"
+      ],
+      "sourceName": "日本银行（Bank of Japan）",
+      "sourceUrl": "https://www.boj.or.jp/en/statistics/tk/index.htm",
+      "scheduleUrl": "https://www.boj.or.jp/en/statistics/outline/index.htm",
+      "location": "日本银行（线上发布）"
+    }
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "verifiedAt": "2026-08-11",
+  "revision": 2026081101,
+  "coverageStatus": "complete",
+  "series": [
+    {
+      "type": "us-cpi",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "BLS 官方 2026 日程，已核对至 2026-08-11；后续以官方最新公告为准。",
+      "entries": [
+        { "id": "us-cpi-2025-12", "date": "2026-01-13", "period": "2025年12月" },
+        { "id": "us-cpi-2026-01", "date": "2026-02-13", "period": "2026年1月", "note": "原定 2 月 11 日，BLS 因 2026 年拨款中断修订为 2 月 13 日。" },
+        { "id": "us-cpi-2026-02", "date": "2026-03-11", "period": "2026年2月" },
+        { "id": "us-cpi-2026-03", "date": "2026-04-10", "period": "2026年3月" },
+        { "id": "us-cpi-2026-04", "date": "2026-05-12", "period": "2026年4月" },
+        { "id": "us-cpi-2026-05", "date": "2026-06-10", "period": "2026年5月" },
+        { "id": "us-cpi-2026-06", "date": "2026-07-14", "period": "2026年6月" },
+        { "id": "us-cpi-2026-07", "date": "2026-08-12", "period": "2026年7月" },
+        { "id": "us-cpi-2026-08", "date": "2026-09-11", "period": "2026年8月" },
+        { "id": "us-cpi-2026-09", "date": "2026-10-14", "period": "2026年9月" },
+        { "id": "us-cpi-2026-10", "date": "2026-11-10", "period": "2026年10月" },
+        { "id": "us-cpi-2026-11", "date": "2026-12-10", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "us-ppi",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "BLS 官方 2026 日程，已核对至 2026-08-11；后续以官方最新公告为准。",
+      "entries": [
+        { "id": "us-ppi-2025-11", "date": "2026-01-14", "period": "2025年11月", "note": "原定 2025 年 12 月 11 日；本次同时补发延迟的 2025 年10月数据。" },
+        { "id": "us-ppi-2025-12", "date": "2026-01-30", "period": "2025年12月", "note": "原定 1 月 14 日，后由 BLS 修订。" },
+        { "id": "us-ppi-2026-01", "date": "2026-02-27", "period": "2026年1月", "note": "原定 2 月 12 日，后由 BLS 修订。" },
+        { "id": "us-ppi-2026-02", "date": "2026-03-18", "period": "2026年2月", "note": "原定 3 月 12 日，后由 BLS 修订。" },
+        { "id": "us-ppi-2026-03", "date": "2026-04-14", "period": "2026年3月" },
+        { "id": "us-ppi-2026-04", "date": "2026-05-13", "period": "2026年4月" },
+        { "id": "us-ppi-2026-05", "date": "2026-06-11", "period": "2026年5月" },
+        { "id": "us-ppi-2026-06", "date": "2026-07-15", "period": "2026年6月" },
+        { "id": "us-ppi-2026-07", "date": "2026-08-13", "period": "2026年7月" },
+        { "id": "us-ppi-2026-08", "date": "2026-09-10", "period": "2026年8月" },
+        { "id": "us-ppi-2026-09", "date": "2026-10-15", "period": "2026年9月" },
+        { "id": "us-ppi-2026-10", "date": "2026-11-13", "period": "2026年10月" },
+        { "id": "us-ppi-2026-11", "date": "2026-12-15", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "us-nfp",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "BLS 官方 2026 日程，已核对至 2026-08-11；后续以官方最新公告为准。",
+      "entries": [
+        { "id": "us-nfp-2025-12", "date": "2026-01-09", "period": "2025年12月" },
+        { "id": "us-nfp-2026-01", "date": "2026-02-11", "period": "2026年1月", "note": "原定 2 月 6 日，BLS 因 2026 年拨款中断修订为 2 月 11 日。" },
+        { "id": "us-nfp-2026-02", "date": "2026-03-06", "period": "2026年2月" },
+        { "id": "us-nfp-2026-03", "date": "2026-04-03", "period": "2026年3月" },
+        { "id": "us-nfp-2026-04", "date": "2026-05-08", "period": "2026年4月" },
+        { "id": "us-nfp-2026-05", "date": "2026-06-05", "period": "2026年5月" },
+        { "id": "us-nfp-2026-06", "date": "2026-07-02", "period": "2026年6月" },
+        { "id": "us-nfp-2026-07", "date": "2026-08-07", "period": "2026年7月" },
+        { "id": "us-nfp-2026-08", "date": "2026-09-04", "period": "2026年8月" },
+        { "id": "us-nfp-2026-09", "date": "2026-10-02", "period": "2026年9月" },
+        { "id": "us-nfp-2026-10", "date": "2026-11-06", "period": "2026年10月" },
+        { "id": "us-nfp-2026-11", "date": "2026-12-04", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "us-pce",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "依据 BEA 2026 新闻发布日程整理；日期仍应以 BEA 最新日程为准。",
+      "entries": [
+        { "id": "us-pce-2025-12", "date": "2026-01-30", "period": "2025年12月" },
+        { "id": "us-pce-2026-01", "date": "2026-02-27", "period": "2026年1月" },
+        { "id": "us-pce-2026-02", "date": "2026-03-27", "period": "2026年2月" },
+        { "id": "us-pce-2026-03", "date": "2026-04-30", "period": "2026年3月" },
+        { "id": "us-pce-2026-04", "date": "2026-05-29", "period": "2026年4月" },
+        { "id": "us-pce-2026-05", "date": "2026-06-26", "period": "2026年5月" },
+        { "id": "us-pce-2026-06", "date": "2026-07-31", "period": "2026年6月" },
+        { "id": "us-pce-2026-07", "date": "2026-08-28", "period": "2026年7月" },
+        { "id": "us-pce-2026-08", "date": "2026-09-25", "period": "2026年8月" },
+        { "id": "us-pce-2026-09", "date": "2026-10-30", "period": "2026年9月" },
+        { "id": "us-pce-2026-10", "date": "2026-11-25", "period": "2026年10月" },
+        { "id": "us-pce-2026-11", "date": "2026-12-23", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "us-gdp",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "依据 BEA 2026 新闻发布日程整理；日期仍应以 BEA 最新日程为准。",
+      "entries": [
+        { "id": "us-gdp-2025-q4-advance", "date": "2026-01-29", "period": "2025年第四季度（初值）", "title": "美国 GDP（国内生产总值，初值）" },
+        { "id": "us-gdp-2025-q4-second", "date": "2026-02-26", "period": "2025年第四季度（第二次估算）", "title": "美国 GDP（国内生产总值，第二次估算）" },
+        { "id": "us-gdp-2025-q4-third", "date": "2026-03-26", "period": "2025年第四季度（第三次估算）", "title": "美国 GDP（国内生产总值，第三次估算）" },
+        { "id": "us-gdp-2026-q1-advance", "date": "2026-04-30", "period": "2026年第一季度（初值）", "title": "美国 GDP（国内生产总值，初值）" },
+        { "id": "us-gdp-2026-q1-second", "date": "2026-05-28", "period": "2026年第一季度（第二次估算）", "title": "美国 GDP（国内生产总值，第二次估算）" },
+        { "id": "us-gdp-2026-q1-third", "date": "2026-06-25", "period": "2026年第一季度（第三次估算）", "title": "美国 GDP（国内生产总值，第三次估算）" },
+        { "id": "us-gdp-2026-q2-advance", "date": "2026-07-30", "period": "2026年第二季度（初值）", "title": "美国 GDP（国内生产总值，初值）" },
+        { "id": "us-gdp-2026-q2-second", "date": "2026-08-27", "period": "2026年第二季度（第二次估算）", "title": "美国 GDP（国内生产总值，第二次估算）" },
+        { "id": "us-gdp-2026-q2-third", "date": "2026-09-24", "period": "2026年第二季度（第三次估算）", "title": "美国 GDP（国内生产总值，第三次估算）", "note": "本次发布可能包含年度修订，以 BEA 当日公告为准。" },
+        { "id": "us-gdp-2026-q3-advance", "date": "2026-10-29", "period": "2026年第三季度（初值）", "title": "美国 GDP（国内生产总值，初值）" },
+        { "id": "us-gdp-2026-q3-second", "date": "2026-11-25", "period": "2026年第三季度（第二次估算）", "title": "美国 GDP（国内生产总值，第二次估算）" },
+        { "id": "us-gdp-2026-q3-third", "date": "2026-12-23", "period": "2026年第三季度（第三次估算）", "title": "美国 GDP（国内生产总值，第三次估算）" }
+      ]
+    },
+    {
+      "type": "us-ism-manufacturing",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "scheduleStatus": "ISM 官方 2026 Report Release Date Calendar，已核对至 2026-08-11。",
+      "entries": [
+        { "id": "us-ism-manufacturing-2025-12", "date": "2026-01-05", "period": "2025年12月", "note": "因 ISM 假期，官方日历将本次发布移至 1 月 5 日。" },
+        { "id": "us-ism-manufacturing-2026-01", "date": "2026-02-02", "period": "2026年1月" },
+        { "id": "us-ism-manufacturing-2026-02", "date": "2026-03-02", "period": "2026年2月" },
+        { "id": "us-ism-manufacturing-2026-03", "date": "2026-04-01", "period": "2026年3月" },
+        { "id": "us-ism-manufacturing-2026-04", "date": "2026-05-01", "period": "2026年4月" },
+        { "id": "us-ism-manufacturing-2026-05", "date": "2026-06-01", "period": "2026年5月" },
+        { "id": "us-ism-manufacturing-2026-06", "date": "2026-07-01", "period": "2026年6月" },
+        { "id": "us-ism-manufacturing-2026-07", "date": "2026-08-03", "period": "2026年7月" },
+        { "id": "us-ism-manufacturing-2026-08", "date": "2026-09-01", "period": "2026年8月" },
+        { "id": "us-ism-manufacturing-2026-09", "date": "2026-10-01", "period": "2026年9月" },
+        { "id": "us-ism-manufacturing-2026-10", "date": "2026-11-02", "period": "2026年10月" },
+        { "id": "us-ism-manufacturing-2026-11", "date": "2026-12-01", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "us-ism-services",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "scheduleStatus": "ISM 官方 2026 Report Release Date Calendar，已核对至 2026-08-11。",
+      "entries": [
+        { "id": "us-ism-services-2025-12", "date": "2026-01-07", "period": "2025年12月", "note": "ISM 官方 1 月日程采用第四个业务日。" },
+        { "id": "us-ism-services-2026-01", "date": "2026-02-04", "period": "2026年1月" },
+        { "id": "us-ism-services-2026-02", "date": "2026-03-04", "period": "2026年2月" },
+        { "id": "us-ism-services-2026-03", "date": "2026-04-06", "period": "2026年3月", "note": "4 月 3 日为 Good Friday，官方日历将本次发布排至 4 月 6 日。" },
+        { "id": "us-ism-services-2026-04", "date": "2026-05-05", "period": "2026年4月" },
+        { "id": "us-ism-services-2026-05", "date": "2026-06-03", "period": "2026年5月" },
+        { "id": "us-ism-services-2026-06", "date": "2026-07-06", "period": "2026年6月", "note": "7 月 3 日为美国独立日补休，官方日历将本次发布移至 7 月 6 日。" },
+        { "id": "us-ism-services-2026-07", "date": "2026-08-05", "period": "2026年7月" },
+        { "id": "us-ism-services-2026-08", "date": "2026-09-03", "period": "2026年8月" },
+        { "id": "us-ism-services-2026-09", "date": "2026-10-05", "period": "2026年9月" },
+        { "id": "us-ism-services-2026-10", "date": "2026-11-04", "period": "2026年10月" },
+        { "id": "us-ism-services-2026-11", "date": "2026-12-03", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "us-fomc-decision",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "scheduleStatus": "Federal Reserve 官方 FOMC 2026 日历，已核对至 2026-08-11。",
+      "entries": [
+        { "id": "us-fomc-2026-01-decision", "date": "2026-01-28", "period": "2026年1月27日至28日会议" },
+        { "id": "us-fomc-2026-03-decision", "date": "2026-03-18", "period": "2026年3月17日至18日会议" },
+        { "id": "us-fomc-2026-04-decision", "date": "2026-04-29", "period": "2026年4月28日至29日会议" },
+        { "id": "us-fomc-2026-06-decision", "date": "2026-06-17", "period": "2026年6月16日至17日会议" },
+        { "id": "us-fomc-2026-07-decision", "date": "2026-07-29", "period": "2026年7月28日至29日会议" },
+        { "id": "us-fomc-2026-09-decision", "date": "2026-09-16", "period": "2026年9月15日至16日会议" },
+        { "id": "us-fomc-2026-10-decision", "date": "2026-10-28", "period": "2026年10月27日至28日会议" },
+        { "id": "us-fomc-2026-12-decision", "date": "2026-12-09", "period": "2026年12月8日至9日会议" }
+      ]
+    },
+    {
+      "type": "us-fed-press-conference",
+      "time": "14:30",
+      "timezone": "America/New_York",
+      "durationMinutes": 60,
+      "scheduleStatus": "Federal Reserve 官方 2026 月历，已核对至 2026-08-11；主持人以当日官方公告为准。",
+      "entries": [
+        { "id": "us-fomc-2026-01-press", "date": "2026-01-28", "period": "2026年1月27日至28日会议" },
+        { "id": "us-fomc-2026-03-press", "date": "2026-03-18", "period": "2026年3月17日至18日会议" },
+        { "id": "us-fomc-2026-04-press", "date": "2026-04-29", "period": "2026年4月28日至29日会议" },
+        { "id": "us-fomc-2026-06-press", "date": "2026-06-17", "period": "2026年6月16日至17日会议" },
+        { "id": "us-fomc-2026-07-press", "date": "2026-07-29", "period": "2026年7月28日至29日会议" },
+        { "id": "us-fomc-2026-09-press", "date": "2026-09-16", "period": "2026年9月15日至16日会议" },
+        { "id": "us-fomc-2026-10-press", "date": "2026-10-28", "period": "2026年10月27日至28日会议" },
+        { "id": "us-fomc-2026-12-press", "date": "2026-12-09", "period": "2026年12月8日至9日会议" }
+      ]
+    },
+    {
+      "type": "us-fomc-minutes",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "scheduleStatus": "Federal Reserve 官方 2026 月历，已核对至 2026-08-11。",
+      "entries": [
+        { "id": "us-fomc-2026-01-minutes", "date": "2026-02-18", "period": "2026年1月27日至28日会议纪要" },
+        { "id": "us-fomc-2026-03-minutes", "date": "2026-04-08", "period": "2026年3月17日至18日会议纪要" },
+        { "id": "us-fomc-2026-04-minutes", "date": "2026-05-20", "period": "2026年4月28日至29日会议纪要" },
+        { "id": "us-fomc-2026-06-minutes", "date": "2026-07-08", "period": "2026年6月16日至17日会议纪要" },
+        { "id": "us-fomc-2026-07-minutes", "date": "2026-08-19", "period": "2026年7月28日至29日会议纪要" },
+        { "id": "us-fomc-2026-09-minutes", "date": "2026-10-07", "period": "2026年9月15日至16日会议纪要" },
+        { "id": "us-fomc-2026-10-minutes", "date": "2026-11-18", "period": "2026年10月27日至28日会议纪要" },
+        { "id": "us-fomc-2026-12-minutes", "date": "2026-12-30", "period": "2026年12月8日至9日会议纪要" }
+      ]
+    },
+    {
+      "type": "cn-cpi-ppi",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "scheduleStatus": "国家统计局 2026 年主要统计信息发布日程表中的初步计划；官方明确提示日期可能调整。",
+      "entries": [
+        { "id": "cn-cpi-ppi-2025-12", "date": "2026-01-09", "period": "2025年12月" },
+        { "id": "cn-cpi-ppi-2026-01", "date": "2026-02-11", "period": "2026年1月" },
+        { "id": "cn-cpi-ppi-2026-02", "date": "2026-03-09", "period": "2026年2月" },
+        { "id": "cn-cpi-ppi-2026-03", "date": "2026-04-10", "period": "2026年3月" },
+        { "id": "cn-cpi-ppi-2026-04", "date": "2026-05-11", "period": "2026年4月" },
+        { "id": "cn-cpi-ppi-2026-05", "date": "2026-06-10", "period": "2026年5月" },
+        { "id": "cn-cpi-ppi-2026-06", "date": "2026-07-09", "period": "2026年6月" },
+        { "id": "cn-cpi-ppi-2026-07", "date": "2026-08-09", "period": "2026年7月" },
+        { "id": "cn-cpi-ppi-2026-08", "date": "2026-09-09", "period": "2026年8月" },
+        { "id": "cn-cpi-ppi-2026-09", "date": "2026-10-14", "period": "2026年9月" },
+        { "id": "cn-cpi-ppi-2026-10", "date": "2026-11-09", "period": "2026年10月" },
+        { "id": "cn-cpi-ppi-2026-11", "date": "2026-12-09", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "cn-official-pmi",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "scheduleStatus": "国家统计局 2026 年主要统计信息发布日程表中的初步计划；官方明确提示日期可能调整。",
+      "entries": [
+        { "id": "cn-official-pmi-2026-01", "date": "2026-01-31", "period": "2026年1月" },
+        { "id": "cn-official-pmi-2026-02", "date": "2026-03-04", "period": "2026年2月", "note": "受春节影响，国家统计局官方日程将 2 月数据安排在 3 月 4 日发布。" },
+        { "id": "cn-official-pmi-2026-03", "date": "2026-03-31", "period": "2026年3月" },
+        { "id": "cn-official-pmi-2026-04", "date": "2026-04-30", "period": "2026年4月" },
+        { "id": "cn-official-pmi-2026-05", "date": "2026-05-31", "period": "2026年5月" },
+        { "id": "cn-official-pmi-2026-06", "date": "2026-06-30", "period": "2026年6月" },
+        { "id": "cn-official-pmi-2026-07", "date": "2026-07-31", "period": "2026年7月" },
+        { "id": "cn-official-pmi-2026-08", "date": "2026-08-31", "period": "2026年8月" },
+        { "id": "cn-official-pmi-2026-09", "date": "2026-09-30", "period": "2026年9月" },
+        { "id": "cn-official-pmi-2026-10", "date": "2026-10-31", "period": "2026年10月" },
+        { "id": "cn-official-pmi-2026-11", "date": "2026-11-30", "period": "2026年11月" },
+        { "id": "cn-official-pmi-2026-12", "date": "2026-12-31", "period": "2026年12月" }
+      ]
+    },
+    {
+      "type": "cn-gdp",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "scheduleStatus": "国家统计局 2026 年主要统计信息发布日程表中的初步计划；官方明确提示日期可能调整。",
+      "entries": [
+        { "id": "cn-gdp-2025-full-year", "date": "2026-01-19", "period": "2025年第四季度及全年" },
+        { "id": "cn-gdp-2026-q1", "date": "2026-04-16", "period": "2026年第一季度" },
+        { "id": "cn-gdp-2026-q2", "date": "2026-07-15", "period": "2026年第二季度及上半年" },
+        { "id": "cn-gdp-2026-q3", "date": "2026-10-19", "period": "2026年第三季度及前三季度" }
+      ]
+    },
+    {
+      "type": "cn-lpr",
+      "time": "09:00",
+      "timezone": "Asia/Shanghai",
+      "scheduleStatus": "LPR 通常于每月 20 日发布，遇节假日顺延；未来日期须以当月官方公告确认。",
+      "entries": [
+        { "id": "cn-lpr-2026-01", "date": "2026-01-20", "period": "2026年1月报价", "scheduleStatus": "中国人民银行官方公告已确认。", "scheduleUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026012008464316247/index.html" },
+        { "id": "cn-lpr-2026-02", "date": "2026-02-24", "period": "2026年2月报价", "scheduleStatus": "中国人民银行官方公告已确认。", "scheduleUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026022408185939559/index.html", "note": "受春节假期影响，本月发布顺延至 2 月 24 日。" },
+        { "id": "cn-lpr-2026-03", "date": "2026-03-20", "period": "2026年3月报价", "scheduleStatus": "中国人民银行官方公告已确认。", "scheduleUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026032008304337760/index.html" },
+        { "id": "cn-lpr-2026-04", "date": "2026-04-20", "period": "2026年4月报价", "scheduleStatus": "中国人民银行官方公告已确认。", "scheduleUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026041714492978015/index.html" },
+        { "id": "cn-lpr-2026-05", "date": "2026-05-20", "period": "2026年5月报价", "scheduleStatus": "中国人民银行官方公告已确认。", "scheduleUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026052008080196671/index.html" },
+        { "id": "cn-lpr-2026-06", "date": "2026-06-22", "period": "2026年6月报价", "scheduleStatus": "中国人民银行官方公告已确认。", "scheduleUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026062208495122562/index.html", "note": "20 日为周六，本月顺延至 6 月 22 日。" },
+        { "id": "cn-lpr-2026-07", "date": "2026-07-20", "period": "2026年7月报价", "scheduleStatus": "中国人民银行官方公告已确认。", "scheduleUrl": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026072008093186869/index.html" },
+        { "id": "cn-lpr-2026-08", "date": "2026-08-20", "period": "2026年8月报价", "scheduleStatus": "按每月 20 日规则生成的候选日期，等待当月官方公告确认。", "status": "TENTATIVE", "sourceStatus": "ESTIMATED" },
+        { "id": "cn-lpr-2026-09", "date": "2026-09-21", "period": "2026年9月报价", "scheduleStatus": "按每月 20 日遇休息日顺延规则生成的候选日期，等待当月官方公告确认。", "status": "TENTATIVE", "sourceStatus": "ESTIMATED" },
+        { "id": "cn-lpr-2026-10", "date": "2026-10-20", "period": "2026年10月报价", "scheduleStatus": "按每月 20 日规则生成的候选日期，等待当月官方公告确认。", "status": "TENTATIVE", "sourceStatus": "ESTIMATED" },
+        { "id": "cn-lpr-2026-11", "date": "2026-11-20", "period": "2026年11月报价", "scheduleStatus": "按每月 20 日规则生成的候选日期，等待当月官方公告确认。", "status": "TENTATIVE", "sourceStatus": "ESTIMATED" },
+        { "id": "cn-lpr-2026-12", "date": "2026-12-21", "period": "2026年12月报价", "scheduleStatus": "按每月 20 日遇休息日顺延规则生成的候选日期，等待当月官方公告确认。", "status": "TENTATIVE", "sourceStatus": "ESTIMATED" }
+      ]
+    },
+    {
+      "type": "eu-ecb-decision",
+      "time": "14:15",
+      "timezone": "Europe/Brussels",
+      "scheduleStatus": "ECB 2026 货币政策会议日程；后续以 ECB 最新会议日历为准。",
+      "entries": [
+        { "id": "eu-ecb-2026-02-decision", "date": "2026-02-05", "period": "2026年2月货币政策会议" },
+        { "id": "eu-ecb-2026-03-decision", "date": "2026-03-19", "period": "2026年3月货币政策会议" },
+        { "id": "eu-ecb-2026-04-decision", "date": "2026-04-30", "period": "2026年4月货币政策会议" },
+        { "id": "eu-ecb-2026-06-decision", "date": "2026-06-11", "period": "2026年6月货币政策会议" },
+        { "id": "eu-ecb-2026-07-decision", "date": "2026-07-23", "period": "2026年7月货币政策会议" },
+        { "id": "eu-ecb-2026-09-decision", "date": "2026-09-10", "period": "2026年9月货币政策会议" },
+        { "id": "eu-ecb-2026-10-decision", "date": "2026-10-29", "period": "2026年10月货币政策会议" },
+        { "id": "eu-ecb-2026-12-decision", "date": "2026-12-17", "period": "2026年12月货币政策会议" }
+      ]
+    },
+    {
+      "type": "eu-ecb-press-conference",
+      "time": "14:45",
+      "timezone": "Europe/Brussels",
+      "durationMinutes": 60,
+      "scheduleStatus": "ECB 2026 货币政策会议日程；每次第二日会议后举行新闻发布会。",
+      "entries": [
+        { "id": "eu-ecb-2026-02-press", "date": "2026-02-05", "period": "2026年2月货币政策会议" },
+        { "id": "eu-ecb-2026-03-press", "date": "2026-03-19", "period": "2026年3月货币政策会议" },
+        { "id": "eu-ecb-2026-04-press", "date": "2026-04-30", "period": "2026年4月货币政策会议" },
+        { "id": "eu-ecb-2026-06-press", "date": "2026-06-11", "period": "2026年6月货币政策会议" },
+        { "id": "eu-ecb-2026-07-press", "date": "2026-07-23", "period": "2026年7月货币政策会议" },
+        { "id": "eu-ecb-2026-09-press", "date": "2026-09-10", "period": "2026年9月货币政策会议" },
+        { "id": "eu-ecb-2026-10-press", "date": "2026-10-29", "period": "2026年10月货币政策会议" },
+        { "id": "eu-ecb-2026-12-press", "date": "2026-12-17", "period": "2026年12月货币政策会议" }
+      ]
+    },
+    {
+      "type": "eu-hicp-flash",
+      "time": "11:00",
+      "timezone": "Europe/Brussels",
+      "status": "TENTATIVE",
+      "sourceStatus": "ESTIMATED",
+      "scheduleStatus": "高置信候选日期，当前尚未逐项完成 Eurostat 官方发布日历复核；通常风险为前后一个工作日。",
+      "entries": [
+        { "id": "eu-hicp-flash-2025-12", "date": "2026-01-07", "period": "2025年12月" },
+        { "id": "eu-hicp-flash-2026-01", "date": "2026-02-04", "period": "2026年1月" },
+        { "id": "eu-hicp-flash-2026-02", "date": "2026-03-03", "period": "2026年2月" },
+        { "id": "eu-hicp-flash-2026-03", "date": "2026-03-31", "period": "2026年3月" },
+        { "id": "eu-hicp-flash-2026-04", "date": "2026-04-30", "period": "2026年4月" },
+        { "id": "eu-hicp-flash-2026-05", "date": "2026-06-02", "period": "2026年5月" },
+        { "id": "eu-hicp-flash-2026-06", "date": "2026-06-30", "period": "2026年6月" },
+        { "id": "eu-hicp-flash-2026-07", "date": "2026-07-31", "period": "2026年7月" },
+        { "id": "eu-hicp-flash-2026-08", "date": "2026-09-01", "period": "2026年8月" },
+        { "id": "eu-hicp-flash-2026-09", "date": "2026-09-30", "period": "2026年9月" },
+        { "id": "eu-hicp-flash-2026-10", "date": "2026-10-30", "period": "2026年10月" },
+        { "id": "eu-hicp-flash-2026-11", "date": "2026-12-01", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "eu-gdp-flash",
+      "time": "11:00",
+      "timezone": "Europe/Brussels",
+      "status": "TENTATIVE",
+      "sourceStatus": "ESTIMATED",
+      "scheduleStatus": "高置信候选日期，当前尚未逐项完成 Eurostat 官方发布日历复核；通常风险为前后一个工作日。",
+      "entries": [
+        { "id": "eu-gdp-flash-2025-q4", "date": "2026-01-30", "period": "2025年第四季度" },
+        { "id": "eu-gdp-flash-2026-q1", "date": "2026-04-30", "period": "2026年第一季度" },
+        { "id": "eu-gdp-flash-2026-q2", "date": "2026-07-30", "period": "2026年第二季度" },
+        { "id": "eu-gdp-flash-2026-q3", "date": "2026-10-30", "period": "2026年第三季度" }
+      ]
+    },
+    {
+      "type": "eu-hcob-pmi-flash",
+      "time": "10:00",
+      "timezone": "Europe/Brussels",
+      "status": "TENTATIVE",
+      "sourceStatus": "ESTIMATED",
+      "scheduleStatus": "依据发行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全年表，须在每月发布前确认。",
+      "entries": [
+        { "id": "eu-hcob-pmi-flash-2026-01", "date": "2026-01-23", "period": "2026年1月" },
+        { "id": "eu-hcob-pmi-flash-2026-02", "date": "2026-02-20", "period": "2026年2月" },
+        { "id": "eu-hcob-pmi-flash-2026-03", "date": "2026-03-24", "period": "2026年3月" },
+        { "id": "eu-hcob-pmi-flash-2026-04", "date": "2026-04-23", "period": "2026年4月" },
+        { "id": "eu-hcob-pmi-flash-2026-05", "date": "2026-05-21", "period": "2026年5月" },
+        { "id": "eu-hcob-pmi-flash-2026-06", "date": "2026-06-23", "period": "2026年6月" },
+        { "id": "eu-hcob-pmi-flash-2026-07", "date": "2026-07-24", "period": "2026年7月" },
+        { "id": "eu-hcob-pmi-flash-2026-08", "date": "2026-08-21", "period": "2026年8月" },
+        { "id": "eu-hcob-pmi-flash-2026-09", "date": "2026-09-23", "period": "2026年9月" },
+        { "id": "eu-hcob-pmi-flash-2026-10", "date": "2026-10-23", "period": "2026年10月" },
+        { "id": "eu-hcob-pmi-flash-2026-11", "date": "2026-11-20", "period": "2026年11月" },
+        { "id": "eu-hcob-pmi-flash-2026-12", "date": "2026-12-16", "period": "2026年12月" }
+      ]
+    },
+    {
+      "type": "jp-boj-decision",
+      "time": "00:00",
+      "timezone": "Asia/Tokyo",
+      "allDay": true,
+      "scheduleStatus": "日本银行官方会议日期已确认；政策决定在会议结束后立即发布，官方不设固定时刻。",
+      "note": "因官方不设固定发布时间，本事件按全天保存，只提供提前 1 天提醒。",
+      "entries": [
+        { "id": "jp-boj-2026-01-decision", "date": "2026-01-23", "period": "2026年1月22日至23日会议" },
+        { "id": "jp-boj-2026-03-decision", "date": "2026-03-19", "period": "2026年3月18日至19日会议" },
+        { "id": "jp-boj-2026-04-decision", "date": "2026-04-28", "period": "2026年4月27日至28日会议" },
+        { "id": "jp-boj-2026-06-decision", "date": "2026-06-16", "period": "2026年6月15日至16日会议" },
+        { "id": "jp-boj-2026-07-decision", "date": "2026-07-31", "period": "2026年7月30日至31日会议" },
+        { "id": "jp-boj-2026-09-decision", "date": "2026-09-18", "period": "2026年9月17日至18日会议" },
+        { "id": "jp-boj-2026-10-decision", "date": "2026-10-30", "period": "2026年10月29日至30日会议" },
+        { "id": "jp-boj-2026-12-decision", "date": "2026-12-18", "period": "2026年12月17日至18日会议" }
+      ]
+    },
+    {
+      "type": "jp-boj-press-conference",
+      "time": "15:30",
+      "timezone": "Asia/Tokyo",
+      "durationMinutes": 60,
+      "timePrecision": "approximate",
+      "scheduleStatus": "记者会通常在会议结束日 15:30 举行；具体时间须以日本银行当日公告为准。",
+      "entries": [
+        { "id": "jp-boj-2026-01-press", "date": "2026-01-23", "period": "2026年1月22日至23日会议" },
+        { "id": "jp-boj-2026-03-press", "date": "2026-03-19", "period": "2026年3月18日至19日会议" },
+        { "id": "jp-boj-2026-04-press", "date": "2026-04-28", "period": "2026年4月27日至28日会议" },
+        { "id": "jp-boj-2026-06-press", "date": "2026-06-16", "period": "2026年6月15日至16日会议" },
+        { "id": "jp-boj-2026-07-press", "date": "2026-07-31", "period": "2026年7月30日至31日会议" },
+        { "id": "jp-boj-2026-09-press", "date": "2026-09-18", "period": "2026年9月17日至18日会议" },
+        { "id": "jp-boj-2026-10-press", "date": "2026-10-30", "period": "2026年10月29日至30日会议" },
+        { "id": "jp-boj-2026-12-press", "date": "2026-12-18", "period": "2026年12月17日至18日会议" }
+      ]
+    },
+    {
+      "type": "jp-cpi",
+      "time": "08:30",
+      "timezone": "Asia/Tokyo",
+      "scheduleStatus": "日本总务省统计局 2026 CPI 官方发布日程。",
+      "entries": [
+        { "id": "jp-cpi-2025-12", "date": "2026-01-23", "period": "2025年12月" },
+        { "id": "jp-cpi-2026-01", "date": "2026-02-20", "period": "2026年1月" },
+        { "id": "jp-cpi-2026-02", "date": "2026-03-24", "period": "2026年2月", "note": "2026 年为基期修订年，本次日期不同于常规第三周发布节奏。" },
+        { "id": "jp-cpi-2026-03", "date": "2026-04-24", "period": "2026年3月" },
+        { "id": "jp-cpi-2026-04", "date": "2026-05-22", "period": "2026年4月" },
+        { "id": "jp-cpi-2026-05", "date": "2026-06-19", "period": "2026年5月" },
+        { "id": "jp-cpi-2026-06", "date": "2026-07-24", "period": "2026年6月" },
+        { "id": "jp-cpi-2026-07", "date": "2026-08-21", "period": "2026年7月" },
+        { "id": "jp-cpi-2026-08", "date": "2026-09-18", "period": "2026年8月" },
+        { "id": "jp-cpi-2026-09", "date": "2026-10-23", "period": "2026年9月" },
+        { "id": "jp-cpi-2026-10", "date": "2026-11-20", "period": "2026年10月" },
+        { "id": "jp-cpi-2026-11", "date": "2026-12-18", "period": "2026年11月" }
+      ]
+    },
+    {
+      "type": "jp-gdp",
+      "time": "08:50",
+      "timezone": "Asia/Tokyo",
+      "scheduleStatus": "日本内阁府 ESRI 官方国民经济核算发布日程。",
+      "entries": [
+        { "id": "jp-gdp-2025-q4-first", "date": "2026-02-16", "period": "2025年第四季度（初值）", "title": "日本 GDP（国内生产总值，初值）" },
+        { "id": "jp-gdp-2025-q4-second", "date": "2026-03-10", "period": "2025年第四季度（二次估算）", "title": "日本 GDP（国内生产总值，二次估算）" },
+        { "id": "jp-gdp-2026-q1-first", "date": "2026-05-19", "period": "2026年第一季度（初值）", "title": "日本 GDP（国内生产总值，初值）" },
+        { "id": "jp-gdp-2026-q1-second", "date": "2026-06-08", "period": "2026年第一季度（二次估算）", "title": "日本 GDP（国内生产总值，二次估算）" },
+        { "id": "jp-gdp-2026-q2-first", "date": "2026-08-17", "period": "2026年第二季度（初值）", "title": "日本 GDP（国内生产总值，初值）" },
+        { "id": "jp-gdp-2026-q2-second", "date": "2026-09-08", "period": "2026年第二季度（二次估算）", "title": "日本 GDP（国内生产总值，二次估算）" },
+        { "id": "jp-gdp-2026-q3-first", "date": "2026-11-16", "period": "2026年第三季度（初值）", "title": "日本 GDP（国内生产总值，初值）" },
+        { "id": "jp-gdp-2026-q3-second", "date": "2026-12-08", "period": "2026年第三季度（二次估算）", "title": "日本 GDP（国内生产总值，二次估算）" }
+      ]
+    },
+    {
+      "type": "jp-tankan",
+      "time": "08:50",
+      "timezone": "Asia/Tokyo",
+      "scheduleStatus": "日本银行年度统计发布日程；未来日期仍以最新官方表为准。",
+      "entries": [
+        { "id": "jp-tankan-2026-03", "date": "2026-04-01", "period": "2026年3月调查" },
+        { "id": "jp-tankan-2026-06", "date": "2026-07-01", "period": "2026年6月调查" },
+        { "id": "jp-tankan-2026-09", "date": "2026-10-01", "period": "2026年9月调查", "status": "TENTATIVE", "sourceStatus": "ESTIMATED", "scheduleStatus": "高置信候选日期，等待日本银行最新年度统计表逐项确认。" },
+        { "id": "jp-tankan-2026-12", "date": "2026-12-14", "period": "2026年12月调查", "status": "TENTATIVE", "sourceStatus": "ESTIMATED", "scheduleStatus": "高置信候选日期，等待日本银行最新年度统计表逐项确认。" }
+      ]
+    }
+  ]
+}

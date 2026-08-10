@@ -1,0 +1,2314 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Economic Calendar Pro//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:PMI 与景气调查事件 Pro
+X-WR-CALNAME:PMI 与景气调查事件 Pro
+X-WR-CALDESC:全球PMI 与景气调查类高影响事件；适合在 Apple
+  日历中独立设置颜色。
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT12H
+COLOR:#7627BB
+X-APPLE-CALENDAR-COLOR:#7627BB
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19910915T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2025-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260105T100000
+DTEND;TZID=America/New_York:20260105T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年01月05日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-01-05 10:00（America/New
+ _York）\n\n统计期：\n2025年12月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。\n\n特别说明：\n因 ISM 假期，官方日历将本次发
+ 布移至 1 月 5 日。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2025-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260107T100000
+DTEND;TZID=America/New_York:20260107T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年01月07日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-01-07 10:00（America/New
+ _York）\n\n统计期：\n2025年12月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。\n\n
+ 特别说明：\nISM 官方 1 月日程采用第四个业务日。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260123T100000
+DTEND;TZID=Europe/Brussels:20260123T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年01月23日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-01-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年1月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260131T093000
+DTEND;TZID=Asia/Shanghai:20260131T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年01月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-01-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年1月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260202T100000
+DTEND;TZID=America/New_York:20260202T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年02月02日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-02-02 10:00（America/New
+ _York）\n\n统计期：\n2026年1月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-01@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260204T100000
+DTEND;TZID=America/New_York:20260204T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年02月04日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-02-04 10:00（America/New
+ _York）\n\n统计期：\n2026年1月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260220T100000
+DTEND;TZID=Europe/Brussels:20260220T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年02月20日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-02-20 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年2月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260302T100000
+DTEND;TZID=America/New_York:20260302T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年03月02日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-03-02 10:00（America/New
+ _York）\n\n统计期：\n2026年2月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260304T093000
+DTEND;TZID=Asia/Shanghai:20260304T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年03月04日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-03-04 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年2月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。\n\n特别说明：\n受春节影响，
+ 国家统计局官方日程将 2 月数据安排在 3 月 4 日发布。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-02@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260304T100000
+DTEND;TZID=America/New_York:20260304T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年03月04日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-03-04 10:00（America/New
+ _York）\n\n统计期：\n2026年2月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260324T100000
+DTEND;TZID=Europe/Brussels:20260324T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年03月24日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-03-24 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年3月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260331T093000
+DTEND;TZID=Asia/Shanghai:20260331T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年03月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-03-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年3月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-tankan-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20260401T085000
+DTEND;TZID=Asia/Tokyo:20260401T092000
+SUMMARY:🇯🇵 日本央行短观调查（Tankan）（⭐⭐⭐ 高影响
+ ）
+DESCRIPTION:🇯🇵 日本央行短观调查（Tankan）\n⭐⭐⭐ 高影
+ 响\n\n公布时间：\n2026年04月01日 07:50（北京时间；日历会
+ 自动转换为你的本地时区）\n原始时区：2026-04-01 08:50（As
+ ia/Tokyo）\n\n统计期：\n2026年3月调查\n\n事件说明：\n日本
+ 央行对企业景气、资本支出、价格与雇佣判断的季度调
+ 查。大型制造业景气判断指数和资本开支计划最受关注
+ 。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债收益率\
+ n📈/📉 日经指数\n📈/📉 工业与出口板块\n🪙 Bitcoin\n\n
+ 预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\n
+ 日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/statistics/tk/in
+ dex.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/statistics/outline/in
+ dex.htm\n\n日程状态：\n日本银行年度统计发布日程；未来
+ 日期仍以最新官方表为准。
+LOCATION:日本银行（线上发布）
+URL:https://www.boj.or.jp/en/statistics/tk/index.htm
+CATEGORIES:PMI 与景气调查,日本,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行短观调查（Tankan）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行短观调查（Tankan
+ ）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260401T100000
+DTEND;TZID=America/New_York:20260401T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年04月01日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-04-01 10:00（America/New
+ _York）\n\n统计期：\n2026年3月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-03@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260406T100000
+DTEND;TZID=America/New_York:20260406T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年04月06日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-04-06 10:00（America/New
+ _York）\n\n统计期：\n2026年3月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。\n\n
+ 特别说明：\n4 月 3 日为 Good Friday，官方日历将本次发布
+ 排至 4 月 6 日。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260423T100000
+DTEND;TZID=Europe/Brussels:20260423T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年04月23日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-04-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年4月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260430T093000
+DTEND;TZID=Asia/Shanghai:20260430T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年04月30日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-04-30 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年4月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260501T100000
+DTEND;TZID=America/New_York:20260501T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年05月01日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-05-01 10:00（America/New
+ _York）\n\n统计期：\n2026年4月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-04@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260505T100000
+DTEND;TZID=America/New_York:20260505T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年05月05日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-05-05 10:00（America/New
+ _York）\n\n统计期：\n2026年4月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260521T100000
+DTEND;TZID=Europe/Brussels:20260521T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年05月21日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-05-21 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年5月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260531T093000
+DTEND;TZID=Asia/Shanghai:20260531T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年05月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-05-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年5月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260601T100000
+DTEND;TZID=America/New_York:20260601T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年06月01日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-06-01 10:00（America/New
+ _York）\n\n统计期：\n2026年5月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-05@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260603T100000
+DTEND;TZID=America/New_York:20260603T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年06月03日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-06-03 10:00（America/New
+ _York）\n\n统计期：\n2026年5月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260623T100000
+DTEND;TZID=Europe/Brussels:20260623T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年06月23日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-06-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年6月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260630T093000
+DTEND;TZID=Asia/Shanghai:20260630T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年06月30日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-06-30 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年6月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-tankan-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20260701T085000
+DTEND;TZID=Asia/Tokyo:20260701T092000
+SUMMARY:🇯🇵 日本央行短观调查（Tankan）（⭐⭐⭐ 高影响
+ ）
+DESCRIPTION:🇯🇵 日本央行短观调查（Tankan）\n⭐⭐⭐ 高影
+ 响\n\n公布时间：\n2026年07月01日 07:50（北京时间；日历会
+ 自动转换为你的本地时区）\n原始时区：2026-07-01 08:50（As
+ ia/Tokyo）\n\n统计期：\n2026年6月调查\n\n事件说明：\n日本
+ 央行对企业景气、资本支出、价格与雇佣判断的季度调
+ 查。大型制造业景气判断指数和资本开支计划最受关注
+ 。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债收益率\
+ n📈/📉 日经指数\n📈/📉 工业与出口板块\n🪙 Bitcoin\n\n
+ 预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\n
+ 日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/statistics/tk/in
+ dex.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/statistics/outline/in
+ dex.htm\n\n日程状态：\n日本银行年度统计发布日程；未来
+ 日期仍以最新官方表为准。
+LOCATION:日本银行（线上发布）
+URL:https://www.boj.or.jp/en/statistics/tk/index.htm
+CATEGORIES:PMI 与景气调查,日本,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行短观调查（Tankan）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行短观调查（Tankan
+ ）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260701T100000
+DTEND;TZID=America/New_York:20260701T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年07月01日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-07-01 10:00（America/New
+ _York）\n\n统计期：\n2026年6月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-06@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260706T100000
+DTEND;TZID=America/New_York:20260706T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年07月06日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-07-06 10:00（America/New
+ _York）\n\n统计期：\n2026年6月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。\n\n
+ 特别说明：\n7 月 3 日为美国独立日补休，官方日历将本
+ 次发布移至 7 月 6 日。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260724T100000
+DTEND;TZID=Europe/Brussels:20260724T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年07月24日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-07-24 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年7月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260731T093000
+DTEND;TZID=Asia/Shanghai:20260731T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年07月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-07-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年7月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260803T100000
+DTEND;TZID=America/New_York:20260803T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年08月03日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-08-03 10:00（America/New
+ _York）\n\n统计期：\n2026年7月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-07@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260805T100000
+DTEND;TZID=America/New_York:20260805T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年08月05日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-08-05 10:00（America/New
+ _York）\n\n统计期：\n2026年7月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260821T100000
+DTEND;TZID=Europe/Brussels:20260821T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年08月21日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-08-21 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年8月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260831T093000
+DTEND;TZID=Asia/Shanghai:20260831T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年08月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-08-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年8月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260901T100000
+DTEND;TZID=America/New_York:20260901T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年09月01日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-09-01 10:00（America/New
+ _York）\n\n统计期：\n2026年8月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-08@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20260903T100000
+DTEND;TZID=America/New_York:20260903T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年09月03日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-09-03 10:00（America/New
+ _York）\n\n统计期：\n2026年8月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20260923T100000
+DTEND;TZID=Europe/Brussels:20260923T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年09月23日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-09-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年9月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20260930T093000
+DTEND;TZID=Asia/Shanghai:20260930T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年09月30日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-09-30 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年9月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-tankan-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20261001T085000
+DTEND;TZID=Asia/Tokyo:20261001T092000
+SUMMARY:🇯🇵 日本央行短观调查（Tankan）（⭐⭐⭐ 高影响
+ ）
+DESCRIPTION:🇯🇵 日本央行短观调查（Tankan）\n⭐⭐⭐ 高影
+ 响\n\n公布时间：\n2026年10月01日 07:50（北京时间；日历会
+ 自动转换为你的本地时区）\n原始时区：2026-10-01 08:50（As
+ ia/Tokyo）\n\n统计期：\n2026年9月调查\n\n事件说明：\n日本
+ 央行对企业景气、资本支出、价格与雇佣判断的季度调
+ 查。大型制造业景气判断指数和资本开支计划最受关注
+ 。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债收益率\
+ n📈/📉 日经指数\n📈/📉 工业与出口板块\n🪙 Bitcoin\n\n
+ 预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\n
+ 日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/statistics/tk/in
+ dex.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/statistics/outline/in
+ dex.htm\n\n日程状态：\n高置信候选日期，等待日本银行最
+ 新年度统计表逐项确认。
+LOCATION:日本银行（线上发布）
+URL:https://www.boj.or.jp/en/statistics/tk/index.htm
+CATEGORIES:PMI 与景气调查,日本,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行短观调查（Tankan）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行短观调查（Tankan
+ ）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261001T100000
+DTEND;TZID=America/New_York:20261001T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年10月01日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-10-01 10:00（America/New
+ _York）\n\n统计期：\n2026年9月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-09@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261005T100000
+DTEND;TZID=America/New_York:20261005T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年10月05日 22:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-10-05 10:00（America/New
+ _York）\n\n统计期：\n2026年9月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261023T100000
+DTEND;TZID=Europe/Brussels:20261023T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年10月23日 16:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-10-23 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年10月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261031T093000
+DTEND;TZID=Asia/Shanghai:20261031T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年10月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-10-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年10月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261102T100000
+DTEND;TZID=America/New_York:20261102T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年11月02日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-11-02 10:00（America/New
+ _York）\n\n统计期：\n2026年10月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-10@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261104T100000
+DTEND;TZID=America/New_York:20261104T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年11月04日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-11-04 10:00（America/New
+ _York）\n\n统计期：\n2026年10月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261120T100000
+DTEND;TZID=Europe/Brussels:20261120T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年11月20日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-11-20 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年11月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261130T093000
+DTEND;TZID=Asia/Shanghai:20261130T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年11月30日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-11-30 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年11月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261201T100000
+DTEND;TZID=America/New_York:20261201T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年12月01日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-12-01 10:00（America/New
+ _York）\n\n统计期：\n2026年11月\n\n事件说明：\n调查美国制
+ 造业采购与供应管理活动。50 为扩张与收缩分界，订单
+ 、就业和价格分项可提供增长与通胀线索。\n\n市场关注
+ ：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 工业
+ 与周期股\n📈/📉 原油与铜\n🪙 Bitcoin\n\n预测值：\n（预
+ 留）\n\n前值：\n（预留）\n\n官方来源：\n美国供应管理
+ 协会（ISM）\nhttps://www.ismworld.org/supply-management-news-and-repor
+ ts/reports/ism-pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/s
+ upply-management-news-and-reports/reports/rob-report-calendar/\n\n日程
+ 状态：\nISM 官方 2026 Report Release Date Calendar，已核对至 202
+ 6-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-11@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=America/New_York:20261203T100000
+DTEND;TZID=America/New_York:20261203T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n公
+ 布时间：\n2026年12月03日 23:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-12-03 10:00（America/New
+ _York）\n\n统计期：\n2026年11月\n\n事件说明：\n调查美国服
+ 务业商业活动。服务业在美国经济中占比较高，商业活
+ 动、就业和价格分项常影响增长与通胀预期。\n\n市场关
+ 注：\n📈/📉 美元\n📈/📉 美国国债收益率\n📈/📉 美
+ 股\n📉/📈 黄金\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前
+ 值：\n（预留）\n\n官方来源：\n美国供应管理协会（ISM）
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n\n官方日程：\nhttps://www.ismworld.org/supply-managemen
+ t-news-and-reports/reports/rob-report-calendar/\n\n日程状态：\nISM
+  官方 2026 Report Release Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-tankan-2026-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Tokyo:20261214T085000
+DTEND;TZID=Asia/Tokyo:20261214T092000
+SUMMARY:🇯🇵 日本央行短观调查（Tankan）（⭐⭐⭐ 高影响
+ ）
+DESCRIPTION:🇯🇵 日本央行短观调查（Tankan）\n⭐⭐⭐ 高影
+ 响\n\n公布时间：\n2026年12月14日 07:50（北京时间；日历会
+ 自动转换为你的本地时区）\n原始时区：2026-12-14 08:50（As
+ ia/Tokyo）\n\n统计期：\n2026年12月调查\n\n事件说明：\n日本
+ 央行对企业景气、资本支出、价格与雇佣判断的季度调
+ 查。大型制造业景气判断指数和资本开支计划最受关注
+ 。\n\n市场关注：\n📈/📉 日元\n📈/📉 日本国债收益率\
+ n📈/📉 日经指数\n📈/📉 工业与出口板块\n🪙 Bitcoin\n\n
+ 预测值：\n（预留）\n\n前值：\n（预留）\n\n官方来源：\n
+ 日本银行（Bank of Japan）\nhttps://www.boj.or.jp/en/statistics/tk/in
+ dex.htm\n\n官方日程：\nhttps://www.boj.or.jp/en/statistics/outline/in
+ dex.htm\n\n日程状态：\n高置信候选日期，等待日本银行最
+ 新年度统计表逐项确认。
+LOCATION:日本银行（线上发布）
+URL:https://www.boj.or.jp/en/statistics/tk/index.htm
+CATEGORIES:PMI 与景气调查,日本,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇯🇵 日本央行短观调查（Tankan）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇯🇵 日本央行短观调查（Tankan
+ ）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hcob-pmi-flash-2026-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Europe/Brussels:20261216T100000
+DTEND;TZID=Europe/Brussels:20261216T103000
+SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
+ n\n公布时间：\n2026年12月16日 17:00（北京时间；日历会自
+ 动转换为你的本地时区）\n原始时区：2026-12-16 10:00（Europ
+ e/Brussels）\n\n统计期：\n2026年12月\n\n事件说明：\nS&P Global
+  同场发布欧元区制造业、服务业和综合 PMI 初值。数据
+ 不修订、发布时间早，是观察当月经济活动的重要领先
+ 指标。\n\n市场关注：\n📈/📉 欧元\n📈/📉 欧元区国债
+ 收益率\n📈/📉 欧洲股市\n📈/📉 工业金属与原油\n🪙 B
+ itcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）\n\n官方
+ 来源：\nHCOB / S&P Global\nhttps://www.spglobal.com/market-intelligence
+ /en/solutions/products/pmi\n\n官方日程：\nhttps://www.spglobal.com/ma
+ rket-intelligence/en/solutions/products/pmi\n\n日程状态：\n依据发
+ 行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全
+ 年表，须在每月发布前确认。
+LOCATION:S&P Global（线上发布）
+URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
+CATEGORIES:PMI 与景气调查,欧元区,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HCOB 综合 PMI 初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-official-pmi-2026-12@economic-calendar-pro
+DTSTAMP:20260811T000000Z
+LAST-MODIFIED:20260811T000000Z
+SEQUENCE:2026081101
+DTSTART;TZID=Asia/Shanghai:20261231T093000
+DTEND;TZID=Asia/Shanghai:20261231T100000
+SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
+  高影响\n\n公布时间：\n2026年12月31日 09:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-12-31 0
+ 9:30（Asia/Shanghai）\n\n统计期：\n2026年12月\n\n事件说明：\n
+ 国家统计局发布制造业采购经理指数、非制造业商务活
+ 动指数和综合 PMI。50 为扩张与收缩分界，新订单和价格
+ 分项也受到市场关注。\n\n市场关注：\n📈/📉 人民币\n
+ 📈/📉 A 股与港股\n📈/📉 工业金属\n📈/📉 原油与澳
+ 元\n🪙 Bitcoin\n\n预测值：\n（预留）\n\n前值：\n（预留）
+ \n\n官方来源：\n中华人民共和国国家统计局（NBS）\nhttps:
+ //www.stats.gov.cn/sj/zxfb/\n\n官方日程：\nhttps://www.stats.gov.cn/x
+ w/tjxw/tzgg/202512/t20251224_1962137.html\n\n日程状态：\n国家统计
+ 局 2026 年主要统计信息发布日程表中的初步计划；官方
+ 明确提示日期可能调整。
+LOCATION:国家统计局（线上发布）
+URL:https://www.stats.gov.cn/sj/zxfb/
+CATEGORIES:PMI 与景气调查,中国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇨🇳 中国官方制造业 / 非制造业 P
+ MI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇨🇳 中国官方制造业 / 非制造
+ 业 PMI
+END:VALARM
+END:VEVENT
+END:VCALENDAR

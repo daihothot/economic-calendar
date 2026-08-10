@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "year": 2027,
+  "verifiedAt": "2026-08-11",
+  "revision": 2026081101,
+  "coverageStatus": "partial",
+  "series": [
+    {
+      "type": "us-fomc-decision",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "status": "TENTATIVE",
+      "sourceStatus": "ESTIMATED",
+      "scheduleStatus": "Federal Reserve 已公布 2027 暂定会议日期；官网明确说明须由前一次会议确认。",
+      "entries": [
+        { "id": "us-fomc-2027-01-decision", "date": "2027-01-27", "period": "2027年1月26日至27日会议" },
+        { "id": "us-fomc-2027-03-decision", "date": "2027-03-17", "period": "2027年3月16日至17日会议" },
+        { "id": "us-fomc-2027-04-decision", "date": "2027-04-28", "period": "2027年4月27日至28日会议" },
+        { "id": "us-fomc-2027-06-decision", "date": "2027-06-09", "period": "2027年6月8日至9日会议" },
+        { "id": "us-fomc-2027-07-decision", "date": "2027-07-28", "period": "2027年7月27日至28日会议" },
+        { "id": "us-fomc-2027-09-decision", "date": "2027-09-15", "period": "2027年9月14日至15日会议" },
+        { "id": "us-fomc-2027-10-decision", "date": "2027-10-27", "period": "2027年10月26日至27日会议" },
+        { "id": "us-fomc-2027-12-decision", "date": "2027-12-08", "period": "2027年12月7日至8日会议" }
+      ]
+    },
+    {
+      "type": "us-fed-press-conference",
+      "time": "14:30",
+      "timezone": "America/New_York",
+      "durationMinutes": 60,
+      "status": "TENTATIVE",
+      "sourceStatus": "ESTIMATED",
+      "scheduleStatus": "随 2027 暂定 FOMC 会议安排的候选日期和标准时点；须以美联储后续月历确认。",
+      "entries": [
+        { "id": "us-fomc-2027-01-press", "date": "2027-01-27", "period": "2027年1月26日至27日会议" },
+        { "id": "us-fomc-2027-03-press", "date": "2027-03-17", "period": "2027年3月16日至17日会议" },
+        { "id": "us-fomc-2027-04-press", "date": "2027-04-28", "period": "2027年4月27日至28日会议" },
+        { "id": "us-fomc-2027-06-press", "date": "2027-06-09", "period": "2027年6月8日至9日会议" },
+        { "id": "us-fomc-2027-07-press", "date": "2027-07-28", "period": "2027年7月27日至28日会议" },
+        { "id": "us-fomc-2027-09-press", "date": "2027-09-15", "period": "2027年9月14日至15日会议" },
+        { "id": "us-fomc-2027-10-press", "date": "2027-10-27", "period": "2027年10月26日至27日会议" },
+        { "id": "us-fomc-2027-12-press", "date": "2027-12-08", "period": "2027年12月7日至8日会议" }
+      ]
+    },
+    {
+      "type": "us-fomc-minutes",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "status": "TENTATIVE",
+      "sourceStatus": "ESTIMATED",
+      "scheduleStatus": "依据美联储“政策决定后三周发布会议纪要”的官方规则推导；等待 2027 月历逐项确认。",
+      "entries": [
+        { "id": "us-fomc-2027-01-minutes", "date": "2027-02-17", "period": "2027年1月26日至27日会议纪要" },
+        { "id": "us-fomc-2027-03-minutes", "date": "2027-04-07", "period": "2027年3月16日至17日会议纪要" },
+        { "id": "us-fomc-2027-04-minutes", "date": "2027-05-19", "period": "2027年4月27日至28日会议纪要" },
+        { "id": "us-fomc-2027-06-minutes", "date": "2027-06-30", "period": "2027年6月8日至9日会议纪要" },
+        { "id": "us-fomc-2027-07-minutes", "date": "2027-08-18", "period": "2027年7月27日至28日会议纪要" },
+        { "id": "us-fomc-2027-09-minutes", "date": "2027-10-06", "period": "2027年9月14日至15日会议纪要" },
+        { "id": "us-fomc-2027-10-minutes", "date": "2027-11-17", "period": "2027年10月26日至27日会议纪要" },
+        { "id": "us-fomc-2027-12-minutes", "date": "2027-12-29", "period": "2027年12月7日至8日会议纪要" }
+      ]
+    },
+    {
+      "type": "eu-ecb-decision",
+      "time": "14:15",
+      "timezone": "Europe/Brussels",
+      "scheduleStatus": "ECB 官方 2027 货币政策会议日程；后续以 ECB 最新会议日历为准。",
+      "entries": [
+        { "id": "eu-ecb-2027-02-decision", "date": "2027-02-04", "period": "2027年2月货币政策会议" },
+        { "id": "eu-ecb-2027-03-decision", "date": "2027-03-18", "period": "2027年3月货币政策会议" },
+        { "id": "eu-ecb-2027-04-decision", "date": "2027-04-29", "period": "2027年4月货币政策会议" },
+        { "id": "eu-ecb-2027-06-decision", "date": "2027-06-10", "period": "2027年6月货币政策会议" },
+        { "id": "eu-ecb-2027-07-decision", "date": "2027-07-22", "period": "2027年7月货币政策会议" },
+        { "id": "eu-ecb-2027-09-decision", "date": "2027-09-09", "period": "2027年9月货币政策会议" },
+        { "id": "eu-ecb-2027-10-decision", "date": "2027-10-28", "period": "2027年10月货币政策会议" },
+        { "id": "eu-ecb-2027-12-decision", "date": "2027-12-16", "period": "2027年12月货币政策会议" }
+      ]
+    },
+    {
+      "type": "eu-ecb-press-conference",
+      "time": "14:45",
+      "timezone": "Europe/Brussels",
+      "durationMinutes": 60,
+      "scheduleStatus": "ECB 官方 2027 货币政策会议日程；新闻发布会于决定发布后举行。",
+      "entries": [
+        { "id": "eu-ecb-2027-02-press", "date": "2027-02-04", "period": "2027年2月货币政策会议" },
+        { "id": "eu-ecb-2027-03-press", "date": "2027-03-18", "period": "2027年3月货币政策会议" },
+        { "id": "eu-ecb-2027-04-press", "date": "2027-04-29", "period": "2027年4月货币政策会议" },
+        { "id": "eu-ecb-2027-06-press", "date": "2027-06-10", "period": "2027年6月货币政策会议" },
+        { "id": "eu-ecb-2027-07-press", "date": "2027-07-22", "period": "2027年7月货币政策会议" },
+        { "id": "eu-ecb-2027-09-press", "date": "2027-09-09", "period": "2027年9月货币政策会议" },
+        { "id": "eu-ecb-2027-10-press", "date": "2027-10-28", "period": "2027年10月货币政策会议" },
+        { "id": "eu-ecb-2027-12-press", "date": "2027-12-16", "period": "2027年12月货币政策会议" }
+      ]
+    },
+    {
+      "type": "jp-boj-decision",
+      "time": "00:00",
+      "timezone": "Asia/Tokyo",
+      "allDay": true,
+      "scheduleStatus": "日本银行官方 2027 会议日期已确认；政策决定在会议结束后立即发布，官方不设固定时刻。",
+      "note": "因官方不设固定发布时间，本事件按全天保存，只提供提前 1 天提醒。",
+      "entries": [
+        { "id": "jp-boj-2027-01-decision", "date": "2027-01-22", "period": "2027年1月会议（结束日 1月22日）" },
+        { "id": "jp-boj-2027-03-decision", "date": "2027-03-18", "period": "2027年3月会议（结束日 3月18日）" },
+        { "id": "jp-boj-2027-04-decision", "date": "2027-04-28", "period": "2027年4月会议（结束日 4月28日）" },
+        { "id": "jp-boj-2027-06-decision", "date": "2027-06-11", "period": "2027年6月会议（结束日 6月11日）" },
+        { "id": "jp-boj-2027-07-decision", "date": "2027-07-22", "period": "2027年7月会议（结束日 7月22日）" },
+        { "id": "jp-boj-2027-09-decision", "date": "2027-09-22", "period": "2027年9月会议（结束日 9月22日）" },
+        { "id": "jp-boj-2027-10-decision", "date": "2027-10-29", "period": "2027年10月会议（结束日 10月29日）" },
+        { "id": "jp-boj-2027-12-decision", "date": "2027-12-17", "period": "2027年12月会议（结束日 12月17日）" }
+      ]
+    },
+    {
+      "type": "jp-boj-press-conference",
+      "time": "15:30",
+      "timezone": "Asia/Tokyo",
+      "durationMinutes": 60,
+      "timePrecision": "approximate",
+      "scheduleStatus": "总裁记者会通常在会议结束日 15:30 举行；具体时间须以日本银行当日公告为准。",
+      "entries": [
+        { "id": "jp-boj-2027-01-press", "date": "2027-01-22", "period": "2027年1月会议" },
+        { "id": "jp-boj-2027-03-press", "date": "2027-03-18", "period": "2027年3月会议" },
+        { "id": "jp-boj-2027-04-press", "date": "2027-04-28", "period": "2027年4月会议" },
+        { "id": "jp-boj-2027-06-press", "date": "2027-06-11", "period": "2027年6月会议" },
+        { "id": "jp-boj-2027-07-press", "date": "2027-07-22", "period": "2027年7月会议" },
+        { "id": "jp-boj-2027-09-press", "date": "2027-09-22", "period": "2027年9月会议" },
+        { "id": "jp-boj-2027-10-press", "date": "2027-10-29", "period": "2027年10月会议" },
+        { "id": "jp-boj-2027-12-press", "date": "2027-12-17", "period": "2027年12月会议" }
+      ]
+    }
+  ]
+}
