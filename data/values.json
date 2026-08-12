@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
-  "updatedAt": "2026-08-11T13:40:36.803Z",
+  "revision": 5,
+  "updatedAt": "2026-08-12T13:44:20.136Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -1432,8 +1432,8 @@
       }
     },
     "eu-ecb-2026-09-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1455,7 +1455,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1483,8 +1483,8 @@
       }
     },
     "eu-ecb-2026-10-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1506,7 +1506,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1534,8 +1534,8 @@
       }
     },
     "eu-ecb-2026-12-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1557,7 +1557,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1585,8 +1585,8 @@
       }
     },
     "eu-ecb-2027-02-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1608,7 +1608,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1636,8 +1636,8 @@
       }
     },
     "eu-ecb-2027-03-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1659,7 +1659,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1687,8 +1687,8 @@
       }
     },
     "eu-ecb-2027-04-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1710,7 +1710,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1738,8 +1738,8 @@
       }
     },
     "eu-ecb-2027-06-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1761,7 +1761,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1789,8 +1789,8 @@
       }
     },
     "eu-ecb-2027-07-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1812,7 +1812,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1840,8 +1840,8 @@
       }
     },
     "eu-ecb-2027-09-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1863,7 +1863,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1891,8 +1891,8 @@
       }
     },
     "eu-ecb-2027-10-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1914,7 +1914,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1942,8 +1942,8 @@
       }
     },
     "eu-ecb-2027-12-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1965,7 +1965,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -4436,8 +4436,8 @@
       }
     },
     "us-cpi-2026-07": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4445,7 +4445,7 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-06-01）",
           "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-06-01）",
@@ -4967,8 +4967,8 @@
       }
     },
     "us-fomc-2026-09-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4989,7 +4989,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5039,8 +5039,8 @@
       }
     },
     "us-fomc-2026-10-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5061,7 +5061,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5111,8 +5111,8 @@
       }
     },
     "us-fomc-2026-12-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5133,7 +5133,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5183,8 +5183,8 @@
       }
     },
     "us-fomc-2027-01-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5205,7 +5205,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5255,8 +5255,8 @@
       }
     },
     "us-fomc-2027-03-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5277,7 +5277,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5327,8 +5327,8 @@
       }
     },
     "us-fomc-2027-04-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5349,7 +5349,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5399,8 +5399,8 @@
       }
     },
     "us-fomc-2027-06-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5421,7 +5421,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5471,8 +5471,8 @@
       }
     },
     "us-fomc-2027-07-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5493,7 +5493,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5543,8 +5543,8 @@
       }
     },
     "us-fomc-2027-09-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5565,7 +5565,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5615,8 +5615,8 @@
       }
     },
     "us-fomc-2027-10-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5637,7 +5637,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5687,8 +5687,8 @@
       }
     },
     "us-fomc-2027-12-decision": {
-      "revision": 2,
-      "updatedAt": "2026-08-11T13:40:36.803Z",
+      "revision": 3,
+      "updatedAt": "2026-08-12T13:44:20.136Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5709,7 +5709,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-08-11",
+        "asOf": "2026-08-12",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
