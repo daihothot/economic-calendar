@@ -2121,8 +2121,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T075109Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081105
 DTSTART;TZID=Asia/Shanghai:20260820T090000
 DTEND;TZID=Asia/Shanghai:20260820T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -2172,8 +2172,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-09-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20260910T141500
 DTEND;TZID=Europe/Brussels:20260910T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2190,7 +2190,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操作
- 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-12\n
+ 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-13\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -2268,8 +2268,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-09-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20260916T140000
 DTEND;TZID=America/New_York:20260916T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -2285,7 +2285,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -2455,8 +2455,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T075109Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081105
 DTSTART;TZID=Asia/Shanghai:20260921T090000
 DTEND;TZID=Asia/Shanghai:20260921T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -2472,15 +2472,16 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与港
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
  ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1 年
- 期 LPR：本次自动获取失败\n5 年期以上 LPR：本次自动获
- 取失败\n数据来源：中国外汇交易中心暨全国银行间同业
- 拆借中心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官
- 方来源：\n中国人民银行 / 全国银行间同业拆借中心\nhttp
+ 期 LPR：免费数据源尚未提供本统计期数值（源端最新数
+ 据期 2026-07-20）\n5 年期以上 LPR：免费数据源尚未提供本
+ 统计期数值（源端最新数据期 2026-07-20）\n数据来源：中
+ 国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.chi
+ namoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民银
+ 行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengcehuo
+ bisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程：\nhttp
  s://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\
- n\n🔗 官方日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/1252
- 13/125440/3876551/index.html\n\n📋 日程状态：\n按每月 20 日遇
- 休息日顺延规则生成的候选日期，等待当月官方公告确
- 认。
+ n\n📋 日程状态：\n按每月 20 日遇休息日顺延规则生成的
+ 候选日期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -2551,8 +2552,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T075109Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081105
 DTSTART;TZID=Asia/Shanghai:20261020T090000
 DTEND;TZID=Asia/Shanghai:20261020T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -2568,14 +2569,16 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
-  年期 LPR：本次自动获取失败\n5 年期以上 LPR：本次自动
- 获取失败\n数据来源：中国外汇交易中心暨全国银行间同
- 业拆借中心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️
-  官方来源：\n中国人民银行 / 全国银行间同业拆借中心\n
- https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.h
- tml\n\n🔗 官方日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/
- 125213/125440/3876551/index.html\n\n📋 日程状态：\n按每月 20 日
- 规则生成的候选日期，等待当月官方公告确认。
+  年期 LPR：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-07-20）\n5 年期以上 LPR：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-07-20）\n数据来源：
+ 中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
+ chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
+ 银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
+ huobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程：\nh
+ ttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.ht
+ ml\n\n📋 日程状态：\n按每月 20 日规则生成的候选日期，
+ 等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -2602,8 +2605,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261028T140000
 DTEND;TZID=America/New_York:20261028T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -2619,7 +2622,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -2697,8 +2700,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20261029T141500
 DTEND;TZID=Europe/Brussels:20261029T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2716,7 +2719,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操
  作利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-1
- 2\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 3\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -2929,8 +2932,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T075109Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081105
 DTSTART;TZID=Asia/Shanghai:20261120T090000
 DTEND;TZID=Asia/Shanghai:20261120T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -2946,14 +2949,16 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
-  年期 LPR：本次自动获取失败\n5 年期以上 LPR：本次自动
- 获取失败\n数据来源：中国外汇交易中心暨全国银行间同
- 业拆借中心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️
-  官方来源：\n中国人民银行 / 全国银行间同业拆借中心\n
- https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.h
- tml\n\n🔗 官方日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/
- 125213/125440/3876551/index.html\n\n📋 日程状态：\n按每月 20 日
- 规则生成的候选日期，等待当月官方公告确认。
+  年期 LPR：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-07-20）\n5 年期以上 LPR：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-07-20）\n数据来源：
+ 中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
+ chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
+ 银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
+ huobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程：\nh
+ ttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.ht
+ ml\n\n📋 日程状态：\n按每月 20 日规则生成的候选日期，
+ 等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -2980,8 +2985,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -2997,7 +3002,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -3075,8 +3080,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20261217T141500
 DTEND;TZID=Europe/Brussels:20261217T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3094,7 +3099,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操
  作利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-1
- 2\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 3\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -3263,8 +3268,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T075109Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081105
 DTSTART;TZID=Asia/Shanghai:20261221T090000
 DTEND;TZID=Asia/Shanghai:20261221T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -3280,15 +3285,16 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
-  年期 LPR：本次自动获取失败\n5 年期以上 LPR：本次自动
- 获取失败\n数据来源：中国外汇交易中心暨全国银行间同
- 业拆借中心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️
-  官方来源：\n中国人民银行 / 全国银行间同业拆借中心\n
- https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.h
- tml\n\n🔗 官方日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/
- 125213/125440/3876551/index.html\n\n📋 日程状态：\n按每月 20 日
- 遇休息日顺延规则生成的候选日期，等待当月官方公告
- 确认。
+  年期 LPR：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-07-20）\n5 年期以上 LPR：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-07-20）\n数据来源：
+ 中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
+ chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
+ 银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
+ huobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程：\nh
+ ttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.ht
+ ml\n\n📋 日程状态：\n按每月 20 日遇休息日顺延规则生成
+ 的候选日期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -3450,8 +3456,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-01-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20270127T140000
 DTEND;TZID=America/New_York:20270127T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -3467,7 +3473,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -3545,8 +3551,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-02-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20270204T141500
 DTEND;TZID=Europe/Brussels:20270204T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3563,7 +3569,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操作
- 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-12\n
+ 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-13\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -3686,8 +3692,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-03-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20270317T140000
 DTEND;TZID=America/New_York:20270317T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -3703,7 +3709,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -3828,8 +3834,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-03-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20270318T141500
 DTEND;TZID=Europe/Brussels:20270318T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3846,7 +3852,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操作
- 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-12\n
+ 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-13\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -4060,8 +4066,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-04-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20270428T140000
 DTEND;TZID=America/New_York:20270428T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -4077,7 +4083,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -4199,8 +4205,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-04-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20270429T141500
 DTEND;TZID=Europe/Brussels:20270429T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -4217,7 +4223,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操作
- 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-12\n
+ 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-13\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -4340,8 +4346,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-06-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20270609T140000
 DTEND;TZID=America/New_York:20270609T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -4357,7 +4363,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官
  方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金目
  标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据期
- ：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED 获
+ ：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED 获
  取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n\n
  🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve）\
  nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n🔗
@@ -4435,8 +4441,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-06-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20270610T141500
 DTEND;TZID=Europe/Brussels:20270610T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -4453,7 +4459,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操作
- 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-12\n
+ 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-13\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -4714,8 +4720,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-07-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20270722T141500
 DTEND;TZID=Europe/Brussels:20270722T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -4732,7 +4738,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操作
- 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-12\n
+ 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-13\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -4854,8 +4860,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-07-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20270728T140000
 DTEND;TZID=America/New_York:20270728T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -4871,7 +4877,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -4994,8 +5000,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-09-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20270909T141500
 DTEND;TZID=Europe/Brussels:20270909T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -5012,7 +5018,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操作
- 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-12\n
+ 利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-13\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -5090,8 +5096,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-09-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20270915T140000
 DTEND;TZID=America/New_York:20270915T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5107,7 +5113,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5321,8 +5327,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20271027T140000
 DTEND;TZID=America/New_York:20271027T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5338,7 +5344,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5416,8 +5422,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20271028T141500
 DTEND;TZID=Europe/Brussels:20271028T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -5435,7 +5441,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操
  作利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-1
- 2\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 3\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -5648,8 +5654,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20271208T140000
 DTEND;TZID=America/New_York:20271208T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5665,7 +5671,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.50%\n联邦基金目标区间上限：3.75%\n数据
- 期：2026-08-12\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-08-13\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5743,8 +5749,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260812T134420Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260813T134510Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20271216T141500
 DTEND;TZID=Europe/Brussels:20271216T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -5762,7 +5768,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.25%\n主要再融资操
  作利率：2.40%\n边际贷款机制利率：2.65%\n数据期：2026-08-1
- 2\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 3\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
