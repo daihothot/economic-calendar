@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 14,
-  "updatedAt": "2026-08-18T13:06:12.893Z",
+  "revision": 15,
+  "updatedAt": "2026-08-18T18:54:50.766Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -7738,8 +7738,8 @@
       }
     },
     "us-ppi-2026-08": {
-      "revision": 3,
-      "updatedAt": "2026-08-18T13:06:12.893Z",
+      "revision": 4,
+      "updatedAt": "2026-08-18T18:54:50.766Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7749,8 +7749,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
@@ -7767,8 +7767,8 @@
       }
     },
     "us-ppi-2026-09": {
-      "revision": 3,
-      "updatedAt": "2026-08-18T13:06:12.893Z",
+      "revision": 4,
+      "updatedAt": "2026-08-18T18:54:50.766Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7778,8 +7778,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
@@ -7787,16 +7787,16 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
       }
     },
     "us-ppi-2026-10": {
-      "revision": 3,
-      "updatedAt": "2026-08-18T13:06:12.893Z",
+      "revision": 4,
+      "updatedAt": "2026-08-18T18:54:50.766Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7806,8 +7806,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
@@ -7815,16 +7815,16 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
       }
     },
     "us-ppi-2026-11": {
-      "revision": 3,
-      "updatedAt": "2026-08-18T13:06:12.893Z",
+      "revision": 4,
+      "updatedAt": "2026-08-18T18:54:50.766Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7834,8 +7834,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
@@ -7843,8 +7843,8 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"

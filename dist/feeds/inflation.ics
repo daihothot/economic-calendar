@@ -2710,8 +2710,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260818T130612Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260818T185450Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20260910T083000
 DTEND;TZID=America/New_York:20260910T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -3064,8 +3064,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260818T130612Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260818T185450Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261015T083000
 DTEND;TZID=America/New_York:20261015T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -3081,12 +3081,14 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
  n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
- ：本次自动获取失败\nPPI 环比（季调）：本次自动获取
- 失败\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
- /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
- www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
- s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
- 对至 2026-08-11；后续以官方最新公告为准。
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-07-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-07-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -3370,8 +3372,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260818T130612Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260818T185450Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261113T083000
 DTEND;TZID=America/New_York:20261113T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -3387,12 +3389,14 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
  n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
- ：本次自动获取失败\nPPI 环比（季调）：本次自动获取
- 失败\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
- /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
- www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
- s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
- 对至 2026-08-11；后续以官方最新公告为准。
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-07-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-07-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -3676,8 +3680,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260818T130612Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260818T185450Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261215T083000
 DTEND;TZID=America/New_York:20261215T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -3693,12 +3697,14 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
  n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
- ：本次自动获取失败\nPPI 环比（季调）：本次自动获取
- 失败\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
- /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
- www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
- s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
- 对至 2026-08-11；后续以官方最新公告为准。
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-07-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-07-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
