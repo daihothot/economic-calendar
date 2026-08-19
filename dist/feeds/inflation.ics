@@ -2307,8 +2307,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260819T130720Z
+SEQUENCE:2026081104
 DTSTART;TZID=Europe/Brussels:20260731T110000
 DTEND;TZID=Europe/Brussels:20260731T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2323,14 +2323,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nHICP 同比：2.8%\n数据期：2026-06-01\n数据来源：欧
- 盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurosta
- t/web/hicp\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttp
- s://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.eur
- opa.eu/eurostat/news/release-calendar\n\n📋 日程状态：\n高置信
- 候选日期，当前尚未逐项完成 Eurostat 官方发布日历复核
- ；通常风险为前后一个工作日。
+ \n\n✅ 实际值：\nHICP 同比：2.9%\n数据期：2026-07-01\n数据
+ 来源：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europ
+ a.eu/eurostat/web/hicp\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nHICP 同比：2.8%\n数据期：2026-06
+ -01\n数据来源：欧盟统计局（Eurostat，经 FRED 获取）\nhttps
+ ://ec.europa.eu/eurostat/web/hicp\n\n🏛️ 官方来源：\n欧盟统计
+ 局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方
+ 日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日
+ 程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2608,8 +2610,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260819T130720Z
+SEQUENCE:2026081104
 DTSTART;TZID=Europe/Brussels:20260901T110000
 DTEND;TZID=Europe/Brussels:20260901T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2625,14 +2627,13 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
  \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
- 源端最新数据期 2026-06-01）\n数据来源：欧盟统计局（Euro
- stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
- ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
- urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
- ws/release-calendar\n\n📋 日程状态：\n高置信候选日期，当
- 前尚未逐项完成 Eurostat 官方发布日历复核；通常风险为
- 前后一个工作日。
+  前值：\nHICP 同比：2.9%\n数据期：2026-07-01\n数据来源：欧
+ 盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurosta
+ t/web/hicp\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttp
+ s://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.eur
+ opa.eu/eurostat/news/release-calendar\n\n📋 日程状态：\n高置信
+ 候选日期，当前尚未逐项完成 Eurostat 官方发布日历复核
+ ；通常风险为前后一个工作日。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2910,8 +2911,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260819T130720Z
+SEQUENCE:2026081104
 DTSTART;TZID=Europe/Brussels:20260930T110000
 DTEND;TZID=Europe/Brussels:20260930T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2928,7 +2929,7 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
  \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
   前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
- 源端最新数据期 2026-06-01）\n数据来源：欧盟统计局（Euro
+ 源端最新数据期 2026-07-01）\n数据来源：欧盟统计局（Euro
  stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
  ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
  urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
@@ -3218,8 +3219,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260819T130720Z
+SEQUENCE:2026081104
 DTSTART;TZID=Europe/Brussels:20261030T110000
 DTEND;TZID=Europe/Brussels:20261030T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3236,7 +3237,7 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-06-01）\n数据来源：欧盟统计局
+ 值（源端最新数据期 2026-07-01）\n数据来源：欧盟统计局
  （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
  \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
  a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
@@ -3526,8 +3527,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260819T130720Z
+SEQUENCE:2026081104
 DTSTART;TZID=Europe/Brussels:20261201T110000
 DTEND;TZID=Europe/Brussels:20261201T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3544,7 +3545,7 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-06-01）\n数据来源：欧盟统计局
+ 值（源端最新数据期 2026-07-01）\n数据来源：欧盟统计局
  （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
  \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
  a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
