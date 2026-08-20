@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-08-11",
-  "sourceSha256": "a9dd465fa54a3ca4c304c7155a4685e52473a1b4aa243c029313898457fe2fc4",
+  "sourceSha256": "0e59ebfb1e5f9d3ba691c24ecf3192611055e2c0acd043f054ecc5e4a9ab507c",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -17,19 +17,19 @@
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
       "eventCount": 289,
-      "sha256": "36fae60bbcd4ce63cb37a2d23342104f054995f8d5b72286e9f38efd1f28b969"
+      "sha256": "5a16c1241b20e7445af27ee800437ac0d098189bb3834d35b5bd3459403e174c"
     },
     {
       "fileName": "feeds/us.ics",
       "name": "美国高影响财经日历 Pro",
       "eventCount": 133,
-      "sha256": "c73c72a9d87824f9161c165f2dc82b2bdc7e2978110206e316e72216d805a4c3"
+      "sha256": "bf7b703a204cf20ec444da7d6fece5599bfc75b9ad3bc12b7d7c3748c87d1be9"
     },
     {
       "fileName": "feeds/eurozone.ics",
       "name": "欧元区高影响财经日历 Pro",
       "eventCount": 60,
-      "sha256": "6cc48714e87c45eae3b34de89ad71097c19f47d3f2bc6fe769b2bd5e71407f35"
+      "sha256": "b58ba1911998f875d4c82f2b40a555ec8677e8542aed25009a5163ec000712d4"
     },
     {
       "fileName": "feeds/japan.ics",
@@ -47,7 +47,7 @@
       "fileName": "feeds/central-bank.ics",
       "name": "央行政策事件 Pro",
       "eventCount": 124,
-      "sha256": "a1219347ab98cfdb7b83d8f8f79b952f2d8aa0652b96d162ac9bec2172f3127a"
+      "sha256": "b3e761816e43649c05d2e330999c8cf591707e59331d3bc9cfabb3ff7f00fd80"
     },
     {
       "fileName": "feeds/inflation.ics",
@@ -77,13 +77,13 @@
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",
       "name": "2026 中文财经日历（全球高影响 Pro）",
       "eventCount": 233,
-      "sha256": "f3e8f22b688797d15f5838f06828f3a7e79c7bb5be8fc10d8be8d32c694f2374"
+      "sha256": "ea2bd55ef607a5e0ba2ec4976848f7cbfaea181da1259c3cf73fd660e0db7d9a"
     },
     {
       "fileName": "2026_中文财经日历_US_高影响_Pro.ics",
       "name": "2026 中文财经日历（美国高影响 Pro）",
       "eventCount": 109,
-      "sha256": "7b6fb1e36eb6fbac920af3fe5c0bed9334185864684d0963490803261a05d4cd"
+      "sha256": "d2dede44c8850fb62b7ec66e5fe3c43093293b90a0f54016493b23e1202eefc9"
     }
   ]
 }
