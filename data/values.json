@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 16,
-  "updatedAt": "2026-08-19T13:07:20.981Z",
+  "revision": 17,
+  "updatedAt": "2026-08-20T01:50:15.617Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -680,8 +680,8 @@
       }
     },
     "cn-lpr-2026-08": {
-      "revision": 3,
-      "updatedAt": "2026-08-13T13:45:10.105Z",
+      "revision": 4,
+      "updatedAt": "2026-08-20T01:50:15.617Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -689,11 +689,12 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "available",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：3.00%",
+          "5 年期以上 LPR：3.50%"
         ],
+        "asOf": "2026-08-20",
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"
       },
@@ -709,8 +710,8 @@
       }
     },
     "cn-lpr-2026-09": {
-      "revision": 3,
-      "updatedAt": "2026-08-13T13:45:10.105Z",
+      "revision": 4,
+      "updatedAt": "2026-08-20T01:50:15.617Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -720,25 +721,26 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）",
+          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）"
         ],
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"
       },
       "previous": {
-        "status": "unavailable",
+        "status": "available",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：3.00%",
+          "5 年期以上 LPR：3.50%"
         ],
+        "asOf": "2026-08-20",
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"
       }
     },
     "cn-lpr-2026-10": {
-      "revision": 3,
-      "updatedAt": "2026-08-13T13:45:10.105Z",
+      "revision": 4,
+      "updatedAt": "2026-08-20T01:50:15.617Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -748,8 +750,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）",
+          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）"
         ],
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"
@@ -757,16 +759,16 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）",
+          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）"
         ],
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"
       }
     },
     "cn-lpr-2026-11": {
-      "revision": 3,
-      "updatedAt": "2026-08-13T13:45:10.105Z",
+      "revision": 4,
+      "updatedAt": "2026-08-20T01:50:15.617Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -776,8 +778,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）",
+          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）"
         ],
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"
@@ -785,16 +787,16 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）",
+          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）"
         ],
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"
       }
     },
     "cn-lpr-2026-12": {
-      "revision": 3,
-      "updatedAt": "2026-08-13T13:45:10.105Z",
+      "revision": 4,
+      "updatedAt": "2026-08-20T01:50:15.617Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -804,8 +806,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）",
+          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）"
         ],
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"
@@ -813,8 +815,8 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）",
-          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-20）"
+          "1 年期 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）",
+          "5 年期以上 LPR：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-20）"
         ],
         "sourceName": "中国外汇交易中心暨全国银行间同业拆借中心",
         "sourceUrl": "https://www.chinamoney.com.cn/chinese/bklpr/"

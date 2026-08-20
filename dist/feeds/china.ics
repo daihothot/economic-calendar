@@ -1341,8 +1341,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T134510Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260820T015015Z
+SEQUENCE:2026081106
 DTSTART;TZID=Asia/Shanghai:20260820T090000
 DTEND;TZID=Asia/Shanghai:20260820T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -1356,16 +1356,19 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  与住房按揭预期。\n\n🎯 市场关注：\n💱 外汇｜人民币
  与离岸人民币　↗｜↘\n🏛️ 债券｜中国国债收益率　
  ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与港
- 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
- ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1 年
- 期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-07-20\n数
- 据来源：中国外汇交易中心暨全国银行间同业拆借中心\n
- https://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n
- 中国人民银行 / 全国银行间同业拆借中心\nhttps://www.pbc.go
- v.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方
- 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
- 551/index.html\n\n📋 日程状态：\n按每月 20 日规则生成的候
- 选日期，等待当月官方公告确认。
+ 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值
+ ：\n1 年期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-08
+ -20\n数据来源：中国外汇交易中心暨全国银行间同业拆借
+ 中心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🔮 预测值：\
+ n官方数据源不提供市场一致预期\n\n📌 前值：\n1 年期 LP
+ R：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-07-20\n数据来
+ 源：中国外汇交易中心暨全国银行间同业拆借中心\nhttps:
+ //www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国
+ 人民银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/z
+ hengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程
+ ：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/in
+ dex.html\n\n📋 日程状态：\n按每月 20 日规则生成的候选日
+ 期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -1496,8 +1499,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T134510Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260820T015015Z
+SEQUENCE:2026081106
 DTSTART;TZID=Asia/Shanghai:20260921T090000
 DTEND;TZID=Asia/Shanghai:20260921T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -1513,16 +1516,14 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与港
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
  ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1 年
- 期 LPR：免费数据源尚未提供本统计期数值（源端最新数
- 据期 2026-07-20）\n5 年期以上 LPR：免费数据源尚未提供本
- 统计期数值（源端最新数据期 2026-07-20）\n数据来源：中
- 国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.chi
- namoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民银
- 行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengcehuo
- bisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程：\nhttp
- s://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\
- n\n📋 日程状态：\n按每月 20 日遇休息日顺延规则生成的
- 候选日期，等待当月官方公告确认。
+ 期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-08-20\n数
+ 据来源：中国外汇交易中心暨全国银行间同业拆借中心\n
+ https://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n
+ 中国人民银行 / 全国银行间同业拆借中心\nhttps://www.pbc.go
+ v.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n📋 日程状态：\n按每月 20 日遇休息日顺延
+ 规则生成的候选日期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -1705,8 +1706,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T134510Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260820T015015Z
+SEQUENCE:2026081106
 DTSTART;TZID=Asia/Shanghai:20261020T090000
 DTEND;TZID=Asia/Shanghai:20261020T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -1723,8 +1724,8 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
   年期 LPR：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-07-20）\n5 年期以上 LPR：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-07-20）\n数据来源：
+ 数据期 2026-08-20）\n5 年期以上 LPR：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-08-20）\n数据来源：
  中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
  chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
  银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
@@ -1862,8 +1863,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T134510Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260820T015015Z
+SEQUENCE:2026081106
 DTSTART;TZID=Asia/Shanghai:20261120T090000
 DTEND;TZID=Asia/Shanghai:20261120T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -1880,8 +1881,8 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
   年期 LPR：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-07-20）\n5 年期以上 LPR：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-07-20）\n数据来源：
+ 数据期 2026-08-20）\n5 年期以上 LPR：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-08-20）\n数据来源：
  中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
  chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
  银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
@@ -2019,8 +2020,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260813T134510Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260820T015015Z
+SEQUENCE:2026081106
 DTSTART;TZID=Asia/Shanghai:20261221T090000
 DTEND;TZID=Asia/Shanghai:20261221T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -2037,8 +2038,8 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
   年期 LPR：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-07-20）\n5 年期以上 LPR：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-07-20）\n数据来源：
+ 数据期 2026-08-20）\n5 年期以上 LPR：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-08-20）\n数据来源：
  中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
  chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
  银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
