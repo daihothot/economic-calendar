@@ -1210,8 +1210,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260821T015604Z
+SEQUENCE:2026081104
 DTSTART;TZID=Asia/Tokyo:20260821T083000
 DTEND;TZID=Asia/Tokyo:20260821T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1225,16 +1225,20 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  本央行政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜
  日元与主要货币对　↗｜↘\n🏛️ 债券｜日本国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
- 指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
- 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：1.7%\n核心 CPI 同比（除生鲜食品）：1.5%\n核
- 心核心 CPI 同比（除生鲜食品及能源）：1.7%\n数据期：202
- 6-06-01\n数据来源：日本总务省统计局（经 DBnomics 获取）\
- nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日
- 本总务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go
- .jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/engl
- ish/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2
- 026 CPI 官方发布日程。
+ 指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际
+ 值：\n全国 CPI 同比：2.1%\n核心 CPI 同比（除生鲜食品）
+ ：1.8%\n核心核心 CPI 同比（除生鲜食品及能源）：1.9%\n数
+ 据期：2026-07-01\n数据来源：日本总务省统计局（经 DBnomic
+ s 获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🔮 预测值：
+ \n官方数据源不提供市场一致预期\n\n📌 前值：\n全国 CPI
+  同比：1.7%\n核心 CPI 同比（除生鲜食品）：1.5%\n核心核
+ 心 CPI 同比（除生鲜食品及能源）：1.7%\n数据期：2026-06-0
+ 1\n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps
+ ://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
+ 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
+ glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
+ ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
+ I 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -1357,8 +1361,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260821T015604Z
+SEQUENCE:2026081104
 DTSTART;TZID=Asia/Tokyo:20260918T083000
 DTEND;TZID=Asia/Tokyo:20260918T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1374,17 +1378,14 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-06-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-06
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-06-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ 国 CPI 同比：2.1%\n核心 CPI 同比（除生鲜食品）：1.8%\n核
+ 心核心 CPI 同比（除生鲜食品及能源）：1.9%\n数据期：202
+ 6-07-01\n数据来源：日本总务省统计局（经 DBnomics 获取）\
+ nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日
+ 本总务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go
+ .jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/engl
+ ish/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2
+ 026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -1503,8 +1504,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260821T015604Z
+SEQUENCE:2026081104
 DTSTART;TZID=Asia/Tokyo:20261023T083000
 DTEND;TZID=Asia/Tokyo:20261023T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1521,10 +1522,10 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-06-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-06
+ 新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-07
  -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-06-01）
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
  \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
  //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
  务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
@@ -1698,8 +1699,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260821T015604Z
+SEQUENCE:2026081104
 DTSTART;TZID=Asia/Tokyo:20261120T083000
 DTEND;TZID=Asia/Tokyo:20261120T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1716,10 +1717,10 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-06-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-06
+ 新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-07
  -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-06-01）
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
  \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
  //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
  务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
@@ -1896,8 +1897,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260821T015604Z
+SEQUENCE:2026081104
 DTSTART;TZID=Asia/Tokyo:20261218T083000
 DTEND;TZID=Asia/Tokyo:20261218T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1914,10 +1915,10 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-06-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-06
+ 新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-07
  -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-06-01）
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
  \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
  //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
  务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
