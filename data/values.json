@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 41,
-  "updatedAt": "2026-09-05T04:23:18.931Z",
+  "revision": 42,
+  "updatedAt": "2026-09-05T10:31:42.425Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -94,8 +94,8 @@
       }
     },
     "cn-cpi-ppi-2026-03": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -106,7 +106,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -123,8 +123,8 @@
       }
     },
     "cn-cpi-ppi-2026-04": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -135,7 +135,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -144,15 +144,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-05": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -163,7 +163,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -172,15 +172,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-06": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -191,7 +191,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -200,15 +200,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-07": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -219,7 +219,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -228,15 +228,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-08": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -247,7 +247,7 @@
         "status": "pending",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -256,15 +256,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-09": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -275,7 +275,7 @@
         "status": "pending",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -284,15 +284,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-10": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -303,7 +303,7 @@
         "status": "pending",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -312,15 +312,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-11": {
-      "revision": 4,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 5,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -331,7 +331,7 @@
         "status": "pending",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -340,7 +340,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -883,8 +883,8 @@
       }
     },
     "cn-official-pmi-2026-03": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -894,7 +894,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -912,8 +912,8 @@
       }
     },
     "cn-official-pmi-2026-04": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -923,7 +923,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -932,7 +932,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -940,8 +940,8 @@
       }
     },
     "cn-official-pmi-2026-05": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -951,7 +951,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -960,7 +960,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -968,8 +968,8 @@
       }
     },
     "cn-official-pmi-2026-06": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -979,7 +979,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -988,7 +988,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -996,8 +996,8 @@
       }
     },
     "cn-official-pmi-2026-07": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1007,7 +1007,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1016,7 +1016,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1024,8 +1024,8 @@
       }
     },
     "cn-official-pmi-2026-08": {
-      "revision": 3,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 4,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1035,7 +1035,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1044,7 +1044,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1052,8 +1052,8 @@
       }
     },
     "cn-official-pmi-2026-09": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1063,7 +1063,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1072,7 +1072,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1080,8 +1080,8 @@
       }
     },
     "cn-official-pmi-2026-10": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1091,7 +1091,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1100,7 +1100,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1108,8 +1108,8 @@
       }
     },
     "cn-official-pmi-2026-11": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1119,7 +1119,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1128,7 +1128,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1136,8 +1136,8 @@
       }
     },
     "cn-official-pmi-2026-12": {
-      "revision": 2,
-      "updatedAt": "2026-09-05T04:23:18.931Z",
+      "revision": 3,
+      "updatedAt": "2026-09-05T10:31:42.425Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1147,7 +1147,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -1156,7 +1156,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "制造业 PMI：本次自动获取失败",
+          "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
