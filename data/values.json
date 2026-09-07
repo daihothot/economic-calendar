@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 44,
-  "updatedAt": "2026-09-06T15:26:11.173Z",
+  "revision": 45,
+  "updatedAt": "2026-09-07T04:36:04.926Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -94,8 +94,8 @@
       }
     },
     "cn-cpi-ppi-2026-03": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -105,7 +105,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -123,8 +123,8 @@
       }
     },
     "cn-cpi-ppi-2026-04": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -134,7 +134,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -143,7 +143,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -151,8 +151,8 @@
       }
     },
     "cn-cpi-ppi-2026-05": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -162,7 +162,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -171,7 +171,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -179,8 +179,8 @@
       }
     },
     "cn-cpi-ppi-2026-06": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -190,7 +190,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -199,7 +199,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -207,8 +207,8 @@
       }
     },
     "cn-cpi-ppi-2026-07": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -218,7 +218,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -227,7 +227,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -235,8 +235,8 @@
       }
     },
     "cn-cpi-ppi-2026-08": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -246,7 +246,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -255,7 +255,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -263,8 +263,8 @@
       }
     },
     "cn-cpi-ppi-2026-09": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -274,7 +274,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -283,7 +283,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -291,8 +291,8 @@
       }
     },
     "cn-cpi-ppi-2026-10": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -302,7 +302,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -311,7 +311,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -319,8 +319,8 @@
       }
     },
     "cn-cpi-ppi-2026-11": {
-      "revision": 5,
-      "updatedAt": "2026-09-05T10:31:42.425Z",
+      "revision": 6,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -330,7 +330,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -339,7 +339,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
+          "CPI 同比：本次自动获取失败",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -379,8 +379,8 @@
       }
     },
     "cn-gdp-2026-q1": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -391,7 +391,7 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：本次自动获取失败",
           "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -410,8 +410,8 @@
       }
     },
     "cn-gdp-2026-q2": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -422,7 +422,7 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：本次自动获取失败",
           "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -432,7 +432,7 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：本次自动获取失败",
           "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -440,8 +440,8 @@
       }
     },
     "cn-gdp-2026-q3": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -452,7 +452,7 @@
         "status": "pending",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：本次自动获取失败",
           "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -462,7 +462,7 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：本次自动获取失败",
           "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -3771,8 +3771,8 @@
       }
     },
     "jp-cpi-2026-08": {
-      "revision": 2,
-      "updatedAt": "2026-08-21T01:56:04.322Z",
+      "revision": 3,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3782,9 +3782,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "全国 CPI 同比：本次自动获取失败",
+          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
+          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -3802,8 +3802,8 @@
       }
     },
     "jp-cpi-2026-09": {
-      "revision": 2,
-      "updatedAt": "2026-08-21T01:56:04.322Z",
+      "revision": 3,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3813,9 +3813,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "全国 CPI 同比：本次自动获取失败",
+          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
+          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -3823,17 +3823,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "全国 CPI 同比：本次自动获取失败",
+          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
+          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
       }
     },
     "jp-cpi-2026-10": {
-      "revision": 2,
-      "updatedAt": "2026-08-21T01:56:04.322Z",
+      "revision": 3,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3843,9 +3843,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "全国 CPI 同比：本次自动获取失败",
+          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
+          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -3853,17 +3853,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "全国 CPI 同比：本次自动获取失败",
+          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
+          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
       }
     },
     "jp-cpi-2026-11": {
-      "revision": 2,
-      "updatedAt": "2026-08-21T01:56:04.322Z",
+      "revision": 3,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3873,9 +3873,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "全国 CPI 同比：本次自动获取失败",
+          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
+          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -3883,17 +3883,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "全国 CPI 同比：本次自动获取失败",
+          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
+          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
       }
     },
     "jp-gdp-2025-q4-first": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3903,7 +3903,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
@@ -3911,15 +3911,15 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
       }
     },
     "jp-gdp-2025-q4-second": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3929,7 +3929,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
@@ -3937,15 +3937,15 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
       }
     },
     "jp-gdp-2026-q1-first": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3955,7 +3955,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
@@ -3963,15 +3963,15 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
       }
     },
     "jp-gdp-2026-q1-second": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3981,7 +3981,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
@@ -3989,15 +3989,15 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
       }
     },
     "jp-gdp-2026-q2-first": {
-      "revision": 2,
-      "updatedAt": "2026-08-17T01:54:14.718Z",
+      "revision": 3,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4007,7 +4007,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
@@ -4015,15 +4015,15 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
       }
     },
     "jp-gdp-2026-q2-second": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4033,7 +4033,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
@@ -4041,15 +4041,15 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
       }
     },
     "jp-gdp-2026-q3-first": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4059,7 +4059,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
@@ -4067,15 +4067,15 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
       }
     },
     "jp-gdp-2026-q3-second": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-07T04:36:04.926Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4085,7 +4085,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
@@ -4093,7 +4093,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+          "实际 GDP 环比年化（当前官方修订值）：本次自动获取失败"
         ],
         "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
