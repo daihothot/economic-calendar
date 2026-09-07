@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-08-11",
-  "sourceSha256": "99c761ceaa7f41b778b9c70917c1fdcd3a49711b22286b4ae9c292053d3edb80",
+  "sourceSha256": "b468929cf93d6a3d267ff59c995fd0a006ff32d7ee4913624ad474ba5bcf3ed5",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",

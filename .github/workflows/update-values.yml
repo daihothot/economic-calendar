@@ -21,12 +21,12 @@ jobs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:
       - name: Check out the latest default branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 22
 
@@ -66,7 +66,7 @@ jobs:
 
       - name: Upload the Pages artifact
         if: steps.commit.outputs.changed == 'true'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: .pages-site
 
@@ -83,4 +83,4 @@ jobs:
     steps:
       - name: Deploy the refreshed calendars
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

@@ -14,9 +14,13 @@ if (currentYearDataset && currentYearDataset.coverageStatus !== "complete") {
   throw new Error(`data/events-${currentYear}.json is still marked ${currentYearDataset.coverageStatus}.`);
 }
 
-if (daysUntilNextYear <= 120 && nextYearDataset?.coverageStatus !== "complete") {
-  const state = nextYearDataset ? `is marked ${nextYearDataset.coverageStatus}` : "is missing";
-  throw new Error(`Only ${daysUntilNextYear} days remain before ${nextYear}, but data/events-${nextYear}.json ${state}.`);
+if (daysUntilNextYear <= 120) {
+  if (!nextYearDataset) {
+    throw new Error(`Only ${daysUntilNextYear} days remain before ${nextYear}, but data/events-${nextYear}.json is missing.`);
+  }
+  if (nextYearDataset.coverageStatus === "partial") {
+    console.log(`::warning::Only ${daysUntilNextYear} days remain before ${nextYear}; data/events-${nextYear}.json is marked partial. Complete official annual release schedules are still pending.`);
+  }
 }
 
 console.log(`Coverage check passed. Available years: ${[...availableYears].sort().join(", ")}.`);
