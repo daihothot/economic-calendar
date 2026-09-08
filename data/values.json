@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 46,
-  "updatedAt": "2026-09-07T12:27:14.123Z",
+  "revision": 47,
+  "updatedAt": "2026-09-08T04:31:20.830Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -4022,8 +4022,8 @@
       }
     },
     "jp-gdp-2026-q2-second": {
-      "revision": 3,
-      "updatedAt": "2026-09-07T12:27:14.123Z",
+      "revision": 4,
+      "updatedAt": "2026-09-08T04:31:20.830Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4031,7 +4031,7 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "unavailable",
         "lines": [
           "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
         ],
