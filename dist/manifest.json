@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-08-11",
-  "sourceSha256": "cfc26db895d695370fea5f4dfcc101770f8878cebc0cc72e5c89d2b37de895d3",
+  "sourceSha256": "0d667ee798278d4b083a9f8d1b4f444fb530ecd0fb480a26251e6a6a8070c08a",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -17,19 +17,19 @@
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
       "eventCount": 289,
-      "sha256": "9e380aef3e4053c369eb7211f0dc103e14e1c9729f2afc2e8b1177c853c68336"
+      "sha256": "c0ee664b784601713375eed3ae7ba7ac3b2faf756bd385e1275db897aca97ca2"
     },
     {
       "fileName": "feeds/us.ics",
       "name": "美国高影响财经日历 Pro",
       "eventCount": 133,
-      "sha256": "3efb309687c1d71489eba24e4e7095280ed18b454c2b5906453ec2e406ff67ae"
+      "sha256": "ef15411c9dbf1f5fef6b3d62e0b4e86faf4a7e2901915d701a7938a8bb9bd4e2"
     },
     {
       "fileName": "feeds/eurozone.ics",
       "name": "欧元区高影响财经日历 Pro",
       "eventCount": 60,
-      "sha256": "15c9d00cfec6abde4d539905bf8a5690df4b92d2a48603afb596778d18d7bb62"
+      "sha256": "c15b47933bde6c7b1ccc271047a0c156aa51da18c1d45b9d320a39855ac3d153"
     },
     {
       "fileName": "feeds/japan.ics",
@@ -47,13 +47,13 @@
       "fileName": "feeds/central-bank.ics",
       "name": "央行政策事件 Pro",
       "eventCount": 124,
-      "sha256": "50701ddbb618da76eed1090d9a7057f57752b58d4a3fabdf94af817cc1f5b9ab"
+      "sha256": "3b7bd79f4b98c1bb9a3a181f5d702ede6d56af9213034ccd98296aa1e3572368"
     },
     {
       "fileName": "feeds/inflation.ics",
       "name": "通胀事件 Pro",
       "eventCount": 73,
-      "sha256": "e578d03054b0b3aa1475fa88f4a9c008c613312ae3c69ce074aafbd35dc55a43"
+      "sha256": "fed44f3378c16919874b5623ff57b59d2a9b90f6527e050b8e6f1ac49b56b83b"
     },
     {
       "fileName": "feeds/growth.ics",
@@ -77,13 +77,13 @@
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",
       "name": "2026 中文财经日历（全球高影响 Pro）",
       "eventCount": 233,
-      "sha256": "e0cfb585af79bf9f81f0f3623ceb8881ae6f62fa642a9eaf32222a94370d7aef"
+      "sha256": "508c343eeb86a261af8654bb42f9a38104851cdd848cfc451ee5175cb0e868e7"
     },
     {
       "fileName": "2026_中文财经日历_US_高影响_Pro.ics",
       "name": "2026 中文财经日历（美国高影响 Pro）",
       "eventCount": 109,
-      "sha256": "4095791a8333a7ba94bcc81481fef3fa70b7772c5d747032823f3986f8f6282f"
+      "sha256": "7d6f319a9cefefb8c03b55258269b689fedc096836e9171279083be132b10d88"
     }
   ]
 }
