@@ -430,8 +430,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-gdp-2026-q1@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081106
 DTSTART;TZID=Asia/Shanghai:20260416T100000
 DTEND;TZID=Asia/Shanghai:20260416T103000
 SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
@@ -785,8 +785,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-gdp-2026-q2@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081106
 DTSTART;TZID=Asia/Shanghai:20260715T100000
 DTEND;TZID=Asia/Shanghai:20260715T103000
 SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
@@ -802,17 +802,15 @@ DESCRIPTION:🇨🇳 中国 GDP / 国民经济运行情况\n⭐⭐⭐ 高
  ｜中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　
  ↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期
- \n\n📌 前值：\n当季实际 GDP 同比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2025-10-01）\n年内累计实
- 际 GDP 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2025-10-01）\n实际 GDP 环比：免费数据源尚未提
- 供本统计期数值（源端最新数据期 2025-10-01）\n数据来源
- ：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www.stats
- .gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国国家
- 统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程
- ：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html\n
- \n📋 日程状态：\n国家统计局 2026 年主要统计信息发布
- 日程表中的初步计划；官方明确提示日期可能调整。
+ \n\n📌 前值：\n当季实际 GDP 同比：本次自动获取失败\n
+ 年内累计实际 GDP 同比：本次自动获取失败\n实际 GDP 环
+ 比：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局国民经济运行发布（线上）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:经济增长,中国,高影响
@@ -1142,8 +1140,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-gdp-2026-q3@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081106
 DTSTART;TZID=Asia/Shanghai:20261019T100000
 DTEND;TZID=Asia/Shanghai:20261019T103000
 SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
@@ -1159,17 +1157,15 @@ DESCRIPTION:🇨🇳 中国 GDP / 国民经济运行情况\n⭐⭐⭐ 高
  券｜中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜
  ↘\n📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
- 期\n\n📌 前值：\n当季实际 GDP 同比：免费数据源尚未提
- 供本统计期数值（源端最新数据期 2025-10-01）\n年内累计
- 实际 GDP 同比：免费数据源尚未提供本统计期数值（源端
- 最新数据期 2025-10-01）\n实际 GDP 环比：免费数据源尚未
- 提供本统计期数值（源端最新数据期 2025-10-01）\n数据来
- 源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www.st
- ats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国国
- 家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方日
- 程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.htm
- l\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息发
- 布日程表中的初步计划；官方明确提示日期可能调整。
+ 期\n\n📌 前值：\n当季实际 GDP 同比：本次自动获取失败\
+ n年内累计实际 GDP 同比：本次自动获取失败\n实际 GDP 环
+ 比：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局国民经济运行发布（线上）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:经济增长,中国,高影响

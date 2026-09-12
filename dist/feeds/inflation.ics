@@ -1168,8 +1168,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-03@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20260410T093000
 DTEND;TZID=Asia/Shanghai:20260410T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1425,8 +1425,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-04@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20260511T093000
 DTEND;TZID=Asia/Shanghai:20260511T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1442,16 +1442,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -1788,8 +1787,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-05@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20260610T093000
 DTEND;TZID=Asia/Shanghai:20260610T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1805,16 +1804,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -2047,8 +2045,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-06@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20260709T093000
 DTEND;TZID=Asia/Shanghai:20260709T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -2064,16 +2062,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -2358,8 +2355,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20260809T093000
 DTEND;TZID=Asia/Shanghai:20260809T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -2375,16 +2372,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -2667,8 +2663,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20260909T093000
 DTEND;TZID=Asia/Shanghai:20260909T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -2684,16 +2680,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -2820,8 +2815,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081107
 DTSTART;TZID=Asia/Tokyo:20260918T083000
 DTEND;TZID=Asia/Tokyo:20260918T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -3017,8 +3012,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20261014T093000
 DTEND;TZID=Asia/Shanghai:20261014T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -3034,16 +3029,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -3116,8 +3110,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081107
 DTSTART;TZID=Asia/Tokyo:20261023T083000
 DTEND;TZID=Asia/Tokyo:20261023T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -3136,14 +3130,13 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
  新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
  费数据源尚未提供本统计期数值（源端最新数据期 2026-07
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ -01）\n核心核心 CPI 同比（除生鲜食品及能源）：本次自
+ 动获取失败\n数据来源：日本总务省统计局（经 DBnomics
+  获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来
+ 源：\n日本总务省统计局（Statistics Bureau of Japan）\nhttps://
+ www.stat.go.jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat
+ .go.jp/english/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省
+ 统计局 2026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -3271,8 +3264,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20261109T093000
 DTEND;TZID=Asia/Shanghai:20261109T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -3288,16 +3281,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -3424,8 +3416,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081107
 DTSTART;TZID=Asia/Tokyo:20261120T083000
 DTEND;TZID=Asia/Tokyo:20261120T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -3444,14 +3436,13 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
  新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
  费数据源尚未提供本统计期数值（源端最新数据期 2026-07
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ -01）\n核心核心 CPI 同比（除生鲜食品及能源）：本次自
+ 动获取失败\n数据来源：日本总务省统计局（经 DBnomics
+  获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来
+ 源：\n日本总务省统计局（Statistics Bureau of Japan）\nhttps://
+ www.stat.go.jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat
+ .go.jp/english/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省
+ 统计局 2026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -3579,8 +3570,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260909T111901Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20261209T093000
 DTEND;TZID=Asia/Shanghai:20261209T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -3596,16 +3587,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -3732,8 +3722,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081107
 DTSTART;TZID=Asia/Tokyo:20261218T083000
 DTEND;TZID=Asia/Tokyo:20261218T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -3752,14 +3742,13 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
  新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
  费数据源尚未提供本统计期数值（源端最新数据期 2026-07
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ -01）\n核心核心 CPI 同比（除生鲜食品及能源）：本次自
+ 动获取失败\n数据来源：日本总务省统计局（经 DBnomics
+  获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来
+ 源：\n日本总务省统计局（Statistics Bureau of Japan）\nhttps://
+ www.stat.go.jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat
+ .go.jp/english/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省
+ 统计局 2026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响

@@ -1361,8 +1361,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081107
 DTSTART;TZID=Asia/Tokyo:20260918T083000
 DTEND;TZID=Asia/Tokyo:20260918T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1504,8 +1504,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081107
 DTSTART;TZID=Asia/Tokyo:20261023T083000
 DTEND;TZID=Asia/Tokyo:20261023T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1524,14 +1524,13 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
  新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
  费数据源尚未提供本统计期数值（源端最新数据期 2026-07
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ -01）\n核心核心 CPI 同比（除生鲜食品及能源）：本次自
+ 动获取失败\n数据来源：日本总务省统计局（经 DBnomics
+  获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来
+ 源：\n日本总务省统计局（Statistics Bureau of Japan）\nhttps://
+ www.stat.go.jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat
+ .go.jp/english/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省
+ 统计局 2026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -1699,8 +1698,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081107
 DTSTART;TZID=Asia/Tokyo:20261120T083000
 DTEND;TZID=Asia/Tokyo:20261120T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1719,14 +1718,13 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
  新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
  费数据源尚未提供本统计期数值（源端最新数据期 2026-07
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ -01）\n核心核心 CPI 同比（除生鲜食品及能源）：本次自
+ 动获取失败\n数据来源：日本总务省统计局（经 DBnomics
+  获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来
+ 源：\n日本总务省统计局（Statistics Bureau of Japan）\nhttps://
+ www.stat.go.jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat
+ .go.jp/english/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省
+ 统计局 2026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -1897,8 +1895,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20260912T043115Z
+SEQUENCE:2026081107
 DTSTART;TZID=Asia/Tokyo:20261218T083000
 DTEND;TZID=Asia/Tokyo:20261218T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -1917,14 +1915,13 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
  新数据期 2026-07-01）\n核心 CPI 同比（除生鲜食品）：免
  费数据源尚未提供本统计期数值（源端最新数据期 2026-07
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ -01）\n核心核心 CPI 同比（除生鲜食品及能源）：本次自
+ 动获取失败\n数据来源：日本总务省统计局（经 DBnomics
+  获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来
+ 源：\n日本总务省统计局（Statistics Bureau of Japan）\nhttps://
+ www.stat.go.jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat
+ .go.jp/english/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省
+ 统计局 2026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
