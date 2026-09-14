@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 58,
-  "updatedAt": "2026-09-14T04:51:46.013Z",
+  "revision": 59,
+  "updatedAt": "2026-09-14T12:41:08.769Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -94,8 +94,8 @@
       }
     },
     "cn-cpi-ppi-2026-03": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -105,7 +105,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -123,8 +123,8 @@
       }
     },
     "cn-cpi-ppi-2026-04": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -134,7 +134,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -143,7 +143,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -151,8 +151,8 @@
       }
     },
     "cn-cpi-ppi-2026-05": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -162,7 +162,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -171,7 +171,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -179,8 +179,8 @@
       }
     },
     "cn-cpi-ppi-2026-06": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -190,7 +190,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -199,7 +199,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -207,8 +207,8 @@
       }
     },
     "cn-cpi-ppi-2026-07": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -218,7 +218,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -227,7 +227,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -235,8 +235,8 @@
       }
     },
     "cn-cpi-ppi-2026-08": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -246,7 +246,7 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -255,7 +255,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -263,8 +263,8 @@
       }
     },
     "cn-cpi-ppi-2026-09": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -274,7 +274,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -283,7 +283,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -291,8 +291,8 @@
       }
     },
     "cn-cpi-ppi-2026-10": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -302,7 +302,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -311,7 +311,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -319,8 +319,8 @@
       }
     },
     "cn-cpi-ppi-2026-11": {
-      "revision": 12,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 13,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -330,7 +330,7 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -339,7 +339,7 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "CPI 同比：本次自动获取失败",
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
@@ -379,8 +379,8 @@
       }
     },
     "cn-gdp-2026-q1": {
-      "revision": 6,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 7,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -390,9 +390,9 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "当季实际 GDP 同比：本次自动获取失败",
-          "年内累计实际 GDP 同比：本次自动获取失败",
-          "实际 GDP 环比：本次自动获取失败"
+          "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -410,8 +410,8 @@
       }
     },
     "cn-gdp-2026-q2": {
-      "revision": 6,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 7,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -421,9 +421,9 @@
       "actual": {
         "status": "unavailable",
         "lines": [
-          "当季实际 GDP 同比：本次自动获取失败",
-          "年内累计实际 GDP 同比：本次自动获取失败",
-          "实际 GDP 环比：本次自动获取失败"
+          "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -431,17 +431,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "当季实际 GDP 同比：本次自动获取失败",
-          "年内累计实际 GDP 同比：本次自动获取失败",
-          "实际 GDP 环比：本次自动获取失败"
+          "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-gdp-2026-q3": {
-      "revision": 6,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 7,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -451,9 +451,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "当季实际 GDP 同比：本次自动获取失败",
-          "年内累计实际 GDP 同比：本次自动获取失败",
-          "实际 GDP 环比：本次自动获取失败"
+          "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -461,9 +461,9 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "当季实际 GDP 同比：本次自动获取失败",
-          "年内累计实际 GDP 同比：本次自动获取失败",
-          "实际 GDP 环比：本次自动获取失败"
+          "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -1488,8 +1488,8 @@
       }
     },
     "eu-ecb-2026-10-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1511,7 +1511,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1539,8 +1539,8 @@
       }
     },
     "eu-ecb-2026-12-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1562,7 +1562,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1590,8 +1590,8 @@
       }
     },
     "eu-ecb-2027-02-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1613,7 +1613,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1641,8 +1641,8 @@
       }
     },
     "eu-ecb-2027-03-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1664,7 +1664,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1692,8 +1692,8 @@
       }
     },
     "eu-ecb-2027-04-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1715,7 +1715,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1743,8 +1743,8 @@
       }
     },
     "eu-ecb-2027-06-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1766,7 +1766,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1794,8 +1794,8 @@
       }
     },
     "eu-ecb-2027-07-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1817,7 +1817,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1845,8 +1845,8 @@
       }
     },
     "eu-ecb-2027-09-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1868,7 +1868,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1896,8 +1896,8 @@
       }
     },
     "eu-ecb-2027-10-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1919,7 +1919,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1947,8 +1947,8 @@
       }
     },
     "eu-ecb-2027-12-decision": {
-      "revision": 25,
-      "updatedAt": "2026-09-11T16:26:00.282Z",
+      "revision": 26,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1970,7 +1970,7 @@
           "主要再融资操作利率：2.40%",
           "边际贷款机制利率：2.65%"
         ],
-        "asOf": "2026-09-11",
+        "asOf": "2026-09-14",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -3774,8 +3774,8 @@
       }
     },
     "jp-cpi-2026-08": {
-      "revision": 7,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 8,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3785,9 +3785,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "全国 CPI 同比：本次自动获取失败",
-          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
-          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -3805,8 +3805,8 @@
       }
     },
     "jp-cpi-2026-09": {
-      "revision": 7,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 8,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3816,9 +3816,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "全国 CPI 同比：本次自动获取失败",
-          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
-          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -3826,17 +3826,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "全国 CPI 同比：本次自动获取失败",
-          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
-          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
       }
     },
     "jp-cpi-2026-10": {
-      "revision": 7,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 8,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3846,9 +3846,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "全国 CPI 同比：本次自动获取失败",
-          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
-          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -3856,17 +3856,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "全国 CPI 同比：本次自动获取失败",
-          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
-          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
       }
     },
     "jp-cpi-2026-11": {
-      "revision": 7,
-      "updatedAt": "2026-09-14T04:51:46.013Z",
+      "revision": 8,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -3876,9 +3876,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "全国 CPI 同比：本次自动获取失败",
-          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
-          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -3886,9 +3886,9 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "全国 CPI 同比：本次自动获取失败",
-          "核心 CPI 同比（除生鲜食品）：本次自动获取失败",
-          "核心核心 CPI 同比（除生鲜食品及能源）：本次自动获取失败"
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
         ],
         "sourceName": "日本总务省统计局（经 DBnomics 获取）",
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
@@ -4980,8 +4980,8 @@
       }
     },
     "us-fomc-2026-09-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5002,7 +5002,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5052,8 +5052,8 @@
       }
     },
     "us-fomc-2026-10-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5074,7 +5074,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5124,8 +5124,8 @@
       }
     },
     "us-fomc-2026-12-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5146,7 +5146,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5196,8 +5196,8 @@
       }
     },
     "us-fomc-2027-01-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5218,7 +5218,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5268,8 +5268,8 @@
       }
     },
     "us-fomc-2027-03-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5290,7 +5290,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5340,8 +5340,8 @@
       }
     },
     "us-fomc-2027-04-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5362,7 +5362,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5412,8 +5412,8 @@
       }
     },
     "us-fomc-2027-06-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5434,7 +5434,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5484,8 +5484,8 @@
       }
     },
     "us-fomc-2027-07-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5506,7 +5506,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5556,8 +5556,8 @@
       }
     },
     "us-fomc-2027-09-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5578,7 +5578,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5628,8 +5628,8 @@
       }
     },
     "us-fomc-2027-10-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5650,7 +5650,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5700,8 +5700,8 @@
       }
     },
     "us-fomc-2027-12-decision": {
-      "revision": 35,
-      "updatedAt": "2026-09-13T16:14:04.258Z",
+      "revision": 36,
+      "updatedAt": "2026-09-14T12:41:08.769Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5722,7 +5722,7 @@
           "联邦基金目标区间下限：3.50%",
           "联邦基金目标区间上限：3.75%"
         ],
-        "asOf": "2026-09-13",
+        "asOf": "2026-09-14",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
