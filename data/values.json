@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 61,
-  "updatedAt": "2026-09-16T16:51:42.340Z",
+  "revision": 62,
+  "updatedAt": "2026-09-16T21:15:35.924Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -4980,8 +4980,8 @@
       }
     },
     "us-fomc-2026-09-decision": {
-      "revision": 37,
-      "updatedAt": "2026-09-15T16:56:22.400Z",
+      "revision": 38,
+      "updatedAt": "2026-09-16T21:15:35.924Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4989,10 +4989,12 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "available",
         "lines": [
-          "等待官方公布"
+          "联邦基金目标区间下限：3.50%",
+          "联邦基金目标区间上限：3.75%"
         ],
+        "asOf": "2026-09-16",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       },
