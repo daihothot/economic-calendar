@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-08-11",
-  "sourceSha256": "54e5f1ba73d409aa2763901708e57b989be9369ed708832b5294af6e4b9f399f",
+  "sourceSha256": "e1bd5f36d21e9df5373cfafc713e7729669d0e561c20a54414bbe9a3b8c1bfaf",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -17,13 +17,13 @@
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
       "eventCount": 289,
-      "sha256": "32c99b781d710f717ce3121ca72cd91dd893cf1668b77d344ec9c056b0d085b9"
+      "sha256": "91c7610edf5194c661a4e456c9edd7dae5a930e9cc3c2b6a3d77819b2787ceb0"
     },
     {
       "fileName": "feeds/us.ics",
       "name": "美国高影响财经日历 Pro",
       "eventCount": 133,
-      "sha256": "777ed98f488471c886c3a8da02c8c9f089fb8e565bc241cc4f467b27f9701016"
+      "sha256": "f2ff488c153ab0418cde09b26a6aaaff103e464152baa4f01bdcfb047861638b"
     },
     {
       "fileName": "feeds/eurozone.ics",
@@ -41,7 +41,7 @@
       "fileName": "feeds/china.ics",
       "name": "中国高影响财经日历 Pro",
       "eventCount": 40,
-      "sha256": "bfceddc657bd3bcb1fed3ba02a5547d3b0cf45860e043ce7d879924fdbe28c66"
+      "sha256": "e43d6f6317b64c1bb2faa9e37f3f2b4d708be09b63fee0ce28f6202c27829a93"
     },
     {
       "fileName": "feeds/central-bank.ics",
@@ -53,7 +53,7 @@
       "fileName": "feeds/inflation.ics",
       "name": "通胀事件 Pro",
       "eventCount": 73,
-      "sha256": "35946cd9e874ee599a6e98a61107fdc87b6ff9c9612377957d446e0b716337ed"
+      "sha256": "e521e419be55a46dd74fca26e986cb86dbd5bf8b0c7d9667ebe3cd4b2c48fe06"
     },
     {
       "fileName": "feeds/growth.ics",
@@ -77,13 +77,13 @@
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",
       "name": "2026 中文财经日历（全球高影响 Pro）",
       "eventCount": 233,
-      "sha256": "1bfa9a19620f2f83afca0b553c1596079eb614828f37fb9f955b0fff708b6657"
+      "sha256": "6df901633fcd9ed72620c0d0c2bdbd5d01c24932de77f020544953934d309c2b"
     },
     {
       "fileName": "2026_中文财经日历_US_高影响_Pro.ics",
       "name": "2026 中文财经日历（美国高影响 Pro）",
       "eventCount": 109,
-      "sha256": "74116e8746d0fd81a5b0863cc8976d557e23eff5c6736bb3cabab2284f977423"
+      "sha256": "8b1df65cb30bec771ac71bc97f4af3f4c789becfcc57b6689a1a4a77d26e14cc"
     }
   ]
 }
