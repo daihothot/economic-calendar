@@ -2465,8 +2465,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260920T045059Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260921T045154Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20260921T090000
 DTEND;TZID=Asia/Shanghai:20260921T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -2480,16 +2480,19 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  与住房按揭预期。\n\n🎯 市场关注：\n💱 外汇｜人民币
  与离岸人民币　↗｜↘\n🏛️ 债券｜中国国债收益率　
  ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与港
- 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
- ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1 年
- 期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-08-20\n数
- 据来源：中国外汇交易中心暨全国银行间同业拆借中心\n
- https://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n
- 中国人民银行 / 全国银行间同业拆借中心\nhttps://www.pbc.go
- v.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方
- 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
- 551/index.html\n\n📋 日程状态：\n按每月 20 日遇休息日顺延
- 规则生成的候选日期，等待当月官方公告确认。
+ 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值
+ ：\n1 年期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-09
+ -20\n数据来源：中国外汇交易中心暨全国银行间同业拆借
+ 中心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🔮 预测值：\
+ n官方数据源不提供市场一致预期\n\n📌 前值：\n1 年期 LP
+ R：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-08-20\n数据来
+ 源：中国外汇交易中心暨全国银行间同业拆借中心\nhttps:
+ //www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国
+ 人民银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/z
+ hengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程
+ ：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/in
+ dex.html\n\n📋 日程状态：\n按每月 20 日遇休息日顺延规则
+ 生成的候选日期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
