@@ -3959,8 +3959,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q2-third@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260924T083000
 DTEND;TZID=America/New_York:20260924T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -3975,7 +3975,10 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +1.5%\n数据期：2026-04-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
   前值：\n实际 GDP 环比年化（当前官方修订值）：+2.1%\n
  数据期：2026-01-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
@@ -4340,8 +4343,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20261028T140000
 DTEND;TZID=America/New_York:20261028T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -4357,7 +4360,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5072,8 +5075,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5089,7 +5092,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5413,8 +5416,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-01-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20270127T140000
 DTEND;TZID=America/New_York:20270127T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5430,7 +5433,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5553,8 +5556,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-03-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20270317T140000
 DTEND;TZID=America/New_York:20270317T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5570,7 +5573,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5693,8 +5696,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-04-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20270428T140000
 DTEND;TZID=America/New_York:20270428T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5710,7 +5713,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5833,8 +5836,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-06-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20270609T140000
 DTEND;TZID=America/New_York:20270609T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5850,7 +5853,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官
  方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金目
  标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据期
- ：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED 获
+ ：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED 获
  取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n\n
  🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve）\
  nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n🔗
@@ -5973,8 +5976,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-07-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20270728T140000
 DTEND;TZID=America/New_York:20270728T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5990,7 +5993,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -6113,8 +6116,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-09-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20270915T140000
 DTEND;TZID=America/New_York:20270915T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -6130,7 +6133,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -6253,8 +6256,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20271027T140000
 DTEND;TZID=America/New_York:20271027T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -6270,7 +6273,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -6393,8 +6396,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T165449Z
-SEQUENCE:2026081147
+LAST-MODIFIED:20260924T170738Z
+SEQUENCE:2026081148
 DTSTART;TZID=America/New_York:20271208T140000
 DTEND;TZID=America/New_York:20271208T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -6410,7 +6413,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-09-23\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-09-24\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
