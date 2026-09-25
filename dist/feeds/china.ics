@@ -507,8 +507,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-03@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20260331T093000
 DTEND;TZID=Asia/Shanghai:20260331T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -557,8 +557,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-03@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20260410T093000
 DTEND;TZID=Asia/Shanghai:20260410T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -710,8 +710,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-04@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20260430T093000
 DTEND;TZID=Asia/Shanghai:20260430T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -729,14 +729,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
@@ -762,8 +761,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-04@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20260511T093000
 DTEND;TZID=Asia/Shanghai:20260511T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -779,16 +778,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -868,8 +866,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-05@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20260531T093000
 DTEND;TZID=Asia/Shanghai:20260531T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -887,14 +885,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
@@ -920,8 +917,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-05@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20260610T093000
 DTEND;TZID=Asia/Shanghai:20260610T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -937,16 +934,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -1027,8 +1023,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-06@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20260630T093000
 DTEND;TZID=Asia/Shanghai:20260630T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -1046,14 +1042,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
@@ -1079,8 +1074,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-06@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20260709T093000
 DTEND;TZID=Asia/Shanghai:20260709T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1096,16 +1091,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -1237,8 +1231,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20260731T093000
 DTEND;TZID=Asia/Shanghai:20260731T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -1256,14 +1250,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
@@ -1289,8 +1282,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20260809T093000
 DTEND;TZID=Asia/Shanghai:20260809T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1306,16 +1299,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -1395,8 +1387,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081110
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081111
 DTSTART;TZID=Asia/Shanghai:20260831T093000
 DTEND;TZID=Asia/Shanghai:20260831T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -1414,14 +1406,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
@@ -1447,8 +1438,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20260909T093000
 DTEND;TZID=Asia/Shanghai:20260909T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1464,16 +1455,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -1553,8 +1543,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20260930T093000
 DTEND;TZID=Asia/Shanghai:20260930T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -1572,14 +1562,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
@@ -1605,8 +1594,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20261014T093000
 DTEND;TZID=Asia/Shanghai:20261014T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1622,16 +1611,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -1760,8 +1748,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20261031T093000
 DTEND;TZID=Asia/Shanghai:20261031T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -1779,14 +1767,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
@@ -1812,8 +1799,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20261109T093000
 DTEND;TZID=Asia/Shanghai:20261109T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1829,16 +1816,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -1917,8 +1903,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20261130T093000
 DTEND;TZID=Asia/Shanghai:20261130T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -1936,14 +1922,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
@@ -1969,8 +1954,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081121
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081122
 DTSTART;TZID=Asia/Shanghai:20261209T093000
 DTEND;TZID=Asia/Shanghai:20261209T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -1986,16 +1971,15 @@ DESCRIPTION:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产
  中国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜A 股与港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nCPI 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-02-01）\nPPI 同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-02-01）\n数据
- 来源：中国国家统计局（NBS，经 DBnomics 获取）\nhttps://www
- .stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华人民共和国
- 国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🔗 官方
- 日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.
- html\n\n📋 日程状态：\n国家统计局 2026 年主要统计信息
- 发布日程表中的初步计划；官方明确提示日期可能调整
- 。
+ n📌 前值：\nCPI 同比：本次自动获取失败\nPPI 同比：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-02
+ -01）\n数据来源：中国国家统计局（NBS，经 DBnomics 获取
+ ）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：\n中华
+ 人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/sj/zxfb/
+ \n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20
+ 251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026 年主
+ 要统计信息发布日程表中的初步计划；官方明确提示日
+ 期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:通胀,中国,高影响
@@ -2074,8 +2058,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20260925T045354Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20261231T093000
 DTEND;TZID=Asia/Shanghai:20261231T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -2093,14 +2077,13 @@ DESCRIPTION:🇨🇳 中国官方制造业 / 非制造业 PMI\n⭐⭐⭐
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\n制造业 PMI：免费数据源尚未提供本统计期
  数值（源端最新数据期 2026-02-01）\n非制造业商务活动指
- 数：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-02-01）\n数据来源：中国国家统计局（NBS，经 DBnomi
- cs 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️ 官方来源：
- \n中华人民共和国国家统计局（NBS）\nhttps://www.stats.gov.cn/
- sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn/xw/tjxw/tzgg/20
- 2512/t20251224_1962137.html\n\n📋 日程状态：\n国家统计局 2026
-  年主要统计信息发布日程表中的初步计划；官方明确提
- 示日期可能调整。
+ 数：本次自动获取失败\n数据来源：中国国家统计局（NBS
+ ，经 DBnomics 获取）\nhttps://www.stats.gov.cn/sj/zxfb/\n\n🏛️
+  官方来源：\n中华人民共和国国家统计局（NBS）\nhttps://w
+ ww.stats.gov.cn/sj/zxfb/\n\n🔗 官方日程：\nhttps://www.stats.gov.cn
+ /xw/tjxw/tzgg/202512/t20251224_1962137.html\n\n📋 日程状态：\n国
+ 家统计局 2026 年主要统计信息发布日程表中的初步计划
+ ；官方明确提示日期可能调整。
 LOCATION:国家统计局（线上发布）
 URL:https://www.stats.gov.cn/sj/zxfb/
 CATEGORIES:PMI 与景气调查,中国,高影响
