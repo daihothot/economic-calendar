@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 86,
-  "updatedAt": "2026-09-30T12:31:38.064Z",
+  "revision": 87,
+  "updatedAt": "2026-09-30T22:12:40.860Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -5780,8 +5780,8 @@
       }
     },
     "us-gdp-2025-q4-advance": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5800,7 +5800,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+4.4%"
+          "实际 GDP 环比年化（当前官方修订值）：+3.9%"
         ],
         "asOf": "2025-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -5808,8 +5808,8 @@
       }
     },
     "us-gdp-2025-q4-second": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5828,7 +5828,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+4.4%"
+          "实际 GDP 环比年化（当前官方修订值）：+3.9%"
         ],
         "asOf": "2025-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -5836,8 +5836,8 @@
       }
     },
     "us-gdp-2025-q4-third": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5856,7 +5856,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+4.4%"
+          "实际 GDP 环比年化（当前官方修订值）：+3.9%"
         ],
         "asOf": "2025-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -5864,8 +5864,8 @@
       }
     },
     "us-gdp-2026-q1-advance": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5884,7 +5884,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+0.5%"
+          "实际 GDP 环比年化（当前官方修订值）：+0.2%"
         ],
         "asOf": "2025-10-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -5892,8 +5892,8 @@
       }
     },
     "us-gdp-2026-q1-second": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5912,7 +5912,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+0.5%"
+          "实际 GDP 环比年化（当前官方修订值）：+0.2%"
         ],
         "asOf": "2025-10-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -5920,8 +5920,8 @@
       }
     },
     "us-gdp-2026-q1-third": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5940,7 +5940,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+0.5%"
+          "实际 GDP 环比年化（当前官方修订值）：+0.2%"
         ],
         "asOf": "2025-10-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -5948,8 +5948,8 @@
       }
     },
     "us-gdp-2026-q2-advance": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5968,7 +5968,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+2.1%"
+          "实际 GDP 环比年化（当前官方修订值）：+2.5%"
         ],
         "asOf": "2026-01-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -5976,8 +5976,8 @@
       }
     },
     "us-gdp-2026-q2-second": {
-      "revision": 2,
-      "updatedAt": "2026-08-27T22:14:16.122Z",
+      "revision": 3,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5996,7 +5996,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+2.1%"
+          "实际 GDP 环比年化（当前官方修订值）：+2.5%"
         ],
         "asOf": "2026-01-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -6004,8 +6004,8 @@
       }
     },
     "us-gdp-2026-q2-third": {
-      "revision": 2,
-      "updatedAt": "2026-09-24T17:07:38.160Z",
+      "revision": 3,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6024,7 +6024,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+2.1%"
+          "实际 GDP 环比年化（当前官方修订值）：+2.5%"
         ],
         "asOf": "2026-01-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -6032,8 +6032,8 @@
       }
     },
     "us-gdp-2026-q3-advance": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6051,7 +6051,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+1.5%"
+          "实际 GDP 环比年化（当前官方修订值）：+2.2%"
         ],
         "asOf": "2026-04-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -6059,8 +6059,8 @@
       }
     },
     "us-gdp-2026-q3-second": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6078,7 +6078,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+1.5%"
+          "实际 GDP 环比年化（当前官方修订值）：+2.2%"
         ],
         "asOf": "2026-04-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -6086,8 +6086,8 @@
       }
     },
     "us-gdp-2026-q3-third": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6105,7 +6105,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+1.5%"
+          "实际 GDP 环比年化（当前官方修订值）：+2.2%"
         ],
         "asOf": "2026-04-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7116,8 +7116,8 @@
       }
     },
     "us-pce-2025-12": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7127,8 +7127,8 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：2.9%",
-          "核心 PCE 同比：3.0%",
+          "PCE 物价指数同比：2.8%",
+          "核心 PCE 同比：2.9%",
           "核心 PCE 环比：0.3%"
         ],
         "asOf": "2025-12-01",
@@ -7138,8 +7138,8 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：2.8%",
-          "核心 PCE 同比：2.8%",
+          "PCE 物价指数同比：2.7%",
+          "核心 PCE 同比：2.7%",
           "核心 PCE 环比：0.2%"
         ],
         "asOf": "2025-11-01",
@@ -7148,8 +7148,8 @@
       }
     },
     "us-pce-2026-01": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7159,8 +7159,8 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：2.9%",
-          "核心 PCE 同比：3.1%",
+          "PCE 物价指数同比：2.7%",
+          "核心 PCE 同比：2.9%",
           "核心 PCE 环比：0.4%"
         ],
         "asOf": "2026-01-01",
@@ -7170,8 +7170,8 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：2.9%",
-          "核心 PCE 同比：3.0%",
+          "PCE 物价指数同比：2.8%",
+          "核心 PCE 同比：2.9%",
           "核心 PCE 环比：0.3%"
         ],
         "asOf": "2025-12-01",
@@ -7180,8 +7180,8 @@
       }
     },
     "us-pce-2026-02": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7191,9 +7191,9 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：2.9%",
+          "PCE 物价指数同比：2.8%",
           "核心 PCE 同比：3.0%",
-          "核心 PCE 环比：0.4%"
+          "核心 PCE 环比：0.3%"
         ],
         "asOf": "2026-02-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7202,8 +7202,8 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：2.9%",
-          "核心 PCE 同比：3.1%",
+          "PCE 物价指数同比：2.7%",
+          "核心 PCE 同比：2.9%",
           "核心 PCE 环比：0.4%"
         ],
         "asOf": "2026-01-01",
@@ -7212,8 +7212,8 @@
       }
     },
     "us-pce-2026-03": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7223,8 +7223,8 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.5%",
-          "核心 PCE 同比：3.3%",
+          "PCE 物价指数同比：3.4%",
+          "核心 PCE 同比：3.1%",
           "核心 PCE 环比：0.3%"
         ],
         "asOf": "2026-03-01",
@@ -7234,9 +7234,9 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：2.9%",
+          "PCE 物价指数同比：2.8%",
           "核心 PCE 同比：3.0%",
-          "核心 PCE 环比：0.4%"
+          "核心 PCE 环比：0.3%"
         ],
         "asOf": "2026-02-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7244,8 +7244,8 @@
       }
     },
     "us-pce-2026-04": {
-      "revision": 2,
-      "updatedAt": "2026-08-26T13:14:43.675Z",
+      "revision": 3,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7255,8 +7255,8 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.8%",
-          "核心 PCE 同比：3.3%",
+          "PCE 物价指数同比：3.6%",
+          "核心 PCE 同比：3.1%",
           "核心 PCE 环比：0.3%"
         ],
         "asOf": "2026-04-01",
@@ -7266,8 +7266,8 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.5%",
-          "核心 PCE 同比：3.3%",
+          "PCE 物价指数同比：3.4%",
+          "核心 PCE 同比：3.1%",
           "核心 PCE 环比：0.3%"
         ],
         "asOf": "2026-03-01",
@@ -7276,8 +7276,8 @@
       }
     },
     "us-pce-2026-05": {
-      "revision": 2,
-      "updatedAt": "2026-08-26T13:14:43.675Z",
+      "revision": 3,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7287,9 +7287,9 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：4.1%",
-          "核心 PCE 同比：3.5%",
-          "核心 PCE 环比：0.4%"
+          "PCE 物价指数同比：3.8%",
+          "核心 PCE 同比：3.2%",
+          "核心 PCE 环比：0.3%"
         ],
         "asOf": "2026-05-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7298,8 +7298,8 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.8%",
-          "核心 PCE 同比：3.3%",
+          "PCE 物价指数同比：3.6%",
+          "核心 PCE 同比：3.1%",
           "核心 PCE 环比：0.3%"
         ],
         "asOf": "2026-04-01",
@@ -7308,8 +7308,8 @@
       }
     },
     "us-pce-2026-06": {
-      "revision": 2,
-      "updatedAt": "2026-08-26T13:14:43.675Z",
+      "revision": 3,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7319,8 +7319,8 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.7%",
-          "核心 PCE 同比：3.3%",
+          "PCE 物价指数同比：3.5%",
+          "核心 PCE 同比：3.0%",
           "核心 PCE 环比：0.1%"
         ],
         "asOf": "2026-06-01",
@@ -7330,9 +7330,9 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：4.1%",
-          "核心 PCE 同比：3.5%",
-          "核心 PCE 环比：0.4%"
+          "PCE 物价指数同比：3.8%",
+          "核心 PCE 同比：3.2%",
+          "核心 PCE 环比：0.3%"
         ],
         "asOf": "2026-05-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7340,8 +7340,8 @@
       }
     },
     "us-pce-2026-07": {
-      "revision": 3,
-      "updatedAt": "2026-08-28T22:16:47.154Z",
+      "revision": 4,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7351,9 +7351,9 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.7%",
-          "核心 PCE 同比：3.3%",
-          "核心 PCE 环比：0.2%"
+          "PCE 物价指数同比：3.4%",
+          "核心 PCE 同比：3.0%",
+          "核心 PCE 环比：0.1%"
         ],
         "asOf": "2026-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7362,8 +7362,8 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.7%",
-          "核心 PCE 同比：3.3%",
+          "PCE 物价指数同比：3.5%",
+          "核心 PCE 同比：3.0%",
           "核心 PCE 环比：0.1%"
         ],
         "asOf": "2026-06-01",
@@ -7372,8 +7372,8 @@
       }
     },
     "us-pce-2026-08": {
-      "revision": 3,
-      "updatedAt": "2026-09-25T17:07:55.097Z",
+      "revision": 4,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7381,21 +7381,22 @@
         ]
       },
       "actual": {
-        "status": "unavailable",
+        "status": "available",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "PCE 物价指数同比：3.4%",
+          "核心 PCE 同比：3.0%",
+          "核心 PCE 环比：0.2%"
         ],
+        "asOf": "2026-08-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       },
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.7%",
-          "核心 PCE 同比：3.3%",
-          "核心 PCE 环比：0.2%"
+          "PCE 物价指数同比：3.4%",
+          "核心 PCE 同比：3.0%",
+          "核心 PCE 环比：0.1%"
         ],
         "asOf": "2026-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7403,8 +7404,8 @@
       }
     },
     "us-pce-2026-09": {
-      "revision": 2,
-      "updatedAt": "2026-08-26T13:14:43.675Z",
+      "revision": 3,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7414,27 +7415,28 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       },
       "previous": {
-        "status": "unavailable",
+        "status": "available",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "PCE 物价指数同比：3.4%",
+          "核心 PCE 同比：3.0%",
+          "核心 PCE 环比：0.2%"
         ],
+        "asOf": "2026-08-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2026-10": {
-      "revision": 2,
-      "updatedAt": "2026-08-26T13:14:43.675Z",
+      "revision": 3,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7444,9 +7446,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -7454,17 +7456,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2026-11": {
-      "revision": 2,
-      "updatedAt": "2026-08-26T13:14:43.675Z",
+      "revision": 3,
+      "updatedAt": "2026-09-30T22:12:40.860Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7474,9 +7476,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -7484,9 +7486,9 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"

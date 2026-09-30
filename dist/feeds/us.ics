@@ -383,8 +383,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2025-q4-advance@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260129T083000
 DTEND;TZID=America/New_York:20260129T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -403,7 +403,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  ：2025-10-01\n数据来源：美国经济分析局（BEA，经 FRED 获
  取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
- 际 GDP 环比年化（当前官方修订值）：+4.4%\n数据期：2025-
+ 际 GDP 环比年化（当前官方修订值）：+3.9%\n数据期：2025-
  07-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
  tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
  ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
@@ -435,8 +435,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2025-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260130T083000
 DTEND;TZID=America/New_York:20260130T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -450,12 +450,12 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.9%\n核
- 心 PCE 同比：3.0%\n核心 PCE 环比：0.3%\n数据期：2025-12-01\n
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.8%\n核
+ 心 PCE 同比：2.9%\n核心 PCE 环比：0.3%\n数据期：2025-12-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：2.8%\n核心 PCE 同比：2.8%\n核心 PCE 环比
+ CE 物价指数同比：2.7%\n核心 PCE 同比：2.7%\n核心 PCE 环比
  ：0.2%\n数据期：2025-11-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
@@ -782,8 +782,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2025-q4-second@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260226T083000
 DTEND;TZID=America/New_York:20260226T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -802,7 +802,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  +0.5%\n数据期：2025-10-01\n数据来源：美国经济分析局（BEA
  ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
  \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+4.4%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.9%\n
  数据期：2025-07-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -834,8 +834,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-01@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260227T083000
 DTEND;TZID=America/New_York:20260227T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -849,12 +849,12 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.9%\n核
- 心 PCE 同比：3.1%\n核心 PCE 环比：0.4%\n数据期：2026-01-01\n
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.7%\n核
+ 心 PCE 同比：2.9%\n核心 PCE 环比：0.4%\n数据期：2026-01-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：2.9%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ CE 物价指数同比：2.8%\n核心 PCE 同比：2.9%\n核心 PCE 环比
  ：0.3%\n数据期：2025-12-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
@@ -1282,8 +1282,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2025-q4-third@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260326T083000
 DTEND;TZID=America/New_York:20260326T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -1302,7 +1302,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  +0.5%\n数据期：2025-10-01\n数据来源：美国经济分析局（BEA
  ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
  \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+4.4%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.9%\n
  数据期：2025-07-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -1334,8 +1334,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-02@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260327T083000
 DTEND;TZID=America/New_York:20260327T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -1349,12 +1349,12 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.9%\n核
- 心 PCE 同比：3.0%\n核心 PCE 环比：0.4%\n数据期：2026-02-01\n
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.8%\n核
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.3%\n数据期：2026-02-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：2.9%\n核心 PCE 同比：3.1%\n核心 PCE 环比
+ CE 物价指数同比：2.7%\n核心 PCE 同比：2.9%\n核心 PCE 环比
  ：0.4%\n数据期：2026-01-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
@@ -1776,8 +1776,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q1-advance@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260430T083000
 DTEND;TZID=America/New_York:20260430T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -1796,7 +1796,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  ：2026-01-01\n数据来源：美国经济分析局（BEA，经 FRED 获
  取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
- 际 GDP 环比年化（当前官方修订值）：+0.5%\n数据期：2025-
+ 际 GDP 环比年化（当前官方修订值）：+0.2%\n数据期：2025-
  10-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
  tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
  ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
@@ -1828,8 +1828,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-03@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260430T083000
 DTEND;TZID=America/New_York:20260430T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -1843,13 +1843,13 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.5%\n核
- 心 PCE 同比：3.3%\n核心 PCE 环比：0.3%\n数据期：2026-03-01\n
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
+ 心 PCE 同比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-03-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：2.9%\n核心 PCE 同比：3.0%\n核心 PCE 环比
- ：0.4%\n数据期：2026-02-01\n数据来源：美国经济分析局（BE
+ CE 物价指数同比：2.8%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-02-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
  EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
@@ -2171,8 +2171,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q1-second@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260528T083000
 DTEND;TZID=America/New_York:20260528T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -2191,7 +2191,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  +2.1%\n数据期：2026-01-01\n数据来源：美国经济分析局（BEA
  ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
  \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+0.5%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+0.2%\n
  数据期：2025-10-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -2223,8 +2223,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-04@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260826T131443Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20260529T083000
 DTEND;TZID=America/New_York:20260529T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -2238,12 +2238,12 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.8%\n核
- 心 PCE 同比：3.3%\n核心 PCE 环比：0.3%\n数据期：2026-04-01\n
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.6%\n核
+ 心 PCE 同比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-04-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：3.5%\n核心 PCE 同比：3.3%\n核心 PCE 环比
+ CE 物价指数同比：3.4%\n核心 PCE 同比：3.1%\n核心 PCE 环比
  ：0.3%\n数据期：2026-03-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
@@ -2620,8 +2620,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q1-third@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260625T083000
 DTEND;TZID=America/New_York:20260625T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -2640,7 +2640,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  +2.1%\n数据期：2026-01-01\n数据来源：美国经济分析局（BEA
  ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
  \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+0.5%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+0.2%\n
  数据期：2025-10-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -2672,8 +2672,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-05@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260826T131443Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20260626T083000
 DTEND;TZID=America/New_York:20260626T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -2687,12 +2687,12 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：4.1%\n核
- 心 PCE 同比：3.5%\n核心 PCE 环比：0.4%\n数据期：2026-05-01\n
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.8%\n核
+ 心 PCE 同比：3.2%\n核心 PCE 环比：0.3%\n数据期：2026-05-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：3.8%\n核心 PCE 同比：3.3%\n核心 PCE 环比
+ CE 物价指数同比：3.6%\n核心 PCE 同比：3.1%\n核心 PCE 环比
  ：0.3%\n数据期：2026-04-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
@@ -3115,8 +3115,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q2-advance@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20260730T083000
 DTEND;TZID=America/New_York:20260730T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -3135,7 +3135,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  ：2026-04-01\n数据来源：美国经济分析局（BEA，经 FRED 获
  取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
- 际 GDP 环比年化（当前官方修订值）：+2.1%\n数据期：2026-
+ 际 GDP 环比年化（当前官方修订值）：+2.5%\n数据期：2026-
  01-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
  tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
  ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
@@ -3167,8 +3167,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-06@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260826T131443Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20260731T083000
 DTEND;TZID=America/New_York:20260731T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -3182,13 +3182,13 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.7%\n核
- 心 PCE 同比：3.3%\n核心 PCE 环比：0.1%\n数据期：2026-06-01\n
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.5%\n核
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.1%\n数据期：2026-06-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：4.1%\n核心 PCE 同比：3.5%\n核心 PCE 环比
- ：0.4%\n数据期：2026-05-01\n数据来源：美国经济分析局（BE
+ CE 物价指数同比：3.8%\n核心 PCE 同比：3.2%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-05-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
  EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
@@ -3510,8 +3510,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q2-second@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260827T221416Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20260827T083000
 DTEND;TZID=America/New_York:20260827T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -3530,7 +3530,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  +1.5%\n数据期：2026-04-01\n数据来源：美国经济分析局（BEA
  ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
  \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.1%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.5%\n
  数据期：2026-01-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -3562,8 +3562,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260828T221647Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20260828T083000
 DTEND;TZID=America/New_York:20260828T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -3577,12 +3577,12 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.7%\n核
- 心 PCE 同比：3.3%\n核心 PCE 环比：0.2%\n数据期：2026-07-01\n
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.1%\n数据期：2026-07-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：3.7%\n核心 PCE 同比：3.3%\n核心 PCE 环比
+ CE 物价指数同比：3.5%\n核心 PCE 同比：3.0%\n核心 PCE 环比
  ：0.1%\n数据期：2026-06-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
@@ -3959,8 +3959,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q2-third@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260924T170738Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20260924T083000
 DTEND;TZID=America/New_York:20260924T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -3979,7 +3979,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  +1.5%\n数据期：2026-04-01\n数据来源：美国经济分析局（BEA
  ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
  \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.1%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.5%\n
  数据期：2026-01-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -4013,8 +4013,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260925T170755Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20260925T083000
 DTEND;TZID=America/New_York:20260925T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -4028,15 +4028,19 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
- 致预期\n\n📌 前值：\nPCE 物价指数同比：3.7%\n核心 PCE 同
- 比：3.3%\n核心 PCE 环比：0.2%\n数据期：2026-07-01\n数据来源
- ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
- ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
- ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
- sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
- .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
- 布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.2%\n数据期：2026-08-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.4%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ ：0.1%\n数据期：2026-07-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -4438,8 +4442,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-advance@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20261029T083000
 DTEND;TZID=America/New_York:20261029T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -4455,7 +4459,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
  ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
-  GDP 环比年化（当前官方修订值）：+1.5%\n数据期：2026-04-
+  GDP 环比年化（当前官方修订值）：+2.2%\n数据期：2026-04-
  01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps
  ://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domest
@@ -4487,8 +4491,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260826T131443Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261030T083000
 DTEND;TZID=America/New_York:20261030T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -4503,17 +4507,14 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
- 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-07-01）\n核心
-  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-07-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-07-01）\n数据来源：
- 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
- /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
- n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
- tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
- /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
- 日程整理；日期仍应以 BEA 最新日程为准。
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：3.4%\n核心 PCE 同
+ 比：3.0%\n核心 PCE 环比：0.2%\n数据期：2026-08-01\n数据来源
+ ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
+ ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
+ sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
+ .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
+ 布日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -4829,8 +4830,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-second@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -4846,7 +4847,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+1.5%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.2%\n
  数据期：2026-04-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -4878,8 +4879,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260826T131443Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -4895,10 +4896,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-07-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-08-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-07-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-07-01）\n数据来源：
+ 数据期 2026-08-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-08-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -5271,8 +5272,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-third@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -5288,7 +5289,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+1.5%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.2%\n
  数据期：2026-04-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -5320,8 +5321,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260826T131443Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20260930T221240Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -5337,10 +5338,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-07-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-08-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-07-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-07-01）\n数据来源：
+ 数据期 2026-08-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-08-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
