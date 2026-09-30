@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 84,
-  "updatedAt": "2026-09-29T12:48:28.411Z",
+  "revision": 85,
+  "updatedAt": "2026-09-30T05:28:53.482Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -1054,8 +1054,8 @@
       }
     },
     "cn-official-pmi-2026-09": {
-      "revision": 9,
-      "updatedAt": "2026-09-25T11:48:07.651Z",
+      "revision": 10,
+      "updatedAt": "2026-09-30T05:28:53.482Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1063,7 +1063,7 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "unavailable",
         "lines": [
           "制造业 PMI：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
           "非制造业商务活动指数：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
