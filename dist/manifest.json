@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-08-11",
-  "sourceSha256": "e2deacc42c92df29d8a99a51eb65a9e91454cb8d531493a25a6e690fcf78631f",
+  "sourceSha256": "633a58b50902d86eae4a61ff88a0be0f58e865bd8dc946e7dfd45d6aca1a1d3b",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -17,7 +17,7 @@
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
       "eventCount": 289,
-      "sha256": "c5ba4f43e4a95f97e6d527785cd3ab41301875680366d0569e0d06a7dbf672b5"
+      "sha256": "5b6c4823ddcf0c3e4c618bae188b33ee0089bfe747eb4ef485b285915f33dad7"
     },
     {
       "fileName": "feeds/us.ics",
@@ -35,7 +35,7 @@
       "fileName": "feeds/japan.ics",
       "name": "日本高影响财经日历 Pro",
       "eventCount": 56,
-      "sha256": "a319d21e2a48afd063991a18ad9d9cf7c3cf071bfe20f623b81e8cf1e0d66003"
+      "sha256": "dad2b146a5c56a7e5144bf9890d793656bef7bd2484265847b13728fea647c2f"
     },
     {
       "fileName": "feeds/china.ics",
@@ -71,13 +71,13 @@
       "fileName": "feeds/pmi.ics",
       "name": "PMI 与景气调查事件 Pro",
       "eventCount": 52,
-      "sha256": "0edc763e26d7c77981e58c12a18111c9afa4eecb7a028658d2e7c881d4c14d12"
+      "sha256": "63109b7d15e39a6e0ae61f5a5996a69ad94ec6ea6fc1c66a57691f4735208a39"
     },
     {
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",
       "name": "2026 中文财经日历（全球高影响 Pro）",
       "eventCount": 233,
-      "sha256": "f00e5ab87d0c5cca759c42efd03780ee7073e4b4359567b378d15970f092df48"
+      "sha256": "5857f9d17b2e9489e54bffd0983e9c0ad14340c74633b9621ddd82a08e0d0be9"
     },
     {
       "fileName": "2026_中文财经日历_US_高影响_Pro.ics",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 87,
-  "updatedAt": "2026-09-30T22:12:40.860Z",
+  "revision": 88,
+  "updatedAt": "2026-10-01T05:47:44.488Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -4161,8 +4161,8 @@
       }
     },
     "jp-tankan-2026-09": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-10-01T05:47:44.488Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4170,9 +4170,9 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "unavailable",
         "lines": [
-          "等待官方公布"
+          "短观调查暂无已验证、免密钥且适合稳定自动更新的单一公共序列"
         ],
         "sourceName": "日本银行（BOJ）",
         "sourceUrl": "https://www.boj.or.jp/en/statistics/tk/index.htm"
