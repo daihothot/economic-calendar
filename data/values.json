@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 89,
-  "updatedAt": "2026-10-01T13:08:26.118Z",
+  "revision": 90,
+  "updatedAt": "2026-10-01T22:38:53.102Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -6347,8 +6347,8 @@
       }
     },
     "us-ism-manufacturing-2026-09": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "revision": 2,
+      "updatedAt": "2026-10-01T22:38:53.102Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6356,9 +6356,9 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "unavailable",
         "lines": [
-          "等待官方公布"
+          "ISM PMI 属许可数据，FRED 序列已下架，免费镜像的制造业数值校验异常，暂不自动填充"
         ],
         "sourceName": "美国供应管理协会（ISM）",
         "sourceUrl": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/"
