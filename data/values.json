@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 91,
-  "updatedAt": "2026-10-02T12:29:19.032Z",
+  "revision": 92,
+  "updatedAt": "2026-10-02T22:11:04.558Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -6961,8 +6961,8 @@
       }
     },
     "us-nfp-2026-07": {
-      "revision": 2,
-      "updatedAt": "2026-09-04T16:19:16.208Z",
+      "revision": 3,
+      "updatedAt": "2026-10-02T22:11:04.558Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6972,7 +6972,7 @@
       "actual": {
         "status": "available",
         "lines": [
-          "非农就业变动：+21千人",
+          "非农就业变动：-10千人",
           "失业率：4.1%",
           "平均时薪同比：3.2%"
         ],
@@ -6993,8 +6993,8 @@
       }
     },
     "us-nfp-2026-08": {
-      "revision": 2,
-      "updatedAt": "2026-09-04T16:19:16.208Z",
+      "revision": 3,
+      "updatedAt": "2026-10-02T22:11:04.558Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7004,7 +7004,7 @@
       "actual": {
         "status": "available",
         "lines": [
-          "非农就业变动：+162千人",
+          "非农就业变动：+133千人",
           "失业率：4.1%",
           "平均时薪同比：3.1%"
         ],
@@ -7015,7 +7015,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "非农就业变动：+21千人",
+          "非农就业变动：-10千人",
           "失业率：4.1%",
           "平均时薪同比：3.2%"
         ],
@@ -7025,8 +7025,8 @@
       }
     },
     "us-nfp-2026-09": {
-      "revision": 2,
-      "updatedAt": "2026-09-04T16:19:16.208Z",
+      "revision": 3,
+      "updatedAt": "2026-10-02T22:11:04.558Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7034,19 +7034,20 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "available",
         "lines": [
-          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
+          "非农就业变动：+29千人",
+          "失业率：4.2%",
+          "平均时薪同比：3.0%"
         ],
+        "asOf": "2026-09-01",
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
       },
       "previous": {
         "status": "available",
         "lines": [
-          "非农就业变动：+162千人",
+          "非农就业变动：+133千人",
           "失业率：4.1%",
           "平均时薪同比：3.1%"
         ],
@@ -7056,8 +7057,8 @@
       }
     },
     "us-nfp-2026-10": {
-      "revision": 2,
-      "updatedAt": "2026-09-04T16:19:16.208Z",
+      "revision": 3,
+      "updatedAt": "2026-10-02T22:11:04.558Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7067,27 +7068,28 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
         ],
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
       },
       "previous": {
-        "status": "unavailable",
+        "status": "available",
         "lines": [
-          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
+          "非农就业变动：+29千人",
+          "失业率：4.2%",
+          "平均时薪同比：3.0%"
         ],
+        "asOf": "2026-09-01",
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
       }
     },
     "us-nfp-2026-11": {
-      "revision": 2,
-      "updatedAt": "2026-09-04T16:19:16.208Z",
+      "revision": 3,
+      "updatedAt": "2026-10-02T22:11:04.558Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7097,9 +7099,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
         ],
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
@@ -7107,9 +7109,9 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
-          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
         ],
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
@@ -7795,8 +7797,8 @@
       }
     },
     "us-ppi-2026-09": {
-      "revision": 8,
-      "updatedAt": "2026-10-02T12:29:19.032Z",
+      "revision": 9,
+      "updatedAt": "2026-10-02T22:11:04.558Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7806,8 +7808,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
@@ -7824,8 +7826,8 @@
       }
     },
     "us-ppi-2026-10": {
-      "revision": 8,
-      "updatedAt": "2026-10-02T12:29:19.032Z",
+      "revision": 9,
+      "updatedAt": "2026-10-02T22:11:04.558Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7835,8 +7837,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
@@ -7844,16 +7846,16 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
       }
     },
     "us-ppi-2026-11": {
-      "revision": 8,
-      "updatedAt": "2026-10-02T12:29:19.032Z",
+      "revision": 9,
+      "updatedAt": "2026-10-02T22:11:04.558Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7863,8 +7865,8 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
@@ -7872,8 +7874,8 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PPI 同比：本次自动获取失败",
-          "PPI 环比（季调）：本次自动获取失败"
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-08-01）"
         ],
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
