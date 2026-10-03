@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-08-11",
-  "sourceSha256": "efc3f8e8c992806607bb935a7bce0008189f583e30939751761a0c5068990074",
+  "sourceSha256": "6e15286442a65fa889c911dc282cd535082ef705a8b2f91af2477042a704a3e5",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -17,13 +17,13 @@
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
       "eventCount": 289,
-      "sha256": "0ba7cb3a36dbe16aee4551c99903258486c8048f6672e4452c5680fd65661ef2"
+      "sha256": "4bd0e7ad27819ca82b53e983f0b1d6ff7ed3e490bb834f92e6c5530bca276c22"
     },
     {
       "fileName": "feeds/us.ics",
       "name": "美国高影响财经日历 Pro",
       "eventCount": 133,
-      "sha256": "b85074a934343c99ab487cc4e5d7cbba8e24f11eead5d6d39cbc711efd9b57ce"
+      "sha256": "117b48b2da6ad935b3bed1adac635aae62219225dee33594af47e19af8f6ed65"
     },
     {
       "fileName": "feeds/eurozone.ics",
@@ -47,7 +47,7 @@
       "fileName": "feeds/central-bank.ics",
       "name": "央行政策事件 Pro",
       "eventCount": 124,
-      "sha256": "f87178a0953c6ed4fa04d04922d80d93522334542943bb9ce7d6dbc4d9dfb040"
+      "sha256": "c91171d0cea8f2cb85fc292f707a8789693d78b825b6599ee0abc65df03d58cc"
     },
     {
       "fileName": "feeds/inflation.ics",
@@ -77,13 +77,13 @@
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",
       "name": "2026 中文财经日历（全球高影响 Pro）",
       "eventCount": 233,
-      "sha256": "261a37161896588fa8c262732da5e068bb996ddb0e9c5a5b30a66200ba44b4aa"
+      "sha256": "8a2fda14d3bffb930421d4596e84cb36bf43acd5c2f1e53790f2a0f59d25df53"
     },
     {
       "fileName": "2026_中文财经日历_US_高影响_Pro.ics",
       "name": "2026 中文财经日历（美国高影响 Pro）",
       "eventCount": 109,
-      "sha256": "b06fd136fae6d54b2b0e39fba5bbe6613ddff8b9121f3b2f4e8eb58e8a029840"
+      "sha256": "5f547b9ef7aacd4b12f26d37ef9b91c6375a00a6e953dca74bc121318f7ace40"
     }
   ]
 }
