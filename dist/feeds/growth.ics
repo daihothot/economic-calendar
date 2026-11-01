@@ -1145,8 +1145,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-gdp-2026-q3@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20261019T100000
 DTEND;TZID=Asia/Shanghai:20261019T103000
 SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
@@ -1197,8 +1197,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-advance@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261029T083000
 DTEND;TZID=America/New_York:20261029T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -1212,15 +1212,18 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  正增长、消费和通胀结构。\n\n🎯 市场关注：\n💱 外汇
  ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
- 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
- ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
-  GDP 环比年化（当前官方修订值）：+2.2%\n数据期：2026-04-
- 01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps
- ://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\
- n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domest
- ic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full
- \n\n📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日
- 期仍应以 BEA 最新日程为准。
+ 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值
+ ：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n数据期
+ ：2026-07-01\n数据来源：美国经济分析局（BEA，经 FRED 获
+ 取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
+ 际 GDP 环比年化（当前官方修订值）：+2.2%\n数据期：2026-
+ 04-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
+ tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
+ mestic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/
+ full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；
+ 日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -1246,8 +1249,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2026-q3@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081105
 DTSTART;TZID=Europe/Brussels:20261030T110000
 DTEND;TZID=Europe/Brussels:20261030T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -1343,8 +1346,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-second@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -1442,8 +1445,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-third@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐

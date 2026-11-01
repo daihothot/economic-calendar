@@ -323,8 +323,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2025-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260911T162600Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20260113T083000
 DTEND;TZID=America/New_York:20260113T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -345,9 +345,9 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
  市场一致预期\n\n📌 前值：\nCPI 同比：2.7%\nCPI 环比（季
  调）：免费数据源尚未提供本统计期数值（源端最新数
- 据期 2026-08-01）\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调
+ 据期 2026-09-01）\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调
  ）：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-08-01）\n数据期：2025-11-01\n数据来源：美国劳工统
+ 期 2026-09-01）\n数据期：2025-11-01\n数据来源：美国劳工统
  计局（BLS，经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官
  方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n
  🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\
@@ -7293,8 +7293,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260910T162156Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20260813T083000
 DTEND;TZID=America/New_York:20260813T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -7309,7 +7309,7 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
- PPI 同比：4.8%\nPPI 环比（季调）：0.1%\n数据期：2026-07-01\n
+ PPI 同比：4.9%\nPPI 环比（季调）：0.2%\n数据期：2026-07-01\n
  数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
  n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
  值：\nPPI 同比：5.6%\nPPI 环比（季调）：-0.1%\n数据期：202
@@ -8046,8 +8046,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260910T162156Z
-SEQUENCE:2026081107
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081108
 DTSTART;TZID=America/New_York:20260910T083000
 DTEND;TZID=America/New_York:20260910T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -8062,10 +8062,10 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
- PPI 同比：5.4%\nPPI 环比（季调）：0.4%\n数据期：2026-08-01\n
+ PPI 同比：5.6%\nPPI 环比（季调）：0.5%\n数据期：2026-08-01\n
  数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
  n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
- 值：\nPPI 同比：4.8%\nPPI 环比（季调）：0.1%\n数据期：2026
+ 值：\nPPI 同比：4.9%\nPPI 环比（季调）：0.2%\n数据期：2026
  -07-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
  /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
  www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
@@ -8646,8 +8646,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081107
 DTSTART;TZID=America/New_York:20260925T083000
 DTEND;TZID=America/New_York:20260925T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -8662,7 +8662,7 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
- 心 PCE 同比：3.0%\n核心 PCE 环比：0.2%\n数据期：2026-08-01\n
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.3%\n数据期：2026-08-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
@@ -8751,8 +8751,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T123138Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081107
 DTSTART;TZID=Europe/Brussels:20260930T110000
 DTEND;TZID=Europe/Brussels:20260930T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -8767,14 +8767,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nHICP 同比：3.2%\n数据期：2026-08-01\n数据来源：欧
- 盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurosta
- t/web/hicp\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttp
- s://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.eur
- opa.eu/eurostat/news/release-calendar\n\n📋 日程状态：\n高置信
- 候选日期，当前尚未逐项完成 Eurostat 官方发布日历复核
- ；通常风险为前后一个工作日。
+ \n\n✅ 实际值：\nHICP 同比：3.8%\n数据期：2026-09-01\n数据
+ 来源：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europ
+ a.eu/eurostat/web/hicp\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nHICP 同比：3.2%\n数据期：2026-08
+ -01\n数据来源：欧盟统计局（Eurostat，经 FRED 获取）\nhttps
+ ://ec.europa.eu/eurostat/web/hicp\n\n🏛️ 官方来源：\n欧盟统计
+ 局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方
+ 日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日
+ 程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -9037,8 +9039,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260911T162600Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261014T083000
 DTEND;TZID=America/New_York:20261014T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -9053,14 +9055,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nCPI 同比：3.4%\nCPI 环比（季调）：0.4%\n核心 CPI
-  同比：2.4%\n核心 CPI 环比（季调）：0.3%\n数据期：2026-08-
- 01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps
- ://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BL
- S）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.go
- v/schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2026
-  日程，已核对至 2026-08-11；后续以官方最新公告为准。
+ n\n✅ 实际值：\nCPI 同比：3.7%\nCPI 环比（季调）：0.6%\n核
+ 心 CPI 同比：2.6%\n核心 CPI 环比（季调）：0.3%\n数据期：2
+ 026-09-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：3.4%\nCPI 环比（季
+ 调）：0.4%\n核心 CPI 同比：2.4%\n核心 CPI 环比（季调）：0
+ .3%\n数据期：2026-08-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -9085,8 +9091,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260925T114807Z
-SEQUENCE:2026081123
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081124
 DTSTART;TZID=Asia/Shanghai:20261014T093000
 DTEND;TZID=Asia/Shanghai:20261014T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -9137,8 +9143,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261002T221104Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=America/New_York:20261015T083000
 DTEND;TZID=America/New_York:20261015T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -9152,14 +9158,16 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
- 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
- ：5.4%\nPPI 环比（季调）：0.4%\n数据期：2026-08-01\n数据来
- 源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️
-  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/
- \n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.ht
- m\n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-1
- 1；后续以官方最新公告为准。
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：6.3%\nPPI 环比（季调）：1.3%\n数据期：2026-09-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：5.6%\nPPI 环比（季调）：0.5%\n数据期：2026
+ -08-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -9184,8 +9192,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-gdp-2026-q3@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260921T124342Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20261019T100000
 DTEND;TZID=Asia/Shanghai:20261019T103000
 SUMMARY:🇨🇳 中国 GDP / 国民经济运行情况（⭐⭐⭐ 高影
@@ -9236,8 +9244,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260920T045059Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20261020T090000
 DTEND;TZID=Asia/Shanghai:20261020T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -9251,16 +9259,19 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  资与住房按揭预期。\n\n🎯 市场关注：\n💱 外汇｜人民
  币与离岸人民币　↗｜↘\n🏛️ 债券｜中国国债收益率
  　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与
- 港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
- 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
-  年期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-09-20\n
- 数据来源：中国外汇交易中心暨全国银行间同业拆借中
- 心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源
- ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
- bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗
-  官方日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/1254
- 40/3876551/index.html\n\n📋 日程状态：\n按每月 20 日规则生
- 成的候选日期，等待当月官方公告确认。
+ 港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际
+ 值：\n1 年期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026
+ -10-20\n数据来源：中国外汇交易中心暨全国银行间同业拆
+ 借中心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1 年
+ 期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-09-20\n数
+ 据来源：中国外汇交易中心暨全国银行间同业拆借中心\n
+ https://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n
+ 中国人民银行 / 全国银行间同业拆借中心\nhttps://www.pbc.go
+ v.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n📋 日程状态：\n按每月 20 日规则生成的候
+ 选日期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -9287,8 +9298,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081115
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081116
 DTSTART;TZID=Asia/Tokyo:20261023T083000
 DTEND;TZID=Asia/Tokyo:20261023T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -9302,16 +9313,20 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  本央行政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜
  日元与主要货币对　↗｜↘\n🏛️ 债券｜日本国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
- 指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
- 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：2.0%\n核心 CPI 同比（除生鲜食品）：1.8%\n核
- 心核心 CPI 同比（除生鲜食品及能源）：2.0%\n数据期：202
- 6-08-01\n数据来源：日本总务省统计局（经 DBnomics 获取）\
- nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日
- 本总务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go
- .jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/engl
- ish/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2
- 026 CPI 官方发布日程。
+ 指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际
+ 值：\n全国 CPI 同比：2.2%\n核心 CPI 同比（除生鲜食品）
+ ：2.2%\n核心核心 CPI 同比（除生鲜食品及能源）：2.3%\n数
+ 据期：2026-09-01\n数据来源：日本总务省统计局（经 DBnomic
+ s 获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🔮 预测值：
+ \n官方数据源不提供市场一致预期\n\n📌 前值：\n全国 CPI
+  同比：2.0%\n核心 CPI 同比（除生鲜食品）：1.8%\n核心核
+ 心 CPI 同比（除生鲜食品及能源）：2.0%\n数据期：2026-08-0
+ 1\n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps
+ ://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
+ 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
+ glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
+ ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
+ I 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -9337,8 +9352,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081104
 DTSTART;TZID=Europe/Brussels:20261023T100000
 DTEND;TZID=Europe/Brussels:20261023T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -9384,8 +9399,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20261028T140000
 DTEND;TZID=America/New_York:20261028T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -9398,16 +9413,19 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
  元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
  　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
- ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
- 官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
- 目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
-  获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
- \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
- ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
- 🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calendar.h
- tm\n\n📋 日程状态：\nFederal Reserve 官方 FOMC 2026 日历，已
- 核对至 2026-08-11。
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n联
+ 邦基金目标区间下限：3.75%\n联邦基金目标区间上限：4.00
+ %\n数据期：2026-10-28\n数据来源：美国联邦储备委员会（
+ 经 FRED 获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmark
+ et.htm\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\n联邦基金目标区间下限：3.75%\n联邦基金目
+ 标区间上限：4.00%\n数据期：2026-10-27\n数据来源：美国联
+ 邦储备委员会（经 FRED 获取）\nhttps://www.federalreserve.gov/mo
+ netarypolicy/openmarket.htm\n\n🏛️ 官方来源：\n美国联邦储备
+ 委员会（Federal Reserve）\nhttps://www.federalreserve.gov/monetarypol
+ icy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.federalreserve.
+ gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal Reserve 官
+ 方 FOMC 2026 日历，已核对至 2026-08-11。
 LOCATION:美国联邦储备委员会（线上发布）
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 CATEGORIES:央行政策,美国,高影响
@@ -9479,8 +9497,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-advance@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261029T083000
 DTEND;TZID=America/New_York:20261029T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -9494,15 +9512,18 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  正增长、消费和通胀结构。\n\n🎯 市场关注：\n💱 外汇
  ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
- 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
- ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
-  GDP 环比年化（当前官方修订值）：+2.2%\n数据期：2026-04-
- 01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps
- ://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\
- n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domest
- ic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full
- \n\n📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日
- 期仍应以 BEA 最新日程为准。
+ 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值
+ ：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n数据期
+ ：2026-07-01\n数据来源：美国经济分析局（BEA，经 FRED 获
+ 取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
+ 际 GDP 环比年化（当前官方修订值）：+2.2%\n数据期：2026-
+ 04-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
+ tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
+ mestic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/
+ full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；
+ 日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -9528,8 +9549,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20261029T141500
 DTEND;TZID=Europe/Brussels:20261029T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -9544,16 +9565,20 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ：\n💱 外汇｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜
  德国国债与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　
  ↗｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitc
- oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
- 预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
- 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-0
- 5\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
- ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
- ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
- https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
-  官方日程：\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/ind
- ex.en.html\n\n📋 日程状态：\nECB 2026 货币政策会议日程；
- 后续以 ECB 最新会议日历为准。
+ oin　↗｜↘\n\n✅ 实际值：\n存款机制利率：2.50%\n主要再
+ 融资操作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：
+ 2026-10-29\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\n
+ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest
+ _rates/html/index.en.html\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\n存款机制利率：2.50%\n主要
+ 再融资操作利率：2.65%\n边际贷款机制利率：2.90%\n数据期
+ ：2026-10-28\n数据来源：欧洲中央银行（ECB，经 FRED 获取
+ ）\nhttps://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_int
+ erest_rates/html/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银
+ 行（ECB）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.e
+ n.html\n\n🔗 官方日程：\nhttps://www.ecb.europa.eu/press/calendars/
+ mgcgc/html/index.en.html\n\n📋 日程状态：\nECB 2026 货币政策会
+ 议日程；后续以 ECB 最新会议日历为准。
 LOCATION:欧洲中央银行（线上发布）
 URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
 CATEGORIES:央行政策,欧元区,高影响
@@ -9624,8 +9649,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-boj-2026-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081104
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:🇯🇵 日本央行（BOJ）金融政策决定（⭐⭐⭐ 高影
@@ -9671,8 +9696,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261030T083000
 DTEND;TZID=America/New_York:20261030T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -9686,15 +9711,19 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
- 致预期\n\n📌 前值：\nPCE 物价指数同比：3.4%\n核心 PCE 同
- 比：3.0%\n核心 PCE 环比：0.2%\n数据期：2026-08-01\n数据来源
- ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
- ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
- ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
- sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
- .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
- 布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.6%\n核
+ 心 PCE 同比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-09-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.4%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-08-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -9720,8 +9749,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2026-q3@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260907T122714Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081105
 DTSTART;TZID=Europe/Brussels:20261030T110000
 DTEND;TZID=Europe/Brussels:20261030T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -9767,8 +9796,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260917T165806Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20261030T110000
 DTEND;TZID=Europe/Brussels:20261030T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -9784,14 +9813,13 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-08-01）\n数据来源：欧盟统计局
- （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
- \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
- a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
- tat/news/release-calendar\n\n📋 日程状态：\n高置信候选日期
- ，当前尚未逐项完成 Eurostat 官方发布日历复核；通常风
- 险为前后一个工作日。
+ n📌 前值：\nHICP 同比：3.8%\n数据期：2026-09-01\n数据来源
+ ：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat）
+ \nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://
+ ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程状态：\n高
+ 置信候选日期，当前尚未逐项完成 Eurostat 官方发布日历
+ 复核；通常风险为前后一个工作日。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -9862,8 +9890,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-official-pmi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260925T114807Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=Asia/Shanghai:20261031T093000
 DTEND;TZID=Asia/Shanghai:20261031T100000
 SUMMARY:🇨🇳 中国官方制造业 / 非制造业 PMI（⭐⭐⭐ 高
@@ -10108,8 +10136,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260911T162600Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261110T083000
 DTEND;TZID=America/New_York:20261110T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -10125,16 +10153,12 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
- 源端最新数据期 2026-08-01）\nCPI 环比（季调）：免费数据
- 源尚未提供本统计期数值（源端最新数据期 2026-08-01）\n
- 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
- 最新数据期 2026-08-01）\n核心 CPI 环比（季调）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-08-01）
- \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
- /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2026
+  前值：\nCPI 同比：3.7%\nCPI 环比（季调）：0.6%\n核心 CPI
+  同比：2.6%\n核心 CPI 环比（季调）：0.3%\n数据期：2026-09-
+ 01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps
+ ://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BL
+ S）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.go
+ v/schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2026
   日程，已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
@@ -10160,8 +10184,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261002T221104Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=America/New_York:20261113T083000
 DTEND;TZID=America/New_York:20261113T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -10177,14 +10201,12 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
  n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
- ：免费数据源尚未提供本统计期数值（源端最新数据期 2
- 026-08-01）\nPPI 环比（季调）：免费数据源尚未提供本统
- 计期数值（源端最新数据期 2026-08-01）\n数据来源：美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
- ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
- 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
-  日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后
- 续以官方最新公告为准。
+ ：6.3%\nPPI 环比（季调）：1.3%\n数据期：2026-09-01\n数据来
+ 源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/
+ \n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.ht
+ m\n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-1
+ 1；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -10303,8 +10325,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081115
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081116
 DTSTART;TZID=Asia/Tokyo:20261120T083000
 DTEND;TZID=Asia/Tokyo:20261120T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -10320,17 +10342,14 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-08-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-08
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-08-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ 国 CPI 同比：2.2%\n核心 CPI 同比（除生鲜食品）：2.2%\n核
+ 心核心 CPI 同比（除生鲜食品及能源）：2.3%\n数据期：202
+ 6-09-01\n数据来源：日本总务省统计局（经 DBnomics 获取）\
+ nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日
+ 本总务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go
+ .jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/engl
+ ish/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2
+ 026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -10356,8 +10375,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260920T045059Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20261120T090000
 DTEND;TZID=Asia/Shanghai:20261120T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -10373,16 +10392,14 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
-  年期 LPR：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-20）\n5 年期以上 LPR：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-20）\n数据来源：
- 中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
- chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
- 银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
- huobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程：\nh
- ttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.ht
- ml\n\n📋 日程状态：\n按每月 20 日规则生成的候选日期，
- 等待当月官方公告确认。
+  年期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-10-20\n
+ 数据来源：中国外汇交易中心暨全国银行间同业拆借中
+ 心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗
+  官方日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/1254
+ 40/3876551/index.html\n\n📋 日程状态：\n按每月 20 日规则生
+ 成的候选日期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -10456,8 +10473,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-second@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -10505,8 +10522,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -10521,17 +10538,14 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
- 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-08-01）\n核心
-  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-08-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-08-01）\n数据来源：
- 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
- /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
- n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
- tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
- /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
- 日程整理；日期仍应以 BEA 最新日程为准。
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：3.6%\n核心 PCE 同
+ 比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-09-01\n数据来源
+ ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
+ ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
+ sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
+ .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
+ 布日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -10657,8 +10671,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260917T165806Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20261201T110000
 DTEND;TZID=Europe/Brussels:20261201T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -10675,7 +10689,7 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-08-01）\n数据来源：欧盟统计局
+ 值（源端最新数据期 2026-09-01）\n数据来源：欧盟统计局
  （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
  \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
  a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
@@ -10906,8 +10920,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -10923,7 +10937,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -11001,8 +11015,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260911T162600Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261210T083000
 DTEND;TZID=America/New_York:20261210T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -11019,11 +11033,11 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
   前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
- 源端最新数据期 2026-08-01）\nCPI 环比（季调）：免费数据
- 源尚未提供本统计期数值（源端最新数据期 2026-08-01）\n
+ 源端最新数据期 2026-09-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-09-01）\n
  核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
- 最新数据期 2026-08-01）\n核心 CPI 环比（季调）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-08-01）
+ 最新数据期 2026-09-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-09-01）
  \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
  /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
  ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
@@ -11101,8 +11115,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261002T221104Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=America/New_York:20261215T083000
 DTEND;TZID=America/New_York:20261215T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -11119,8 +11133,8 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
  n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
  ：免费数据源尚未提供本统计期数值（源端最新数据期 2
- 026-08-01）\nPPI 环比（季调）：免费数据源尚未提供本统
- 计期数值（源端最新数据期 2026-08-01）\n数据来源：美国
+ 026-09-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-09-01）\n数据来源：美国
  劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
  ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
  方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
@@ -11197,8 +11211,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20261217T141500
 DTEND;TZID=Europe/Brussels:20261217T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -11215,8 +11229,8 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ↗｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitc
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
- 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-0
- 5\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-3
+ 0\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -11340,8 +11354,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081115
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081116
 DTSTART;TZID=Asia/Tokyo:20261218T083000
 DTEND;TZID=Asia/Tokyo:20261218T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -11358,10 +11372,10 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-08-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-08
+ 新数据期 2026-09-01）\n核心 CPI 同比（除生鲜食品）：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-09
  -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-08-01）
+ 据源尚未提供本统计期数值（源端最新数据期 2026-09-01）
  \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
  //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
  务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
@@ -11438,8 +11452,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260920T045059Z
-SEQUENCE:2026081109
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081110
 DTSTART;TZID=Asia/Shanghai:20261221T090000
 DTEND;TZID=Asia/Shanghai:20261221T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -11456,8 +11470,8 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
   年期 LPR：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-20）\n5 年期以上 LPR：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-20）\n数据来源：
+ 数据期 2026-10-20）\n5 年期以上 LPR：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-20）\n数据来源：
  中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
  chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
  银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
@@ -11491,8 +11505,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-third@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081104
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081105
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -11540,8 +11554,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -11557,10 +11571,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-08-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-08-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-08-01）\n数据来源：
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -11779,8 +11793,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-01-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20270127T140000
 DTEND;TZID=America/New_York:20270127T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -11796,7 +11810,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -11874,8 +11888,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-02-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20270204T141500
 DTEND;TZID=Europe/Brussels:20270204T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -11892,7 +11906,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-05\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-30\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -12015,8 +12029,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-03-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20270317T140000
 DTEND;TZID=America/New_York:20270317T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -12032,7 +12046,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -12157,8 +12171,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-03-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20270318T141500
 DTEND;TZID=Europe/Brussels:20270318T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -12175,7 +12189,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-05\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-30\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -12389,8 +12403,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-04-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20270428T140000
 DTEND;TZID=America/New_York:20270428T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -12406,7 +12420,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -12528,8 +12542,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-04-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20270429T141500
 DTEND;TZID=Europe/Brussels:20270429T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -12546,7 +12560,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-05\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-30\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -12669,8 +12683,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-06-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20270609T140000
 DTEND;TZID=America/New_York:20270609T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -12686,7 +12700,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官
  方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金目
  标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据期
- ：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED 获
+ ：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED 获
  取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n\n
  🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve）\
  nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n🔗
@@ -12764,8 +12778,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-06-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20270610T141500
 DTEND;TZID=Europe/Brussels:20270610T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -12782,7 +12796,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-05\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-30\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -13043,8 +13057,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-07-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20270722T141500
 DTEND;TZID=Europe/Brussels:20270722T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -13061,7 +13075,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-05\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-30\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -13183,8 +13197,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-07-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20270728T140000
 DTEND;TZID=America/New_York:20270728T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -13200,7 +13214,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -13323,8 +13337,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-09-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20270909T141500
 DTEND;TZID=Europe/Brussels:20270909T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -13341,7 +13355,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-05\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-30\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -13419,8 +13433,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-09-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20270915T140000
 DTEND;TZID=America/New_York:20270915T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -13436,7 +13450,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -13650,8 +13664,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20271027T140000
 DTEND;TZID=America/New_York:20271027T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -13667,7 +13681,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -13745,8 +13759,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-10-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20271028T141500
 DTEND;TZID=Europe/Brussels:20271028T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -13763,8 +13777,8 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ↗｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitc
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
- 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-0
- 5\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-3
+ 0\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -13977,8 +13991,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081159
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081160
 DTSTART;TZID=America/New_York:20271208T140000
 DTEND;TZID=America/New_York:20271208T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -13994,7 +14008,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-10-05\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -14072,8 +14086,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261005T143139Z
-SEQUENCE:2026081143
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081144
 DTSTART;TZID=Europe/Brussels:20271216T141500
 DTEND;TZID=Europe/Brussels:20271216T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -14090,8 +14104,8 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ↗｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitc
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
- 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-0
- 5\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-3
+ 0\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗

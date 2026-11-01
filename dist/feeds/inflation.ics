@@ -176,8 +176,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2025-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260911T162600Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20260113T083000
 DTEND;TZID=America/New_York:20260113T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -198,9 +198,9 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
  市场一致预期\n\n📌 前值：\nCPI 同比：2.7%\nCPI 环比（季
  调）：免费数据源尚未提供本统计期数值（源端最新数
- 据期 2026-08-01）\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调
+ 据期 2026-09-01）\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调
  ）：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-08-01）\n数据期：2025-11-01\n数据来源：美国劳工统
+ 期 2026-09-01）\n数据期：2025-11-01\n数据来源：美国劳工统
  计局（BLS，经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官
  方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n
  🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\
@@ -2462,8 +2462,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-07@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260910T162156Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20260813T083000
 DTEND;TZID=America/New_York:20260813T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -2478,7 +2478,7 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
- PPI 同比：4.8%\nPPI 环比（季调）：0.1%\n数据期：2026-07-01\n
+ PPI 同比：4.9%\nPPI 环比（季调）：0.2%\n数据期：2026-07-01\n
  数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
  n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
  值：\nPPI 同比：5.6%\nPPI 环比（季调）：-0.1%\n数据期：202
@@ -2721,8 +2721,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260910T162156Z
-SEQUENCE:2026081107
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081108
 DTSTART;TZID=America/New_York:20260910T083000
 DTEND;TZID=America/New_York:20260910T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -2737,10 +2737,10 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
- PPI 同比：5.4%\nPPI 环比（季调）：0.4%\n数据期：2026-08-01\n
+ PPI 同比：5.6%\nPPI 环比（季调）：0.5%\n数据期：2026-08-01\n
  数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
  n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
- 值：\nPPI 同比：4.8%\nPPI 环比（季调）：0.1%\n数据期：2026
+ 值：\nPPI 同比：4.9%\nPPI 环比（季调）：0.2%\n数据期：2026
  -07-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
  /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
  www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
@@ -2876,8 +2876,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-08@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081107
 DTSTART;TZID=America/New_York:20260925T083000
 DTEND;TZID=America/New_York:20260925T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -2892,7 +2892,7 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
- 心 PCE 同比：3.0%\n核心 PCE 环比：0.2%\n数据期：2026-08-01\n
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.3%\n数据期：2026-08-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
@@ -2929,8 +2929,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T123138Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081107
 DTSTART;TZID=Europe/Brussels:20260930T110000
 DTEND;TZID=Europe/Brussels:20260930T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2945,14 +2945,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nHICP 同比：3.2%\n数据期：2026-08-01\n数据来源：欧
- 盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurosta
- t/web/hicp\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttp
- s://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.eur
- opa.eu/eurostat/news/release-calendar\n\n📋 日程状态：\n高置信
- 候选日期，当前尚未逐项完成 Eurostat 官方发布日历复核
- ；通常风险为前后一个工作日。
+ \n\n✅ 实际值：\nHICP 同比：3.8%\n数据期：2026-09-01\n数据
+ 来源：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europ
+ a.eu/eurostat/web/hicp\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nHICP 同比：3.2%\n数据期：2026-08
+ -01\n数据来源：欧盟统计局（Eurostat，经 FRED 获取）\nhttps
+ ://ec.europa.eu/eurostat/web/hicp\n\n🏛️ 官方来源：\n欧盟统计
+ 局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方
+ 日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日
+ 程状态：\n高置信候选日期，当前尚未逐项完成 Eurostat
+  官方发布日历复核；通常风险为前后一个工作日。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2978,8 +2980,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260911T162600Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261014T083000
 DTEND;TZID=America/New_York:20261014T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -2994,14 +2996,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nCPI 同比：3.4%\nCPI 环比（季调）：0.4%\n核心 CPI
-  同比：2.4%\n核心 CPI 环比（季调）：0.3%\n数据期：2026-08-
- 01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps
- ://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BL
- S）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.go
- v/schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2026
-  日程，已核对至 2026-08-11；后续以官方最新公告为准。
+ n\n✅ 实际值：\nCPI 同比：3.7%\nCPI 环比（季调）：0.6%\n核
+ 心 CPI 同比：2.6%\n核心 CPI 环比（季调）：0.3%\n数据期：2
+ 026-09-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：3.4%\nCPI 环比（季
+ 调）：0.4%\n核心 CPI 同比：2.4%\n核心 CPI 环比（季调）：0
+ .3%\n数据期：2026-08-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -3026,8 +3032,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-cpi-ppi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260925T114807Z
-SEQUENCE:2026081123
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081124
 DTSTART;TZID=Asia/Shanghai:20261014T093000
 DTEND;TZID=Asia/Shanghai:20261014T100000
 SUMMARY:🇨🇳 中国 CPI / PPI（居民消费价格与工业生产者价
@@ -3078,8 +3084,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261002T221104Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=America/New_York:20261015T083000
 DTEND;TZID=America/New_York:20261015T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -3093,14 +3099,16 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
- 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
- ：5.4%\nPPI 环比（季调）：0.4%\n数据期：2026-08-01\n数据来
- 源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️
-  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/
- \n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.ht
- m\n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-1
- 1；后续以官方最新公告为准。
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：6.3%\nPPI 环比（季调）：1.3%\n数据期：2026-09-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：5.6%\nPPI 环比（季调）：0.5%\n数据期：2026
+ -08-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -3125,8 +3133,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081115
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081116
 DTSTART;TZID=Asia/Tokyo:20261023T083000
 DTEND;TZID=Asia/Tokyo:20261023T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -3140,16 +3148,20 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  本央行政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜
  日元与主要货币对　↗｜↘\n🏛️ 债券｜日本国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
- 指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
- 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：2.0%\n核心 CPI 同比（除生鲜食品）：1.8%\n核
- 心核心 CPI 同比（除生鲜食品及能源）：2.0%\n数据期：202
- 6-08-01\n数据来源：日本总务省统计局（经 DBnomics 获取）\
- nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日
- 本总务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go
- .jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/engl
- ish/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2
- 026 CPI 官方发布日程。
+ 指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际
+ 值：\n全国 CPI 同比：2.2%\n核心 CPI 同比（除生鲜食品）
+ ：2.2%\n核心核心 CPI 同比（除生鲜食品及能源）：2.3%\n数
+ 据期：2026-09-01\n数据来源：日本总务省统计局（经 DBnomic
+ s 获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🔮 预测值：
+ \n官方数据源不提供市场一致预期\n\n📌 前值：\n全国 CPI
+  同比：2.0%\n核心 CPI 同比（除生鲜食品）：1.8%\n核心核
+ 心 CPI 同比（除生鲜食品及能源）：2.0%\n数据期：2026-08-0
+ 1\n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps
+ ://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
+ 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
+ glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
+ ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
+ I 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -3175,8 +3187,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-09@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261030T083000
 DTEND;TZID=America/New_York:20261030T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -3190,15 +3202,19 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
- 致预期\n\n📌 前值：\nPCE 物价指数同比：3.4%\n核心 PCE 同
- 比：3.0%\n核心 PCE 环比：0.2%\n数据期：2026-08-01\n数据来源
- ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
- ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
- ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
- sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
- .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
- 布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.6%\n核
+ 心 PCE 同比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-09-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.4%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-08-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -3224,8 +3240,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260917T165806Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20261030T110000
 DTEND;TZID=Europe/Brussels:20261030T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3241,14 +3257,13 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-08-01）\n数据来源：欧盟统计局
- （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
- \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
- a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
- tat/news/release-calendar\n\n📋 日程状态：\n高置信候选日期
- ，当前尚未逐项完成 Eurostat 官方发布日历复核；通常风
- 险为前后一个工作日。
+ n📌 前值：\nHICP 同比：3.8%\n数据期：2026-09-01\n数据来源
+ ：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat）
+ \nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://
+ ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程状态：\n高
+ 置信候选日期，当前尚未逐项完成 Eurostat 官方发布日历
+ 复核；通常风险为前后一个工作日。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -3326,8 +3341,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260911T162600Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261110T083000
 DTEND;TZID=America/New_York:20261110T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -3343,16 +3358,12 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
- 源端最新数据期 2026-08-01）\nCPI 环比（季调）：免费数据
- 源尚未提供本统计期数值（源端最新数据期 2026-08-01）\n
- 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
- 最新数据期 2026-08-01）\n核心 CPI 环比（季调）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-08-01）
- \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
- /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2026
+  前值：\nCPI 同比：3.7%\nCPI 环比（季调）：0.6%\n核心 CPI
+  同比：2.6%\n核心 CPI 环比（季调）：0.3%\n数据期：2026-09-
+ 01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps
+ ://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BL
+ S）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.go
+ v/schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2026
   日程，已核对至 2026-08-11；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
@@ -3378,8 +3389,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261002T221104Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=America/New_York:20261113T083000
 DTEND;TZID=America/New_York:20261113T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -3395,14 +3406,12 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
  n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
- ：免费数据源尚未提供本统计期数值（源端最新数据期 2
- 026-08-01）\nPPI 环比（季调）：免费数据源尚未提供本统
- 计期数值（源端最新数据期 2026-08-01）\n数据来源：美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
- ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
- 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
-  日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后
- 续以官方最新公告为准。
+ ：6.3%\nPPI 环比（季调）：1.3%\n数据期：2026-09-01\n数据来
+ 源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/
+ \n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.ht
+ m\n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-1
+ 1；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -3427,8 +3436,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081115
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081116
 DTSTART;TZID=Asia/Tokyo:20261120T083000
 DTEND;TZID=Asia/Tokyo:20261120T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -3444,17 +3453,14 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-08-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-08
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-08-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ 国 CPI 同比：2.2%\n核心 CPI 同比（除生鲜食品）：2.2%\n核
+ 心核心 CPI 同比（除生鲜食品及能源）：2.3%\n数据期：202
+ 6-09-01\n数据来源：日本总务省统计局（经 DBnomics 获取）\
+ nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日
+ 本总务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go
+ .jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/engl
+ ish/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2
+ 026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -3480,8 +3486,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -3496,17 +3502,14 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
- 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-08-01）\n核心
-  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-08-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-08-01）\n数据来源：
- 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
- /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
- n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
- tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
- /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
- 日程整理；日期仍应以 BEA 最新日程为准。
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：3.6%\n核心 PCE 同
+ 比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-09-01\n数据来源
+ ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
+ ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
+ sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
+ .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
+ 布日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -3532,8 +3535,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260917T165806Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=Europe/Brussels:20261201T110000
 DTEND;TZID=Europe/Brussels:20261201T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3550,7 +3553,7 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
  n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-08-01）\n数据来源：欧盟统计局
+ 值（源端最新数据期 2026-09-01）\n数据来源：欧盟统计局
  （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
  \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
  a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
@@ -3634,8 +3637,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260911T162600Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261210T083000
 DTEND;TZID=America/New_York:20261210T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -3652,11 +3655,11 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
   前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
- 源端最新数据期 2026-08-01）\nCPI 环比（季调）：免费数据
- 源尚未提供本统计期数值（源端最新数据期 2026-08-01）\n
+ 源端最新数据期 2026-09-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-09-01）\n
  核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
- 最新数据期 2026-08-01）\n核心 CPI 环比（季调）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-08-01）
+ 最新数据期 2026-09-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-09-01）
  \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
  /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
  ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
@@ -3686,8 +3689,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261002T221104Z
-SEQUENCE:2026081111
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081112
 DTSTART;TZID=America/New_York:20261215T083000
 DTEND;TZID=America/New_York:20261215T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -3704,8 +3707,8 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
  n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
  ：免费数据源尚未提供本统计期数值（源端最新数据期 2
- 026-08-01）\nPPI 环比（季调）：免费数据源尚未提供本统
- 计期数值（源端最新数据期 2026-08-01）\n数据来源：美国
+ 026-09-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-09-01）\n数据来源：美国
  劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
  ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
  方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
@@ -3735,8 +3738,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026081115
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081116
 DTSTART;TZID=Asia/Tokyo:20261218T083000
 DTEND;TZID=Asia/Tokyo:20261218T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -3753,10 +3756,10 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
  国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-08-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-08
+ 新数据期 2026-09-01）\n核心 CPI 同比（除生鲜食品）：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-09
  -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-08-01）
+ 据源尚未提供本统计期数值（源端最新数据期 2026-09-01）
  \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
  //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
  务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
@@ -3788,8 +3791,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260930T221240Z
-SEQUENCE:2026081105
+LAST-MODIFIED:20261101T174406Z
+SEQUENCE:2026081106
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -3805,10 +3808,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-08-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-08-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-08-01）\n数据来源：
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
