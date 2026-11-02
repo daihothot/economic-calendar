@@ -9942,8 +9942,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ism-manufacturing-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026081103
+LAST-MODIFIED:20261102T154326Z
+SEQUENCE:2026081104
 DTSTART;TZID=America/New_York:20261102T100000
 DTEND;TZID=America/New_York:20261102T103000
 SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
@@ -10325,8 +10325,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261102T055704Z
-SEQUENCE:2026081117
+LAST-MODIFIED:20261102T154326Z
+SEQUENCE:2026081118
 DTSTART;TZID=Asia/Tokyo:20261120T083000
 DTEND;TZID=Asia/Tokyo:20261120T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -10920,8 +10920,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026081160
+LAST-MODIFIED:20261102T154326Z
+SEQUENCE:2026081161
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -10937,7 +10937,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-01\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-02\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -11211,8 +11211,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026081144
+LAST-MODIFIED:20261102T154326Z
+SEQUENCE:2026081145
 DTSTART;TZID=Europe/Brussels:20261217T141500
 DTEND;TZID=Europe/Brussels:20261217T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -11229,8 +11229,8 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ↗｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitc
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
- 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-10-3
- 0\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-0
+ 2\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -11354,8 +11354,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261102T055704Z
-SEQUENCE:2026081117
+LAST-MODIFIED:20261102T154326Z
+SEQUENCE:2026081118
 DTSTART;TZID=Asia/Tokyo:20261218T083000
 DTEND;TZID=Asia/Tokyo:20261218T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -11371,16 +11371,17 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：本次自动获取失败\n核心 CPI 同比（除生鲜
- 食品）：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心核心 CPI 同比（除生鲜食品及能
- 源）：免费数据源尚未提供本统计期数值（源端最新数
- 据期 2026-09-01）\n数据来源：日本总务省统计局（经 DBnomi
- cs 获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方
- 来源：\n日本总务省统计局（Statistics Bureau of Japan）\nhttps
- ://www.stat.go.jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.s
- tat.go.jp/english/data/cpi/1582.html\n\n📋 日程状态：\n日本总务
- 省统计局 2026 CPI 官方发布日程。
+ 国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
+ 新数据期 2026-09-01）\n核心 CPI 同比（除生鲜食品）：免
+ 费数据源尚未提供本统计期数值（源端最新数据期 2026-09
+ -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-09-01）
+ \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
+ //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
+ 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
+ glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
+ ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
+ I 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
