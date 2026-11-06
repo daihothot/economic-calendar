@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 102,
-  "updatedAt": "2026-11-05T19:54:16.516Z",
+  "revision": 103,
+  "updatedAt": "2026-11-06T19:20:57.802Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -1546,8 +1546,8 @@
       }
     },
     "eu-ecb-2026-12-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1569,7 +1569,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1597,8 +1597,8 @@
       }
     },
     "eu-ecb-2027-02-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1620,7 +1620,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1648,8 +1648,8 @@
       }
     },
     "eu-ecb-2027-03-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1671,7 +1671,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1699,8 +1699,8 @@
       }
     },
     "eu-ecb-2027-04-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1722,7 +1722,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1750,8 +1750,8 @@
       }
     },
     "eu-ecb-2027-06-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1773,7 +1773,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1801,8 +1801,8 @@
       }
     },
     "eu-ecb-2027-07-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1824,7 +1824,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1852,8 +1852,8 @@
       }
     },
     "eu-ecb-2027-09-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1875,7 +1875,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1903,8 +1903,8 @@
       }
     },
     "eu-ecb-2027-10-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1926,7 +1926,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1954,8 +1954,8 @@
       }
     },
     "eu-ecb-2027-12-decision": {
-      "revision": 46,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 47,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1977,7 +1977,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -5145,8 +5145,8 @@
       }
     },
     "us-fomc-2026-12-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5167,7 +5167,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5217,8 +5217,8 @@
       }
     },
     "us-fomc-2027-01-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5239,7 +5239,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5289,8 +5289,8 @@
       }
     },
     "us-fomc-2027-03-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5311,7 +5311,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5361,8 +5361,8 @@
       }
     },
     "us-fomc-2027-04-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5383,7 +5383,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5433,8 +5433,8 @@
       }
     },
     "us-fomc-2027-06-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5455,7 +5455,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5505,8 +5505,8 @@
       }
     },
     "us-fomc-2027-07-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5527,7 +5527,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5577,8 +5577,8 @@
       }
     },
     "us-fomc-2027-09-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5599,7 +5599,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5649,8 +5649,8 @@
       }
     },
     "us-fomc-2027-10-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5671,7 +5671,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5721,8 +5721,8 @@
       }
     },
     "us-fomc-2027-12-decision": {
-      "revision": 62,
-      "updatedAt": "2026-11-05T19:54:16.516Z",
+      "revision": 63,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5743,7 +5743,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-05",
+        "asOf": "2026-11-06",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -7007,8 +7007,8 @@
       }
     },
     "us-nfp-2026-08": {
-      "revision": 3,
-      "updatedAt": "2026-10-02T22:11:04.558Z",
+      "revision": 4,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7018,7 +7018,7 @@
       "actual": {
         "status": "available",
         "lines": [
-          "非农就业变动：+133千人",
+          "非农就业变动：+186千人",
           "失业率：4.1%",
           "平均时薪同比：3.1%"
         ],
@@ -7039,8 +7039,8 @@
       }
     },
     "us-nfp-2026-09": {
-      "revision": 3,
-      "updatedAt": "2026-10-02T22:11:04.558Z",
+      "revision": 4,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7050,9 +7050,9 @@
       "actual": {
         "status": "available",
         "lines": [
-          "非农就业变动：+29千人",
+          "非农就业变动：+60千人",
           "失业率：4.2%",
-          "平均时薪同比：3.0%"
+          "平均时薪同比：3.2%"
         ],
         "asOf": "2026-09-01",
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
@@ -7061,7 +7061,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "非农就业变动：+133千人",
+          "非农就业变动：+186千人",
           "失业率：4.1%",
           "平均时薪同比：3.1%"
         ],
@@ -7071,8 +7071,8 @@
       }
     },
     "us-nfp-2026-10": {
-      "revision": 3,
-      "updatedAt": "2026-10-02T22:11:04.558Z",
+      "revision": 4,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7080,21 +7080,22 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "available",
         "lines": [
-          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "非农就业变动：+165千人",
+          "失业率：4.1%",
+          "平均时薪同比：3.1%"
         ],
+        "asOf": "2026-10-01",
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
       },
       "previous": {
         "status": "available",
         "lines": [
-          "非农就业变动：+29千人",
+          "非农就业变动：+60千人",
           "失业率：4.2%",
-          "平均时薪同比：3.0%"
+          "平均时薪同比：3.2%"
         ],
         "asOf": "2026-09-01",
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
@@ -7102,8 +7103,8 @@
       }
     },
     "us-nfp-2026-11": {
-      "revision": 3,
-      "updatedAt": "2026-10-02T22:11:04.558Z",
+      "revision": 4,
+      "updatedAt": "2026-11-06T19:20:57.802Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7113,20 +7114,21 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
       },
       "previous": {
-        "status": "unavailable",
+        "status": "available",
         "lines": [
-          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "非农就业变动：+165千人",
+          "失业率：4.1%",
+          "平均时薪同比：3.1%"
         ],
+        "asOf": "2026-10-01",
         "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
       }
