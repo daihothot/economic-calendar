@@ -323,8 +323,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2025-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20261110T194119Z
+SEQUENCE:2026081107
 DTSTART;TZID=America/New_York:20260113T083000
 DTEND;TZID=America/New_York:20260113T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -345,9 +345,9 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
  市场一致预期\n\n📌 前值：\nCPI 同比：2.7%\nCPI 环比（季
  调）：免费数据源尚未提供本统计期数值（源端最新数
- 据期 2026-09-01）\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调
+ 据期 2026-10-01）\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调
  ）：免费数据源尚未提供本统计期数值（源端最新数据
- 期 2026-09-01）\n数据期：2025-11-01\n数据来源：美国劳工统
+ 期 2026-10-01）\n数据期：2025-11-01\n数据来源：美国劳工统
  计局（BLS，经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官
  方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n
  🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\
@@ -10139,8 +10139,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20261110T194119Z
+SEQUENCE:2026081107
 DTSTART;TZID=America/New_York:20261110T083000
 DTEND;TZID=America/New_York:20261110T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -10155,14 +10155,20 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\nCPI 同比：3.7%\nCPI 环比（季调）：0.6%\n核心 CPI
-  同比：2.6%\n核心 CPI 环比（季调）：0.3%\n数据期：2026-09-
- 01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps
- ://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BL
- S）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.go
- v/schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2026
-  日程，已核对至 2026-08-11；后续以官方最新公告为准。
+ n\n✅ 实际值：\nCPI 同比：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\nCPI 环比（季调）：0.4
+ %\n核心 CPI 同比：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n核心 CPI 环比（季调）：0.3%\n
+ 数据期：2026-10-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据
+ 源不提供市场一致预期\n\n📌 前值：\nCPI 同比：3.7%\nCPI
+  环比（季调）：0.6%\n核心 CPI 同比：2.6%\n核心 CPI 环比（
+ 季调）：0.3%\n数据期：2026-09-01\n数据来源：美国劳工统
+ 计局（BLS，经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官
+ 方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\
+ n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；
+ 后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -10920,8 +10926,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261109T221723Z
-SEQUENCE:2026081168
+LAST-MODIFIED:20261110T194119Z
+SEQUENCE:2026081169
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -10937,7 +10943,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-09\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-10\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -11015,8 +11021,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026081106
+LAST-MODIFIED:20261110T194119Z
+SEQUENCE:2026081107
 DTSTART;TZID=America/New_York:20261210T083000
 DTEND;TZID=America/New_York:20261210T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -11033,16 +11039,15 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
   前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
- 源端最新数据期 2026-09-01）\nCPI 环比（季调）：免费数据
- 源尚未提供本统计期数值（源端最新数据期 2026-09-01）\n
- 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
- 最新数据期 2026-09-01）\n核心 CPI 环比（季调）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-09-01）
- \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
- /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2026
-  日程，已核对至 2026-08-11；后续以官方最新公告为准。
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：0.4%\n核心
+  CPI 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-10-01）\n核心 CPI 环比（季调）：0.3%\n数据期
+ ：2026-10-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttp
+ s://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS
+  官方 2026 日程，已核对至 2026-08-11；后续以官方最新公
+ 告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -11211,8 +11216,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261109T221723Z
-SEQUENCE:2026081150
+LAST-MODIFIED:20261110T194119Z
+SEQUENCE:2026081151
 DTSTART;TZID=Europe/Brussels:20261217T141500
 DTEND;TZID=Europe/Brussels:20261217T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -11229,8 +11234,8 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ↗｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitc
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
- 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-0
- 9\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-1
+ 0\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
