@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-08-11",
-  "sourceSha256": "64d18b8e35459bc6306abdf1d5fdf7a96b7afe3dd8ce9b4495edf4e69b8162e7",
+  "sourceSha256": "8c9c40b8aa531fab79a8d03e35f245ee434b00e3397dd2a61c0e897fc79471d1",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -17,7 +17,7 @@
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
       "eventCount": 289,
-      "sha256": "ecf73417bc05941e9cb5c53c52f960505cc8988dda45ebee30c022bf591a1b85"
+      "sha256": "41d07770cf5b005726a4abfcef5582d79fc06fece59aa32442aa7262f4b6f733"
     },
     {
       "fileName": "feeds/us.ics",
@@ -29,7 +29,7 @@
       "fileName": "feeds/eurozone.ics",
       "name": "欧元区高影响财经日历 Pro",
       "eventCount": 60,
-      "sha256": "5798931a491d350280713253fea945dd323304222a9f34902fb2b1c6e374a198"
+      "sha256": "c13741f5db6bde084b3054ef07f03c4c47b6240fabfc3ff2e6e7bae18cc36899"
     },
     {
       "fileName": "feeds/japan.ics",
@@ -59,7 +59,7 @@
       "fileName": "feeds/growth.ics",
       "name": "经济增长事件 Pro",
       "eventCount": 28,
-      "sha256": "ef81bcc1a8c2221cf307e124b0600daefe9189043780f95b8f7219e09efa420d"
+      "sha256": "a26f1baabbea01a61c1b20821ecbee36bc436abdcbbeeef965a37d183ad50874"
     },
     {
       "fileName": "feeds/employment.ics",
@@ -77,7 +77,7 @@
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",
       "name": "2026 中文财经日历（全球高影响 Pro）",
       "eventCount": 233,
-      "sha256": "a04fd1aca27aa2385ae86adad99859110d2eec936362b7a6b6237fb3eaca4f31"
+      "sha256": "f6c946ae80082665c444be8537ee8c9a488bdd818461bc581f22bb3a3b84957f"
     },
     {
       "fileName": "2026_中文财经日历_US_高影响_Pro.ics",

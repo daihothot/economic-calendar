@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 111,
-  "updatedAt": "2026-11-13T19:37:53.424Z",
+  "revision": 112,
+  "updatedAt": "2026-11-14T06:15:44.460Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -2089,8 +2089,8 @@
       }
     },
     "eu-gdp-flash-2026-q3": {
-      "revision": 3,
-      "updatedAt": "2026-11-01T17:44:06.838Z",
+      "revision": 4,
+      "updatedAt": "2026-11-14T06:15:44.460Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -2098,10 +2098,11 @@
         ]
       },
       "actual": {
-        "status": "unavailable",
+        "status": "available",
         "lines": [
-          "实际 GDP 环比（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-04-01）"
+          "实际 GDP 环比（当前官方修订值）：+0.4%"
         ],
+        "asOf": "2026-07-01",
         "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
         "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts"
       },
