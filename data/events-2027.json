@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "year": 2027,
-  "verifiedAt": "2026-08-11",
-  "revision": 2026081101,
+  "verifiedAt": "2026-11-16",
+  "revision": 2026111601,
   "coverageStatus": "partial",
   "series": [
     {
@@ -19,8 +19,7 @@
         { "id": "us-fomc-2027-06-decision", "date": "2027-06-09", "period": "2027年6月8日至9日会议" },
         { "id": "us-fomc-2027-07-decision", "date": "2027-07-28", "period": "2027年7月27日至28日会议" },
         { "id": "us-fomc-2027-09-decision", "date": "2027-09-15", "period": "2027年9月14日至15日会议" },
-        { "id": "us-fomc-2027-10-decision", "date": "2027-10-27", "period": "2027年10月26日至27日会议" },
-        { "id": "us-fomc-2027-12-decision", "date": "2027-12-08", "period": "2027年12月7日至8日会议" }
+        { "id": "us-fomc-2027-11-decision", "date": "2027-11-17", "period": "2027年11月16日至17日会议" }
       ]
     },
     {
@@ -38,8 +37,7 @@
         { "id": "us-fomc-2027-06-press", "date": "2027-06-09", "period": "2027年6月8日至9日会议" },
         { "id": "us-fomc-2027-07-press", "date": "2027-07-28", "period": "2027年7月27日至28日会议" },
         { "id": "us-fomc-2027-09-press", "date": "2027-09-15", "period": "2027年9月14日至15日会议" },
-        { "id": "us-fomc-2027-10-press", "date": "2027-10-27", "period": "2027年10月26日至27日会议" },
-        { "id": "us-fomc-2027-12-press", "date": "2027-12-08", "period": "2027年12月7日至8日会议" }
+        { "id": "us-fomc-2027-11-press", "date": "2027-11-17", "period": "2027年11月16日至17日会议" }
       ]
     },
     {
@@ -56,8 +54,7 @@
         { "id": "us-fomc-2027-06-minutes", "date": "2027-06-30", "period": "2027年6月8日至9日会议纪要" },
         { "id": "us-fomc-2027-07-minutes", "date": "2027-08-18", "period": "2027年7月27日至28日会议纪要" },
         { "id": "us-fomc-2027-09-minutes", "date": "2027-10-06", "period": "2027年9月14日至15日会议纪要" },
-        { "id": "us-fomc-2027-10-minutes", "date": "2027-11-17", "period": "2027年10月26日至27日会议纪要" },
-        { "id": "us-fomc-2027-12-minutes", "date": "2027-12-29", "period": "2027年12月7日至8日会议纪要" }
+        { "id": "us-fomc-2027-11-minutes", "date": "2027-12-08", "period": "2027年11月16日至17日会议纪要" }
       ]
     },
     {

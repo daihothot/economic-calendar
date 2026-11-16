@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-08-11",
-  "sourceSha256": "c4dc5076c3348c8943f8f38e0b9ea947cda22f3c70bff9e21fb61cbae1f4676d",
+  "verifiedAt": "2026-11-16",
+  "sourceSha256": "3fc61490ce3540b1fbcdc3adc9ca949124557b41f285ac2b9b1025cb368d35cc",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -11,31 +11,31 @@
     "2026": "complete",
     "2027": "partial"
   },
-  "totalEventCount": 290,
+  "totalEventCount": 287,
   "feeds": [
     {
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
-      "eventCount": 290,
-      "sha256": "8ae4a4aeaab79e7d1c5f406f7c53378c0960ac00663b9641e877b15d703e7f30"
+      "eventCount": 287,
+      "sha256": "9b57f7ca8e9c474980012cc238de7d3433143d15d160c25aa2cfb7b777373b32"
     },
     {
       "fileName": "feeds/us.ics",
       "name": "美国高影响财经日历 Pro",
-      "eventCount": 134,
-      "sha256": "11f0b49f3b06fe28c9ce0a96db52a58b563f332fa4995c801e0383c2935b117d"
+      "eventCount": 131,
+      "sha256": "865759ca53c62bbb462bcfa8d6061d25f6aa4f5e6ad4e44963107e8b0f71be98"
     },
     {
       "fileName": "feeds/eurozone.ics",
       "name": "欧元区高影响财经日历 Pro",
       "eventCount": 60,
-      "sha256": "d86b109f88862354cf23b65d39ff592bf31a4e007b70492efb3ac3b56145d068"
+      "sha256": "6f3f9509e4fb33f316a705f517d89e0c75bde20fc386bdae20d4e5ef3b2be2d9"
     },
     {
       "fileName": "feeds/japan.ics",
       "name": "日本高影响财经日历 Pro",
       "eventCount": 56,
-      "sha256": "1fa1aa39037531f1a7d9611a676d7fc848d96a022ab7904bd6479811c79d3acb"
+      "sha256": "955704eaa39735911af85f52c948dfc54052e236fc7d367bb8fd4fa7675bac0d"
     },
     {
       "fileName": "feeds/china.ics",
@@ -46,8 +46,8 @@
     {
       "fileName": "feeds/central-bank.ics",
       "name": "央行政策事件 Pro",
-      "eventCount": 125,
-      "sha256": "7645fb1cae115b62c298b8247d4fd4ac9fc5c212ffeb6161e583a8973b26b4e9"
+      "eventCount": 122,
+      "sha256": "16504fd0d8668bd38142e11ea98c609593a463c3d33ae07def3a1a367defc741"
     },
     {
       "fileName": "feeds/inflation.ics",

@@ -5607,9 +5607,59 @@
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
     },
+    "us-fomc-2027-11-decision": {
+      "revision": 1,
+      "updatedAt": "2026-11-16T11:31:40.000Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "等待官方公布"
+        ],
+        "sourceName": "美国联邦储备委员会（经 FRED 获取）",
+        "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "联邦基金目标区间下限：3.75%",
+          "联邦基金目标区间上限：4.00%"
+        ],
+        "asOf": "2026-11-15",
+        "sourceName": "美国联邦储备委员会（经 FRED 获取）",
+        "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
+      }
+    },
     "us-fomc-2027-09-minutes": {
       "revision": 1,
       "updatedAt": "2026-08-10T19:06:01.520Z",
+      "actual": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      },
+      "forecast": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      },
+      "previous": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      }
+    },
+    "us-fomc-2027-11-minutes": {
+      "revision": 1,
+      "updatedAt": "2026-11-16T11:31:40.000Z",
       "actual": {
         "status": "not-applicable",
         "lines": [
@@ -5651,131 +5701,9 @@
         ]
       }
     },
-    "us-fomc-2027-10-decision": {
-      "revision": 72,
-      "updatedAt": "2026-11-15T18:47:58.621Z",
-      "forecast": {
-        "status": "unavailable",
-        "lines": [
-          "官方数据源不提供市场一致预期"
-        ]
-      },
-      "actual": {
-        "status": "pending",
-        "lines": [
-          "等待官方公布"
-        ],
-        "sourceName": "美国联邦储备委员会（经 FRED 获取）",
-        "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
-      },
-      "previous": {
-        "status": "available",
-        "lines": [
-          "联邦基金目标区间下限：3.75%",
-          "联邦基金目标区间上限：4.00%"
-        ],
-        "asOf": "2026-11-15",
-        "sourceName": "美国联邦储备委员会（经 FRED 获取）",
-        "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
-      }
-    },
-    "us-fomc-2027-10-minutes": {
+    "us-fomc-2027-11-press": {
       "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
-      "actual": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      },
-      "forecast": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      },
-      "previous": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      }
-    },
-    "us-fomc-2027-10-press": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
-      "actual": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      },
-      "forecast": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      },
-      "previous": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      }
-    },
-    "us-fomc-2027-12-decision": {
-      "revision": 72,
-      "updatedAt": "2026-11-15T18:47:58.621Z",
-      "forecast": {
-        "status": "unavailable",
-        "lines": [
-          "官方数据源不提供市场一致预期"
-        ]
-      },
-      "actual": {
-        "status": "pending",
-        "lines": [
-          "等待官方公布"
-        ],
-        "sourceName": "美国联邦储备委员会（经 FRED 获取）",
-        "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
-      },
-      "previous": {
-        "status": "available",
-        "lines": [
-          "联邦基金目标区间下限：3.75%",
-          "联邦基金目标区间上限：4.00%"
-        ],
-        "asOf": "2026-11-15",
-        "sourceName": "美国联邦储备委员会（经 FRED 获取）",
-        "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
-      }
-    },
-    "us-fomc-2027-12-minutes": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
-      "actual": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      },
-      "forecast": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      },
-      "previous": {
-        "status": "not-applicable",
-        "lines": [
-          "不适用（此类事件不以单一数值衡量）"
-        ]
-      }
-    },
-    "us-fomc-2027-12-press": {
-      "revision": 1,
-      "updatedAt": "2026-08-10T19:06:01.520Z",
+      "updatedAt": "2026-11-16T11:31:40.000Z",
       "actual": {
         "status": "not-applicable",
         "lines": [
