@@ -9799,8 +9799,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026111605
+LAST-MODIFIED:20261118T202735Z
+SEQUENCE:2026111606
 DTSTART;TZID=Europe/Brussels:20261030T110000
 DTEND;TZID=Europe/Brussels:20261030T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -9815,14 +9815,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  汇｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债
  与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
- ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nHICP 同比：3.8%\n数据期：2026-09-01\n数据来源
- ：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/e
- urostat/web/hicp\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat）
- \nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://
- ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程状态：\n高
- 置信候选日期，当前尚未逐项完成 Eurostat 官方发布日历
- 复核；通常风险为前后一个工作日。
+ ｜↘\n\n✅ 实际值：\nHICP 同比：4.0%\n数据期：2026-10-01\n
+ 数据来源：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec
+ .europa.eu/eurostat/web/hicp\n\n🔮 预测值：\n官方数据源不提
+ 供市场一致预期\n\n📌 前值：\nHICP 同比：3.8%\n数据期：2
+ 026-09-01\n数据来源：欧盟统计局（Eurostat，经 FRED 获取）\
+ nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n高置信候选日期，当前尚未逐项完成 Eur
+ ostat 官方发布日历复核；通常风险为前后一个工作日。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -10732,8 +10734,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026111605
+LAST-MODIFIED:20261118T202735Z
+SEQUENCE:2026111606
 DTSTART;TZID=Europe/Brussels:20261201T110000
 DTEND;TZID=Europe/Brussels:20261201T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -10749,14 +10751,13 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
  ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
- n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
- 值（源端最新数据期 2026-09-01）\n数据来源：欧盟统计局
- （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
- \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
- a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
- tat/news/release-calendar\n\n📋 日程状态：\n高置信候选日期
- ，当前尚未逐项完成 Eurostat 官方发布日历复核；通常风
- 险为前后一个工作日。
+ n📌 前值：\nHICP 同比：4.0%\n数据期：2026-10-01\n数据来源
+ ：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat）
+ \nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://
+ ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程状态：\n高
+ 置信候选日期，当前尚未逐项完成 Eurostat 官方发布日历
+ 复核；通常风险为前后一个工作日。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -10978,8 +10979,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261117T205118Z
-SEQUENCE:2026111675
+LAST-MODIFIED:20261118T202735Z
+SEQUENCE:2026111676
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -10995,7 +10996,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-17\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-18\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
