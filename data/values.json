@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 117,
-  "updatedAt": "2026-11-17T20:51:18.878Z",
+  "revision": 118,
+  "updatedAt": "2026-11-18T07:21:58.581Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -1546,8 +1546,8 @@
       }
     },
     "eu-ecb-2026-12-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1569,7 +1569,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1597,8 +1597,8 @@
       }
     },
     "eu-ecb-2027-02-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1620,7 +1620,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1648,8 +1648,8 @@
       }
     },
     "eu-ecb-2027-03-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1671,7 +1671,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1699,8 +1699,8 @@
       }
     },
     "eu-ecb-2027-04-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1722,7 +1722,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1750,8 +1750,8 @@
       }
     },
     "eu-ecb-2027-06-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1773,7 +1773,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1801,8 +1801,8 @@
       }
     },
     "eu-ecb-2027-07-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1824,7 +1824,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1852,8 +1852,8 @@
       }
     },
     "eu-ecb-2027-09-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1875,7 +1875,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1903,8 +1903,8 @@
       }
     },
     "eu-ecb-2027-10-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1926,7 +1926,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1954,8 +1954,8 @@
       }
     },
     "eu-ecb-2027-12-decision": {
-      "revision": 54,
-      "updatedAt": "2026-11-17T20:51:18.878Z",
+      "revision": 55,
+      "updatedAt": "2026-11-18T07:21:58.581Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1977,7 +1977,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-17",
+        "asOf": "2026-11-18",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
