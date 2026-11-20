@@ -10388,8 +10388,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-10@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261102T154326Z
-SEQUENCE:2026111617
+LAST-MODIFIED:20261120T070809Z
+SEQUENCE:2026111618
 DTSTART;TZID=Asia/Tokyo:20261120T083000
 DTEND;TZID=Asia/Tokyo:20261120T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -10403,16 +10403,20 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  本央行政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜
  日元与主要货币对　↗｜↘\n🏛️ 债券｜日本国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
- 指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
- 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：2.2%\n核心 CPI 同比（除生鲜食品）：2.2%\n核
- 心核心 CPI 同比（除生鲜食品及能源）：2.3%\n数据期：202
- 6-09-01\n数据来源：日本总务省统计局（经 DBnomics 获取）\
- nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日
- 本总务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go
- .jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/engl
- ish/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2
- 026 CPI 官方发布日程。
+ 指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际
+ 值：\n全国 CPI 同比：2.5%\n核心 CPI 同比（除生鲜食品）
+ ：2.2%\n核心核心 CPI 同比（除生鲜食品及能源）：2.2%\n数
+ 据期：2026-10-01\n数据来源：日本总务省统计局（经 DBnomic
+ s 获取）\nhttps://www.stat.go.jp/english/data/cpi/\n\n🔮 预测值：
+ \n官方数据源不提供市场一致预期\n\n📌 前值：\n全国 CPI
+  同比：2.2%\n核心 CPI 同比（除生鲜食品）：2.2%\n核心核
+ 心 CPI 同比（除生鲜食品及能源）：2.3%\n数据期：2026-09-0
+ 1\n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps
+ ://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
+ 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
+ glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
+ ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
+ I 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -10438,8 +10442,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026111609
+LAST-MODIFIED:20261120T070809Z
+SEQUENCE:2026111610
 DTSTART;TZID=Asia/Shanghai:20261120T090000
 DTEND;TZID=Asia/Shanghai:20261120T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -10453,16 +10457,19 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  资与住房按揭预期。\n\n🎯 市场关注：\n💱 外汇｜人民
  币与离岸人民币　↗｜↘\n🏛️ 债券｜中国国债收益率
  　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与
- 港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
- 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
-  年期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-10-20\n
- 数据来源：中国外汇交易中心暨全国银行间同业拆借中
- 心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源
- ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
- bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗
-  官方日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/1254
- 40/3876551/index.html\n\n📋 日程状态：\n按每月 20 日规则生
- 成的候选日期，等待当月官方公告确认。
+ 港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际
+ 值：\n1 年期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026
+ -11-20\n数据来源：中国外汇交易中心暨全国银行间同业拆
+ 借中心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1 年
+ 期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-10-20\n数
+ 据来源：中国外汇交易中心暨全国银行间同业拆借中心\n
+ https://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n
+ 中国人民银行 / 全国银行间同业拆借中心\nhttps://www.pbc.go
+ v.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方
+ 日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876
+ 551/index.html\n\n📋 日程状态：\n按每月 20 日规则生成的候
+ 选日期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
@@ -11410,8 +11417,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-cpi-2026-11@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261102T154326Z
-SEQUENCE:2026111617
+LAST-MODIFIED:20261120T070809Z
+SEQUENCE:2026111618
 DTSTART;TZID=Asia/Tokyo:20261218T083000
 DTEND;TZID=Asia/Tokyo:20261218T090000
 SUMMARY:🇯🇵 日本全国 CPI（消费者物价指数）（⭐⭐⭐
@@ -11427,17 +11434,14 @@ DESCRIPTION:🇯🇵 日本全国 CPI（消费者物价指数）\n⭐⭐⭐
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经
  指数　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n全
- 国 CPI 同比：免费数据源尚未提供本统计期数值（源端最
- 新数据期 2026-09-01）\n核心 CPI 同比（除生鲜食品）：免
- 费数据源尚未提供本统计期数值（源端最新数据期 2026-09
- -01）\n核心核心 CPI 同比（除生鲜食品及能源）：免费数
- 据源尚未提供本统计期数值（源端最新数据期 2026-09-01）
- \n数据来源：日本总务省统计局（经 DBnomics 获取）\nhttps:
- //www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日本总
- 务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go.jp/en
- glish/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/english/da
- ta/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2026 CP
- I 官方发布日程。
+ 国 CPI 同比：2.5%\n核心 CPI 同比（除生鲜食品）：2.2%\n核
+ 心核心 CPI 同比（除生鲜食品及能源）：2.2%\n数据期：202
+ 6-10-01\n数据来源：日本总务省统计局（经 DBnomics 获取）\
+ nhttps://www.stat.go.jp/english/data/cpi/\n\n🏛️ 官方来源：\n日
+ 本总务省统计局（Statistics Bureau of Japan）\nhttps://www.stat.go
+ .jp/english/data/cpi/\n\n🔗 官方日程：\nhttps://www.stat.go.jp/engl
+ ish/data/cpi/1582.html\n\n📋 日程状态：\n日本总务省统计局 2
+ 026 CPI 官方发布日程。
 LOCATION:日本总务省统计局（线上发布）
 URL:https://www.stat.go.jp/english/data/cpi/
 CATEGORIES:通胀,日本,高影响
@@ -11508,8 +11512,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cn-lpr-2026-12@economic-calendar-pro
 DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026111609
+LAST-MODIFIED:20261120T070809Z
+SEQUENCE:2026111610
 DTSTART;TZID=Asia/Shanghai:20261221T090000
 DTEND;TZID=Asia/Shanghai:20261221T093000
 SUMMARY:🇨🇳 中国贷款市场报价利率（LPR）（⭐⭐⭐ 高影
@@ -11525,16 +11529,14 @@ DESCRIPTION:🇨🇳 中国贷款市场报价利率（LPR）\n⭐⭐⭐ 高
  　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜A 股与
  港股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测
  值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n1
-  年期 LPR：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-10-20）\n5 年期以上 LPR：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-10-20）\n数据来源：
- 中国外汇交易中心暨全国银行间同业拆借中心\nhttps://www.
- chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源：\n中国人民
- 银行 / 全国银行间同业拆借中心\nhttps://www.pbc.gov.cn/zhengce
- huobisi/125207/125213/125440/3876551/index.html\n\n🔗 官方日程：\nh
- ttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.ht
- ml\n\n📋 日程状态：\n按每月 20 日遇休息日顺延规则生成
- 的候选日期，等待当月官方公告确认。
+  年期 LPR：3.00%\n5 年期以上 LPR：3.50%\n数据期：2026-11-20\n
+ 数据来源：中国外汇交易中心暨全国银行间同业拆借中
+ 心\nhttps://www.chinamoney.com.cn/chinese/bklpr/\n\n🏛️ 官方来源
+ ：\n中国人民银行 / 全国银行间同业拆借中心\nhttps://www.p
+ bc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html\n\n🔗
+  官方日程：\nhttps://www.pbc.gov.cn/zhengcehuobisi/125207/125213/1254
+ 40/3876551/index.html\n\n📋 日程状态：\n按每月 20 日遇休息
+ 日顺延规则生成的候选日期，等待当月官方公告确认。
 LOCATION:全国银行间同业拆借中心（线上发布）
 URL:https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/inde
  x.html
