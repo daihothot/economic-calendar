@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 123,
-  "updatedAt": "2026-11-21T07:00:10.877Z",
+  "revision": 124,
+  "updatedAt": "2026-11-21T19:10:24.324Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -379,8 +379,8 @@
       }
     },
     "cn-gdp-2026-q1": {
-      "revision": 10,
-      "updatedAt": "2026-11-21T07:00:10.877Z",
+      "revision": 11,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -392,7 +392,7 @@
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
           "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：本次自动获取失败"
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -410,8 +410,8 @@
       }
     },
     "cn-gdp-2026-q2": {
-      "revision": 10,
-      "updatedAt": "2026-11-21T07:00:10.877Z",
+      "revision": 11,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -423,7 +423,7 @@
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
           "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：本次自动获取失败"
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -433,15 +433,15 @@
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
           "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：本次自动获取失败"
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-gdp-2026-q3": {
-      "revision": 11,
-      "updatedAt": "2026-11-21T07:00:10.877Z",
+      "revision": 12,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -453,7 +453,7 @@
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
           "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：本次自动获取失败"
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -463,7 +463,7 @@
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
           "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：本次自动获取失败"
+          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -5176,8 +5176,8 @@
       }
     },
     "us-fomc-2026-12-decision": {
-      "revision": 77,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 78,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5198,7 +5198,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-21",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5248,8 +5248,8 @@
       }
     },
     "us-fomc-2027-01-decision": {
-      "revision": 77,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 78,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5270,7 +5270,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-21",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5320,8 +5320,8 @@
       }
     },
     "us-fomc-2027-03-decision": {
-      "revision": 77,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 78,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5342,7 +5342,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-21",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5392,8 +5392,8 @@
       }
     },
     "us-fomc-2027-04-decision": {
-      "revision": 77,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 78,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5414,7 +5414,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-21",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5464,8 +5464,8 @@
       }
     },
     "us-fomc-2027-06-decision": {
-      "revision": 77,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 78,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5486,7 +5486,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-21",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5536,8 +5536,8 @@
       }
     },
     "us-fomc-2027-07-decision": {
-      "revision": 77,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 78,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5558,7 +5558,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-21",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5608,8 +5608,8 @@
       }
     },
     "us-fomc-2027-09-decision": {
-      "revision": 77,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 78,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5630,7 +5630,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-21",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5680,8 +5680,8 @@
       }
     },
     "us-fomc-2027-11-decision": {
-      "revision": 6,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 7,
+      "updatedAt": "2026-11-21T19:10:24.324Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5702,7 +5702,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-21",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
