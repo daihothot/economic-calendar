@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-11-16",
-  "sourceSha256": "5839fa7955b0a6822847e1ebd6443075c19f2fcd9ca86f210333979acccf8fbf",
+  "sourceSha256": "430196ab498c59509a6346ca1284251ca730e7e143666cbfaa058613f9e9ae15",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -17,7 +17,7 @@
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
       "eventCount": 287,
-      "sha256": "15720f3209da5b7483ee34f6174c32066329d8546fd7b03e95ce422cf1cdf063"
+      "sha256": "beef414bb9850a268f0c6c618d8579f09cf5213461cb7b726fbac186744c810a"
     },
     {
       "fileName": "feeds/us.ics",
@@ -41,7 +41,7 @@
       "fileName": "feeds/china.ics",
       "name": "中国高影响财经日历 Pro",
       "eventCount": 40,
-      "sha256": "e11a78077eb07d3d9e4230963eb836284c8f5e88596bda33a210e7d25c7912b2"
+      "sha256": "b12e3002bbf322d2d9a4f58f5441fd5e359effe2776fcda3f364200e8cf6d0a1"
     },
     {
       "fileName": "feeds/central-bank.ics",
@@ -59,7 +59,7 @@
       "fileName": "feeds/growth.ics",
       "name": "经济增长事件 Pro",
       "eventCount": 28,
-      "sha256": "8ec98e09d0c353a8c044fa10cb0d2947d2f16b1b0ce0bdf91fba1d217aa21d79"
+      "sha256": "991e6703113037ea1e72b19676ca849f0ed1ad562f925e0c64fd8294147bd3b7"
     },
     {
       "fileName": "feeds/employment.ics",
@@ -77,7 +77,7 @@
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",
       "name": "2026 中文财经日历（全球高影响 Pro）",
       "eventCount": 234,
-      "sha256": "2b72697e4545198a01718c7091dffb91ddfef742bc38a382d0727b9b19f0eafd"
+      "sha256": "6a4fdc5440a5bb82e329af80f3678fadcc170eb008e321110d5fa27f4986f9e4"
     },
     {
       "fileName": "2026_中文财经日历_US_高影响_Pro.ics",
