@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 124,
-  "updatedAt": "2026-11-21T19:10:24.324Z",
+  "revision": 125,
+  "updatedAt": "2026-11-22T19:32:52.204Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -5176,8 +5176,8 @@
       }
     },
     "us-fomc-2026-12-decision": {
-      "revision": 78,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 79,
+      "updatedAt": "2026-11-22T19:32:52.204Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5198,7 +5198,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-21",
+        "asOf": "2026-11-22",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5248,8 +5248,8 @@
       }
     },
     "us-fomc-2027-01-decision": {
-      "revision": 78,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 79,
+      "updatedAt": "2026-11-22T19:32:52.204Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5270,7 +5270,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-21",
+        "asOf": "2026-11-22",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5320,8 +5320,8 @@
       }
     },
     "us-fomc-2027-03-decision": {
-      "revision": 78,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 79,
+      "updatedAt": "2026-11-22T19:32:52.204Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5342,7 +5342,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-21",
+        "asOf": "2026-11-22",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5392,8 +5392,8 @@
       }
     },
     "us-fomc-2027-04-decision": {
-      "revision": 78,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 79,
+      "updatedAt": "2026-11-22T19:32:52.204Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5414,7 +5414,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-21",
+        "asOf": "2026-11-22",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5464,8 +5464,8 @@
       }
     },
     "us-fomc-2027-06-decision": {
-      "revision": 78,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 79,
+      "updatedAt": "2026-11-22T19:32:52.204Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5486,7 +5486,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-21",
+        "asOf": "2026-11-22",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5536,8 +5536,8 @@
       }
     },
     "us-fomc-2027-07-decision": {
-      "revision": 78,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 79,
+      "updatedAt": "2026-11-22T19:32:52.204Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5558,7 +5558,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-21",
+        "asOf": "2026-11-22",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5608,8 +5608,8 @@
       }
     },
     "us-fomc-2027-09-decision": {
-      "revision": 78,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 79,
+      "updatedAt": "2026-11-22T19:32:52.204Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5630,7 +5630,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-21",
+        "asOf": "2026-11-22",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5680,8 +5680,8 @@
       }
     },
     "us-fomc-2027-11-decision": {
-      "revision": 7,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 8,
+      "updatedAt": "2026-11-22T19:32:52.204Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5702,7 +5702,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-21",
+        "asOf": "2026-11-22",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
