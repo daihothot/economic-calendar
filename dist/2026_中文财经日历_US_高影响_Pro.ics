@@ -1,0 +1,6222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Economic Calendar Pro//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:2026 中文财经日历（美国高影响 Pro）
+X-WR-CALNAME:2026 中文财经日历（美国高影响 Pro）
+X-WR-CALDESC:2026 年美国高影响宏观事件归档。
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT12H
+COLOR:#C62828
+X-APPLE-CALENDAR-COLOR:#C62828
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2025-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260105T100000
+DTEND;TZID=America/New_York:20260105T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年01月05日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-01-05 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2025年12月\n\n🧭 事件说明：\
+ n调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。\n\n💡 特别说明：\n
+ 因 ISM 假期，官方日历将本次发布移至 1 月 5 日。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2025-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260107T100000
+DTEND;TZID=America/New_York:20260107T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年01月07日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-01-07 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2025年12月\n\n🧭 事件说明：\
+ n调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。\n\n💡 特别说明：\nISM 官
+ 方 1 月日程采用第四个业务日。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2025-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260109T083000
+DTEND;TZID=America/New_York:20260109T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年01月09日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-01-09 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2025年12月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就
+ 业变动：-17千人\n失业率：4.4%\n平均时薪同比：3.7%\n数据
+ 期：2025-12-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：+41千人\n失业率：4.5%\n平均时薪同比：3.9%\n
+ 数据期：2025-11-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2025-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112308
+DTSTART;TZID=America/New_York:20260113T083000
+DTEND;TZID=America/New_York:20260113T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年01月13日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-01-13 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2025年12月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：2.7%\nCPI 环比（季调）：0.3%\n核
+ 心 CPI 同比：2.6%\n核心 CPI 环比（季调）：0.2%\n数据期：2
+ 025-12-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：2.7%\nCPI 环比（季
+ 调）：免费数据源尚未提供本统计期数值（源端最新数
+ 据期 2026-10-01）\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调
+ ）：免费数据源尚未提供本统计期数值（源端最新数据
+ 期 2026-10-01）\n数据期：2025-11-01\n数据来源：美国劳工统
+ 计局（BLS，经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官
+ 方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\
+ n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；
+ 后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2025-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260114T083000
+DTEND;TZID=America/New_York:20260114T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年01月14日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-01-14 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2025年11月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：3.1%\nPPI 环比（季调）：0.4%\n数据期：2025-11-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：2.8%\nPPI 环比（季调）：0.1%\n数据期：2025
+ -10-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。\n\n💡 特别说
+ 明：\n原定 2025 年 12 月 11 日；本次同时补发延迟的 2025
+  年10月数据。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2025-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260114T083000
+DTEND;TZID=America/New_York:20260114T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年01月14日 21:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-01-14 08:30（America/New_York）\n\n🗓️ 统计期：\n2025年
+ 11月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。\n\n💡 特别说明：\n2025 年
+ 联邦拨款中断导致 2025 年 11 月、12 月数据延迟发布，2026
+  年初为补发节奏。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-01-decision@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260128T140000
+DTEND;TZID=America/New_York:20260128T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年01月29日 03:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-01-28 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年1月27日至28日会议\n\n🧭 事
+ 件说明：\n美联储公布联邦基金利率目标区间与政策声明
+ 。利率路径、通胀判断、就业评价及资产负债表措辞都
+ 可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n联
+ 邦基金目标区间下限：3.50%\n联邦基金目标区间上限：3.75
+ %\n数据期：2026-01-28\n数据来源：美国联邦储备委员会（
+ 经 FRED 获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmark
+ et.htm\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\n联邦基金目标区间下限：3.50%\n联邦基金目
+ 标区间上限：3.75%\n数据期：2026-01-27\n数据来源：美国联
+ 邦储备委员会（经 FRED 获取）\nhttps://www.federalreserve.gov/mo
+ netarypolicy/openmarket.htm\n\n🏛️ 官方来源：\n美国联邦储备
+ 委员会（Federal Reserve）\nhttps://www.federalreserve.gov/monetarypol
+ icy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.federalreserve.
+ gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal Reserve 官
+ 方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-01-press@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260128T143000
+DTEND;TZID=America/New_York:20260128T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年01月29日 03:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-01-2
+ 8 14:30（America/New_York）\n\n🗓️ 统计期：\n2026年1月27日至
+ 28日会议\n\n🧭 事件说明：\n美联储主席解释政策决定并
+ 回答记者提问。对未来利率路径、通胀风险、就业与金
+ 融条件的表述可能改变市场对声明的最初解读。\n\n🎯
+  市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛
+ ️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　
+ ↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　
+ ↗｜↘\n\n🔮 预测值：\n不适用（此类事件不以单一数值
+ 衡量）\n\n📌 前值：\n不适用（此类事件不以单一数值衡
+ 量）\n\n🏛️ 官方来源：\n美国联邦储备委员会（Federal R
+ eserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n\n🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calend
+ ar.htm\n\n📋 日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2025-q4-advance@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260129T083000
+DTEND;TZID=America/New_York:20260129T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
+  高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年01月29日 21:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-01-2
+ 9 08:30（America/New_York）\n\n🗓️ 统计期：\n2025年第四季度
+ （初值）\n\n🧭 事件说明：\n衡量美国经济总产出的季度
+ 变化。初值通常最受市场关注，后续估算用于确认或修
+ 正增长、消费和通胀结构。\n\n🎯 市场关注：\n💱 外汇
+ ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
+ 益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
+ 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值
+ ：\n实际 GDP 环比年化（当前官方修订值）：+0.5%\n数据期
+ ：2025-10-01\n数据来源：美国经济分析局（BEA，经 FRED 获
+ 取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
+ 际 GDP 环比年化（当前官方修订值）：+3.9%\n数据期：2025-
+ 07-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
+ tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
+ mestic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/
+ full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；
+ 日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，初
+ 值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，初值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2025-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260130T083000
+DTEND;TZID=America/New_York:20260130T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年01月30日 21:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-01-30 08:30（America/New_York）\n\n🗓️ 统计期：\n2025
+ 年12月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.8%\n核
+ 心 PCE 同比：2.9%\n核心 PCE 环比：0.3%\n数据期：2025-12-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：2.7%\n核心 PCE 同比：2.7%\n核心 PCE 环比
+ ：0.2%\n数据期：2025-11-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2025-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260130T083000
+DTEND;TZID=America/New_York:20260130T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年01月30日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-01-30 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2025年12月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：3.1%\nPPI 环比（季调）：0.4%\n数据期：2025-12-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：3.1%\nPPI 环比（季调）：0.4%\n数据期：2025
+ -11-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。\n\n💡 特别说
+ 明：\n原定 1 月 14 日，后由 BLS 修订。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260202T100000
+DTEND;TZID=America/New_York:20260202T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年02月02日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-02-02 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年1月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260204T100000
+DTEND;TZID=America/New_York:20260204T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年02月04日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-02-04 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年1月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2025-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260210T083000
+DTEND;TZID=America/New_York:20260210T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年02月10日 21:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-02-10 08:30（America/New_York）\n\n🗓️ 统计期：\n2025年
+ 12月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260211T083000
+DTEND;TZID=America/New_York:20260211T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年02月11日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-02-11 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年1月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+160千人\n失业率：4.3%\n平均时薪同比：3.7%\n数据
+ 期：2026-01-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：-17千人\n失业率：4.4%\n平均时薪同比：3.7%\n
+ 数据期：2025-12-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。\n\n
+ 💡 特别说明：\n原定 2 月 6 日，BLS 因 2026 年拨款中断修
+ 订为 2 月 11 日。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260213T083000
+DTEND;TZID=America/New_York:20260213T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年02月13日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-02-13 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年1月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：2.4%\nCPI 环比（季调）：0.2%\n核
+ 心 CPI 同比：2.5%\n核心 CPI 环比（季调）：0.3%\n数据期：2
+ 026-01-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：2.7%\nCPI 环比（季
+ 调）：0.3%\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调）：0
+ .2%\n数据期：2025-12-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。\n\n💡 特别说明：\n原定 2 月 11 日，BL
+ S 因 2026 年拨款中断修订为 2 月 13 日。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-01-minutes@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260218T140000
+DTEND;TZID=America/New_York:20260218T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年02月19日 03:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-02-18 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年1月27日至28日会议纪要\n\n
+ 🧭 事件说明：\n披露决策讨论、风险判断与委员观点分
+ 布，可补充政策声明未充分展示的信息，并影响市场对
+ 后续会议的预期。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适
+ 用（此类事件不以单一数值衡量）\n\n📌 前值：\n不适用
+ （此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美
+ 国联邦储备委员会（Federal Reserve）\nhttps://www.federalreserve.
+ gov/monetarypolicy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.
+ federalreserve.gov/newsevents/calendar.htm\n\n📋 日程状态：\nFedera
+ l Reserve 官方 2026 月历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2025-q4-second@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260226T083000
+DTEND;TZID=America/New_York:20260226T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
+ ⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
+ ⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年02月26日 21:30（北
+ 京时间；日历会自动转换为你的本地时区）\n原始时区：
+ 2026-02-26 08:30（America/New_York）\n\n🗓️ 统计期：\n2025年第
+ 四季度（第二次估算）\n\n🧭 事件说明：\n衡量美国经济
+ 总产出的季度变化。初值通常最受市场关注，后续估算
+ 用于确认或修正增长、消费和通胀结构。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +0.5%\n数据期：2025-10-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.9%\n
+ 数据期：2025-07-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，第
+ 二次估算）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，第二次估算）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260227T083000
+DTEND;TZID=America/New_York:20260227T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年02月27日 21:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-02-27 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年1月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.7%\n核
+ 心 PCE 同比：2.9%\n核心 PCE 环比：0.4%\n数据期：2026-01-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：2.8%\n核心 PCE 同比：2.9%\n核心 PCE 环比
+ ：0.3%\n数据期：2025-12-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260227T083000
+DTEND;TZID=America/New_York:20260227T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年02月27日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-02-27 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年1月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：3.1%\nPPI 环比（季调）：0.6%\n数据期：2026-01-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：3.1%\nPPI 环比（季调）：0.4%\n数据期：2025
+ -12-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。\n\n💡 特别说
+ 明：\n原定 2 月 12 日，后由 BLS 修订。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260302T100000
+DTEND;TZID=America/New_York:20260302T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年03月02日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-03-02 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年2月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260304T100000
+DTEND;TZID=America/New_York:20260304T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年03月04日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-03-04 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年2月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260306T083000
+DTEND;TZID=America/New_York:20260306T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年03月06日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-03-06 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年2月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：-156千人\n失业率：4.4%\n平均时薪同比：3.7%\n数据
+ 期：2026-02-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：+160千人\n失业率：4.3%\n平均时薪同比：3.7%\
+ n数据期：2026-01-01\n数据来源：美国劳工统计局（BLS，经
+  FRED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛
+ ️ 官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/n
+ ews.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sc
+ hedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026
+  日程，已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260306T083000
+DTEND;TZID=America/New_York:20260306T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年03月06日 21:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-03-06 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 1月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260311T083000
+DTEND;TZID=America/New_York:20260311T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年03月11日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-03-11 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年2月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：2.4%\nCPI 环比（季调）：0.3%\n核
+ 心 CPI 同比：2.5%\n核心 CPI 环比（季调）：0.2%\n数据期：2
+ 026-02-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：2.4%\nCPI 环比（季
+ 调）：0.2%\n核心 CPI 同比：2.5%\n核心 CPI 环比（季调）：0
+ .3%\n数据期：2026-01-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260318T083000
+DTEND;TZID=America/New_York:20260318T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年03月18日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-03-18 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年2月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：3.4%\nPPI 环比（季调）：0.5%\n数据期：2026-02-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：3.1%\nPPI 环比（季调）：0.6%\n数据期：2026
+ -01-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。\n\n💡 特别说
+ 明：\n原定 3 月 12 日，后由 BLS 修订。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-03-decision@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260318T140000
+DTEND;TZID=America/New_York:20260318T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年03月19日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-03-18 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年3月17日至18日会议\n\n🧭 事
+ 件说明：\n美联储公布联邦基金利率目标区间与政策声明
+ 。利率路径、通胀判断、就业评价及资产负债表措辞都
+ 可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n联
+ 邦基金目标区间下限：3.50%\n联邦基金目标区间上限：3.75
+ %\n数据期：2026-03-18\n数据来源：美国联邦储备委员会（
+ 经 FRED 获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmark
+ et.htm\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\n联邦基金目标区间下限：3.50%\n联邦基金目
+ 标区间上限：3.75%\n数据期：2026-03-17\n数据来源：美国联
+ 邦储备委员会（经 FRED 获取）\nhttps://www.federalreserve.gov/mo
+ netarypolicy/openmarket.htm\n\n🏛️ 官方来源：\n美国联邦储备
+ 委员会（Federal Reserve）\nhttps://www.federalreserve.gov/monetarypol
+ icy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.federalreserve.
+ gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal Reserve 官
+ 方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-03-press@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260318T143000
+DTEND;TZID=America/New_York:20260318T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年03月19日 02:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-03-1
+ 8 14:30（America/New_York）\n\n🗓️ 统计期：\n2026年3月17日至
+ 18日会议\n\n🧭 事件说明：\n美联储主席解释政策决定并
+ 回答记者提问。对未来利率路径、通胀风险、就业与金
+ 融条件的表述可能改变市场对声明的最初解读。\n\n🎯
+  市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛
+ ️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　
+ ↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　
+ ↗｜↘\n\n🔮 预测值：\n不适用（此类事件不以单一数值
+ 衡量）\n\n📌 前值：\n不适用（此类事件不以单一数值衡
+ 量）\n\n🏛️ 官方来源：\n美国联邦储备委员会（Federal R
+ eserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n\n🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calend
+ ar.htm\n\n📋 日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2025-q4-third@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260326T083000
+DTEND;TZID=America/New_York:20260326T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
+ ⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
+ ⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年03月26日 20:30（北
+ 京时间；日历会自动转换为你的本地时区）\n原始时区：
+ 2026-03-26 08:30（America/New_York）\n\n🗓️ 统计期：\n2025年第
+ 四季度（第三次估算）\n\n🧭 事件说明：\n衡量美国经济
+ 总产出的季度变化。初值通常最受市场关注，后续估算
+ 用于确认或修正增长、消费和通胀结构。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +0.5%\n数据期：2025-10-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.9%\n
+ 数据期：2025-07-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，第
+ 三次估算）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，第三次估算）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260327T083000
+DTEND;TZID=America/New_York:20260327T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年03月27日 20:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-03-27 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年2月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：2.8%\n核
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.3%\n数据期：2026-02-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：2.7%\n核心 PCE 同比：2.9%\n核心 PCE 环比
+ ：0.4%\n数据期：2026-01-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260401T083000
+DTEND;TZID=America/New_York:20260401T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年04月01日 20:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-04-01 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 2月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260401T100000
+DTEND;TZID=America/New_York:20260401T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年04月01日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-04-01 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年3月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260403T083000
+DTEND;TZID=America/New_York:20260403T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年04月03日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-04-03 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年3月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+214千人\n失业率：4.3%\n平均时薪同比：3.4%\n数据
+ 期：2026-03-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：-156千人\n失业率：4.4%\n平均时薪同比：3.7%\
+ n数据期：2026-02-01\n数据来源：美国劳工统计局（BLS，经
+  FRED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛
+ ️ 官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/n
+ ews.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sc
+ hedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026
+  日程，已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260406T100000
+DTEND;TZID=America/New_York:20260406T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年04月06日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-04-06 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年3月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。\n\n💡 特别说明：\n4 月 3
+  日为 Good Friday，官方日历将本次发布排至 4 月 6 日。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-03-minutes@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260408T140000
+DTEND;TZID=America/New_York:20260408T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年04月09日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-04-08 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年3月17日至18日会议纪要\n\n
+ 🧭 事件说明：\n披露决策讨论、风险判断与委员观点分
+ 布，可补充政策声明未充分展示的信息，并影响市场对
+ 后续会议的预期。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适
+ 用（此类事件不以单一数值衡量）\n\n📌 前值：\n不适用
+ （此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美
+ 国联邦储备委员会（Federal Reserve）\nhttps://www.federalreserve.
+ gov/monetarypolicy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.
+ federalreserve.gov/newsevents/calendar.htm\n\n📋 日程状态：\nFedera
+ l Reserve 官方 2026 月历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260410T083000
+DTEND;TZID=America/New_York:20260410T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年04月10日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-04-10 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年3月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：3.3%\nCPI 环比（季调）：0.9%\n核
+ 心 CPI 同比：2.6%\n核心 CPI 环比（季调）：0.2%\n数据期：2
+ 026-03-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：2.4%\nCPI 环比（季
+ 调）：0.3%\n核心 CPI 同比：2.5%\n核心 CPI 环比（季调）：0
+ .2%\n数据期：2026-02-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260414T083000
+DTEND;TZID=America/New_York:20260414T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年04月14日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-04-14 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年3月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：4.3%\nPPI 环比（季调）：0.8%\n数据期：2026-03-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：3.4%\nPPI 环比（季调）：0.5%\n数据期：2026
+ -02-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260421T083000
+DTEND;TZID=America/New_York:20260421T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年04月21日 20:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-04-21 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 3月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-04-decision@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260429T140000
+DTEND;TZID=America/New_York:20260429T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年04月30日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-04-29 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年4月28日至29日会议\n\n🧭 事
+ 件说明：\n美联储公布联邦基金利率目标区间与政策声明
+ 。利率路径、通胀判断、就业评价及资产负债表措辞都
+ 可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n联
+ 邦基金目标区间下限：3.50%\n联邦基金目标区间上限：3.75
+ %\n数据期：2026-04-29\n数据来源：美国联邦储备委员会（
+ 经 FRED 获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmark
+ et.htm\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\n联邦基金目标区间下限：3.50%\n联邦基金目
+ 标区间上限：3.75%\n数据期：2026-04-28\n数据来源：美国联
+ 邦储备委员会（经 FRED 获取）\nhttps://www.federalreserve.gov/mo
+ netarypolicy/openmarket.htm\n\n🏛️ 官方来源：\n美国联邦储备
+ 委员会（Federal Reserve）\nhttps://www.federalreserve.gov/monetarypol
+ icy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.federalreserve.
+ gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal Reserve 官
+ 方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-04-press@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260429T143000
+DTEND;TZID=America/New_York:20260429T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年04月30日 02:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-04-2
+ 9 14:30（America/New_York）\n\n🗓️ 统计期：\n2026年4月28日至
+ 29日会议\n\n🧭 事件说明：\n美联储主席解释政策决定并
+ 回答记者提问。对未来利率路径、通胀风险、就业与金
+ 融条件的表述可能改变市场对声明的最初解读。\n\n🎯
+  市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛
+ ️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　
+ ↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　
+ ↗｜↘\n\n🔮 预测值：\n不适用（此类事件不以单一数值
+ 衡量）\n\n📌 前值：\n不适用（此类事件不以单一数值衡
+ 量）\n\n🏛️ 官方来源：\n美国联邦储备委员会（Federal R
+ eserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n\n🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calend
+ ar.htm\n\n📋 日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q1-advance@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260430T083000
+DTEND;TZID=America/New_York:20260430T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
+  高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年04月30日 20:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-04-3
+ 0 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第一季度
+ （初值）\n\n🧭 事件说明：\n衡量美国经济总产出的季度
+ 变化。初值通常最受市场关注，后续估算用于确认或修
+ 正增长、消费和通胀结构。\n\n🎯 市场关注：\n💱 外汇
+ ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
+ 益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
+ 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值
+ ：\n实际 GDP 环比年化（当前官方修订值）：+2.1%\n数据期
+ ：2026-01-01\n数据来源：美国经济分析局（BEA，经 FRED 获
+ 取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
+ 际 GDP 环比年化（当前官方修订值）：+0.2%\n数据期：2025-
+ 10-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
+ tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
+ mestic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/
+ full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；
+ 日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，初
+ 值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，初值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260430T083000
+DTEND;TZID=America/New_York:20260430T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年04月30日 20:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-04-30 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年3月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
+ 心 PCE 同比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-03-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：2.8%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-02-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260501T100000
+DTEND;TZID=America/New_York:20260501T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年05月01日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-05-01 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年4月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260505T100000
+DTEND;TZID=America/New_York:20260505T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年05月05日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-05-05 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年4月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260508T083000
+DTEND;TZID=America/New_York:20260508T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年05月08日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-05-08 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年4月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+148千人\n失业率：4.3%\n平均时薪同比：3.6%\n数据
+ 期：2026-04-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：+214千人\n失业率：4.3%\n平均时薪同比：3.4%\
+ n数据期：2026-03-01\n数据来源：美国劳工统计局（BLS，经
+  FRED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛
+ ️ 官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/n
+ ews.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sc
+ hedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026
+  日程，已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260512T083000
+DTEND;TZID=America/New_York:20260512T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年05月12日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-05-12 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年4月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：3.8%\nCPI 环比（季调）：0.6%\n核
+ 心 CPI 同比：2.8%\n核心 CPI 环比（季调）：0.4%\n数据期：2
+ 026-04-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：3.3%\nCPI 环比（季
+ 调）：0.9%\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调）：0
+ .2%\n数据期：2026-03-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260513T083000
+DTEND;TZID=America/New_York:20260513T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年05月13日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-05-13 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年4月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：5.7%\nPPI 环比（季调）：1.1%\n数据期：2026-04-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：4.3%\nPPI 环比（季调）：0.8%\n数据期：2026
+ -03-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260514T083000
+DTEND;TZID=America/New_York:20260514T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年05月14日 20:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-05-14 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 4月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-04-minutes@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260520T140000
+DTEND;TZID=America/New_York:20260520T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年05月21日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-05-20 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年4月28日至29日会议纪要\n\n
+ 🧭 事件说明：\n披露决策讨论、风险判断与委员观点分
+ 布，可补充政策声明未充分展示的信息，并影响市场对
+ 后续会议的预期。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适
+ 用（此类事件不以单一数值衡量）\n\n📌 前值：\n不适用
+ （此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美
+ 国联邦储备委员会（Federal Reserve）\nhttps://www.federalreserve.
+ gov/monetarypolicy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.
+ federalreserve.gov/newsevents/calendar.htm\n\n📋 日程状态：\nFedera
+ l Reserve 官方 2026 月历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q1-second@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260528T083000
+DTEND;TZID=America/New_York:20260528T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
+ ⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
+ ⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年05月28日 20:30（北
+ 京时间；日历会自动转换为你的本地时区）\n原始时区：
+ 2026-05-28 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第
+ 一季度（第二次估算）\n\n🧭 事件说明：\n衡量美国经济
+ 总产出的季度变化。初值通常最受市场关注，后续估算
+ 用于确认或修正增长、消费和通胀结构。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +2.1%\n数据期：2026-01-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+0.2%\n
+ 数据期：2025-10-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，第
+ 二次估算）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，第二次估算）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260529T083000
+DTEND;TZID=America/New_York:20260529T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年05月29日 20:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-05-29 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年4月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.6%\n核
+ 心 PCE 同比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-04-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.4%\n核心 PCE 同比：3.1%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-03-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260601T100000
+DTEND;TZID=America/New_York:20260601T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年06月01日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-06-01 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年5月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260603T100000
+DTEND;TZID=America/New_York:20260603T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年06月03日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-06-03 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年5月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260605T083000
+DTEND;TZID=America/New_York:20260605T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年06月05日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-06-05 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年5月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+63千人\n失业率：4.3%\n平均时薪同比：3.3%\n数据期
+ ：2026-05-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非农
+ 就业变动：+148千人\n失业率：4.3%\n平均时薪同比：3.6%\n
+ 数据期：2026-04-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260610T083000
+DTEND;TZID=America/New_York:20260610T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年06月10日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-06-10 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年5月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：4.2%\nCPI 环比（季调）：0.5%\n核
+ 心 CPI 同比：2.9%\n核心 CPI 环比（季调）：0.2%\n数据期：2
+ 026-05-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：3.8%\nCPI 环比（季
+ 调）：0.6%\n核心 CPI 同比：2.8%\n核心 CPI 环比（季调）：0
+ .4%\n数据期：2026-04-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260611T083000
+DTEND;TZID=America/New_York:20260611T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年06月11日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-06-11 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年5月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：5.9%\nPPI 环比（季调）：0.5%\n数据期：2026-05-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：5.7%\nPPI 环比（季调）：1.1%\n数据期：2026
+ -04-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260617T083000
+DTEND;TZID=America/New_York:20260617T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年06月17日 20:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-06-17 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 5月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-06-decision@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260617T140000
+DTEND;TZID=America/New_York:20260617T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年06月18日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-06-17 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年6月16日至17日会议\n\n🧭 事
+ 件说明：\n美联储公布联邦基金利率目标区间与政策声明
+ 。利率路径、通胀判断、就业评价及资产负债表措辞都
+ 可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n联
+ 邦基金目标区间下限：3.50%\n联邦基金目标区间上限：3.75
+ %\n数据期：2026-06-17\n数据来源：美国联邦储备委员会（
+ 经 FRED 获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmark
+ et.htm\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\n联邦基金目标区间下限：3.50%\n联邦基金目
+ 标区间上限：3.75%\n数据期：2026-06-16\n数据来源：美国联
+ 邦储备委员会（经 FRED 获取）\nhttps://www.federalreserve.gov/mo
+ netarypolicy/openmarket.htm\n\n🏛️ 官方来源：\n美国联邦储备
+ 委员会（Federal Reserve）\nhttps://www.federalreserve.gov/monetarypol
+ icy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.federalreserve.
+ gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal Reserve 官
+ 方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-06-press@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260617T143000
+DTEND;TZID=America/New_York:20260617T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年06月18日 02:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-06-1
+ 7 14:30（America/New_York）\n\n🗓️ 统计期：\n2026年6月16日至
+ 17日会议\n\n🧭 事件说明：\n美联储主席解释政策决定并
+ 回答记者提问。对未来利率路径、通胀风险、就业与金
+ 融条件的表述可能改变市场对声明的最初解读。\n\n🎯
+  市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛
+ ️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　
+ ↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　
+ ↗｜↘\n\n🔮 预测值：\n不适用（此类事件不以单一数值
+ 衡量）\n\n📌 前值：\n不适用（此类事件不以单一数值衡
+ 量）\n\n🏛️ 官方来源：\n美国联邦储备委员会（Federal R
+ eserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n\n🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calend
+ ar.htm\n\n📋 日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q1-third@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260625T083000
+DTEND;TZID=America/New_York:20260625T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
+ ⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
+ ⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年06月25日 20:30（北
+ 京时间；日历会自动转换为你的本地时区）\n原始时区：
+ 2026-06-25 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第
+ 一季度（第三次估算）\n\n🧭 事件说明：\n衡量美国经济
+ 总产出的季度变化。初值通常最受市场关注，后续估算
+ 用于确认或修正增长、消费和通胀结构。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +2.1%\n数据期：2026-01-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+0.2%\n
+ 数据期：2025-10-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，第
+ 三次估算）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，第三次估算）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260626T083000
+DTEND;TZID=America/New_York:20260626T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年06月26日 20:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-06-26 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年5月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.8%\n核
+ 心 PCE 同比：3.2%\n核心 PCE 环比：0.3%\n数据期：2026-05-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.6%\n核心 PCE 同比：3.1%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-04-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260701T100000
+DTEND;TZID=America/New_York:20260701T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年07月01日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-07-01 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年6月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260702T083000
+DTEND;TZID=America/New_York:20260702T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年07月02日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-07-02 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年6月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+31千人\n失业率：4.2%\n平均时薪同比：3.4%\n数据期
+ ：2026-06-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非农
+ 就业变动：+63千人\n失业率：4.3%\n平均时薪同比：3.3%\n数
+ 据期：2026-05-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官
+ 方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news.rel
+ ease/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/
+ news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，
+ 已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260706T100000
+DTEND;TZID=America/New_York:20260706T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年07月06日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-07-06 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年6月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。\n\n💡 特别说明：\n7 月 3
+  日为美国独立日补休，官方日历将本次发布移至 7 月 6
+  日。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-06-minutes@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260708T140000
+DTEND;TZID=America/New_York:20260708T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年07月09日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-07-08 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年6月16日至17日会议纪要\n\n
+ 🧭 事件说明：\n披露决策讨论、风险判断与委员观点分
+ 布，可补充政策声明未充分展示的信息，并影响市场对
+ 后续会议的预期。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适
+ 用（此类事件不以单一数值衡量）\n\n📌 前值：\n不适用
+ （此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美
+ 国联邦储备委员会（Federal Reserve）\nhttps://www.federalreserve.
+ gov/monetarypolicy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.
+ federalreserve.gov/newsevents/calendar.htm\n\n📋 日程状态：\nFedera
+ l Reserve 官方 2026 月历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260714T083000
+DTEND;TZID=America/New_York:20260714T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年07月14日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-07-14 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年6月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：3.5%\nCPI 环比（季调）：-0.4%\n
+ 核心 CPI 同比：2.6%\n核心 CPI 环比（季调）：0.0%\n数据期
+ ：2026-06-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不
+ 提供市场一致预期\n\n📌 前值：\nCPI 同比：4.2%\nCPI 环比
+ （季调）：0.5%\n核心 CPI 同比：2.9%\n核心 CPI 环比（季调
+ ）：0.2%\n数据期：2026-05-01\n数据来源：美国劳工统计局
+ （BLS，经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来
+ 源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗
+  官方日程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n
+ 📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；
+ 后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260715T083000
+DTEND;TZID=America/New_York:20260715T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年07月15日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-07-15 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年6月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：5.6%\nPPI 环比（季调）：-0.1%\n数据期：2026-06-01\
+ n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n
+ \n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nPPI 同比：5.9%\nPPI 环比（季调）：0.5%\n数据期：
+ 2026-05-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls
+ .gov/ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttp
+ s://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule
+ /news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，
+ 已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260716T083000
+DTEND;TZID=America/New_York:20260716T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年07月16日 20:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-07-16 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 6月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-07-decision@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260729T140000
+DTEND;TZID=America/New_York:20260729T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年07月30日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-07-29 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年7月28日至29日会议\n\n🧭 事
+ 件说明：\n美联储公布联邦基金利率目标区间与政策声明
+ 。利率路径、通胀判断、就业评价及资产负债表措辞都
+ 可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n联
+ 邦基金目标区间下限：3.50%\n联邦基金目标区间上限：3.75
+ %\n数据期：2026-07-29\n数据来源：美国联邦储备委员会（
+ 经 FRED 获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmark
+ et.htm\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\n联邦基金目标区间下限：3.50%\n联邦基金目
+ 标区间上限：3.75%\n数据期：2026-07-28\n数据来源：美国联
+ 邦储备委员会（经 FRED 获取）\nhttps://www.federalreserve.gov/mo
+ netarypolicy/openmarket.htm\n\n🏛️ 官方来源：\n美国联邦储备
+ 委员会（Federal Reserve）\nhttps://www.federalreserve.gov/monetarypol
+ icy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.federalreserve.
+ gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal Reserve 官
+ 方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-07-press@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260729T143000
+DTEND;TZID=America/New_York:20260729T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年07月30日 02:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-07-2
+ 9 14:30（America/New_York）\n\n🗓️ 统计期：\n2026年7月28日至
+ 29日会议\n\n🧭 事件说明：\n美联储主席解释政策决定并
+ 回答记者提问。对未来利率路径、通胀风险、就业与金
+ 融条件的表述可能改变市场对声明的最初解读。\n\n🎯
+  市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛
+ ️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　
+ ↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　
+ ↗｜↘\n\n🔮 预测值：\n不适用（此类事件不以单一数值
+ 衡量）\n\n📌 前值：\n不适用（此类事件不以单一数值衡
+ 量）\n\n🏛️ 官方来源：\n美国联邦储备委员会（Federal R
+ eserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n\n🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calend
+ ar.htm\n\n📋 日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q2-advance@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260730T083000
+DTEND;TZID=America/New_York:20260730T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
+  高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年07月30日 20:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-07-3
+ 0 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第二季度
+ （初值）\n\n🧭 事件说明：\n衡量美国经济总产出的季度
+ 变化。初值通常最受市场关注，后续估算用于确认或修
+ 正增长、消费和通胀结构。\n\n🎯 市场关注：\n💱 外汇
+ ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
+ 益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
+ 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值
+ ：\n实际 GDP 环比年化（当前官方修订值）：+1.5%\n数据期
+ ：2026-04-01\n数据来源：美国经济分析局（BEA，经 FRED 获
+ 取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
+ 际 GDP 环比年化（当前官方修订值）：+2.5%\n数据期：2026-
+ 01-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
+ tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
+ mestic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/
+ full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；
+ 日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，初
+ 值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，初值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260731T083000
+DTEND;TZID=America/New_York:20260731T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年07月31日 20:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-07-31 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年6月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.5%\n核
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.1%\n数据期：2026-06-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.8%\n核心 PCE 同比：3.2%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-05-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260803T100000
+DTEND;TZID=America/New_York:20260803T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年08月03日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-08-03 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年7月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260805T100000
+DTEND;TZID=America/New_York:20260805T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年08月05日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-08-05 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年7月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260807T083000
+DTEND;TZID=America/New_York:20260807T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年08月07日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-08-07 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年7月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：-10千人\n失业率：4.1%\n平均时薪同比：3.2%\n数据期
+ ：2026-07-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非农
+ 就业变动：+31千人\n失业率：4.2%\n平均时薪同比：3.4%\n数
+ 据期：2026-06-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官
+ 方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news.rel
+ ease/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/
+ news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，
+ 已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260812T083000
+DTEND;TZID=America/New_York:20260812T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年08月12日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-08-12 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年7月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：3.4%\nCPI 环比（季调）：0.1%\n核
+ 心 CPI 同比：2.5%\n核心 CPI 环比（季调）：0.2%\n数据期：2
+ 026-07-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：3.5%\nCPI 环比（季
+ 调）：-0.4%\n核心 CPI 同比：2.6%\n核心 CPI 环比（季调）：
+ 0.0%\n数据期：2026-06-01\n数据来源：美国劳工统计局（BLS
+ ，经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：
+ \n美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方
+ 日程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日
+ 程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以
+ 官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112308
+DTSTART;TZID=America/New_York:20260813T083000
+DTEND;TZID=America/New_York:20260813T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年08月13日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-08-13 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年7月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：4.9%\nPPI 环比（季调）：0.1%\n数据期：2026-07-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：5.6%\nPPI 环比（季调）：-0.1%\n数据期：202
+ 6-06-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.go
+ v/ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/ne
+ ws_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已
+ 核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260814T083000
+DTEND;TZID=America/New_York:20260814T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年08月14日 20:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-08-14 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 7月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-07-minutes@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260819T140000
+DTEND;TZID=America/New_York:20260819T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年08月20日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-08-19 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年7月28日至29日会议纪要\n\n
+ 🧭 事件说明：\n披露决策讨论、风险判断与委员观点分
+ 布，可补充政策声明未充分展示的信息，并影响市场对
+ 后续会议的预期。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适
+ 用（此类事件不以单一数值衡量）\n\n📌 前值：\n不适用
+ （此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美
+ 国联邦储备委员会（Federal Reserve）\nhttps://www.federalreserve.
+ gov/monetarypolicy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.
+ federalreserve.gov/newsevents/calendar.htm\n\n📋 日程状态：\nFedera
+ l Reserve 官方 2026 月历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q2-second@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260827T083000
+DTEND;TZID=America/New_York:20260827T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
+ ⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
+ ⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年08月27日 20:30（北
+ 京时间；日历会自动转换为你的本地时区）\n原始时区：
+ 2026-08-27 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第
+ 二季度（第二次估算）\n\n🧭 事件说明：\n衡量美国经济
+ 总产出的季度变化。初值通常最受市场关注，后续估算
+ 用于确认或修正增长、消费和通胀结构。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +1.5%\n数据期：2026-04-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.5%\n
+ 数据期：2026-01-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，第
+ 二次估算）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，第二次估算）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20260828T083000
+DTEND;TZID=America/New_York:20260828T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年08月28日 20:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-08-28 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年7月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.1%\n数据期：2026-07-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.5%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ ：0.1%\n数据期：2026-06-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260901T100000
+DTEND;TZID=America/New_York:20260901T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年09月01日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-09-01 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年8月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20260903T100000
+DTEND;TZID=America/New_York:20260903T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年09月03日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-09-03 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年8月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20260904T083000
+DTEND;TZID=America/New_York:20260904T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年09月04日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-09-04 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年8月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+186千人\n失业率：4.1%\n平均时薪同比：3.1%\n数据
+ 期：2026-08-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：-10千人\n失业率：4.1%\n平均时薪同比：3.2%\n
+ 数据期：2026-07-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112310
+DTSTART;TZID=America/New_York:20260910T083000
+DTEND;TZID=America/New_York:20260910T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年09月10日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-09-10 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年8月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：5.5%\nPPI 环比（季调）：0.4%\n数据期：2026-08-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：4.9%\nPPI 环比（季调）：0.1%\n数据期：2026
+ -07-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260911T083000
+DTEND;TZID=America/New_York:20260911T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年09月11日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-09-11 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年8月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：3.4%\nCPI 环比（季调）：0.4%\n核
+ 心 CPI 同比：2.4%\n核心 CPI 环比（季调）：0.3%\n数据期：2
+ 026-08-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：3.4%\nCPI 环比（季
+ 调）：0.1%\n核心 CPI 同比：2.5%\n核心 CPI 环比（季调）：0
+ .2%\n数据期：2026-07-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20260916T083000
+DTEND;TZID=America/New_York:20260916T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年09月16日 20:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-09-16 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 8月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-09-decision@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112342
+DTSTART;TZID=America/New_York:20260916T140000
+DTEND;TZID=America/New_York:20260916T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年09月17日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-09-16 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年9月15日至16日会议\n\n🧭 事
+ 件说明：\n美联储公布联邦基金利率目标区间与政策声明
+ 。利率路径、通胀判断、就业评价及资产负债表措辞都
+ 可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n联
+ 邦基金目标区间下限：3.75%\n联邦基金目标区间上限：4.00
+ %\n数据期：2026-09-17\n数据来源：美国联邦储备委员会（
+ 经 FRED 获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmark
+ et.htm\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\n联邦基金目标区间下限：3.50%\n联邦基金目
+ 标区间上限：3.75%\n数据期：2026-09-15\n数据来源：美国联
+ 邦储备委员会（经 FRED 获取）\nhttps://www.federalreserve.gov/mo
+ netarypolicy/openmarket.htm\n\n🏛️ 官方来源：\n美国联邦储备
+ 委员会（Federal Reserve）\nhttps://www.federalreserve.gov/monetarypol
+ icy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.federalreserve.
+ gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal Reserve 官
+ 方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-09-press@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20260916T143000
+DTEND;TZID=America/New_York:20260916T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年09月17日 02:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-09-1
+ 6 14:30（America/New_York）\n\n🗓️ 统计期：\n2026年9月15日至
+ 16日会议\n\n🧭 事件说明：\n美联储主席解释政策决定并
+ 回答记者提问。对未来利率路径、通胀风险、就业与金
+ 融条件的表述可能改变市场对声明的最初解读。\n\n🎯
+  市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛
+ ️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　
+ ↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　
+ ↗｜↘\n\n🔮 预测值：\n不适用（此类事件不以单一数值
+ 衡量）\n\n📌 前值：\n不适用（此类事件不以单一数值衡
+ 量）\n\n🏛️ 官方来源：\n美国联邦储备委员会（Federal R
+ eserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n\n🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calend
+ ar.htm\n\n📋 日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q2-third@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20260924T083000
+DTEND;TZID=America/New_York:20260924T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
+ ⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
+ ⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年09月24日 20:30（北
+ 京时间；日历会自动转换为你的本地时区）\n原始时区：
+ 2026-09-24 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第
+ 二季度（第三次估算）\n\n🧭 事件说明：\n衡量美国经济
+ 总产出的季度变化。初值通常最受市场关注，后续估算
+ 用于确认或修正增长、消费和通胀结构。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +1.5%\n数据期：2026-04-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.5%\n
+ 数据期：2026-01-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。\n\n💡 特别说
+ 明：\n本次发布可能包含年度修订，以 BEA 当日公告为准
+ 。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，第
+ 三次估算）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，第三次估算）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112308
+DTSTART;TZID=America/New_York:20260925T083000
+DTEND;TZID=America/New_York:20260925T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年09月25日 20:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-09-25 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年8月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
+ 心 PCE 同比：3.0%\n核心 PCE 环比：0.3%\n数据期：2026-08-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.4%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ ：0.1%\n数据期：2026-07-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20261001T100000
+DTEND;TZID=America/New_York:20261001T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年10月01日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-10-01 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年9月\n\n🧭 事件说明：\n
+ 调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20261002T083000
+DTEND;TZID=America/New_York:20261002T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年10月02日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-10-02 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年9月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就业
+ 变动：+60千人\n失业率：4.2%\n平均时薪同比：3.2%\n数据期
+ ：2026-09-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测值
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非农
+ 就业变动：+186千人\n失业率：4.1%\n平均时薪同比：3.1%\n
+ 数据期：2026-08-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20261005T100000
+DTEND;TZID=America/New_York:20261005T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年10月05日 22:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-10-05 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年9月\n\n🧭 事件说明：\n
+ 调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-09-minutes@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20261007T140000
+DTEND;TZID=America/New_York:20261007T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年10月08日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-10-07 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年9月15日至16日会议纪要\n\n
+ 🧭 事件说明：\n披露决策讨论、风险判断与委员观点分
+ 布，可补充政策声明未充分展示的信息，并影响市场对
+ 后续会议的预期。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适
+ 用（此类事件不以单一数值衡量）\n\n📌 前值：\n不适用
+ （此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美
+ 国联邦储备委员会（Federal Reserve）\nhttps://www.federalreserve.
+ gov/monetarypolicy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.
+ federalreserve.gov/newsevents/calendar.htm\n\n📋 日程状态：\nFedera
+ l Reserve 官方 2026 月历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20261014T083000
+DTEND;TZID=America/New_York:20261014T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年10月14日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-10-14 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年9月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：3.7%\nCPI 环比（季调）：0.6%\n核
+ 心 CPI 同比：2.6%\n核心 CPI 环比（季调）：0.3%\n数据期：2
+ 026-09-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）
+ \nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据源不提供
+ 市场一致预期\n\n📌 前值：\nCPI 同比：3.4%\nCPI 环比（季
+ 调）：0.4%\n核心 CPI 同比：2.4%\n核心 CPI 环比（季调）：0
+ .3%\n数据期：2026-08-01\n数据来源：美国劳工统计局（BLS，
+ 经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n
+ 美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日
+ 程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程
+ 状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；后续以官
+ 方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112314
+DTSTART;TZID=America/New_York:20261015T083000
+DTEND;TZID=America/New_York:20261015T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年10月15日 20:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-10-15 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年9月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：6.3%\nPPI 环比（季调）：1.4%\n数据期：2026-09-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：5.5%\nPPI 环比（季调）：0.4%\n数据期：2026
+ -08-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20261015T083000
+DTEND;TZID=America/New_York:20261015T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年10月15日 20:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-10-15 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 9月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-10-decision@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112361
+DTSTART;TZID=America/New_York:20261028T140000
+DTEND;TZID=America/New_York:20261028T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年10月29日 02:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-10-28 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年10月27日至28日会议\n\n🧭 事
+ 件说明：\n美联储公布联邦基金利率目标区间与政策声明
+ 。利率路径、通胀判断、就业评价及资产负债表措辞都
+ 可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n联
+ 邦基金目标区间下限：3.75%\n联邦基金目标区间上限：4.00
+ %\n数据期：2026-10-28\n数据来源：美国联邦储备委员会（
+ 经 FRED 获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmark
+ et.htm\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\n联邦基金目标区间下限：3.75%\n联邦基金目
+ 标区间上限：4.00%\n数据期：2026-10-27\n数据来源：美国联
+ 邦储备委员会（经 FRED 获取）\nhttps://www.federalreserve.gov/mo
+ netarypolicy/openmarket.htm\n\n🏛️ 官方来源：\n美国联邦储备
+ 委员会（Federal Reserve）\nhttps://www.federalreserve.gov/monetarypol
+ icy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.federalreserve.
+ gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal Reserve 官
+ 方 FOMC 2026 日历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-10-press@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20261028T143000
+DTEND;TZID=America/New_York:20261028T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年10月29日 02:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-10-2
+ 8 14:30（America/New_York）\n\n🗓️ 统计期：\n2026年10月27日
+ 至28日会议\n\n🧭 事件说明：\n美联储主席解释政策决定
+ 并回答记者提问。对未来利率路径、通胀风险、就业与
+ 金融条件的表述可能改变市场对声明的最初解读。\n\n🎯
+  市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛
+ ️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　
+ ↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　
+ ↗｜↘\n\n🔮 预测值：\n不适用（此类事件不以单一数值
+ 衡量）\n\n📌 前值：\n不适用（此类事件不以单一数值衡
+ 量）\n\n🏛️ 官方来源：\n美国联邦储备委员会（Federal R
+ eserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n\n🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calend
+ ar.htm\n\n📋 日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q3-advance@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20261029T083000
+DTEND;TZID=America/New_York:20261029T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
+  高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年10月29日 20:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-10-2
+ 9 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第三季度
+ （初值）\n\n🧭 事件说明：\n衡量美国经济总产出的季度
+ 变化。初值通常最受市场关注，后续估算用于确认或修
+ 正增长、消费和通胀结构。\n\n🎯 市场关注：\n💱 外汇
+ ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
+ 益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
+ 股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值
+ ：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n数据期
+ ：2026-07-01\n数据来源：美国经济分析局（BEA，经 FRED 获
+ 取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实
+ 际 GDP 环比年化（当前官方修订值）：+2.2%\n数据期：2026-
+ 04-01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nht
+ tps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-do
+ mestic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/
+ full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；
+ 日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，初
+ 值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，初值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20261030T083000
+DTEND;TZID=America/New_York:20261030T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年10月30日 20:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-10-30 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年9月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.6%\n核
+ 心 PCE 同比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-09-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.4%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-08-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20261102T100000
+DTEND;TZID=America/New_York:20261102T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年11月02日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-11-02 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年10月\n\n🧭 事件说明：\
+ n调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
+DTSTART;TZID=America/New_York:20261104T100000
+DTEND;TZID=America/New_York:20261104T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年11月04日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-11-04 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年10月\n\n🧭 事件说明：\
+ n调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20261106T083000
+DTEND;TZID=America/New_York:20261106T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年11月06日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-11-06 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年10月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n非农就
+ 业变动：+165千人\n失业率：4.1%\n平均时薪同比：3.1%\n数
+ 据期：2026-10-01\n数据来源：美国劳工统计局（BLS，经 FRED
+  获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🔮 预测
+ 值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n非
+ 农就业变动：+60千人\n失业率：4.2%\n平均时薪同比：3.2%\n
+ 数据期：2026-09-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news
+ .release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/sched
+ ule/news_release/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日
+ 程，已核对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112308
+DTSTART;TZID=America/New_York:20261110T083000
+DTEND;TZID=America/New_York:20261110T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年11月10日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-11-10 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年10月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n✅ 实际值：\nCPI 同比：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\nCPI 环比（季调）：0.4
+ %\n核心 CPI 同比：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n核心 CPI 环比（季调）：0.3%\n
+ 数据期：2026-10-01\n数据来源：美国劳工统计局（BLS，经 F
+ RED 获取）\nhttps://www.bls.gov/cpi/\n\n🔮 预测值：\n官方数据
+ 源不提供市场一致预期\n\n📌 前值：\nCPI 同比：3.7%\nCPI
+  环比（季调）：0.6%\n核心 CPI 同比：2.6%\n核心 CPI 环比（
+ 季调）：0.3%\n数据期：2026-09-01\n数据来源：美国劳工统
+ 计局（BLS，经 FRED 获取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官
+ 方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\
+ n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-11；
+ 后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112314
+DTSTART;TZID=America/New_York:20261113T083000
+DTEND;TZID=America/New_York:20261113T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年11月13日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-11-13 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年10月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实际值：\n
+ PPI 同比：6.5%\nPPI 环比（季调）：0.3%\n数据期：2026-10-01\n
+ 数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\
+ n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌 前
+ 值：\nPPI 同比：6.3%\nPPI 环比（季调）：1.4%\n数据期：2026
+ -09-01\n数据来源：美国劳工统计局（BLS）\nhttps://www.bls.gov
+ /ppi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps://
+ www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/new
+ s_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核
+ 对至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fed-chair-speech-2026-11-16@economic-calendar-pro
+DTSTAMP:20261116T000000Z
+LAST-MODIFIED:20261116T215751Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20261116T120000
+DTEND;TZID=America/New_York:20261116T123000
+SUMMARY:🇺🇸 美联储主席讲话（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美联储主席讲话\n⭐⭐⭐ 高影响\n\n⏰ 公
+ 布时间：\n2026年11月17日 01:00（北京时间；日历会自动转
+ 换为你的本地时区）\n原始时区：2026-11-16 12:00（America/New
+ _York）\n\n🗓️ 统计期：\n美联储生产力与就业工作组会
+ 议开幕致辞\n\n🧭 事件说明：\n美联储主席在公开场合发
+ 表讲话（FOMC 新闻发布会之外）。主席对通胀、就业、经
+ 济前景与利率路径的表述可能直接改变市场对政策的预
+ 期，是最受关注的单人讲话之一。\n\n🎯 市场关注：\n
+ 💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美
+ 国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n
+ 🔮 预测值：\n不适用（此类事件不以单一数值衡量）\n\n
+ 📌 前值：\n不适用（此类事件不以单一数值衡量）\n\n
+ 🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve）\
+ nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n🔗 官方日
+ 程：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n📋 日
+ 程状态：\nFederal Reserve 官方 2026 年 11 月历，已核对至 202
+ 6-11-16。\n\n💡 特别说明：\n旧金山联储现场；美联储生
+ 产力与就业工作组会议。
+LOCATION:美联储主席公开讲话（线上直播）
+URL:https://www.federalreserve.gov/newsevents/calendar.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席讲话
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席讲话
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20261117T083000
+DTEND;TZID=America/New_York:20261117T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年11月17日 21:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-11-17 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 10月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-10-minutes@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20261118T140000
+DTEND;TZID=America/New_York:20261118T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年11月19日 03:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-11-18 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年10月27日至28日会议纪要\n\n
+ 🧭 事件说明：\n披露决策讨论、风险判断与委员观点分
+ 布，可补充政策声明未充分展示的信息，并影响市场对
+ 后续会议的预期。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适
+ 用（此类事件不以单一数值衡量）\n\n📌 前值：\n不适用
+ （此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美
+ 国联邦储备委员会（Federal Reserve）\nhttps://www.federalreserve.
+ gov/monetarypolicy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.
+ federalreserve.gov/newsevents/calendar.htm\n\n📋 日程状态：\nFedera
+ l Reserve 官方 2026 月历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fed-president-speech-2026-11-23-williams@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20261123T160000
+DTEND;TZID=America/New_York:20261123T163000
+SUMMARY:🇺🇸 威廉姆斯（纽约联储主席）讲话（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 威廉姆斯（纽约联储主席）讲话\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年11月24日 05:00（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-11-2
+ 3 16:00（America/New_York）\n\n🗓️ 统计期：\n纽约联储主席
+ 威廉姆斯讲话\n\n🧭 事件说明：\n12 家地区联邦储备银行
+ 主席的公开讲话（FOMC 新闻发布会与理事会主席讲话之外
+ ）。地区联储主席是 FOMC 票委（纽约联储主席为永久票
+ 委，其余轮换），其对通胀、就业与利率路径的表述会
+ 影响市场对政策的预期。讲话日程通常提前数日公布，
+ 本日历滚动补充。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适
+ 用（此类事件不以单一数值衡量）\n\n📌 前值：\n不适用
+ （此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美
+ 国联邦储备委员会与各地区联储（Federal Reserve）\nhttps://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n\n🔗 官方日程：\nhtt
+ ps://www.federalreserve.gov/newsevents/calendar.htm\n\n📋 日程状态
+ ：\n各地区联储官网与公开日程，已核对至 2026-11-23；行
+ 长讲话日程通常提前数日公布，后续场次滚动补充。\n\n
+ 💡 特别说明：\nMount Saint Vincent 大学（布朗克斯）；就
+ 经济前景与货币政策发表讲话并答问，纽约联储官网行
+ 程公告。FOMC 永久票委；11 月 28 日起进入 12 月会议静默
+ 期。
+LOCATION:地区联储主席公开讲话（线上直播）
+URL:https://www.federalreserve.gov/newsevents/calendar.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 威廉姆斯（纽约联储主席）
+ 讲话
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 威廉姆斯（纽约联储主席
+ ）讲话
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q3-second@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
+ ⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
+ ⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年11月25日 21:30（北
+ 京时间；日历会自动转换为你的本地时区）\n原始时区：
+ 2026-11-25 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第
+ 三季度（第二次估算）\n\n🧭 事件说明：\n衡量美国经济
+ 总产出的季度变化。初值通常最受市场关注，后续估算
+ 用于确认或修正增长、消费和通胀结构。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.2%\n
+ 数据期：2026-04-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，第
+ 二次估算）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，第二次估算）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年11月25日 21:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-11-25 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年10月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：3.6%\n核心 PCE 同
+ 比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-09-01\n数据来源
+ ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
+ ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
+ sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
+ .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
+ 布日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-manufacturing-2026-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20261201T100000
+DTEND;TZID=America/New_York:20261201T103000
+SUMMARY:🇺🇸 美国 ISM 制造业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 制造业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年12月01日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-12-01 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年11月\n\n🧭 事件说明：\
+ n调查美国制造业采购与供应管理活动。50 为扩张与收缩
+ 分界，订单、就业和价格分项可提供增长与通胀线索。\n
+ \n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘
+ \n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄
+ 金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitc
+ oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
+ 预期\n\n📌 前值：\nISM PMI 属许可数据，FRED 序列已下架
+ ，免费镜像的制造业数值校验异常，暂不自动填充\n数据
+ 来源：美国供应管理协会（ISM）\nhttps://www.ismworld.org/suppl
+ y-management-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方
+ 来源：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/sup
+ ply-management-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日
+ 程：\nhttps://www.ismworld.org/supply-management-news-and-reports/report
+ s/rob-report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Rel
+ ease Date Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 制造业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ism-services-2026-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20261203T100000
+DTEND;TZID=America/New_York:20261203T103000
+SUMMARY:🇺🇸 美国 ISM 服务业 PMI（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 ISM 服务业 PMI\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2026年12月03日 23:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2026-12-03 10:00（America/
+ New_York）\n\n🗓️ 统计期：\n2026年11月\n\n🧭 事件说明：\
+ n调查美国服务业商业活动。服务业在美国经济中占比较
+ 高，商业活动、就业和价格分项常影响增长与通胀预期
+ 。\n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗
+ ｜↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属
+ ｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产
+ ｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市
+ 场一致预期\n\n📌 前值：\nISM PMI 属许可数据，免费公开
+ 源无法保证及时性和再分发权，暂不自动填充\n数据来源
+ ：美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-mana
+ gement-news-and-reports/reports/ism-pmi-reports/\n\n🏛️ 官方来源
+ ：\n美国供应管理协会（ISM）\nhttps://www.ismworld.org/supply-ma
+ nagement-news-and-reports/reports/ism-pmi-reports/\n\n🔗 官方日程：
+ \nhttps://www.ismworld.org/supply-management-news-and-reports/reports/rob-
+ report-calendar/\n\n📋 日程状态：\nISM 官方 2026 Report Release D
+ ate Calendar，已核对至 2026-08-11。
+LOCATION:美国供应管理协会（线上发布）
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ism
+ -pmi-reports/
+CATEGORIES:PMI 与景气调查,美国,高影响
+COLOR:#7627BB
+X-EVENT-COLOR:#7627BB
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 ISM 服务业 PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20261204T083000
+DTEND;TZID=America/New_York:20261204T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2026年12月04日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2026-12-04 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年11月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
+ 数据源不提供市场一致预期\n\n📌 前值：\n非农就业变动
+ ：+165千人\n失业率：4.1%\n平均时薪同比：3.1%\n数据期：20
+ 26-10-01\n数据来源：美国劳工统计局（BLS，经 FRED 获取）\
+ nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/news.release/emps
+ it.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/news_rele
+ ase/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核对
+ 至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-12-decision@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112382
+DTSTART;TZID=America/New_York:20261209T140000
+DTEND;TZID=America/New_York:20261209T143000
+SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年12月10日 03:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-12-09 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年12月8日至9日会议\n\n🧭 事
+ 件说明：\n美联储公布联邦基金利率目标区间与政策声明
+ 。利率路径、通胀判断、就业评价及资产负债表措辞都
+ 可能引发快速重定价。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
+ 官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
+ 目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
+ 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+  获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
+ \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
+ 🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calendar.h
+ tm\n\n📋 日程状态：\nFederal Reserve 官方 FOMC 2026 日历，已
+ 核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 利率决议
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 利率决议
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-12-press@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20261209T143000
+DTEND;TZID=America/New_York:20261209T153000
+SUMMARY:🇺🇸 美联储主席新闻发布会（FOMC）（⭐⭐⭐ 高
+ 影响）
+DESCRIPTION:🇺🇸 美联储主席新闻发布会（FOMC）\n⭐⭐⭐
+  高影响\n\n⏰ 公布时间：\n2026年12月10日 03:30（北京时间
+ ；日历会自动转换为你的本地时区）\n原始时区：2026-12-0
+ 9 14:30（America/New_York）\n\n🗓️ 统计期：\n2026年12月8日至
+ 9日会议\n\n🧭 事件说明：\n美联储主席解释政策决定并
+ 回答记者提问。对未来利率路径、通胀风险、就业与金
+ 融条件的表述可能改变市场对声明的最初解读。\n\n🎯
+  市场关注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛
+ ️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　
+ ↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　
+ ↗｜↘\n\n🔮 预测值：\n不适用（此类事件不以单一数值
+ 衡量）\n\n📌 前值：\n不适用（此类事件不以单一数值衡
+ 量）\n\n🏛️ 官方来源：\n美国联邦储备委员会（Federal R
+ eserve）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n\n🔗 官方日程：\nhttps://www.federalreserve.gov/newsevents/calend
+ ar.htm\n\n📋 日程状态：\nFederal Reserve 官方 2026 月历，已
+ 核对至 2026-08-11；主持人以当日官方公告为准。
+LOCATION:美联储新闻发布会（线上直播）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美联储主席新闻发布会（FOMC
+ ）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美联储主席新闻发布会（
+ FOMC）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-cpi-2026-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112308
+DTSTART;TZID=America/New_York:20261210T083000
+DTEND;TZID=America/New_York:20261210T090000
+SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年12月10日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-12-10 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年11月\n\n🧭
+  事件说明：\n反映美国居民消费价格的变化，是判断通
+ 胀趋势和美联储政策路径的核心指标。实际值与市场预
+ 测的偏差通常比绝对数值更能驱动行情。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：0.4%\n核心
+  CPI 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-10-01）\n核心 CPI 环比（季调）：0.3%\n数据期
+ ：2026-10-01\n数据来源：美国劳工统计局（BLS，经 FRED 获
+ 取）\nhttps://www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttp
+ s://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS
+  官方 2026 日程，已核对至 2026-08-11；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/cpi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 CPI（消费者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 CPI（消费者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fed-president-speech-2026-12-11-goolsbee@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20261211T094000
+DTEND;TZID=America/New_York:20261211T101000
+SUMMARY:🇺🇸 古尔斯比（芝加哥联储主席）讲话（⭐⭐⭐
+  高影响）
+DESCRIPTION:🇺🇸 古尔斯比（芝加哥联储主席）讲话\n⭐⭐
+ ⭐ 高影响\n\n⏰ 公布时间：\n2026年12月11日 22:40（北京时
+ 间；日历会自动转换为你的本地时区）\n原始时区：2026-1
+ 2-11 09:40（America/New_York）\n\n🗓️ 统计期：\n芝加哥联储
+ 主席古尔斯比讲话\n\n🧭 事件说明：\n12 家地区联邦储备
+ 银行主席的公开讲话（FOMC 新闻发布会与理事会主席讲话
+ 之外）。地区联储主席是 FOMC 票委（纽约联储主席为永
+ 久票委，其余轮换），其对通胀、就业与利率路径的表
+ 述会影响市场对政策的预期。讲话日程通常提前数日公
+ 布，本日历滚动补充。\n\n🎯 市场关注：\n💱 外汇｜美
+ 元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率
+ 　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　
+ ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
+ 不适用（此类事件不以单一数值衡量）\n\n📌 前值：\n不
+ 适用（此类事件不以单一数值衡量）\n\n🏛️ 官方来源
+ ：\n美国联邦储备委员会与各地区联储（Federal Reserve）\nh
+ ttps://www.federalreserve.gov/newsevents/calendar.htm\n\n🔗 官方日程
+ ：\nhttps://www.federalreserve.gov/newsevents/calendar.htm\n\n📋 日程
+ 状态：\n各地区联储官网与公开日程，已核对至 2026-11-23
+ ；行长讲话日程通常提前数日公布，后续场次滚动补充
+ 。\n\n💡 特别说明：\n芝加哥联储第 40 届年度经济展望
+ 研讨会主持问答，芝加哥；美中时间 08:40。
+LOCATION:地区联储主席公开讲话（线上直播）
+URL:https://www.federalreserve.gov/newsevents/calendar.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 古尔斯比（芝加哥联储主席
+ ）讲话
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 古尔斯比（芝加哥联储主
+ 席）讲话
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-ppi-2026-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112314
+DTSTART;TZID=America/New_York:20261215T083000
+DTEND;TZID=America/New_York:20261215T090000
+SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
+ 响）
+DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
+ 影响\n\n⏰ 公布时间：\n2026年12月15日 21:30（北京时间；
+ 日历会自动转换为你的本地时区）\n原始时区：2026-12-15 0
+ 8:30（America/New_York）\n\n🗓️ 统计期：\n2026年11月\n\n🧭
+  事件说明：\n衡量美国生产端最终需求价格变化，可为
+ 消费通胀和企业利润率提供前瞻信号。核心分项及服务
+ 价格往往受到重点关注。\n\n🎯 市场关注：\n💱 外汇｜
+ 美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
+ 率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：6.5%\nPPI 环比（季调）：0.3%\n数据期：2026-10-01\n数据来
+ 源：美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️
+  官方来源：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/
+ \n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.ht
+ m\n\n📋 日程状态：\nBLS 官方 2026 日程，已核对至 2026-08-1
+ 1；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/ppi/
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PPI（生产者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PPI（生产者物价指
+ 数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-retail-sales-2026-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
+DTSTART;TZID=America/New_York:20261216T083000
+DTEND;TZID=America/New_York:20261216T090000
+SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年12月16日 21:30（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2026-12-16 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年
+ 11月\n\n🧭 事件说明：\n美国人口普查局每月发布的零售
+ 与餐饮服务销售额先行值，是最早的月度消费硬指标。
+ 消费占美国经济约七成，数据强弱直接影响市场对增长
+ 前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
+  外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
+ 债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
+ 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
+ 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
+ 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
+ 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
+ ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
+ 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
+ ，后续以官方最新公告为准。
+LOCATION:美国人口普查局（线上发布）
+URL:https://www.census.gov/retail/index.html
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国零售销售（零售与餐饮
+ 服务先行值）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国零售销售（零售与餐
+ 饮服务先行值）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-gdp-2026-q3-third@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
+DTSTART;TZID=America/New_York:20261223T083000
+DTEND;TZID=America/New_York:20261223T090000
+SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
+ ⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
+ ⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年12月23日 21:30（北
+ 京时间；日历会自动转换为你的本地时区）\n原始时区：
+ 2026-12-23 08:30（America/New_York）\n\n🗓️ 统计期：\n2026年第
+ 三季度（第三次估算）\n\n🧭 事件说明：\n衡量美国经济
+ 总产出的季度变化。初值通常最受市场关注，后续估算
+ 用于确认或修正增长、消费和通胀结构。\n\n🎯 市场关
+ 注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
+ ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
+ n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+2.2%\n
+ 数据期：2026-04-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/gdp/gross-domestic-product
+CATEGORIES:经济增长,美国,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 GDP（国内生产总值，第
+ 三次估算）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 GDP（国内生产总值
+ ，第三次估算）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-pce-2026-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
+DTSTART;TZID=America/New_York:20261223T083000
+DTEND;TZID=America/New_York:20261223T090000
+SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
+ （⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
+ ）\n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2026年12月23日 21:30
+ （北京时间；日历会自动转换为你的本地时区）\n原始时
+ 区：2026-12-23 08:30（America/New_York）\n\n🗓️ 统计期：\n2026
+ 年11月\n\n🧭 事件说明：\nPCE 物价指数随个人收入与支出
+ 报告发布，其中核心 PCE 是美联储重点参考的通胀指标。
+ \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
+ ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
+ 黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
+LOCATION:美国经济分析局（线上发布）
+URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
+CATEGORIES:通胀,美国,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国 PCE 物价指数（个人收入
+ 与支出报告）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国 PCE 物价指数（个人
+ 收入与支出报告）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-fomc-2026-12-minutes@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=America/New_York:20261230T140000
+DTEND;TZID=America/New_York:20261230T143000
+SUMMARY:🇺🇸 FOMC 会议纪要（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 FOMC 会议纪要\n⭐⭐⭐ 高影响\n\n⏰ 公布
+ 时间：\n2026年12月31日 03:00（北京时间；日历会自动转换
+ 为你的本地时区）\n原始时区：2026-12-30 14:00（America/New_Yo
+ rk）\n\n🗓️ 统计期：\n2026年12月8日至9日会议纪要\n\n🧭
+  事件说明：\n披露决策讨论、风险判断与委员观点分布
+ ，可补充政策声明未充分展示的信息，并影响市场对后
+ 续会议的预期。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n不适用
+ （此类事件不以单一数值衡量）\n\n📌 前值：\n不适用（
+ 此类事件不以单一数值衡量）\n\n🏛️ 官方来源：\n美国
+ 联邦储备委员会（Federal Reserve）\nhttps://www.federalreserve.gov
+ /monetarypolicy/fomccalendars.htm\n\n🔗 官方日程：\nhttps://www.fed
+ eralreserve.gov/newsevents/calendar.htm\n\n📋 日程状态：\nFederal R
+ eserve 官方 2026 月历，已核对至 2026-08-11。
+LOCATION:美国联邦储备委员会（线上发布）
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+CATEGORIES:央行政策,美国,高影响
+COLOR:#B3261E
+X-EVENT-COLOR:#B3261E
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 FOMC 会议纪要
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 FOMC 会议纪要
+END:VALARM
+END:VEVENT
+END:VCALENDAR
