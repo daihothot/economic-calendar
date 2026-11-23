@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "year": 2027,
-  "verifiedAt": "2026-11-16",
-  "revision": 2026111601,
+  "verifiedAt": "2026-11-23",
+  "revision": 2026112301,
   "coverageStatus": "partial",
   "series": [
     {
@@ -124,6 +124,192 @@
         { "id": "jp-boj-2027-09-press", "date": "2027-09-22", "period": "2027年9月会议" },
         { "id": "jp-boj-2027-10-press", "date": "2027-10-29", "period": "2027年10月会议" },
         { "id": "jp-boj-2027-12-press", "date": "2027-12-17", "period": "2027年12月会议" }
+      ]
+    },
+    {
+      "type": "us-retail-sales",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "Census 官方 2027 日程，已核对至 2026-11-17；后续以官方最新公告为准。",
+      "entries": [
+        { "id": "us-retail-sales-2026-12", "date": "2027-01-15", "period": "2026年12月" },
+        { "id": "us-retail-sales-2027-01", "date": "2027-02-17", "period": "2027年1月" },
+        { "id": "us-retail-sales-2027-02", "date": "2027-03-16", "period": "2027年2月" },
+        { "id": "us-retail-sales-2027-03", "date": "2027-04-16", "period": "2027年3月" },
+        { "id": "us-retail-sales-2027-04", "date": "2027-05-14", "period": "2027年4月" },
+        { "id": "us-retail-sales-2027-05", "date": "2027-06-16", "period": "2027年5月" },
+        { "id": "us-retail-sales-2027-06", "date": "2027-07-16", "period": "2027年6月" },
+        { "id": "us-retail-sales-2027-07", "date": "2027-08-16", "period": "2027年7月" },
+        { "id": "us-retail-sales-2027-08", "date": "2027-09-16", "period": "2027年8月" },
+        { "id": "us-retail-sales-2027-09", "date": "2027-10-15", "period": "2027年9月" },
+        { "id": "us-retail-sales-2027-10", "date": "2027-11-16", "period": "2027年10月" },
+        { "id": "us-retail-sales-2027-11", "date": "2027-12-15", "period": "2027年11月" }
+      ]
+    },
+    {
+      "type": "us-cpi",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "BLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公告为准。",
+      "entries": [
+        { "id": "us-cpi-2026-12", "date": "2027-01-13", "period": "2026年12月" },
+        { "id": "us-cpi-2027-01", "date": "2027-02-11", "period": "2027年1月" },
+        { "id": "us-cpi-2027-02", "date": "2027-03-10", "period": "2027年2月" },
+        { "id": "us-cpi-2027-03", "date": "2027-04-13", "period": "2027年3月" },
+        { "id": "us-cpi-2027-04", "date": "2027-05-12", "period": "2027年4月" },
+        { "id": "us-cpi-2027-05", "date": "2027-06-10", "period": "2027年5月" },
+        { "id": "us-cpi-2027-06", "date": "2027-07-14", "period": "2027年6月" },
+        { "id": "us-cpi-2027-07", "date": "2027-08-11", "period": "2027年7月" },
+        { "id": "us-cpi-2027-08", "date": "2027-09-14", "period": "2027年8月" },
+        { "id": "us-cpi-2027-09", "date": "2027-10-14", "period": "2027年9月" },
+        { "id": "us-cpi-2027-10", "date": "2027-11-10", "period": "2027年10月" },
+        { "id": "us-cpi-2027-11", "date": "2027-12-10", "period": "2027年11月" }
+      ]
+    },
+    {
+      "type": "us-ppi",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "BLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公告为准。",
+      "entries": [
+        { "id": "us-ppi-2026-12", "date": "2027-01-14", "period": "2026年12月" },
+        { "id": "us-ppi-2027-01", "date": "2027-02-12", "period": "2027年1月" },
+        { "id": "us-ppi-2027-02", "date": "2027-03-12", "period": "2027年2月" },
+        { "id": "us-ppi-2027-03", "date": "2027-04-14", "period": "2027年3月" },
+        { "id": "us-ppi-2027-04", "date": "2027-05-13", "period": "2027年4月" },
+        { "id": "us-ppi-2027-05", "date": "2027-06-11", "period": "2027年5月" },
+        { "id": "us-ppi-2027-06", "date": "2027-07-15", "period": "2027年6月" },
+        { "id": "us-ppi-2027-07", "date": "2027-08-10", "period": "2027年7月" },
+        { "id": "us-ppi-2027-08", "date": "2027-09-10", "period": "2027年8月" },
+        { "id": "us-ppi-2027-09", "date": "2027-10-15", "period": "2027年9月" },
+        { "id": "us-ppi-2027-10", "date": "2027-11-12", "period": "2027年10月" },
+        { "id": "us-ppi-2027-11", "date": "2027-12-15", "period": "2027年11月" }
+      ]
+    },
+    {
+      "type": "us-nfp",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "BLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公告为准。",
+      "entries": [
+        { "id": "us-nfp-2026-12", "date": "2027-01-08", "period": "2026年12月" },
+        { "id": "us-nfp-2027-01", "date": "2027-02-05", "period": "2027年1月" },
+        { "id": "us-nfp-2027-02", "date": "2027-03-05", "period": "2027年2月" },
+        { "id": "us-nfp-2027-03", "date": "2027-04-02", "period": "2027年3月" },
+        { "id": "us-nfp-2027-04", "date": "2027-05-07", "period": "2027年4月" },
+        { "id": "us-nfp-2027-05", "date": "2027-06-04", "period": "2027年5月" },
+        { "id": "us-nfp-2027-06", "date": "2027-07-02", "period": "2027年6月" },
+        { "id": "us-nfp-2027-07", "date": "2027-08-06", "period": "2027年7月" },
+        { "id": "us-nfp-2027-08", "date": "2027-09-03", "period": "2027年8月" },
+        { "id": "us-nfp-2027-09", "date": "2027-10-08", "period": "2027年9月" },
+        { "id": "us-nfp-2027-10", "date": "2027-11-05", "period": "2027年10月" },
+        { "id": "us-nfp-2027-11", "date": "2027-12-03", "period": "2027年11月" }
+      ]
+    },
+    {
+      "type": "us-gdp",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最新日程为准。",
+      "entries": [
+        { "id": "us-gdp-2026-q4-advance", "date": "2027-01-28", "period": "2026年第四季度（初值）", "title": "美国 GDP（国内生产总值，初值）" },
+        { "id": "us-gdp-2026-q4-second", "date": "2027-02-25", "period": "2026年第四季度（第二次估算）", "title": "美国 GDP（国内生产总值，第二次估算）" },
+        { "id": "us-gdp-2026-q4-third", "date": "2027-03-31", "period": "2026年第四季度（第三次估算）", "title": "美国 GDP（国内生产总值，第三次估算）" },
+        { "id": "us-gdp-2027-q1-advance", "date": "2027-04-29", "period": "2027年第一季度（初值）", "title": "美国 GDP（国内生产总值，初值）" },
+        { "id": "us-gdp-2027-q1-second", "date": "2027-05-27", "period": "2027年第一季度（第二次估算）", "title": "美国 GDP（国内生产总值，第二次估算）" },
+        { "id": "us-gdp-2027-q1-third", "date": "2027-06-25", "period": "2027年第一季度（第三次估算）", "title": "美国 GDP（国内生产总值，第三次估算）" },
+        { "id": "us-gdp-2027-q2-advance", "date": "2027-07-29", "period": "2027年第二季度（初值）", "title": "美国 GDP（国内生产总值，初值）" },
+        { "id": "us-gdp-2027-q2-second", "date": "2027-08-25", "period": "2027年第二季度（第二次估算）", "title": "美国 GDP（国内生产总值，第二次估算）" },
+        { "id": "us-gdp-2027-q2-third", "date": "2027-09-30", "period": "2027年第二季度（第三次估算）", "title": "美国 GDP（国内生产总值，第三次估算）" },
+        { "id": "us-gdp-2027-q3-advance", "date": "2027-10-28", "period": "2027年第三季度（初值）", "title": "美国 GDP（国内生产总值，初值）" },
+        { "id": "us-gdp-2027-q3-second", "date": "2027-11-24", "period": "2027年第三季度（第二次估算）", "title": "美国 GDP（国内生产总值，第二次估算）" },
+        { "id": "us-gdp-2027-q3-third", "date": "2027-12-22", "period": "2027年第三季度（第三次估算）", "title": "美国 GDP（国内生产总值，第三次估算）" }
+      ]
+    },
+    {
+      "type": "us-pce",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最新日程为准。",
+      "entries": [
+        { "id": "us-pce-2026-12", "date": "2027-01-28", "period": "2026年12月" },
+        { "id": "us-pce-2027-01", "date": "2027-02-25", "period": "2027年1月" },
+        { "id": "us-pce-2027-02", "date": "2027-03-31", "period": "2027年2月" },
+        { "id": "us-pce-2027-03", "date": "2027-04-29", "period": "2027年3月" },
+        { "id": "us-pce-2027-04", "date": "2027-05-27", "period": "2027年4月" },
+        { "id": "us-pce-2027-05", "date": "2027-06-25", "period": "2027年5月" },
+        { "id": "us-pce-2027-06", "date": "2027-07-29", "period": "2027年6月" },
+        { "id": "us-pce-2027-07", "date": "2027-08-25", "period": "2027年7月" },
+        { "id": "us-pce-2027-08", "date": "2027-09-30", "period": "2027年8月" },
+        { "id": "us-pce-2027-09", "date": "2027-10-28", "period": "2027年9月" },
+        { "id": "us-pce-2027-10", "date": "2027-11-24", "period": "2027年10月" },
+        { "id": "us-pce-2027-11", "date": "2027-12-22", "period": "2027年11月" }
+      ]
+    },
+    {
+      "type": "eu-hicp-flash",
+      "time": "11:00",
+      "timezone": "Europe/Brussels",
+      "status": "TENTATIVE",
+      "sourceStatus": "ESTIMATED",
+      "scheduleStatus": "依据欧洲央行统计日历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurostat 官方发布日历为准。",
+      "entries": [
+        { "id": "eu-hicp-flash-2026-12", "date": "2027-01-06", "period": "2026年12月" },
+        { "id": "eu-hicp-flash-2027-01", "date": "2027-02-02", "period": "2027年1月" },
+        { "id": "eu-hicp-flash-2027-02", "date": "2027-03-02", "period": "2027年2月" },
+        { "id": "eu-hicp-flash-2027-03", "date": "2027-04-01", "period": "2027年3月" },
+        { "id": "eu-hicp-flash-2027-04", "date": "2027-05-03", "period": "2027年4月" },
+        { "id": "eu-hicp-flash-2027-05", "date": "2027-06-01", "period": "2027年5月" },
+        { "id": "eu-hicp-flash-2027-06", "date": "2027-07-01", "period": "2027年6月" },
+        { "id": "eu-hicp-flash-2027-07", "date": "2027-08-03", "period": "2027年7月" },
+        { "id": "eu-hicp-flash-2027-08", "date": "2027-09-01", "period": "2027年8月" },
+        { "id": "eu-hicp-flash-2027-09", "date": "2027-10-01", "period": "2027年9月" },
+        { "id": "eu-hicp-flash-2027-10", "date": "2027-11-04", "period": "2027年10月" },
+        { "id": "eu-hicp-flash-2027-11", "date": "2027-12-01", "period": "2027年11月" }
+      ]
+    },
+    {
+      "type": "eu-gdp-flash",
+      "time": "11:00",
+      "timezone": "Europe/Brussels",
+      "status": "TENTATIVE",
+      "sourceStatus": "ESTIMATED",
+      "scheduleStatus": "依据 Eurostat 欧元指标发布日历（t+30 初值）整理；已确认 2027 年 1 月 29 日、4 月 30 日、7 月 30 日三场，第三季度（约 10 月 29 日）待官方日历确认后补入。",
+      "entries": [
+        { "id": "eu-gdp-flash-2026-q4", "date": "2027-01-29", "period": "2026年第四季度" },
+        { "id": "eu-gdp-flash-2027-q1", "date": "2027-04-30", "period": "2027年第一季度" },
+        { "id": "eu-gdp-flash-2027-q2", "date": "2027-07-30", "period": "2027年第二季度" }
+      ]
+    },
+    {
+      "type": "jp-cpi",
+      "time": "08:30",
+      "timezone": "Asia/Tokyo",
+      "scheduleStatus": "依据日本总务省统计局 CPI 发布日程整理；目前仅公布至 2027 年 2 月数据（3 月 19 日），余下月份待官方滚动公布后补入。",
+      "entries": [
+        { "id": "jp-cpi-2026-12", "date": "2027-01-22", "period": "2026年12月" },
+        { "id": "jp-cpi-2027-01", "date": "2027-02-19", "period": "2027年1月" },
+        { "id": "jp-cpi-2027-02", "date": "2027-03-19", "period": "2027年2月" }
+      ]
+    },
+    {
+      "type": "jp-gdp",
+      "time": "08:50",
+      "timezone": "Asia/Tokyo",
+      "scheduleStatus": "依据日本内阁府经济社会综合研究所（ESRI）发布日程整理；2027 年第一季度初值日期尚未固定（按规则待定），余下季度待官方滚动公布后补入。",
+      "entries": [
+        { "id": "jp-gdp-2026-q4-first", "date": "2027-02-15", "period": "2026年第四季度（初值）" },
+        { "id": "jp-gdp-2026-q4-second", "date": "2027-03-09", "period": "2026年第四季度（二次估算）" },
+        { "id": "jp-gdp-2027-q1-second", "date": "2027-06-08", "period": "2027年第一季度（二次估算）" }
+      ]
+    },
+    {
+      "type": "jp-tankan",
+      "time": "08:50",
+      "timezone": "Asia/Tokyo",
+      "scheduleStatus": "依据日本银行统计数据发布日程整理；目前仅公布至 2027 年 4 月 1 日（3 月调查），余下季度待官方滚动公布后补入。",
+      "entries": [
+        { "id": "jp-tankan-2027-03", "date": "2027-04-01", "period": "2027年3月调查" }
       ]
     }
   ]

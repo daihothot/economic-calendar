@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "calendarRevision": 2026111601,
+  "calendarRevision": 2026112302,
   "masterColor": "#5F6368",
   "regions": {
     "us": {
@@ -141,6 +141,24 @@
       "location": "美国经济分析局（线上发布）",
       "valueMode": "quantitative"
     },
+    "us-retail-sales": {
+      "region": "us",
+      "category": "growth",
+      "title": "美国零售销售（零售与餐饮服务先行值）",
+      "description": "美国人口普查局每月发布的零售与餐饮服务销售额先行值，是最早的月度消费硬指标。消费占美国经济约七成，数据强弱直接影响市场对增长前景和美联储利率路径的判断。",
+      "marketFocus": [
+        "💱 外汇｜美元与主要货币对　↗｜↘",
+        "🏛️ 债券｜美国国债收益率　↗｜↘",
+        "🥇 贵金属｜黄金　↗｜↘",
+        "📊 股票｜美股　↗｜↘",
+        "₿ 加密资产｜Bitcoin　↗｜↘"
+      ],
+      "sourceName": "美国人口普查局（Census）",
+      "sourceUrl": "https://www.census.gov/retail/index.html",
+      "scheduleUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+      "location": "美国人口普查局（线上发布）",
+      "valueMode": "quantitative"
+    },
     "us-ism-manufacturing": {
       "region": "us",
       "category": "pmi",
@@ -229,6 +247,24 @@
       "sourceUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
       "scheduleUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
       "location": "美联储主席公开讲话（线上直播）",
+      "valueMode": "narrative"
+    },
+    "us-fed-president-speech": {
+      "region": "us",
+      "category": "central-bank",
+      "title": "各地区联储主席讲话",
+      "description": "12 家地区联邦储备银行主席的公开讲话（FOMC 新闻发布会与理事会主席讲话之外）。地区联储主席是 FOMC 票委（纽约联储主席为永久票委，其余轮换），其对通胀、就业与利率路径的表述会影响市场对政策的预期。讲话日程通常提前数日公布，本日历滚动补充。",
+      "marketFocus": [
+        "💱 外汇｜美元与主要货币对　↗｜↘",
+        "🏛️ 债券｜美国国债收益率　↗｜↘",
+        "🥇 贵金属｜黄金　↗｜↘",
+        "📊 股票｜美股　↗｜↘",
+        "₿ 加密资产｜Bitcoin　↗｜↘"
+      ],
+      "sourceName": "美国联邦储备委员会与各地区联储（Federal Reserve）",
+      "sourceUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
+      "scheduleUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
+      "location": "地区联储主席公开讲话（线上直播）",
       "valueMode": "narrative"
     },
     "us-fomc-minutes": {

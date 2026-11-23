@@ -161,6 +161,31 @@
         }
       ]
     },
+    "us-retail-sales": {
+      "provider": "fred",
+      "idPattern": "^us-retail-sales-(?<year>\\d{4})-(?<month>\\d{2})$",
+      "frequency": "monthly",
+      "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+      "sourceUrl": "https://www.census.gov/retail/index.html",
+      "metrics": [
+        {
+          "seriesId": "RSAFS",
+          "label": "零售销售环比（季调）",
+          "transformation": "percent-change",
+          "decimals": 1,
+          "unit": "%",
+          "showPlus": true
+        },
+        {
+          "seriesId": "RSAFS",
+          "label": "零售销售同比",
+          "transformation": "percent-change-year-over-year",
+          "decimals": 1,
+          "unit": "%",
+          "showPlus": true
+        }
+      ]
+    },
     "us-ism-manufacturing": {
       "provider": "none",
       "sourceName": "美国供应管理协会（ISM）",
@@ -211,6 +236,13 @@
       "sourceUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
       "forecastLine": "不适用（关注政策措辞）",
       "unavailableReason": "主席讲话为非数值事件，不适用实际值和前值自动填充"
+    },
+    "us-fed-president-speech": {
+      "provider": "none",
+      "sourceName": "美国联邦储备委员会与各地区联储（Federal Reserve）",
+      "sourceUrl": "https://www.federalreserve.gov/newsevents/calendar.htm",
+      "forecastLine": "不适用（关注政策措辞）",
+      "unavailableReason": "地区联储主席讲话为非数值事件，不适用实际值和前值自动填充"
     },
     "us-fomc-minutes": {
       "provider": "none",

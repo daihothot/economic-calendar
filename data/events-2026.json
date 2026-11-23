@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "year": 2026,
-  "verifiedAt": "2026-08-11",
-  "revision": 2026111601,
+  "verifiedAt": "2026-11-23",
+  "revision": 2026112302,
   "coverageStatus": "complete",
   "series": [
     {
@@ -107,6 +107,27 @@
       ]
     },
     {
+      "type": "us-retail-sales",
+      "time": "08:30",
+      "timezone": "America/New_York",
+      "scheduleStatus": "Census 官方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟，后续以官方最新公告为准。",
+      "entries": [
+        { "id": "us-retail-sales-2025-11", "date": "2026-01-14", "period": "2025年11月", "note": "2025 年联邦拨款中断导致 2025 年 11 月、12 月数据延迟发布，2026 年初为补发节奏。" },
+        { "id": "us-retail-sales-2025-12", "date": "2026-02-10", "period": "2025年12月" },
+        { "id": "us-retail-sales-2026-01", "date": "2026-03-06", "period": "2026年1月" },
+        { "id": "us-retail-sales-2026-02", "date": "2026-04-01", "period": "2026年2月" },
+        { "id": "us-retail-sales-2026-03", "date": "2026-04-21", "period": "2026年3月" },
+        { "id": "us-retail-sales-2026-04", "date": "2026-05-14", "period": "2026年4月" },
+        { "id": "us-retail-sales-2026-05", "date": "2026-06-17", "period": "2026年5月" },
+        { "id": "us-retail-sales-2026-06", "date": "2026-07-16", "period": "2026年6月" },
+        { "id": "us-retail-sales-2026-07", "date": "2026-08-14", "period": "2026年7月" },
+        { "id": "us-retail-sales-2026-08", "date": "2026-09-16", "period": "2026年8月" },
+        { "id": "us-retail-sales-2026-09", "date": "2026-10-15", "period": "2026年9月" },
+        { "id": "us-retail-sales-2026-10", "date": "2026-11-17", "period": "2026年10月" },
+        { "id": "us-retail-sales-2026-11", "date": "2026-12-16", "period": "2026年11月" }
+      ]
+    },
+    {
       "type": "us-ism-manufacturing",
       "time": "10:00",
       "timezone": "America/New_York",
@@ -187,6 +208,17 @@
       "scheduleStatus": "Federal Reserve 官方 2026 年 11 月历，已核对至 2026-11-16。",
       "entries": [
         { "id": "us-fed-chair-speech-2026-11-16", "date": "2026-11-16", "period": "美联储生产力与就业工作组会议开幕致辞", "note": "旧金山联储现场；美联储生产力与就业工作组会议。" }
+      ]
+    },
+    {
+      "type": "us-fed-president-speech",
+      "time": "12:00",
+      "timezone": "America/New_York",
+      "verifiedAt": "2026-11-23",
+      "scheduleStatus": "各地区联储官网与公开日程，已核对至 2026-11-23；行长讲话日程通常提前数日公布，后续场次滚动补充。",
+      "entries": [
+        { "id": "us-fed-president-speech-2026-11-23-williams", "date": "2026-11-23", "time": "16:00", "period": "纽约联储主席威廉姆斯讲话", "note": "Mount Saint Vincent 大学（布朗克斯）；就经济前景与货币政策发表讲话并答问，纽约联储官网行程公告。FOMC 永久票委；11 月 28 日起进入 12 月会议静默期。" },
+        { "id": "us-fed-president-speech-2026-12-11-goolsbee", "date": "2026-12-11", "time": "09:40", "period": "芝加哥联储主席古尔斯比讲话", "note": "芝加哥联储第 40 届年度经济展望研讨会主持问答，芝加哥；美中时间 08:40。" }
       ]
     },
     {
@@ -352,7 +384,7 @@
       "timezone": "Europe/Brussels",
       "status": "TENTATIVE",
       "sourceStatus": "ESTIMATED",
-      "scheduleStatus": "依据发行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全年表，须在每月发布前确认。",
+      "scheduleStatus": "依据发行惯例整理的候选日期；S&P Global 未提供可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；12 月 16 日已与 S&P Global 日程核对一致。",
       "entries": [
         { "id": "eu-hcob-pmi-flash-2026-01", "date": "2026-01-23", "period": "2026年1月" },
         { "id": "eu-hcob-pmi-flash-2026-02", "date": "2026-02-20", "period": "2026年2月" },
@@ -364,7 +396,7 @@
         { "id": "eu-hcob-pmi-flash-2026-08", "date": "2026-08-21", "period": "2026年8月" },
         { "id": "eu-hcob-pmi-flash-2026-09", "date": "2026-09-23", "period": "2026年9月" },
         { "id": "eu-hcob-pmi-flash-2026-10", "date": "2026-10-23", "period": "2026年10月" },
-        { "id": "eu-hcob-pmi-flash-2026-11", "date": "2026-11-20", "period": "2026年11月" },
+        { "id": "eu-hcob-pmi-flash-2026-11", "date": "2026-11-23", "period": "2026年11月" },
         { "id": "eu-hcob-pmi-flash-2026-12", "date": "2026-12-16", "period": "2026年12月" }
       ]
     },

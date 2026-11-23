@@ -32,9 +32,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:us-nfp-2025-12@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20260109T083000
 DTEND;TZID=America/New_York:20260109T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -81,9 +81,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-01@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20260211T083000
 DTEND;TZID=America/New_York:20260211T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -132,9 +132,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-02@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20260306T083000
 DTEND;TZID=America/New_York:20260306T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -181,9 +181,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-03@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20260403T083000
 DTEND;TZID=America/New_York:20260403T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -230,9 +230,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-04@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20260508T083000
 DTEND;TZID=America/New_York:20260508T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -279,9 +279,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-05@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20260605T083000
 DTEND;TZID=America/New_York:20260605T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -328,9 +328,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-06@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260904T161916Z
-SEQUENCE:2026111603
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260702T083000
 DTEND;TZID=America/New_York:20260702T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -377,9 +377,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-07@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261002T221104Z
-SEQUENCE:2026111604
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112305
 DTSTART;TZID=America/New_York:20260807T083000
 DTEND;TZID=America/New_York:20260807T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -426,9 +426,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-08@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261106T192057Z
-SEQUENCE:2026111605
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
 DTSTART;TZID=America/New_York:20260904T083000
 DTEND;TZID=America/New_York:20260904T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -475,9 +475,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-09@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261106T192057Z
-SEQUENCE:2026111605
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
 DTSTART;TZID=America/New_York:20261002T083000
 DTEND;TZID=America/New_York:20261002T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -524,9 +524,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-10@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261106T192057Z
-SEQUENCE:2026111605
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
 DTSTART;TZID=America/New_York:20261106T083000
 DTEND;TZID=America/New_York:20261106T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -573,9 +573,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-11@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261106T192057Z
-SEQUENCE:2026111605
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
 DTSTART;TZID=America/New_York:20261204T083000
 DTEND;TZID=America/New_York:20261204T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -597,6 +597,534 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  it.toc.htm\n\n🔗 官方日程：\nhttps://www.bls.gov/schedule/news_rele
  ase/empsit.htm\n\n📋 日程状态：\nBLS 官方 2026 日程，已核对
  至 2026-08-11；后续以官方最新公告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2026-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270108T083000
+DTEND;TZID=America/New_York:20270108T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年01月08日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-01-08 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2026年12月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
+ 来源不提供市场一致预期。\n\n📌 前值：\n等待官方数据
+ 更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttp
+ s://www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps
+ ://www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nB
+ LS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270205T083000
+DTEND;TZID=America/New_York:20270205T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年02月05日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-02-05 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年1月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270305T083000
+DTEND;TZID=America/New_York:20270305T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年03月05日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-03-05 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年2月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270402T083000
+DTEND;TZID=America/New_York:20270402T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年04月02日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-04-02 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年3月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270507T083000
+DTEND;TZID=America/New_York:20270507T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年05月07日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-05-07 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年4月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270604T083000
+DTEND;TZID=America/New_York:20270604T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年06月04日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-06-04 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年5月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270702T083000
+DTEND;TZID=America/New_York:20270702T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年07月02日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-07-02 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年6月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270806T083000
+DTEND;TZID=America/New_York:20270806T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年08月06日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-08-06 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年7月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20270903T083000
+DTEND;TZID=America/New_York:20270903T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年09月03日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-09-03 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年8月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20271008T083000
+DTEND;TZID=America/New_York:20271008T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年10月08日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-10-08 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年9月\n\n🧭 事件
+ 说明：\n就业形势报告同时包含非农就业人数、失业率与
+ 平均时薪，是判断美国经济动能、工资压力和美联储政
+ 策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
+ 要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
+ ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
+ 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
+ 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
+ /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
+ www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
+  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20271105T083000
+DTEND;TZID=America/New_York:20271105T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年11月05日 20:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-11-05 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年10月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
+ 来源不提供市场一致预期。\n\n📌 前值：\n等待官方数据
+ 更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttp
+ s://www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps
+ ://www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nB
+ LS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
+LOCATION:美国劳工统计局（线上发布）
+URL:https://www.bls.gov/news.release/empsit.toc.htm
+CATEGORIES:就业,美国,高影响
+COLOR:#137333
+X-EVENT-COLOR:#137333
+STATUS:CONFIRMED
+X-SOURCE-STATUS:OFFICIAL
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇺🇸 美国非农就业报告（NFP）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:us-nfp-2027-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=America/New_York:20271203T083000
+DTEND;TZID=America/New_York:20271203T090000
+SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
+DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
+ \n\n⏰ 公布时间：\n2027年12月03日 21:30（北京时间；日历
+ 会自动转换为你的本地时区）\n原始时区：2027-12-03 08:30
+ （America/New_York）\n\n🗓️ 统计期：\n2027年11月\n\n🧭 事
+ 件说明：\n就业形势报告同时包含非农就业人数、失业率
+ 与平均时薪，是判断美国经济动能、工资压力和美联储
+ 政策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与
+ 主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
+ ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
+ ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
+ 来源不提供市场一致预期。\n\n📌 前值：\n等待官方数据
+ 更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttp
+ s://www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps
+ ://www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nB
+ LS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
+ 告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响

@@ -32,9 +32,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:eu-hicp-flash-2025-12@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260107T110000
 DTEND;TZID=Europe/Brussels:20260107T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -83,9 +83,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-01@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260123T100000
 DTEND;TZID=Europe/Brussels:20260123T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -107,7 +107,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -130,9 +132,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2025-q4@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260130T110000
 DTEND;TZID=Europe/Brussels:20260130T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -180,9 +182,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-01@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260204T110000
 DTEND;TZID=Europe/Brussels:20260204T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -231,9 +233,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-02-decision@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260205T141500
 DTEND;TZID=Europe/Brussels:20260205T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -286,9 +288,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-02-press@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260205T144500
 DTEND;TZID=Europe/Brussels:20260205T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -331,9 +333,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-02@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260220T100000
 DTEND;TZID=Europe/Brussels:20260220T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -355,7 +357,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -378,9 +382,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-02@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260303T110000
 DTEND;TZID=Europe/Brussels:20260303T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -429,9 +433,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-03-decision@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260319T141500
 DTEND;TZID=Europe/Brussels:20260319T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -484,9 +488,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-03-press@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260319T144500
 DTEND;TZID=Europe/Brussels:20260319T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -529,9 +533,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-03@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260324T100000
 DTEND;TZID=Europe/Brussels:20260324T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -553,7 +557,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -576,9 +582,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-03@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260331T110000
 DTEND;TZID=Europe/Brussels:20260331T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -627,9 +633,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-04@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260423T100000
 DTEND;TZID=Europe/Brussels:20260423T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -651,7 +657,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -674,9 +682,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2026-q1@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260430T110000
 DTEND;TZID=Europe/Brussels:20260430T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -724,9 +732,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-04@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260430T110000
 DTEND;TZID=Europe/Brussels:20260430T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -775,9 +783,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-04-decision@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260430T141500
 DTEND;TZID=Europe/Brussels:20260430T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -830,9 +838,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-04-press@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260430T144500
 DTEND;TZID=Europe/Brussels:20260430T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -875,9 +883,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-05@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260521T100000
 DTEND;TZID=Europe/Brussels:20260521T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -899,7 +907,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -922,9 +932,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-05@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260602T110000
 DTEND;TZID=Europe/Brussels:20260602T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -973,9 +983,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-06-decision@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260611T141500
 DTEND;TZID=Europe/Brussels:20260611T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -1028,9 +1038,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-06-press@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260611T144500
 DTEND;TZID=Europe/Brussels:20260611T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -1073,9 +1083,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-06@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260623T100000
 DTEND;TZID=Europe/Brussels:20260623T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -1097,7 +1107,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -1120,9 +1132,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-06@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260630T110000
 DTEND;TZID=Europe/Brussels:20260630T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -1171,9 +1183,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-07-decision@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260723T141500
 DTEND;TZID=Europe/Brussels:20260723T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -1226,9 +1238,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-07-press@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260723T144500
 DTEND;TZID=Europe/Brussels:20260723T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -1271,9 +1283,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-07@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260724T100000
 DTEND;TZID=Europe/Brussels:20260724T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -1295,7 +1307,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -1318,9 +1332,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2026-q2@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260730T110000
 DTEND;TZID=Europe/Brussels:20260730T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -1368,9 +1382,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-07@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260819T130720Z
-SEQUENCE:2026111603
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
 DTSTART;TZID=Europe/Brussels:20260731T110000
 DTEND;TZID=Europe/Brussels:20260731T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -1419,9 +1433,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-08@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260821T130900Z
-SEQUENCE:2026111603
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
 DTSTART;TZID=Europe/Brussels:20260821T100000
 DTEND;TZID=Europe/Brussels:20260821T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -1443,7 +1457,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -1466,9 +1482,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-08@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260917T165806Z
-SEQUENCE:2026111605
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
 DTSTART;TZID=Europe/Brussels:20260901T110000
 DTEND;TZID=Europe/Brussels:20260901T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -1517,9 +1533,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-09-decision@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260916T165142Z
-SEQUENCE:2026111626
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112327
 DTSTART;TZID=Europe/Brussels:20260910T141500
 DTEND;TZID=Europe/Brussels:20260910T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -1572,9 +1588,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-09-press@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20260910T144500
 DTEND;TZID=Europe/Brussels:20260910T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -1617,9 +1633,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-09@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260923T113114Z
-SEQUENCE:2026111603
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
 DTSTART;TZID=Europe/Brussels:20260923T100000
 DTEND;TZID=Europe/Brussels:20260923T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -1641,7 +1657,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -1664,9 +1682,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-09@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026111606
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
 DTSTART;TZID=Europe/Brussels:20260930T110000
 DTEND;TZID=Europe/Brussels:20260930T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -1715,9 +1733,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-10@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026111603
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
 DTSTART;TZID=Europe/Brussels:20261023T100000
 DTEND;TZID=Europe/Brussels:20261023T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -1739,7 +1757,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -1762,9 +1782,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-10-decision@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261101T174406Z
-SEQUENCE:2026111643
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112344
 DTSTART;TZID=Europe/Brussels:20261029T141500
 DTEND;TZID=Europe/Brussels:20261029T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -1817,9 +1837,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-10-press@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20261029T144500
 DTEND;TZID=Europe/Brussels:20261029T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -1862,9 +1882,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2026-q3@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261114T061544Z
-SEQUENCE:2026111605
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112306
 DTSTART;TZID=Europe/Brussels:20261030T110000
 DTEND;TZID=Europe/Brussels:20261030T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -1912,9 +1932,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-10@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261118T202735Z
-SEQUENCE:2026111606
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
 DTSTART;TZID=Europe/Brussels:20261030T110000
 DTEND;TZID=Europe/Brussels:20261030T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -1963,15 +1983,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-11@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111603
-DTSTART;TZID=Europe/Brussels:20261120T100000
-DTEND;TZID=Europe/Brussels:20261120T103000
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112304
+DTSTART;TZID=Europe/Brussels:20261123T100000
+DTEND;TZID=Europe/Brussels:20261123T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
 DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
- n\n⏰ 公布时间：\n2026年11月20日 17:00（北京时间；日历会
- 自动转换为你的本地时区）\n原始时区：2026-11-20 10:00（Eu
+ n\n⏰ 公布时间：\n2026年11月23日 17:00（北京时间；日历会
+ 自动转换为你的本地时区）\n原始时区：2026-11-23 10:00（Eu
  rope/Brussels）\n\n🗓️ 统计期：\n2026年11月\n\n🧭 事件说
  明：\nS&P Global 同场发布欧元区制造业、服务业和综合 PMI
   初值。数据不修订、发布时间早，是观察当月经济活动
@@ -1987,7 +2007,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -2010,9 +2032,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-11@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261118T202735Z
-SEQUENCE:2026111606
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112307
 DTSTART;TZID=Europe/Brussels:20261201T110000
 DTEND;TZID=Europe/Brussels:20261201T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2059,9 +2081,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-hcob-pmi-flash-2026-12@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20261216T100000
 DTEND;TZID=Europe/Brussels:20261216T103000
 SUMMARY:🇪🇺 欧元区 HCOB 综合 PMI 初值（⭐⭐⭐ 高影响）
@@ -2083,7 +2105,9 @@ DESCRIPTION:🇪🇺 欧元区 HCOB 综合 PMI 初值\n⭐⭐⭐ 高影响\
  telligence/en/solutions/products/pmi\n\n🔗 官方日程：\nhttps://www.
  spglobal.com/market-intelligence/en/solutions/products/pmi\n\n📋 日程
  状态：\n依据发行惯例整理的候选日期；S&P Global 未提供
- 可核对的 2026 全年表，须在每月发布前确认。
+ 可核对的 2026 全年表，须在每月发布前确认。2026-11-23 核
+ 对：11 月闪值实际为 11 月 23 日（周一）10:00，已修正；1
+ 2 月 16 日已与 S&P Global 日程核对一致。
 LOCATION:S&P Global（线上发布）
 URL:https://www.spglobal.com/market-intelligence/en/solutions/products/pmi
 CATEGORIES:PMI 与景气调查,欧元区,高影响
@@ -2106,9 +2130,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-decision@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20261217T141500
 DTEND;TZID=Europe/Brussels:20261217T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2157,9 +2181,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-press@economic-calendar-pro
-DTSTAMP:20260811T000000Z
-LAST-MODIFIED:20260811T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20261217T144500
 DTEND;TZID=Europe/Brussels:20261217T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -2201,10 +2225,153 @@ DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eu-hicp-flash-2026-12@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270106T110000
+DTEND;TZID=Europe/Brussels:20270106T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年01月06日 18:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-01-06 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2026年1
+ 2月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲
+ 央行评估物价压力的核心指标。总体、核心和服务通胀
+ 与预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外
+ 汇｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债
+ 与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
+ 📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
+ ｜↘\n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\
+ n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n
+ 欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 🔗 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\
+ n\n📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical
+  calendars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时
+ 间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 E
+ urostat 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-gdp-flash-2026-q4@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270129T110000
+DTEND;TZID=Europe/Brussels:20270129T113000
+SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2027年01月29日 18:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2027-01-29 11:00（Europe/B
+ russels）\n\n🗓️ 统计期：\n2026年第四季度\n\n🧭 事件说
+ 明：\n衡量欧元区经济总产出的季度变化。初步快报最先
+ 展示区域增长动能，对欧洲央行政策和企业盈利预期有
+ 直接影响。\n\n🎯 市场关注：\n💱 外汇｜欧元与主要货
+ 币对　↗｜↘\n🏛️ 债券｜德国国债与欧元区收益率　
+ ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜欧洲股市
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
+ n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
+ 方数据更新。\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
+ ）\nhttps://ec.europa.eu/eurostat/web/national-accounts\n\n🔗 官方日
+ 程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程
+ 状态：\n依据 Eurostat 欧元指标发布日历（t+30 初值）整理
+ ；已确认 2027 年 1 月 29 日、4 月 30 日、7 月 30 日三场，
+ 第三季度（约 10 月 29 日）待官方日历确认后补入。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/national-accounts
+CATEGORIES:经济增长,欧元区,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2027-01@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270202T110000
+DTEND;TZID=Europe/Brussels:20270202T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年02月02日 18:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-02-02 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年1
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eu-ecb-2027-02-decision@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20270204T141500
 DTEND;TZID=Europe/Brussels:20270204T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2253,9 +2420,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-02-press@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261116T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270204T144500
 DTEND;TZID=Europe/Brussels:20270204T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -2297,10 +2464,59 @@ DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eu-hicp-flash-2027-02@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270302T110000
+DTEND;TZID=Europe/Brussels:20270302T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年03月02日 18:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-03-02 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年2
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eu-ecb-2027-03-decision@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20270318T141500
 DTEND;TZID=Europe/Brussels:20270318T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2349,9 +2565,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-03-press@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261116T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270318T144500
 DTEND;TZID=Europe/Brussels:20270318T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -2393,10 +2609,59 @@ DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eu-hicp-flash-2027-03@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270401T110000
+DTEND;TZID=Europe/Brussels:20270401T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年04月01日 17:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-04-01 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年3
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eu-ecb-2027-04-decision@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20270429T141500
 DTEND;TZID=Europe/Brussels:20270429T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2445,9 +2710,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-04-press@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261116T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270429T144500
 DTEND;TZID=Europe/Brussels:20270429T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -2489,10 +2754,153 @@ DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eu-gdp-flash-2027-q1@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270430T110000
+DTEND;TZID=Europe/Brussels:20270430T113000
+SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2027年04月30日 17:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2027-04-30 11:00（Europe/B
+ russels）\n\n🗓️ 统计期：\n2027年第一季度\n\n🧭 事件说
+ 明：\n衡量欧元区经济总产出的季度变化。初步快报最先
+ 展示区域增长动能，对欧洲央行政策和企业盈利预期有
+ 直接影响。\n\n🎯 市场关注：\n💱 外汇｜欧元与主要货
+ 币对　↗｜↘\n🏛️ 债券｜德国国债与欧元区收益率　
+ ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜欧洲股市
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
+ n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
+ 方数据更新。\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
+ ）\nhttps://ec.europa.eu/eurostat/web/national-accounts\n\n🔗 官方日
+ 程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程
+ 状态：\n依据 Eurostat 欧元指标发布日历（t+30 初值）整理
+ ；已确认 2027 年 1 月 29 日、4 月 30 日、7 月 30 日三场，
+ 第三季度（约 10 月 29 日）待官方日历确认后补入。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/national-accounts
+CATEGORIES:经济增长,欧元区,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2027-04@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270503T110000
+DTEND;TZID=Europe/Brussels:20270503T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年05月03日 17:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-05-03 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年4
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2027-05@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270601T110000
+DTEND;TZID=Europe/Brussels:20270601T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年06月01日 17:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-06-01 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年5
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eu-ecb-2027-06-decision@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20270610T141500
 DTEND;TZID=Europe/Brussels:20270610T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2541,9 +2949,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-06-press@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261116T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270610T144500
 DTEND;TZID=Europe/Brussels:20270610T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -2585,10 +2993,59 @@ DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eu-hicp-flash-2027-06@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270701T110000
+DTEND;TZID=Europe/Brussels:20270701T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年07月01日 17:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-07-01 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年6
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eu-ecb-2027-07-decision@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20270722T141500
 DTEND;TZID=Europe/Brussels:20270722T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2637,9 +3094,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-07-press@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261116T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270722T144500
 DTEND;TZID=Europe/Brussels:20270722T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -2681,10 +3138,153 @@ DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eu-gdp-flash-2027-q2@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270730T110000
+DTEND;TZID=Europe/Brussels:20270730T113000
+SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n⏰
+  公布时间：\n2027年07月30日 17:00（北京时间；日历会自动
+ 转换为你的本地时区）\n原始时区：2027-07-30 11:00（Europe/B
+ russels）\n\n🗓️ 统计期：\n2027年第二季度\n\n🧭 事件说
+ 明：\n衡量欧元区经济总产出的季度变化。初步快报最先
+ 展示区域增长动能，对欧洲央行政策和企业盈利预期有
+ 直接影响。\n\n🎯 市场关注：\n💱 外汇｜欧元与主要货
+ 币对　↗｜↘\n🏛️ 债券｜德国国债与欧元区收益率　
+ ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜欧洲股市
+ 　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
+ n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
+ 方数据更新。\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
+ ）\nhttps://ec.europa.eu/eurostat/web/national-accounts\n\n🔗 官方日
+ 程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程
+ 状态：\n依据 Eurostat 欧元指标发布日历（t+30 初值）整理
+ ；已确认 2027 年 1 月 29 日、4 月 30 日、7 月 30 日三场，
+ 第三季度（约 10 月 29 日）待官方日历确认后补入。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/national-accounts
+CATEGORIES:经济增长,欧元区,高影响
+COLOR:#1967D2
+X-EVENT-COLOR:#1967D2
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 GDP 初步快报
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2027-07@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270803T110000
+DTEND;TZID=Europe/Brussels:20270803T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年08月03日 17:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-08-03 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年7
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2027-08@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20270901T110000
+DTEND;TZID=Europe/Brussels:20270901T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年09月01日 17:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-09-01 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年8
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eu-ecb-2027-09-decision@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20270909T141500
 DTEND;TZID=Europe/Brussels:20270909T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2733,9 +3333,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-09-press@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261116T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270909T144500
 DTEND;TZID=Europe/Brussels:20270909T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -2777,10 +3377,59 @@ DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eu-hicp-flash-2027-09@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20271001T110000
+DTEND;TZID=Europe/Brussels:20271001T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年10月01日 17:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-10-01 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年9
+ 月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲央
+ 行评估物价压力的核心指标。总体、核心和服务通胀与
+ 预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外汇
+ ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
+ 欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
+  股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
+ \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
+  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
+ 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
+  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
+ 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
+ endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
+  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
+ t 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eu-ecb-2027-10-decision@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20271028T141500
 DTEND;TZID=Europe/Brussels:20271028T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2829,9 +3478,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-10-press@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261116T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20271028T144500
 DTEND;TZID=Europe/Brussels:20271028T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）
@@ -2873,10 +3522,108 @@ DESCRIPTION:提醒：1 小时后 🇪🇺 欧洲央行行长新闻发布会
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eu-hicp-flash-2027-10@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20271104T110000
+DTEND;TZID=Europe/Brussels:20271104T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年11月04日 18:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-11-04 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年1
+ 0月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲
+ 央行评估物价压力的核心指标。总体、核心和服务通胀
+ 与预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外
+ 汇｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债
+ 与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
+ 📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
+ ｜↘\n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\
+ n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n
+ 欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 🔗 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\
+ n\n📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical
+  calendars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时
+ 间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 E
+ urostat 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eu-hicp-flash-2027-11@economic-calendar-pro
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112302
+DTSTART;TZID=Europe/Brussels:20271201T110000
+DTEND;TZID=Europe/Brussels:20271201T113000
+SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
+ ⭐⭐⭐ 高影响）
+DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
+ \n⭐⭐⭐ 高影响\n\n⏰ 公布时间：\n2027年12月01日 18:00（
+ 北京时间；日历会自动转换为你的本地时区）\n原始时区
+ ：2027-12-01 11:00（Europe/Brussels）\n\n🗓️ 统计期：\n2027年1
+ 1月\n\n🧭 事件说明：\nEurostat 的月度通胀初值，是欧洲
+ 央行评估物价压力的核心指标。总体、核心和服务通胀
+ 与预测的偏差最受市场关注。\n\n🎯 市场关注：\n💱 外
+ 汇｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债
+ 与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
+ 📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
+ ｜↘\n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\
+ n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n
+ 欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
+ 🔗 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\
+ n\n📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical
+  calendars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时
+ 间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 E
+ urostat 官方发布日历为准。
+LOCATION:欧盟统计局（线上发布）
+URL:https://ec.europa.eu/eurostat/web/hicp
+CATEGORIES:通胀,欧元区,高影响
+COLOR:#E37400
+X-EVENT-COLOR:#E37400
+STATUS:TENTATIVE
+X-SOURCE-STATUS:ESTIMATED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:提醒：明天 🇪🇺 欧元区 HICP 初值（调和消费
+ 者物价指数）
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:提醒：1 小时后 🇪🇺 欧元区 HICP 初值（调和消
+ 费者物价指数）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eu-ecb-2027-12-decision@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261120T200940Z
-SEQUENCE:2026111658
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112359
 DTSTART;TZID=Europe/Brussels:20271216T141500
 DTEND;TZID=Europe/Brussels:20271216T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2925,9 +3672,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-12-press@economic-calendar-pro
-DTSTAMP:20261116T000000Z
-LAST-MODIFIED:20261116T000000Z
-SEQUENCE:2026111602
+DTSTAMP:20261123T000000Z
+LAST-MODIFIED:20261123T000000Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20271216T144500
 DTEND;TZID=Europe/Brussels:20271216T154500
 SUMMARY:🇪🇺 欧洲央行行长新闻发布会（⭐⭐⭐ 高影响）

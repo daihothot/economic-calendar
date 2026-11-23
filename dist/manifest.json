@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-11-16",
-  "sourceSha256": "0b65e329bd6dd02b9c73bc92a8b2525d97582d45e91777392e61e9c04ce9da6c",
+  "verifiedAt": "2026-11-23",
+  "sourceSha256": "fc0e4c81f907224754e39c0a4addb7ab3215348460bd7c6c26155eed2523cba9",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -11,79 +11,79 @@
     "2026": "complete",
     "2027": "partial"
   },
-  "totalEventCount": 287,
+  "totalEventCount": 396,
   "feeds": [
     {
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
-      "eventCount": 287,
-      "sha256": "f49a47a0696749cc96abe6817a48b98c3d8d841068a781edb491ae54ae2284cb"
+      "eventCount": 396,
+      "sha256": "3248e40574c3f317298ef71e3a7f6894f58d88240ed722aa9ffe73493f70a6db"
     },
     {
       "fileName": "feeds/us.ics",
       "name": "美国高影响财经日历 Pro",
-      "eventCount": 131,
-      "sha256": "8194023d4a95d7d67cd4636f7bf8a6e691a1da5846f01cf95d33a4e9d7ea9e56"
+      "eventCount": 218,
+      "sha256": "d1984e30853a35b7b238c8b1908bde47c2bca3e1f1197053433ef510266f6ab0"
     },
     {
       "fileName": "feeds/eurozone.ics",
       "name": "欧元区高影响财经日历 Pro",
-      "eventCount": 60,
-      "sha256": "772591a731c04632820c5e772feadb73496f616598047f4360e416a7d8a88adc"
+      "eventCount": 75,
+      "sha256": "f933bfc9dc58e94f266a08eb76396389b9e036e980634045897b72f75d874fe4"
     },
     {
       "fileName": "feeds/japan.ics",
       "name": "日本高影响财经日历 Pro",
-      "eventCount": 56,
-      "sha256": "a5db82f6c329dc8b994a0315d14689303bc163f7d88caf89ab85b5320ffb35ce"
+      "eventCount": 63,
+      "sha256": "94b0d9326c116bd3ed0e9a3e7ffdba7577ad5994c283a7efa8a455bbc2f4728b"
     },
     {
       "fileName": "feeds/china.ics",
       "name": "中国高影响财经日历 Pro",
       "eventCount": 40,
-      "sha256": "86e3a9fb0b4cf21a8a1c46a9f6c8fa0b75f5e862a7e1789ab1844589b167c7dc"
+      "sha256": "d8be1859ca0d8bc37d007b093da38fc30c3ce1450a532c0e40a553dd3a42b784"
     },
     {
       "fileName": "feeds/central-bank.ics",
       "name": "央行政策事件 Pro",
-      "eventCount": 122,
-      "sha256": "1bb4ea1af6847dae0635c65693e9cecd0792fb77d4b7d56442564a243fa5c085"
+      "eventCount": 124,
+      "sha256": "d10ab423f2f08457dbaed6e7ffafa84642bc28a9996bc5cf3e3d3cbf07d28d17"
     },
     {
       "fileName": "feeds/inflation.ics",
       "name": "通胀事件 Pro",
-      "eventCount": 73,
-      "sha256": "d8f2092f56564bd3943472522262b7e1b94a3a934f49098ba44b0926094bf411"
+      "eventCount": 124,
+      "sha256": "6f6c02b2cb1a3ed153cb92d7aa3758f20455adc4973e7c898d9225ddaa3a1e08"
     },
     {
       "fileName": "feeds/growth.ics",
       "name": "经济增长事件 Pro",
-      "eventCount": 28,
-      "sha256": "77195ea496e9d540f5c5ead70dcccf42d1b2e88edc96ca9fc5bf3dd3f05bd754"
+      "eventCount": 71,
+      "sha256": "2fc0369ac0fab1ad994f7dda43c18b3b7488b1e0a62e71c732532c7dbc9d3041"
     },
     {
       "fileName": "feeds/employment.ics",
       "name": "就业事件 Pro",
-      "eventCount": 12,
-      "sha256": "4457fc3f03d4e96f57b212ad6390c5644cdc2ebf835a0e37bdd50b909e6ef5ed"
+      "eventCount": 24,
+      "sha256": "57da58e902d474e30dcd3c278b04b78c0d431d2c8fc648fb1175c38d6e920049"
     },
     {
       "fileName": "feeds/pmi.ics",
       "name": "PMI 与景气调查事件 Pro",
-      "eventCount": 52,
-      "sha256": "7786ce4a8b1e5153fa6be704678f907c5680b54622c28d42c389a165b2d07737"
+      "eventCount": 53,
+      "sha256": "fe847f8bb08a4c6eeffc6bc8682ff3287b1b54ed3ac5d9d071a419906771800a"
     },
     {
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",
       "name": "2026 中文财经日历（全球高影响 Pro）",
-      "eventCount": 234,
-      "sha256": "52f4f018db953f09bd81f119cf29aaa825670f11680cb2cde6d5ee2c47c0ab0f"
+      "eventCount": 249,
+      "sha256": "85ff874e6cca25bc6aebe5c85ae29654eae0ce4b868e5c93f530f173f6eedad6"
     },
     {
       "fileName": "2026_中文财经日历_US_高影响_Pro.ics",
       "name": "2026 中文财经日历（美国高影响 Pro）",
-      "eventCount": 110,
-      "sha256": "73b0b8bef23825915d7f85314a653c39c9d94134b6d17df632d37c2d24b2bd73"
+      "eventCount": 125,
+      "sha256": "a7e11b1ae460c0daf373d84f34f987a33f2e82d063016c630e8dfbe3e5576fdb"
     }
   ]
 }
