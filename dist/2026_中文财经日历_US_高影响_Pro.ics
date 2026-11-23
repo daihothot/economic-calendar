@@ -284,8 +284,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2025-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260114T083000
 DTEND;TZID=America/New_York:20260114T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -300,16 +300,21 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。\n\n💡 特别说明：\n2025 年
- 联邦拨款中断导致 2025 年 11 月、12 月数据延迟发布，2026
-  年初为补发节奏。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.7%\n零售销售同比：+2
+ .9%\n数据期：2025-11-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：0.0%\n零售销售同比：+2.7%\n
+ 数据期：2025-10-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。\n\n💡 特别说明：\n2025 年联邦拨款中断导致 2025 年 11
+  月、12 月数据延迟发布，2026 年初为补发节奏。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -684,8 +689,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2025-12@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260210T083000
 DTEND;TZID=America/New_York:20260210T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -700,14 +705,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.1%\n零售销售同比：+2
+ .1%\n数据期：2025-12-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.7%\n零售销售同比：+2.9%\n
+ 数据期：2025-11-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -1181,8 +1192,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-01@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260306T083000
 DTEND;TZID=America/New_York:20260306T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -1197,14 +1208,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：-0.6%\n零售销售同比：+2
+ .2%\n数据期：2026-01-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.1%\n零售销售同比：+2.1%\n
+ 数据期：2025-12-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -1535,8 +1552,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-02@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260401T083000
 DTEND;TZID=America/New_York:20260401T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -1551,14 +1568,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.9%\n零售销售同比：+3
+ .5%\n数据期：2026-02-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：-0.6%\n零售销售同比：+2.2%\n
+ 数据期：2026-01-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -1875,8 +1898,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260421T083000
 DTEND;TZID=America/New_York:20260421T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -1891,14 +1914,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+1.7%\n零售销售同比：+3
+ .6%\n数据期：2026-03-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.9%\n零售销售同比：+3.5%\n
+ 数据期：2026-02-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -2373,8 +2402,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-04@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260514T083000
 DTEND;TZID=America/New_York:20260514T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -2389,14 +2418,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.6%\n零售销售同比：+4
+ .1%\n数据期：2026-04-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+1.7%\n零售销售同比：+3.6%\n
+ 数据期：2026-03-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -2817,8 +2852,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-05@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260617T083000
 DTEND;TZID=America/New_York:20260617T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -2833,14 +2868,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+1.0%\n零售销售同比：+6
+ .7%\n数据期：2026-05-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.6%\n零售销售同比：+4.1%\n
+ 数据期：2026-04-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -3361,8 +3402,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-06@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260716T083000
 DTEND;TZID=America/New_York:20260716T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -3377,14 +3418,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.2%\n零售销售同比：+5
+ .9%\n数据期：2026-06-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+1.0%\n零售销售同比：+6.7%\n
+ 数据期：2026-05-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -3859,8 +3906,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-07@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260814T083000
 DTEND;TZID=America/New_York:20260814T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -3875,14 +3922,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：-0.4%\n零售销售同比：+4
+ .5%\n数据期：2026-07-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.2%\n零售销售同比：+5.9%\n
+ 数据期：2026-06-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -4303,8 +4356,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260916T083000
 DTEND;TZID=America/New_York:20260916T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -4319,14 +4372,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+1.5%\n零售销售同比：+5
+ .7%\n数据期：2026-08-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：-0.4%\n零售销售同比：+4.5%\n
+ 数据期：2026-07-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -4847,8 +4906,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261015T083000
 DTEND;TZID=America/New_York:20261015T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -4863,14 +4922,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.8%\n零售销售同比：+6
+ .6%\n数据期：2026-09-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+1.5%\n零售销售同比：+5.7%\n
+ 数据期：2026-08-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -5394,8 +5459,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261117T083000
 DTEND;TZID=America/New_York:20261117T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -5410,14 +5475,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.2%\n零售销售同比：+6
+ .8%\n数据期：2026-10-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.8%\n零售销售同比：+6.6%\n
+ 数据期：2026-09-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -5487,8 +5558,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fed-president-speech-2026-11-23-williams@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261123T160000
 DTEND;TZID=America/New_York:20261123T163000
 SUMMARY:🇺🇸 威廉姆斯（纽约联储主席）讲话（⭐⭐⭐ 高
@@ -5782,8 +5853,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112382
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112383
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5799,7 +5870,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5928,8 +5999,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fed-president-speech-2026-12-11-goolsbee@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261211T094000
 DTEND;TZID=America/New_York:20261211T101000
 SUMMARY:🇺🇸 古尔斯比（芝加哥联储主席）讲话（⭐⭐⭐
@@ -6028,8 +6099,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261216T083000
 DTEND;TZID=America/New_York:20261216T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -6045,13 +6116,15 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：+0.2%\n零售销售同比：+6.8%\n数据
+ 期：2026-10-01\n数据来源：美国人口普查局（Census，经 FRED
+  获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️ 官方来
+ 源：\n美国人口普查局（Census）\nhttps://www.census.gov/retail/i
+ ndex.html\n\n🔗 官方日程：\nhttps://www.census.gov/economic-indicat
+ ors/calendar-listview.html\n\n📋 日程状态：\nCensus 官方 2026 日
+ 程，已核对至 2026-11-17；2026 年初日期受 2025 年联邦拨款
+ 中断影响有所延迟，后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响

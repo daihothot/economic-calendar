@@ -285,8 +285,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2025-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260114T083000
 DTEND;TZID=America/New_York:20260114T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -301,16 +301,21 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。\n\n💡 特别说明：\n2025 年
- 联邦拨款中断导致 2025 年 11 月、12 月数据延迟发布，2026
-  年初为补发节奏。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.7%\n零售销售同比：+2
+ .9%\n数据期：2025-11-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：0.0%\n零售销售同比：+2.7%\n
+ 数据期：2025-10-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。\n\n💡 特别说明：\n2025 年联邦拨款中断导致 2025 年 11
+  月、12 月数据延迟发布，2026 年初为补发节奏。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -685,8 +690,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2025-12@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260210T083000
 DTEND;TZID=America/New_York:20260210T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -701,14 +706,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.1%\n零售销售同比：+2
+ .1%\n数据期：2025-12-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.7%\n零售销售同比：+2.9%\n
+ 数据期：2025-11-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -1182,8 +1193,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-01@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260306T083000
 DTEND;TZID=America/New_York:20260306T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -1198,14 +1209,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：-0.6%\n零售销售同比：+2
+ .2%\n数据期：2026-01-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.1%\n零售销售同比：+2.1%\n
+ 数据期：2025-12-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -1536,8 +1553,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-02@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260401T083000
 DTEND;TZID=America/New_York:20260401T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -1552,14 +1569,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.9%\n零售销售同比：+3
+ .5%\n数据期：2026-02-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：-0.6%\n零售销售同比：+2.2%\n
+ 数据期：2026-01-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -1876,8 +1899,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260421T083000
 DTEND;TZID=America/New_York:20260421T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -1892,14 +1915,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+1.7%\n零售销售同比：+3
+ .6%\n数据期：2026-03-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.9%\n零售销售同比：+3.5%\n
+ 数据期：2026-02-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -2374,8 +2403,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-04@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260514T083000
 DTEND;TZID=America/New_York:20260514T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -2390,14 +2419,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.6%\n零售销售同比：+4
+ .1%\n数据期：2026-04-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+1.7%\n零售销售同比：+3.6%\n
+ 数据期：2026-03-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -2818,8 +2853,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-05@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260617T083000
 DTEND;TZID=America/New_York:20260617T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -2834,14 +2869,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+1.0%\n零售销售同比：+6
+ .7%\n数据期：2026-05-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.6%\n零售销售同比：+4.1%\n
+ 数据期：2026-04-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -3362,8 +3403,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-06@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260716T083000
 DTEND;TZID=America/New_York:20260716T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -3378,14 +3419,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.2%\n零售销售同比：+5
+ .9%\n数据期：2026-06-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+1.0%\n零售销售同比：+6.7%\n
+ 数据期：2026-05-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -3860,8 +3907,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-07@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260814T083000
 DTEND;TZID=America/New_York:20260814T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -3876,14 +3923,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：-0.4%\n零售销售同比：+4
+ .5%\n数据期：2026-07-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.2%\n零售销售同比：+5.9%\n
+ 数据期：2026-06-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -4304,8 +4357,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20260916T083000
 DTEND;TZID=America/New_York:20260916T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -4320,14 +4373,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+1.5%\n零售销售同比：+5
+ .7%\n数据期：2026-08-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：-0.4%\n零售销售同比：+4.5%\n
+ 数据期：2026-07-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -4848,8 +4907,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261015T083000
 DTEND;TZID=America/New_York:20261015T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -4864,14 +4923,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.8%\n零售销售同比：+6
+ .6%\n数据期：2026-09-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+1.5%\n零售销售同比：+5.7%\n
+ 数据期：2026-08-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -5395,8 +5460,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261117T083000
 DTEND;TZID=America/New_York:20261117T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -5411,14 +5476,20 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
  前景和美联储利率路径的判断。\n\n🎯 市场关注：\n💱
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
- ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n✅ 实
+ 际值：\n零售销售环比（季调）：+0.2%\n零售销售同比：+6
+ .8%\n数据期：2026-10-01\n数据来源：美国人口普查局（Census
+ ，经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🔮
+  预测值：\n官方数据源不提供市场一致预期\n\n📌 前值
+ ：\n零售销售环比（季调）：+0.8%\n零售销售同比：+6.6%\n
+ 数据期：2026-09-01\n数据来源：美国人口普查局（Census，
+ 经 FRED 获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️
+  官方来源：\n美国人口普查局（Census）\nhttps://www.census.go
+ v/retail/index.html\n\n🔗 官方日程：\nhttps://www.census.gov/econom
+ ic-indicators/calendar-listview.html\n\n📋 日程状态：\nCensus 官
+ 方 2026 日程，已核对至 2026-11-17；2026 年初日期受 2025 年
+ 联邦拨款中断影响有所延迟，后续以官方最新公告为准
+ 。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -5488,8 +5559,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fed-president-speech-2026-11-23-williams@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261123T160000
 DTEND;TZID=America/New_York:20261123T163000
 SUMMARY:🇺🇸 威廉姆斯（纽约联储主席）讲话（⭐⭐⭐ 高
@@ -5783,8 +5854,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112382
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112383
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -5800,7 +5871,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -5929,8 +6000,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fed-president-speech-2026-12-11-goolsbee@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261211T094000
 DTEND;TZID=America/New_York:20261211T101000
 SUMMARY:🇺🇸 古尔斯比（芝加哥联储主席）讲话（⭐⭐⭐
@@ -6029,8 +6100,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112303
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112304
 DTSTART;TZID=America/New_York:20261216T083000
 DTEND;TZID=America/New_York:20261216T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -6046,13 +6117,15 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2026 日程，已核对至 2026-
- 11-17；2026 年初日期受 2025 年联邦拨款中断影响有所延迟
- ，后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：+0.2%\n零售销售同比：+6.8%\n数据
+ 期：2026-10-01\n数据来源：美国人口普查局（Census，经 FRED
+  获取）\nhttps://www.census.gov/retail/index.html\n\n🏛️ 官方来
+ 源：\n美国人口普查局（Census）\nhttps://www.census.gov/retail/i
+ ndex.html\n\n🔗 官方日程：\nhttps://www.census.gov/economic-indicat
+ ors/calendar-listview.html\n\n📋 日程状态：\nCensus 官方 2026 日
+ 程，已核对至 2026-11-17；2026 年初日期受 2025 年联邦拨款
+ 中断影响有所延迟，后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -6223,8 +6296,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2026-12@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270108T083000
 DTEND;TZID=America/New_York:20270108T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -6238,12 +6311,17 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
  ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
  ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
- 来源不提供市场一致预期。\n\n📌 前值：\n等待官方数据
- 更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttp
- s://www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps
- ://www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nB
- LS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ 数据源不提供市场一致预期\n\n📌 前值：\n非农就业变动
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\n失业率：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n平均时薪同比：免费数据源
+ 尚未提供本统计期数值（源端最新数据期 2026-10-01）\n数
+ 据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.
+ bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳
+ 工统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -6267,8 +6345,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2026-12@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270113T083000
 DTEND;TZID=America/New_York:20270113T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -6283,12 +6361,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -6313,8 +6397,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2026-12@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270114T083000
 DTEND;TZID=America/New_York:20270114T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -6329,11 +6413,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -6358,8 +6446,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2026-12@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270115T083000
 DTEND;TZID=America/New_York:20270115T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -6375,12 +6463,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -6406,8 +6498,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-01-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112381
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112382
 DTSTART;TZID=America/New_York:20270127T140000
 DTEND;TZID=America/New_York:20270127T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -6423,7 +6515,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -6501,8 +6593,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-advance@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270128T083000
 DTEND;TZID=America/New_York:20270128T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -6517,12 +6609,14 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
- ：\n官方来源不提供市场一致预期。\n\n📌 前值：\n等待
- 官方数据更新。\n\n🏛️ 官方来源：\n美国经济分析局（
- BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔗 官方
- 日程：\nhttps://www.bea.gov/news/schedule/full\n\n📋 日程状态：\
- n依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最新日
- 程为准。
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
+  GDP 环比年化（当前官方修订值）：+3.4%\n数据期：2026-07-
+ 01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps
+ ://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domest
+ ic-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full
+ \n\n📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日
+ 期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -6548,8 +6642,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-12@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270128T083000
 DTEND;TZID=America/New_York:20270128T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -6563,12 +6657,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -6594,8 +6694,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-01@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270205T083000
 DTEND;TZID=America/New_York:20270205T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -6608,13 +6708,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -6638,8 +6743,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-01@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270211T083000
 DTEND;TZID=America/New_York:20270211T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -6654,12 +6759,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -6684,8 +6795,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-01@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270212T083000
 DTEND;TZID=America/New_York:20270212T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -6700,11 +6811,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -6729,8 +6844,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-01@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270217T083000
 DTEND;TZID=America/New_York:20270217T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -6746,12 +6861,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -6822,8 +6941,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-second@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270225T083000
 DTEND;TZID=America/New_York:20270225T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -6838,12 +6957,14 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-prod
- uct\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
- 📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期仍
- 应以 BEA 最新日程为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n
+ 数据期：2026-07-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -6869,8 +6990,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-01@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270225T083000
 DTEND;TZID=America/New_York:20270225T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -6884,12 +7005,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -6915,8 +7042,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-02@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270305T083000
 DTEND;TZID=America/New_York:20270305T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -6929,13 +7056,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -6959,8 +7091,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-02@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270310T083000
 DTEND;TZID=America/New_York:20270310T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -6975,12 +7107,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -7005,8 +7143,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-02@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270312T083000
 DTEND;TZID=America/New_York:20270312T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -7021,11 +7159,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -7050,8 +7192,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-02@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270316T083000
 DTEND;TZID=America/New_York:20270316T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -7067,12 +7209,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -7098,8 +7244,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-03-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112381
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112382
 DTSTART;TZID=America/New_York:20270317T140000
 DTEND;TZID=America/New_York:20270317T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -7115,7 +7261,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -7193,8 +7339,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-third@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270331T083000
 DTEND;TZID=America/New_York:20270331T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -7209,12 +7355,14 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-prod
- uct\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
- 📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期仍
- 应以 BEA 最新日程为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n
+ 数据期：2026-07-01\n数据来源：美国经济分析局（BEA，经 F
+ RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
+ ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
+ ata/gdp/gross-domestic-product\n\n🔗 官方日程：\nhttps://www.bea.go
+ v/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -7240,8 +7388,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-02@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270331T083000
 DTEND;TZID=America/New_York:20270331T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -7255,12 +7403,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -7286,8 +7440,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270402T083000
 DTEND;TZID=America/New_York:20270402T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -7300,13 +7454,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -7375,8 +7534,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270413T083000
 DTEND;TZID=America/New_York:20270413T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -7391,12 +7550,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -7421,8 +7586,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270414T083000
 DTEND;TZID=America/New_York:20270414T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -7437,11 +7602,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -7466,8 +7635,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270416T083000
 DTEND;TZID=America/New_York:20270416T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -7483,12 +7652,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -7514,8 +7687,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-04-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112381
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112382
 DTSTART;TZID=America/New_York:20270428T140000
 DTEND;TZID=America/New_York:20270428T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -7531,7 +7704,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -7609,8 +7782,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q1-advance@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270429T083000
 DTEND;TZID=America/New_York:20270429T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -7625,12 +7798,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
- ：\n官方来源不提供市场一致预期。\n\n📌 前值：\n等待
- 官方数据更新。\n\n🏛️ 官方来源：\n美国经济分析局（
- BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔗 官方
- 日程：\nhttps://www.bea.gov/news/schedule/full\n\n📋 日程状态：\
- n依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最新日
- 程为准。
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
+  GDP 环比年化（当前官方修订值）：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-07-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /gdp/gross-domestic-product\n\n🏛️ 官方来源：\n美国经济分析
+ 局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔗
+  官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n📋 日程状
+ 态：\n依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最
+ 新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -7656,8 +7832,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270429T083000
 DTEND;TZID=America/New_York:20270429T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -7671,12 +7847,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -7702,8 +7884,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-04@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270507T083000
 DTEND;TZID=America/New_York:20270507T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -7716,13 +7898,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -7746,8 +7933,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-04@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270512T083000
 DTEND;TZID=America/New_York:20270512T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -7762,12 +7949,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -7792,8 +7985,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-04@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270513T083000
 DTEND;TZID=America/New_York:20270513T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -7808,11 +8001,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -7837,8 +8034,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-04@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270514T083000
 DTEND;TZID=America/New_York:20270514T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -7854,12 +8051,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -7930,8 +8131,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q1-second@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270527T083000
 DTEND;TZID=America/New_York:20270527T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -7946,12 +8147,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-prod
- uct\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
- 📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期仍
- 应以 BEA 最新日程为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
+ \n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps:/
+ /www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\n
+ 美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domesti
+ c-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\
+ n\n📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期
+ 仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -7977,8 +8181,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-04@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270527T083000
 DTEND;TZID=America/New_York:20270527T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -7992,12 +8196,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -8023,8 +8233,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-05@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270604T083000
 DTEND;TZID=America/New_York:20270604T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -8037,13 +8247,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -8067,8 +8282,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-06-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112381
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112382
 DTSTART;TZID=America/New_York:20270609T140000
 DTEND;TZID=America/New_York:20270609T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -8084,7 +8299,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官
  方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金目
  标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据期
- ：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED 获
+ ：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED 获
  取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n\n
  🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve）\
  nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n🔗
@@ -8162,8 +8377,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-05@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270610T083000
 DTEND;TZID=America/New_York:20270610T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -8178,12 +8393,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -8208,8 +8429,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-05@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270611T083000
 DTEND;TZID=America/New_York:20270611T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -8224,11 +8445,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -8253,8 +8478,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-05@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270616T083000
 DTEND;TZID=America/New_York:20270616T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -8270,12 +8495,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -8301,8 +8530,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q1-third@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270625T083000
 DTEND;TZID=America/New_York:20270625T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -8317,12 +8546,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-prod
- uct\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
- 📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期仍
- 应以 BEA 最新日程为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
+ \n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps:/
+ /www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\n
+ 美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domesti
+ c-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\
+ n\n📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期
+ 仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -8348,8 +8580,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-05@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270625T083000
 DTEND;TZID=America/New_York:20270625T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -8363,12 +8595,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -8439,8 +8677,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-06@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270702T083000
 DTEND;TZID=America/New_York:20270702T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -8453,13 +8691,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -8483,8 +8726,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-06@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270714T083000
 DTEND;TZID=America/New_York:20270714T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -8499,12 +8742,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -8529,8 +8778,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-06@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270715T083000
 DTEND;TZID=America/New_York:20270715T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -8545,11 +8794,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -8574,8 +8827,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-06@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270716T083000
 DTEND;TZID=America/New_York:20270716T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -8591,12 +8844,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -8622,8 +8879,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-07-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112381
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112382
 DTSTART;TZID=America/New_York:20270728T140000
 DTEND;TZID=America/New_York:20270728T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -8639,7 +8896,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -8717,8 +8974,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q2-advance@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270729T083000
 DTEND;TZID=America/New_York:20270729T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -8733,12 +8990,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
- ：\n官方来源不提供市场一致预期。\n\n📌 前值：\n等待
- 官方数据更新。\n\n🏛️ 官方来源：\n美国经济分析局（
- BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔗 官方
- 日程：\nhttps://www.bea.gov/news/schedule/full\n\n📋 日程状态：\
- n依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最新日
- 程为准。
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
+  GDP 环比年化（当前官方修订值）：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-07-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /gdp/gross-domestic-product\n\n🏛️ 官方来源：\n美国经济分析
+ 局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔗
+  官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n📋 日程状
+ 态：\n依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最
+ 新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -8764,8 +9024,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-06@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270729T083000
 DTEND;TZID=America/New_York:20270729T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -8779,12 +9039,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -8810,8 +9076,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-07@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270806T083000
 DTEND;TZID=America/New_York:20270806T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -8824,13 +9090,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -8854,8 +9125,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-07@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270810T083000
 DTEND;TZID=America/New_York:20270810T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -8870,11 +9141,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -8899,8 +9174,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-07@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270811T083000
 DTEND;TZID=America/New_York:20270811T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -8915,12 +9190,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -8945,8 +9226,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-07@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270816T083000
 DTEND;TZID=America/New_York:20270816T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -8962,12 +9243,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -9038,8 +9323,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q2-second@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270825T083000
 DTEND;TZID=America/New_York:20270825T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -9054,12 +9339,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-prod
- uct\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
- 📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期仍
- 应以 BEA 最新日程为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
+ \n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps:/
+ /www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\n
+ 美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domesti
+ c-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\
+ n\n📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期
+ 仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -9085,8 +9373,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-07@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270825T083000
 DTEND;TZID=America/New_York:20270825T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -9100,12 +9388,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -9131,8 +9425,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270903T083000
 DTEND;TZID=America/New_York:20270903T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -9145,13 +9439,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -9175,8 +9474,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270910T083000
 DTEND;TZID=America/New_York:20270910T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -9191,11 +9490,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -9220,8 +9523,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270914T083000
 DTEND;TZID=America/New_York:20270914T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -9236,12 +9539,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -9266,8 +9575,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-09-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112381
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112382
 DTSTART;TZID=America/New_York:20270915T140000
 DTEND;TZID=America/New_York:20270915T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -9283,7 +9592,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -9361,8 +9670,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270916T083000
 DTEND;TZID=America/New_York:20270916T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -9378,12 +9687,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -9409,8 +9722,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q2-third@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270930T083000
 DTEND;TZID=America/New_York:20270930T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -9425,12 +9738,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-prod
- uct\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
- 📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期仍
- 应以 BEA 最新日程为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
+ \n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps:/
+ /www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\n
+ 美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domesti
+ c-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\
+ n\n📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期
+ 仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -9456,8 +9772,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20270930T083000
 DTEND;TZID=America/New_York:20270930T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -9471,12 +9787,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -9547,8 +9869,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271008T083000
 DTEND;TZID=America/New_York:20271008T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -9561,13 +9883,18 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  策的重要依据。\n\n🎯 市场关注：\n💱 外汇｜美元与主
  要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜↘
- \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方来
- 源不提供市场一致预期。\n\n📌 前值：\n等待官方数据更
- 新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttps:/
- /www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps://
- www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nBLS
-  官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ \n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方数
+ 据源不提供市场一致预期\n\n📌 前值：\n非农就业变动：
+ 免费数据源尚未提供本统计期数值（源端最新数据期 2026
+ -10-01）\n失业率：免费数据源尚未提供本统计期数值（源
+ 端最新数据期 2026-10-01）\n平均时薪同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n数据
+ 来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.bls
+ .gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳工
+ 统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -9591,8 +9918,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271014T083000
 DTEND;TZID=America/New_York:20271014T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -9607,12 +9934,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -9637,8 +9970,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271015T083000
 DTEND;TZID=America/New_York:20271015T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -9653,11 +9986,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -9682,8 +10019,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271015T083000
 DTEND;TZID=America/New_York:20271015T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -9699,12 +10036,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -9730,8 +10071,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q3-advance@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271028T083000
 DTEND;TZID=America/New_York:20271028T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -9746,12 +10087,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  ｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
- ：\n官方来源不提供市场一致预期。\n\n📌 前值：\n等待
- 官方数据更新。\n\n🏛️ 官方来源：\n美国经济分析局（
- BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔗 官方
- 日程：\nhttps://www.bea.gov/news/schedule/full\n\n📋 日程状态：\
- n依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最新日
- 程为准。
+ ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
+  GDP 环比年化（当前官方修订值）：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-07-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /gdp/gross-domestic-product\n\n🏛️ 官方来源：\n美国经济分析
+ 局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🔗
+  官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n📋 日程状
+ 态：\n依据 BEA 2027 新闻发布日程整理；日期仍应以 BEA 最
+ 新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -9777,8 +10121,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271028T083000
 DTEND;TZID=America/New_York:20271028T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -9792,12 +10136,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -9823,8 +10173,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271105T083000
 DTEND;TZID=America/New_York:20271105T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -9838,12 +10188,17 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
  ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
  ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
- 来源不提供市场一致预期。\n\n📌 前值：\n等待官方数据
- 更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttp
- s://www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps
- ://www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nB
- LS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ 数据源不提供市场一致预期\n\n📌 前值：\n非农就业变动
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\n失业率：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n平均时薪同比：免费数据源
+ 尚未提供本统计期数值（源端最新数据期 2026-10-01）\n数
+ 据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.
+ bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳
+ 工统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -9867,8 +10222,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271110T083000
 DTEND;TZID=America/New_York:20271110T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -9883,12 +10238,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -9913,8 +10274,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271112T083000
 DTEND;TZID=America/New_York:20271112T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -9929,11 +10290,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -9958,8 +10323,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271116T083000
 DTEND;TZID=America/New_York:20271116T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -9975,12 +10340,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -10006,8 +10375,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-11-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112310
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112311
 DTSTART;TZID=America/New_York:20271117T140000
 DTEND;TZID=America/New_York:20271117T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -10023,7 +10392,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-22\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-23\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -10101,8 +10470,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q3-second@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271124T083000
 DTEND;TZID=America/New_York:20271124T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -10117,12 +10486,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-prod
- uct\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
- 📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期仍
- 应以 BEA 最新日程为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
+ \n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps:/
+ /www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\n
+ 美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domesti
+ c-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\
+ n\n📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期
+ 仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -10148,8 +10520,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271124T083000
 DTEND;TZID=America/New_York:20271124T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -10163,12 +10535,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -10194,8 +10572,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-nfp-2027-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271203T083000
 DTEND;TZID=America/New_York:20271203T090000
 SUMMARY:🇺🇸 美国非农就业报告（NFP）（⭐⭐⭐ 高影响）
@@ -10209,12 +10587,17 @@ DESCRIPTION:🇺🇸 美国非农就业报告（NFP）\n⭐⭐⭐ 高影响
  主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益率　↗
  ｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股　↗｜
  ↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官方
- 来源不提供市场一致预期。\n\n📌 前值：\n等待官方数据
- 更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS）\nhttp
- s://www.bls.gov/news.release/empsit.toc.htm\n\n🔗 官方日程：\nhttps
- ://www.bls.gov/schedule/news_release/empsit.htm\n\n📋 日程状态：\nB
- LS 官方 2027 日程，已核对至 2026-11-22；后续以官方最新公
- 告为准。
+ 数据源不提供市场一致预期\n\n📌 前值：\n非农就业变动
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\n失业率：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n平均时薪同比：免费数据源
+ 尚未提供本统计期数值（源端最新数据期 2026-10-01）\n数
+ 据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps://www.
+ bls.gov/news.release/empsit.toc.htm\n\n🏛️ 官方来源：\n美国劳
+ 工统计局（BLS）\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\n
+ 🔗 官方日程：\nhttps://www.bls.gov/schedule/news_release/empsit.htm
+ \n\n📋 日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22
+ ；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/news.release/empsit.toc.htm
 CATEGORIES:就业,美国,高影响
@@ -10283,8 +10666,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-cpi-2027-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271210T083000
 DTEND;TZID=America/New_York:20271210T090000
 SUMMARY:🇺🇸 美国 CPI（消费者物价指数）（⭐⭐⭐ 高影
@@ -10299,12 +10682,18 @@ DESCRIPTION:🇺🇸 美国 CPI（消费者物价指数）\n⭐⭐⭐ 高
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 劳工统计局（BLS）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：
- \nhttps://www.bls.gov/schedule/news_release/cpi.htm\n\n📋 日程状态
- ：\nBLS 官方 2027 日程，已核对至 2026-11-22；后续以官方最
- 新公告为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nCPI 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\nCPI 环比（季调）：免费数据
+ 源尚未提供本统计期数值（源端最新数据期 2026-10-01）\n
+ 核心 CPI 同比：免费数据源尚未提供本统计期数值（源端
+ 最新数据期 2026-10-01）\n核心 CPI 环比（季调）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-10-01）
+ \n数据来源：美国劳工统计局（BLS，经 FRED 获取）\nhttps:/
+ /www.bls.gov/cpi/\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
+ ）\nhttps://www.bls.gov/cpi/\n\n🔗 官方日程：\nhttps://www.bls.gov
+ /schedule/news_release/cpi.htm\n\n📋 日程状态：\nBLS 官方 2027
+  日程，已核对至 2026-11-22；后续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/cpi/
 CATEGORIES:通胀,美国,高影响
@@ -10329,8 +10718,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-ppi-2027-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271215T083000
 DTEND;TZID=America/New_York:20271215T090000
 SUMMARY:🇺🇸 美国 PPI（生产者物价指数）（⭐⭐⭐ 高影
@@ -10345,11 +10734,15 @@ DESCRIPTION:🇺🇸 美国 PPI（生产者物价指数）\n⭐⭐⭐ 高
  美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国债收益
  率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美股
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n美国劳工统计局（BLS
- ）\nhttps://www.bls.gov/ppi/\n\n🔗 官方日程：\nhttps://www.bls.gov
- /schedule/news_release/ppi.htm\n\n📋 日程状态：\nBLS 官方 2027
-  日程，已核对至 2026-11-22；后续以官方最新公告为准。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\nPPI 同比
+ ：免费数据源尚未提供本统计期数值（源端最新数据期 2
+ 026-10-01）\nPPI 环比（季调）：免费数据源尚未提供本统
+ 计期数值（源端最新数据期 2026-10-01）\n数据来源：美国
+ 劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🏛️ 官方来源
+ ：\n美国劳工统计局（BLS）\nhttps://www.bls.gov/ppi/\n\n🔗 官
+ 方日程：\nhttps://www.bls.gov/schedule/news_release/ppi.htm\n\n📋
+  日程状态：\nBLS 官方 2027 日程，已核对至 2026-11-22；后
+ 续以官方最新公告为准。
 LOCATION:美国劳工统计局（线上发布）
 URL:https://www.bls.gov/ppi/
 CATEGORIES:通胀,美国,高影响
@@ -10374,8 +10767,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-retail-sales-2027-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271215T083000
 DTEND;TZID=America/New_York:20271215T090000
 SUMMARY:🇺🇸 美国零售销售（零售与餐饮服务先行值）（
@@ -10391,12 +10784,16 @@ DESCRIPTION:🇺🇸 美国零售销售（零售与餐饮服务先行值）
   外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券｜美国国
  债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票
  ｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预
- 测值：\n官方来源不提供市场一致预期。\n\n📌 前值：\n
- 等待官方数据更新。\n\n🏛️ 官方来源：\n美国人口普查
- 局（Census）\nhttps://www.census.gov/retail/index.html\n\n🔗 官方
- 日程：\nhttps://www.census.gov/economic-indicators/calendar-listview.ht
- ml\n\n📋 日程状态：\nCensus 官方 2027 日程，已核对至 2026-
- 11-17；后续以官方最新公告为准。
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\n
+ 零售销售环比（季调）：免费数据源尚未提供本统计期
+ 数值（源端最新数据期 2026-10-01）\n零售销售同比：免费
+ 数据源尚未提供本统计期数值（源端最新数据期 2026-10-01
+ ）\n数据来源：美国人口普查局（Census，经 FRED 获取）\nh
+ ttps://www.census.gov/retail/index.html\n\n🏛️ 官方来源：\n美国
+ 人口普查局（Census）\nhttps://www.census.gov/retail/index.html\n\n
+ 🔗 官方日程：\nhttps://www.census.gov/economic-indicators/calendar-
+ listview.html\n\n📋 日程状态：\nCensus 官方 2027 日程，已核
+ 对至 2026-11-17；后续以官方最新公告为准。
 LOCATION:美国人口普查局（线上发布）
 URL:https://www.census.gov/retail/index.html
 CATEGORIES:经济增长,美国,高影响
@@ -10422,8 +10819,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2027-q3-third@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271222T083000
 DTEND;TZID=America/New_York:20271222T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -10438,12 +10835,15 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n美国
- 经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domestic-prod
- uct\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
- 📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期仍
- 应以 BEA 最新日程为准。
+ n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\n实际 GDP 环比年化（当前官方修订值）：免费数
+ 据源尚未提供本统计期数值（源端最新数据期 2026-07-01）
+ \n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps:/
+ /www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\n
+ 美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domesti
+ c-product\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\
+ n\n📋 日程状态：\n依据 BEA 2027 新闻发布日程整理；日期
+ 仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/gdp/gross-domestic-product
 CATEGORIES:经济增长,美国,高影响
@@ -10469,8 +10869,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=America/New_York:20271222T083000
 DTEND;TZID=America/New_York:20271222T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -10484,12 +10884,18 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方来源不提供市场一致
- 预期。\n\n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方
- 来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/person
- al-consumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://w
- ww.bea.gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新
- 闻发布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
+ 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
+ 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
+ /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
+ n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
+ tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
+ /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2027 新闻发布
+ 日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响

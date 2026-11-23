@@ -2131,8 +2131,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112360
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112361
 DTSTART;TZID=Europe/Brussels:20261217T141500
 DTEND;TZID=Europe/Brussels:20261217T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2150,7 +2150,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 0\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 3\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -2227,8 +2227,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2026-12@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270106T110000
 DTEND;TZID=Europe/Brussels:20270106T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2243,14 +2243,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  汇｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债
  与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
- ｜↘\n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\
- n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n
- 欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
- 🔗 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\
- n\n📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical
-  calendars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时
- 间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 E
- urostat 官方发布日历为准。
+ ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
+ 值（源端最新数据期 2026-10-01）\n数据来源：欧盟统计局
+ （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
+ \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
+ a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
+ tat/news/release-calendar\n\n📋 日程状态：\n依据欧洲央行统
+ 计日历（ECB Statistical calendars）2027 年 HICP 闪值日期整理
+ ，Eurostat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（
+ ECB 日历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2276,8 +2278,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2026-q4@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270129T110000
 DTEND;TZID=Europe/Brussels:20270129T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -2291,13 +2293,16 @@ DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n⏰
  币对　↗｜↘\n🏛️ 债券｜德国国债与欧元区收益率　
  ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜欧洲股市
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
- ）\nhttps://ec.europa.eu/eurostat/web/national-accounts\n\n🔗 官方日
- 程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程
- 状态：\n依据 Eurostat 欧元指标发布日历（t+30 初值）整理
- ；已确认 2027 年 1 月 29 日、4 月 30 日、7 月 30 日三场，
- 第三季度（约 10 月 29 日）待官方日历确认后补入。
+ n官方数据源不提供市场一致预期\n\n📌 前值：\n实际 GDP
+  环比（当前官方修订值）：+0.4%\n数据期：2026-07-01\n数据
+ 来源：欧盟统计局（Eurostat，经 FRED 获取）\nhttps://ec.europ
+ a.eu/eurostat/web/national-accounts\n\n🏛️ 官方来源：\n欧盟统
+ 计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/national-accounts\
+ n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calend
+ ar\n\n📋 日程状态：\n依据 Eurostat 欧元指标发布日历（t+3
+ 0 初值）整理；已确认 2027 年 1 月 29 日、4 月 30 日、7 月
+  30 日三场，第三季度（约 10 月 29 日）待官方日历确认
+ 后补入。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/national-accounts
 CATEGORIES:经济增长,欧元区,高影响
@@ -2321,8 +2326,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-01@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270202T110000
 DTEND;TZID=Europe/Brussels:20270202T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2337,14 +2342,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2370,8 +2377,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-02-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112359
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112360
 DTSTART;TZID=Europe/Brussels:20270204T141500
 DTEND;TZID=Europe/Brussels:20270204T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2388,7 +2395,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-20\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-23\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -2466,8 +2473,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-02@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270302T110000
 DTEND;TZID=Europe/Brussels:20270302T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2482,14 +2489,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2515,8 +2524,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-03-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112359
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112360
 DTSTART;TZID=Europe/Brussels:20270318T141500
 DTEND;TZID=Europe/Brussels:20270318T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2533,7 +2542,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-20\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-23\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -2611,8 +2620,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270401T110000
 DTEND;TZID=Europe/Brussels:20270401T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2627,14 +2636,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2660,8 +2671,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-04-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112359
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112360
 DTSTART;TZID=Europe/Brussels:20270429T141500
 DTEND;TZID=Europe/Brussels:20270429T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2678,7 +2689,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-20\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-23\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -2756,8 +2767,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2027-q1@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270430T110000
 DTEND;TZID=Europe/Brussels:20270430T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -2771,8 +2782,11 @@ DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n⏰
  币对　↗｜↘\n🏛️ 债券｜德国国债与欧元区收益率　
  ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜欧洲股市
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
+ n官方数据源不提供市场一致预期\n\n📌 前值：\n实际 GDP
+  环比（当前官方修订值）：免费数据源尚未提供本统计
+ 期数值（源端最新数据期 2026-07-01）\n数据来源：欧盟统
+ 计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/
+ national-accounts\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
  ）\nhttps://ec.europa.eu/eurostat/web/national-accounts\n\n🔗 官方日
  程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程
  状态：\n依据 Eurostat 欧元指标发布日历（t+30 初值）整理
@@ -2801,8 +2815,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-04@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270503T110000
 DTEND;TZID=Europe/Brussels:20270503T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2817,14 +2831,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2850,8 +2866,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-05@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270601T110000
 DTEND;TZID=Europe/Brussels:20270601T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -2866,14 +2882,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -2899,8 +2917,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-06-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112359
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112360
 DTSTART;TZID=Europe/Brussels:20270610T141500
 DTEND;TZID=Europe/Brussels:20270610T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2917,7 +2935,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-20\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-23\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -2995,8 +3013,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-06@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270701T110000
 DTEND;TZID=Europe/Brussels:20270701T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3011,14 +3029,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -3044,8 +3064,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-07-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112359
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112360
 DTSTART;TZID=Europe/Brussels:20270722T141500
 DTEND;TZID=Europe/Brussels:20270722T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3062,7 +3082,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-20\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-23\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -3140,8 +3160,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2027-q2@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270730T110000
 DTEND;TZID=Europe/Brussels:20270730T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -3155,8 +3175,11 @@ DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n⏰
  币对　↗｜↘\n🏛️ 债券｜德国国债与欧元区收益率　
  ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜欧洲股市
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
+ n官方数据源不提供市场一致预期\n\n📌 前值：\n实际 GDP
+  环比（当前官方修订值）：免费数据源尚未提供本统计
+ 期数值（源端最新数据期 2026-07-01）\n数据来源：欧盟统
+ 计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/
+ national-accounts\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
  ）\nhttps://ec.europa.eu/eurostat/web/national-accounts\n\n🔗 官方日
  程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程
  状态：\n依据 Eurostat 欧元指标发布日历（t+30 初值）整理
@@ -3185,8 +3208,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-07@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270803T110000
 DTEND;TZID=Europe/Brussels:20270803T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3201,14 +3224,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -3234,8 +3259,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20270901T110000
 DTEND;TZID=Europe/Brussels:20270901T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3250,14 +3275,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -3283,8 +3310,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-09-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112359
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112360
 DTSTART;TZID=Europe/Brussels:20270909T141500
 DTEND;TZID=Europe/Brussels:20270909T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3301,7 +3328,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-20\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-23\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -3379,8 +3406,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20271001T110000
 DTEND;TZID=Europe/Brussels:20271001T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3395,14 +3422,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  ｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债与
  欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊
   股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘
- \n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\n📌
-  前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n欧盟
- 统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🔗
-  官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n
- 📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical cal
- endars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时间为
-  11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 Eurosta
- t 官方发布日历为准。
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+  前值：\nHICP 同比：免费数据源尚未提供本统计期数值（
+ 源端最新数据期 2026-10-01）\n数据来源：欧盟统计局（Euro
+ stat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n🏛
+ ️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europa.eu/e
+ urostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/eurostat/ne
+ ws/release-calendar\n\n📋 日程状态：\n依据欧洲央行统计日
+ 历（ECB Statistical calendars）2027 年 HICP 闪值日期整理，Euros
+ tat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日
+ 历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -3428,8 +3457,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-10-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112359
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112360
 DTSTART;TZID=Europe/Brussels:20271028T141500
 DTEND;TZID=Europe/Brussels:20271028T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3447,7 +3476,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 0\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 3\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -3524,8 +3553,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20271104T110000
 DTEND;TZID=Europe/Brussels:20271104T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3540,14 +3569,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  汇｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债
  与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
- ｜↘\n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\
- n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n
- 欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
- 🔗 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\
- n\n📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical
-  calendars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时
- 间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 E
- urostat 官方发布日历为准。
+ ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
+ 值（源端最新数据期 2026-10-01）\n数据来源：欧盟统计局
+ （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
+ \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
+ a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
+ tat/news/release-calendar\n\n📋 日程状态：\n依据欧洲央行统
+ 计日历（ECB Statistical calendars）2027 年 HICP 闪值日期整理
+ ，Eurostat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（
+ ECB 日历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -3573,8 +3604,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-hicp-flash-2027-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Europe/Brussels:20271201T110000
 DTEND;TZID=Europe/Brussels:20271201T113000
 SUMMARY:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）（
@@ -3589,14 +3620,16 @@ DESCRIPTION:🇪🇺 欧元区 HICP 初值（调和消费者物价指数）
  汇｜欧元与主要货币对　↗｜↘\n🏛️ 债券｜德国国债
  与欧元区收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n
  📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin　↗
- ｜↘\n\n🔮 预测值：\n官方来源不提供市场一致预期。\n\
- n📌 前值：\n等待官方数据更新。\n\n🏛️ 官方来源：\n
- 欧盟统计局（Eurostat）\nhttps://ec.europa.eu/eurostat/web/hicp\n\n
- 🔗 官方日程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\
- n\n📋 日程状态：\n依据欧洲央行统计日历（ECB Statistical
-  calendars）2027 年 HICP 闪值日期整理，Eurostat 闪值发布时
- 间为 11:00；2027 年 3 月为 4 月 1 日（ECB 日历），后续以 E
- urostat 官方发布日历为准。
+ ｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\
+ n📌 前值：\nHICP 同比：免费数据源尚未提供本统计期数
+ 值（源端最新数据期 2026-10-01）\n数据来源：欧盟统计局
+ （Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/hicp\n
+ \n🏛️ 官方来源：\n欧盟统计局（Eurostat）\nhttps://ec.europ
+ a.eu/eurostat/web/hicp\n\n🔗 官方日程：\nhttps://ec.europa.eu/euros
+ tat/news/release-calendar\n\n📋 日程状态：\n依据欧洲央行统
+ 计日历（ECB Statistical calendars）2027 年 HICP 闪值日期整理
+ ，Eurostat 闪值发布时间为 11:00；2027 年 3 月为 4 月 1 日（
+ ECB 日历），后续以 Eurostat 官方发布日历为准。
 LOCATION:欧盟统计局（线上发布）
 URL:https://ec.europa.eu/eurostat/web/hicp
 CATEGORIES:通胀,欧元区,高影响
@@ -3622,8 +3655,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-12-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112359
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112360
 DTSTART;TZID=Europe/Brussels:20271216T141500
 DTEND;TZID=Europe/Brussels:20271216T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3641,7 +3674,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 0\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 3\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗

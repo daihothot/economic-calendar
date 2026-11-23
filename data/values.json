@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 125,
-  "updatedAt": "2026-11-22T19:32:52.204Z",
+  "revision": 126,
+  "updatedAt": "2026-11-23T23:49:55.685Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -94,8 +94,8 @@
       }
     },
     "cn-cpi-ppi-2026-03": {
-      "revision": 21,
-      "updatedAt": "2026-09-25T11:48:07.651Z",
+      "revision": 22,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -106,7 +106,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -123,8 +123,8 @@
       }
     },
     "cn-cpi-ppi-2026-04": {
-      "revision": 21,
-      "updatedAt": "2026-09-25T11:48:07.651Z",
+      "revision": 22,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -135,7 +135,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -144,15 +144,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-05": {
-      "revision": 21,
-      "updatedAt": "2026-09-25T11:48:07.651Z",
+      "revision": 22,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -163,7 +163,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -172,15 +172,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-06": {
-      "revision": 21,
-      "updatedAt": "2026-09-25T11:48:07.651Z",
+      "revision": 22,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -191,7 +191,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -200,15 +200,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-07": {
-      "revision": 21,
-      "updatedAt": "2026-09-25T11:48:07.651Z",
+      "revision": 22,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -219,7 +219,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -228,15 +228,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-08": {
-      "revision": 21,
-      "updatedAt": "2026-09-25T11:48:07.651Z",
+      "revision": 22,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -247,7 +247,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -256,15 +256,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-09": {
-      "revision": 22,
-      "updatedAt": "2026-11-01T17:44:06.838Z",
+      "revision": 23,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -275,7 +275,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -284,15 +284,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-10": {
-      "revision": 22,
-      "updatedAt": "2026-11-09T06:18:55.116Z",
+      "revision": 23,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -303,7 +303,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -312,15 +312,15 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-cpi-ppi-2026-11": {
-      "revision": 21,
-      "updatedAt": "2026-09-25T11:48:07.651Z",
+      "revision": 22,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -331,7 +331,7 @@
         "status": "pending",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -340,7 +340,7 @@
         "status": "unavailable",
         "lines": [
           "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）",
-          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-02-01）"
+          "PPI 同比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -379,8 +379,8 @@
       }
     },
     "cn-gdp-2026-q1": {
-      "revision": 11,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 12,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -391,8 +391,8 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
+          "年内累计实际 GDP 同比：本次自动获取失败",
+          "实际 GDP 环比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -410,8 +410,8 @@
       }
     },
     "cn-gdp-2026-q2": {
-      "revision": 11,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 12,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -422,8 +422,8 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
+          "年内累计实际 GDP 同比：本次自动获取失败",
+          "实际 GDP 环比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -432,16 +432,16 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
+          "年内累计实际 GDP 同比：本次自动获取失败",
+          "实际 GDP 环比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
       }
     },
     "cn-gdp-2026-q3": {
-      "revision": 12,
-      "updatedAt": "2026-11-21T19:10:24.324Z",
+      "revision": 13,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -452,8 +452,8 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
+          "年内累计实际 GDP 同比：本次自动获取失败",
+          "实际 GDP 环比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -462,8 +462,8 @@
         "status": "unavailable",
         "lines": [
           "当季实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "年内累计实际 GDP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）",
-          "实际 GDP 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2025-10-01）"
+          "年内累计实际 GDP 同比：本次自动获取失败",
+          "实际 GDP 环比：本次自动获取失败"
         ],
         "sourceName": "中国国家统计局（NBS，经 DBnomics 获取）",
         "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/"
@@ -1548,8 +1548,8 @@
       }
     },
     "eu-ecb-2026-12-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1571,7 +1571,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1599,8 +1599,8 @@
       }
     },
     "eu-ecb-2027-02-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1622,7 +1622,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1650,8 +1650,8 @@
       }
     },
     "eu-ecb-2027-03-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1673,7 +1673,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1701,8 +1701,8 @@
       }
     },
     "eu-ecb-2027-04-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1724,7 +1724,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1752,8 +1752,8 @@
       }
     },
     "eu-ecb-2027-06-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1775,7 +1775,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1803,8 +1803,8 @@
       }
     },
     "eu-ecb-2027-07-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1826,7 +1826,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1854,8 +1854,8 @@
       }
     },
     "eu-ecb-2027-09-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1877,7 +1877,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1905,8 +1905,8 @@
       }
     },
     "eu-ecb-2027-10-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1928,7 +1928,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1956,8 +1956,8 @@
       }
     },
     "eu-ecb-2027-12-decision": {
-      "revision": 57,
-      "updatedAt": "2026-11-20T20:09:40.030Z",
+      "revision": 58,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1979,7 +1979,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-20",
+        "asOf": "2026-11-23",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -2114,6 +2114,85 @@
           "实际 GDP 环比（当前官方修订值）：+0.6%"
         ],
         "asOf": "2026-04-01",
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts"
+      }
+    },
+    "eu-gdp-flash-2026-q4": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "实际 GDP 环比（当前官方修订值）：+0.4%"
+        ],
+        "asOf": "2026-07-01",
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts"
+      }
+    },
+    "eu-gdp-flash-2027-q1": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts"
+      }
+    },
+    "eu-gdp-flash-2027-q2": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
         "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
         "sourceUrl": "https://ec.europa.eu/eurostat/web/national-accounts"
       }
@@ -2761,6 +2840,318 @@
           "HICP 同比：4.0%"
         ],
         "asOf": "2026-10-01",
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2026-12": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-01": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-02": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-03": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-04": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-05": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-06": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-07": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-08": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-09": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-10": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      }
+    },
+    "eu-hicp-flash-2027-11": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "HICP 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
         "sourceName": "欧盟统计局（Eurostat，经 FRED 获取）",
         "sourceUrl": "https://ec.europa.eu/eurostat/web/hicp"
       }
@@ -3916,6 +4307,96 @@
         "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
       }
     },
+    "jp-cpi-2026-12": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "日本总务省统计局（经 DBnomics 获取）",
+        "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "日本总务省统计局（经 DBnomics 获取）",
+        "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
+      }
+    },
+    "jp-cpi-2027-01": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "日本总务省统计局（经 DBnomics 获取）",
+        "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "日本总务省统计局（经 DBnomics 获取）",
+        "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
+      }
+    },
+    "jp-cpi-2027-02": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "日本总务省统计局（经 DBnomics 获取）",
+        "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "全国 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比（除生鲜食品）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心核心 CPI 同比（除生鲜食品及能源）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "日本总务省统计局（经 DBnomics 获取）",
+        "sourceUrl": "https://www.stat.go.jp/english/data/cpi/"
+      }
+    },
     "jp-gdp-2025-q4-first": {
       "revision": 7,
       "updatedAt": "2026-09-21T12:43:42.777Z",
@@ -4124,6 +4605,84 @@
         "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
       }
     },
+    "jp-gdp-2026-q4-first": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+        ],
+        "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
+        "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+        ],
+        "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
+        "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
+      }
+    },
+    "jp-gdp-2026-q4-second": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+        ],
+        "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
+        "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+        ],
+        "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
+        "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
+      }
+    },
+    "jp-gdp-2027-q1-second": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+        ],
+        "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
+        "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2025-04-01）"
+        ],
+        "sourceName": "日本内阁府经济社会综合研究所（ESRI，经 DBnomics 获取）",
+        "sourceUrl": "https://www.esri.cao.go.jp/en/sna/menu.html"
+      }
+    },
     "jp-tankan-2026-03": {
       "revision": 1,
       "updatedAt": "2026-08-10T19:06:01.520Z",
@@ -4205,6 +4764,32 @@
     "jp-tankan-2026-12": {
       "revision": 1,
       "updatedAt": "2026-08-10T19:06:01.520Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "等待官方公布"
+        ],
+        "sourceName": "日本银行（BOJ）",
+        "sourceUrl": "https://www.boj.or.jp/en/statistics/tk/index.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "短观调查暂无已验证、免密钥且适合稳定自动更新的单一公共序列"
+        ],
+        "sourceName": "日本银行（BOJ）",
+        "sourceUrl": "https://www.boj.or.jp/en/statistics/tk/index.htm"
+      }
+    },
+    "jp-tankan-2027-03": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -4635,9 +5220,437 @@
         "sourceUrl": "https://www.bls.gov/cpi/"
       }
     },
+    "us-cpi-2026-12": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-01": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-02": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-03": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-04": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-05": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-06": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-07": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-08": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-09": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-10": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
+    "us-cpi-2027-11": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 CPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/cpi/"
+      }
+    },
     "us-fed-chair-speech-2026-11-16": {
       "revision": 1,
       "updatedAt": "2026-11-16T21:57:51.810Z",
+      "actual": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      },
+      "forecast": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      },
+      "previous": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      }
+    },
+    "us-fed-president-speech-2026-11-23-williams": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "actual": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      },
+      "forecast": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      },
+      "previous": {
+        "status": "not-applicable",
+        "lines": [
+          "不适用（此类事件不以单一数值衡量）"
+        ]
+      }
+    },
+    "us-fed-president-speech-2026-12-11-goolsbee": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "actual": {
         "status": "not-applicable",
         "lines": [
@@ -5176,8 +6189,8 @@
       }
     },
     "us-fomc-2026-12-decision": {
-      "revision": 79,
-      "updatedAt": "2026-11-22T19:32:52.204Z",
+      "revision": 80,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5198,7 +6211,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-22",
+        "asOf": "2026-11-23",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5248,8 +6261,8 @@
       }
     },
     "us-fomc-2027-01-decision": {
-      "revision": 79,
-      "updatedAt": "2026-11-22T19:32:52.204Z",
+      "revision": 80,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5270,7 +6283,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-22",
+        "asOf": "2026-11-23",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5320,8 +6333,8 @@
       }
     },
     "us-fomc-2027-03-decision": {
-      "revision": 79,
-      "updatedAt": "2026-11-22T19:32:52.204Z",
+      "revision": 80,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5342,7 +6355,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-22",
+        "asOf": "2026-11-23",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5392,8 +6405,8 @@
       }
     },
     "us-fomc-2027-04-decision": {
-      "revision": 79,
-      "updatedAt": "2026-11-22T19:32:52.204Z",
+      "revision": 80,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5414,7 +6427,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-22",
+        "asOf": "2026-11-23",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5464,8 +6477,8 @@
       }
     },
     "us-fomc-2027-06-decision": {
-      "revision": 79,
-      "updatedAt": "2026-11-22T19:32:52.204Z",
+      "revision": 80,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5486,7 +6499,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-22",
+        "asOf": "2026-11-23",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5536,8 +6549,8 @@
       }
     },
     "us-fomc-2027-07-decision": {
-      "revision": 79,
-      "updatedAt": "2026-11-22T19:32:52.204Z",
+      "revision": 80,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5558,7 +6571,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-22",
+        "asOf": "2026-11-23",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5608,8 +6621,8 @@
       }
     },
     "us-fomc-2027-09-decision": {
-      "revision": 79,
-      "updatedAt": "2026-11-22T19:32:52.204Z",
+      "revision": 80,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5630,7 +6643,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-22",
+        "asOf": "2026-11-23",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -5680,8 +6693,8 @@
       }
     },
     "us-fomc-2027-11-decision": {
-      "revision": 8,
-      "updatedAt": "2026-11-22T19:32:52.204Z",
+      "revision": 9,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -5702,7 +6715,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-22",
+        "asOf": "2026-11-23",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -6081,6 +7094,321 @@
           "实际 GDP 环比年化（当前官方修订值）：+2.2%"
         ],
         "asOf": "2026-04-01",
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2026-q4-advance": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：+3.4%"
+        ],
+        "asOf": "2026-07-01",
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2026-q4-second": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：+3.4%"
+        ],
+        "asOf": "2026-07-01",
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2026-q4-third": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：+3.4%"
+        ],
+        "asOf": "2026-07-01",
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q1-advance": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q1-second": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q1-third": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q2-advance": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q2-second": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q2-third": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q3-advance": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q3-second": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      }
+    },
+    "us-gdp-2027-q3-third": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "实际 GDP 环比年化（当前官方修订值）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-07-01）"
+        ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
       }
@@ -7092,6 +8420,366 @@
         "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
       }
     },
+    "us-nfp-2026-12": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-01": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-02": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-03": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-04": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-05": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-06": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-07": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-08": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-09": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-10": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
+    "us-nfp-2027-11": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "非农就业变动：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "失业率：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "平均时薪同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS，经 FRED 获取）",
+        "sourceUrl": "https://www.bls.gov/news.release/empsit.toc.htm"
+      }
+    },
     "us-pce-2025-12": {
       "revision": 2,
       "updatedAt": "2026-09-30T22:12:40.860Z",
@@ -7446,6 +9134,366 @@
     "us-pce-2026-11": {
       "revision": 4,
       "updatedAt": "2026-11-01T17:44:06.838Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2026-12": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-01": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-02": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-03": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-04": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-05": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-06": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-07": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-08": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-09": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-10": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+        ],
+        "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
+        "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      }
+    },
+    "us-pce-2027-11": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7860,6 +9908,1067 @@
         "asOf": "2026-10-01",
         "sourceName": "美国劳工统计局（BLS）",
         "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2026-12": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-01": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-02": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-03": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-04": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-05": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-06": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-07": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-08": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-09": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-10": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-ppi-2027-11": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "PPI 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "PPI 环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国劳工统计局（BLS）",
+        "sourceUrl": "https://www.bls.gov/ppi/"
+      }
+    },
+    "us-retail-sales-2025-11": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.7%",
+          "零售销售同比：+2.9%"
+        ],
+        "asOf": "2025-11-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：0.0%",
+          "零售销售同比：+2.7%"
+        ],
+        "asOf": "2025-10-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2025-12": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.1%",
+          "零售销售同比：+2.1%"
+        ],
+        "asOf": "2025-12-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.7%",
+          "零售销售同比：+2.9%"
+        ],
+        "asOf": "2025-11-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-01": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：-0.6%",
+          "零售销售同比：+2.2%"
+        ],
+        "asOf": "2026-01-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.1%",
+          "零售销售同比：+2.1%"
+        ],
+        "asOf": "2025-12-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-02": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.9%",
+          "零售销售同比：+3.5%"
+        ],
+        "asOf": "2026-02-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：-0.6%",
+          "零售销售同比：+2.2%"
+        ],
+        "asOf": "2026-01-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-03": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+1.7%",
+          "零售销售同比：+3.6%"
+        ],
+        "asOf": "2026-03-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.9%",
+          "零售销售同比：+3.5%"
+        ],
+        "asOf": "2026-02-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-04": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.6%",
+          "零售销售同比：+4.1%"
+        ],
+        "asOf": "2026-04-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+1.7%",
+          "零售销售同比：+3.6%"
+        ],
+        "asOf": "2026-03-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-05": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+1.0%",
+          "零售销售同比：+6.7%"
+        ],
+        "asOf": "2026-05-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.6%",
+          "零售销售同比：+4.1%"
+        ],
+        "asOf": "2026-04-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-06": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.2%",
+          "零售销售同比：+5.9%"
+        ],
+        "asOf": "2026-06-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+1.0%",
+          "零售销售同比：+6.7%"
+        ],
+        "asOf": "2026-05-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-07": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：-0.4%",
+          "零售销售同比：+4.5%"
+        ],
+        "asOf": "2026-07-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.2%",
+          "零售销售同比：+5.9%"
+        ],
+        "asOf": "2026-06-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-08": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+1.5%",
+          "零售销售同比：+5.7%"
+        ],
+        "asOf": "2026-08-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：-0.4%",
+          "零售销售同比：+4.5%"
+        ],
+        "asOf": "2026-07-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-09": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.8%",
+          "零售销售同比：+6.6%"
+        ],
+        "asOf": "2026-09-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+1.5%",
+          "零售销售同比：+5.7%"
+        ],
+        "asOf": "2026-08-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-10": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.2%",
+          "零售销售同比：+6.8%"
+        ],
+        "asOf": "2026-10-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.8%",
+          "零售销售同比：+6.6%"
+        ],
+        "asOf": "2026-09-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-11": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "available",
+        "lines": [
+          "零售销售环比（季调）：+0.2%",
+          "零售销售同比：+6.8%"
+        ],
+        "asOf": "2026-10-01",
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2026-12": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-01": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-02": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-03": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-04": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-05": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-06": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-07": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-08": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-09": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-10": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      }
+    },
+    "us-retail-sales-2027-11": {
+      "revision": 1,
+      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "forecast": {
+        "status": "unavailable",
+        "lines": [
+          "官方数据源不提供市场一致预期"
+        ]
+      },
+      "actual": {
+        "status": "pending",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
+      },
+      "previous": {
+        "status": "unavailable",
+        "lines": [
+          "零售销售环比（季调）：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "零售销售同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
+        ],
+        "sourceName": "美国人口普查局（Census，经 FRED 获取）",
+        "sourceUrl": "https://www.census.gov/retail/index.html"
       }
     }
   }

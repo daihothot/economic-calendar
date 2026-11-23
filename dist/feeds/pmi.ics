@@ -2633,8 +2633,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jp-tankan-2027-03@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112302
+LAST-MODIFIED:20261123T234955Z
+SEQUENCE:2026112303
 DTSTART;TZID=Asia/Tokyo:20270401T085000
 DTEND;TZID=Asia/Tokyo:20270401T092000
 SUMMARY:🇯🇵 日本央行短观调查（Tankan）（⭐⭐⭐ 高影响
@@ -2649,8 +2649,10 @@ DESCRIPTION:🇯🇵 日本央行短观调查（Tankan）\n⭐⭐⭐ 高影
  要货币对　↗｜↘\n🏛️ 债券｜日本国债收益率　↗｜
  ↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜日经指数　↗
  ｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官
- 方来源不提供市场一致预期。\n\n📌 前值：\n等待官方数
- 据更新。\n\n🏛️ 官方来源：\n日本银行（Bank of Japan）\n
+ 方数据源不提供市场一致预期\n\n📌 前值：\n短观调查暂
+ 无已验证、免密钥且适合稳定自动更新的单一公共序列\n
+ 数据来源：日本银行（BOJ）\nhttps://www.boj.or.jp/en/statistics/
+ tk/index.htm\n\n🏛️ 官方来源：\n日本银行（Bank of Japan）\n
  https://www.boj.or.jp/en/statistics/tk/index.htm\n\n🔗 官方日程：\n
  https://www.boj.or.jp/en/statistics/outline/index.htm\n\n📋 日程状态
  ：\n依据日本银行统计数据发布日程整理；目前仅公布至
