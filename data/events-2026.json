@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "year": 2026,
   "verifiedAt": "2026-11-23",
-  "revision": 2026112302,
+  "revision": 2026112303,
   "coverageStatus": "complete",
   "series": [
     {
@@ -217,8 +217,8 @@
       "verifiedAt": "2026-11-23",
       "scheduleStatus": "各地区联储官网与公开日程，已核对至 2026-11-23；行长讲话日程通常提前数日公布，后续场次滚动补充。",
       "entries": [
-        { "id": "us-fed-president-speech-2026-11-23-williams", "date": "2026-11-23", "time": "16:00", "period": "纽约联储主席威廉姆斯讲话", "note": "Mount Saint Vincent 大学（布朗克斯）；就经济前景与货币政策发表讲话并答问，纽约联储官网行程公告。FOMC 永久票委；11 月 28 日起进入 12 月会议静默期。" },
-        { "id": "us-fed-president-speech-2026-12-11-goolsbee", "date": "2026-12-11", "time": "09:40", "period": "芝加哥联储主席古尔斯比讲话", "note": "芝加哥联储第 40 届年度经济展望研讨会主持问答，芝加哥；美中时间 08:40。" }
+        { "id": "us-fed-president-speech-2026-11-23-williams", "date": "2026-11-23", "time": "16:00", "title": "威廉姆斯（纽约联储主席）讲话", "period": "纽约联储主席威廉姆斯讲话", "note": "Mount Saint Vincent 大学（布朗克斯）；就经济前景与货币政策发表讲话并答问，纽约联储官网行程公告。FOMC 永久票委；11 月 28 日起进入 12 月会议静默期。" },
+        { "id": "us-fed-president-speech-2026-12-11-goolsbee", "date": "2026-12-11", "time": "09:40", "title": "古尔斯比（芝加哥联储主席）讲话", "period": "芝加哥联储主席古尔斯比讲话", "note": "芝加哥联储第 40 届年度经济展望研讨会主持问答，芝加哥；美中时间 08:40。" }
       ]
     },
     {
