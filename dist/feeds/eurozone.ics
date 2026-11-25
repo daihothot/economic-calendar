@@ -3553,8 +3553,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-gdp-flash-2027-q3@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112501
+LAST-MODIFIED:20261125T082613Z
+SEQUENCE:2026112502
 DTSTART;TZID=Europe/Brussels:20271029T110000
 DTEND;TZID=Europe/Brussels:20271029T113000
 SUMMARY:🇪🇺 欧元区 GDP 初步快报（⭐⭐⭐ 高影响）
@@ -3568,8 +3568,11 @@ DESCRIPTION:🇪🇺 欧元区 GDP 初步快报\n⭐⭐⭐ 高影响\n\n⏰
  币对　↗｜↘\n🏛️ 债券｜德国国债与欧元区收益率　
  ↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜欧洲股市
  　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\
- n官方来源不提供市场一致预期。\n\n📌 前值：\n等待官
- 方数据更新。\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
+ n官方数据源不提供市场一致预期\n\n📌 前值：\n实际 GDP
+  环比（当前官方修订值）：免费数据源尚未提供本统计
+ 期数值（源端最新数据期 2026-07-01）\n数据来源：欧盟统
+ 计局（Eurostat，经 FRED 获取）\nhttps://ec.europa.eu/eurostat/web/
+ national-accounts\n\n🏛️ 官方来源：\n欧盟统计局（Eurostat
  ）\nhttps://ec.europa.eu/eurostat/web/national-accounts\n\n🔗 官方日
  程：\nhttps://ec.europa.eu/eurostat/news/release-calendar\n\n📋 日程
  状态：\n依据 Eurostat 欧元指标发布日历（t+30 初值）整理
