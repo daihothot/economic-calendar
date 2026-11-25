@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-11-23",
-  "sourceSha256": "308fb8b6ac88881ff610db42888dc9c73b57a52374912d298ca7c8c46b7b28a9",
+  "verifiedAt": "2026-11-25",
+  "sourceSha256": "2e711f03ff24e7ecf0a35cd72af0de2c75138f1f88fd3339d67ab71c6ce45ad1",
   "sourceFiles": [
     "events-2026.json",
     "events-2027.json",
@@ -11,31 +11,31 @@
     "2026": "complete",
     "2027": "partial"
   },
-  "totalEventCount": 396,
+  "totalEventCount": 397,
   "feeds": [
     {
       "fileName": "economic-calendar-pro.ics",
       "name": "全球高影响财经日历 Pro",
-      "eventCount": 396,
-      "sha256": "bf9f851deaa286864a99ee67806bfb63176a94807ff0053f35e60f6f64b1840f"
+      "eventCount": 397,
+      "sha256": "5c68465c0cfdde87d115ce04c539e7a44fd1c606e5331665e875f823d9e68f4a"
     },
     {
       "fileName": "feeds/us.ics",
       "name": "美国高影响财经日历 Pro",
       "eventCount": 218,
-      "sha256": "67b1277373de8d6201299d9b098167224063a96d693057a0e476285c4533bb32"
+      "sha256": "f88ca21bb442e3047de3f491433585028d2e9f94e54369f1306a688894c5b1ab"
     },
     {
       "fileName": "feeds/eurozone.ics",
       "name": "欧元区高影响财经日历 Pro",
-      "eventCount": 75,
-      "sha256": "e6f6d0b6b12cb4c5188f49164b85c8df6c39a4017d48bcf904c255e5cd792713"
+      "eventCount": 76,
+      "sha256": "a9360d2d8eea2b7151c44ca07ab764360169a0e3eaaedddc3fa121df69b710bf"
     },
     {
       "fileName": "feeds/japan.ics",
       "name": "日本高影响财经日历 Pro",
       "eventCount": 63,
-      "sha256": "8ff94082e90fe65eff6b22e153e8a296fd68f3e2ed0dba487ffc618b4025b9de"
+      "sha256": "7b182608642c75bf794cafb5d913a3e0f1a0b92f29786afb714a3a15475e3836"
     },
     {
       "fileName": "feeds/china.ics",
@@ -47,31 +47,31 @@
       "fileName": "feeds/central-bank.ics",
       "name": "央行政策事件 Pro",
       "eventCount": 124,
-      "sha256": "9dbefcaeef95c8f582fac08e019a41fa2954bfb66cc2510403cc1b70bc5c955e"
+      "sha256": "1b0f4ca10287aee921ecabd406aa2a5c9525da77647ceeddb394f59c2afa77ac"
     },
     {
       "fileName": "feeds/inflation.ics",
       "name": "通胀事件 Pro",
       "eventCount": 124,
-      "sha256": "4ca368fba27c5bb24d37448f6a4edf98a4f5d779c56bf8a438cce861453262fc"
+      "sha256": "c733910c367decc21b7d6f7894ef12153960885685e3aa3453a86284a373af08"
     },
     {
       "fileName": "feeds/growth.ics",
       "name": "经济增长事件 Pro",
-      "eventCount": 71,
-      "sha256": "7aa3c9d516acf3745d2d14f12de4fd28678dae1b769083c67131210710310922"
+      "eventCount": 72,
+      "sha256": "7ef02c47f604f60bfb3cfb2ac1e339f8474edba25e0903af931fd94d10dbd36f"
     },
     {
       "fileName": "feeds/employment.ics",
       "name": "就业事件 Pro",
       "eventCount": 24,
-      "sha256": "00d222a2fd9b76a7966de6c583913ddb5d11e9e8ca1741006173fa2008e27a40"
+      "sha256": "779fcadde14d65604715232d70aa1d0d0de41b39e5efc905a9ea8751130ec3b4"
     },
     {
       "fileName": "feeds/pmi.ics",
       "name": "PMI 与景气调查事件 Pro",
       "eventCount": 53,
-      "sha256": "8f4d3e391b4aef4a1fb751696a4247d0b98b0656d1f28acc766016c7a550c7f0"
+      "sha256": "adaacfb4d005403748fa6a2287fbe4ce77d89403aa0feffdfaab9cf3ee656394"
     },
     {
       "fileName": "2026_中文财经日历_全球高影响_Pro.ics",

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "year": 2027,
-  "verifiedAt": "2026-11-23",
-  "revision": 2026112301,
+  "verifiedAt": "2026-11-25",
+  "revision": 2026112501,
   "coverageStatus": "partial",
   "series": [
     {
@@ -274,11 +274,12 @@
       "timezone": "Europe/Brussels",
       "status": "TENTATIVE",
       "sourceStatus": "ESTIMATED",
-      "scheduleStatus": "依据 Eurostat 欧元指标发布日历（t+30 初值）整理；已确认 2027 年 1 月 29 日、4 月 30 日、7 月 30 日三场，第三季度（约 10 月 29 日）待官方日历确认后补入。",
+      "scheduleStatus": "依据 Eurostat 欧元指标发布日历（t+30 初值）整理；2027 年 1 月 29 日、4 月 30 日、7 月 30 日、10 月 29 日四场均已确认（2026-11-25 核对 Eurostat 官方发布日历）。",
       "entries": [
         { "id": "eu-gdp-flash-2026-q4", "date": "2027-01-29", "period": "2026年第四季度" },
         { "id": "eu-gdp-flash-2027-q1", "date": "2027-04-30", "period": "2027年第一季度" },
-        { "id": "eu-gdp-flash-2027-q2", "date": "2027-07-30", "period": "2027年第二季度" }
+        { "id": "eu-gdp-flash-2027-q2", "date": "2027-07-30", "period": "2027年第二季度" },
+        { "id": "eu-gdp-flash-2027-q3", "date": "2027-10-29", "period": "2027年第三季度" }
       ]
     },
     {
