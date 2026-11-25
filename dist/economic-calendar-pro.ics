@@ -9215,8 +9215,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-08@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112308
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112309
 DTSTART;TZID=America/New_York:20260925T083000
 DTEND;TZID=America/New_York:20260925T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -9230,7 +9230,7 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.4%\n核
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.5%\n核
  心 PCE 同比：3.0%\n核心 PCE 环比：0.3%\n数据期：2026-08-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
@@ -10322,8 +10322,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-09@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112307
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112308
 DTSTART;TZID=America/New_York:20261030T083000
 DTEND;TZID=America/New_York:20261030T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -10337,12 +10337,12 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.6%\n核
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.7%\n核
  心 PCE 同比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-09-01\n
  数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
  ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
  测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
- CE 物价指数同比：3.4%\n核心 PCE 同比：3.0%\n核心 PCE 环比
+ CE 物价指数同比：3.5%\n核心 PCE 同比：3.0%\n核心 PCE 环比
  ：0.3%\n数据期：2026-08-01\n数据来源：美国经济分析局（BE
  A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
  nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
@@ -11281,8 +11281,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-second@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112306
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112307
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -11297,7 +11297,10 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +4.3%\n数据期：2026-07-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
   前值：\n实际 GDP 环比年化（当前官方修订值）：+2.2%\n
  数据期：2026-04-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
@@ -11330,8 +11333,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-10@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112307
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112308
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -11345,15 +11348,19 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  \n\n🎯 市场关注：\n💱 外汇｜美元与主要货币对　↗｜
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
- itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
- 致预期\n\n📌 前值：\nPCE 物价指数同比：3.6%\n核心 PCE 同
- 比：3.1%\n核心 PCE 环比：0.3%\n数据期：2026-09-01\n数据来源
- ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
- ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
- ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
- sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
- .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
- 布日程整理；日期仍应以 BEA 最新日程为准。
+ itcoin　↗｜↘\n\n✅ 实际值：\nPCE 物价指数同比：3.8%\n核
+ 心 PCE 同比：3.3%\n核心 PCE 环比：0.3%\n数据期：2026-10-01\n
+ 数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps://w
+ ww.bea.gov/data/personal-consumption-expenditures-price-index\n\n🔮 预
+ 测值：\n官方数据源不提供市场一致预期\n\n📌 前值：\nP
+ CE 物价指数同比：3.7%\n核心 PCE 同比：3.1%\n核心 PCE 环比
+ ：0.3%\n数据期：2026-09-01\n数据来源：美国经济分析局（BE
+ A，经 FRED 获取）\nhttps://www.bea.gov/data/personal-consumption-expe
+ nditures-price-index\n\n🏛️ 官方来源：\n美国经济分析局（B
+ EA）\nhttps://www.bea.gov/data/personal-consumption-expenditures-price-in
+ dex\n\n🔗 官方日程：\nhttps://www.bea.gov/news/schedule/full\n\n
+ 📋 日程状态：\n依据 BEA 2026 新闻发布日程整理；日期仍
+ 应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -11724,8 +11731,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2026-12-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261124T222219Z
-SEQUENCE:2026112384
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112385
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -11741,7 +11748,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-24\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-25\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -12118,8 +12125,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261124T222219Z
-SEQUENCE:2026112362
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112363
 DTSTART;TZID=Europe/Brussels:20261217T141500
 DTEND;TZID=Europe/Brussels:20261217T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -12137,7 +12144,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 4\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 5\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -12456,8 +12463,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-11@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112307
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112308
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -12472,17 +12479,14 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  ↘\n🏛️ 债券｜美国国债收益率　↗｜↘\n🥇 贵金属｜
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
- 致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
-  PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
- 美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
- /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
- n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
- tion-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea.gov
- /news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发布
- 日程整理；日期仍应以 BEA 最新日程为准。
+ 致预期\n\n📌 前值：\nPCE 物价指数同比：3.8%\n核心 PCE 同
+ 比：3.3%\n核心 PCE 环比：0.3%\n数据期：2026-10-01\n数据来源
+ ：美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/d
+ ata/personal-consumption-expenditures-price-index\n\n🏛️ 官方来源
+ ：\n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-con
+ sumption-expenditures-price-index\n\n🔗 官方日程：\nhttps://www.bea
+ .gov/news/schedule/full\n\n📋 日程状态：\n依据 BEA 2026 新闻发
+ 布日程整理；日期仍应以 BEA 最新日程为准。
 LOCATION:美国经济分析局（线上发布）
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 CATEGORIES:通胀,美国,高影响
@@ -13002,8 +13006,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-01-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112582
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112583
 DTSTART;TZID=America/New_York:20270127T140000
 DTEND;TZID=America/New_York:20270127T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -13019,7 +13023,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-24\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-25\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -13097,8 +13101,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-advance@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270128T083000
 DTEND;TZID=America/New_York:20270128T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -13114,7 +13118,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
  ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
-  GDP 环比年化（当前官方修订值）：+3.4%\n数据期：2026-07-
+  GDP 环比年化（当前官方修订值）：+4.3%\n数据期：2026-07-
  01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps
  ://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domest
@@ -13146,8 +13150,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2026-12@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270128T083000
 DTEND;TZID=America/New_York:20270128T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -13163,10 +13167,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -13297,8 +13301,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-02-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112560
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112561
 DTSTART;TZID=Europe/Brussels:20270204T141500
 DTEND;TZID=Europe/Brussels:20270204T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -13315,7 +13319,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-24\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-25\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -13745,8 +13749,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-second@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270225T083000
 DTEND;TZID=America/New_York:20270225T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -13762,7 +13766,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+4.3%\n
  数据期：2026-07-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -13794,8 +13798,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-01@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270225T083000
 DTEND;TZID=America/New_York:20270225T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -13811,10 +13815,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -14150,8 +14154,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-03-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112582
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112583
 DTSTART;TZID=America/New_York:20270317T140000
 DTEND;TZID=America/New_York:20270317T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -14167,7 +14171,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-24\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-25\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -14292,8 +14296,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-03-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112560
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112561
 DTSTART;TZID=Europe/Brussels:20270318T141500
 DTEND;TZID=Europe/Brussels:20270318T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -14310,7 +14314,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-24\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-25\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -14486,8 +14490,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-third@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270331T083000
 DTEND;TZID=America/New_York:20270331T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -14503,7 +14507,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+4.3%\n
  数据期：2026-07-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -14535,8 +14539,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-02@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270331T083000
 DTEND;TZID=America/New_York:20270331T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -14552,10 +14556,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -14981,8 +14985,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-04-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112582
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112583
 DTSTART;TZID=America/New_York:20270428T140000
 DTEND;TZID=America/New_York:20270428T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -14998,7 +15002,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-24\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-25\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -15170,8 +15174,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-03@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270429T083000
 DTEND;TZID=America/New_York:20270429T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -15187,10 +15191,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -15222,8 +15226,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-04-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112560
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112561
 DTSTART;TZID=Europe/Brussels:20270429T141500
 DTEND;TZID=Europe/Brussels:20270429T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -15240,7 +15244,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-24\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-25\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -15714,8 +15718,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-04@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270527T083000
 DTEND;TZID=America/New_York:20270527T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -15731,10 +15735,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -15917,8 +15921,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-06-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112582
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112583
 DTSTART;TZID=America/New_York:20270609T140000
 DTEND;TZID=America/New_York:20270609T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -15934,7 +15938,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n官
  方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金目
  标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据期
- ：2026-11-24\n数据来源：美国联邦储备委员会（经 FRED 获
+ ：2026-11-25\n数据来源：美国联邦储备委员会（经 FRED 获
  取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n\n
  🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve）\
  nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n🔗
@@ -16064,8 +16068,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-06-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112560
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112561
 DTSTART;TZID=Europe/Brussels:20270610T141500
 DTEND;TZID=Europe/Brussels:20270610T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -16082,7 +16086,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-24\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-25\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -16402,8 +16406,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-05@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270625T083000
 DTEND;TZID=America/New_York:20270625T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -16419,10 +16423,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -16799,8 +16803,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-07-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112560
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112561
 DTSTART;TZID=Europe/Brussels:20270722T141500
 DTEND;TZID=Europe/Brussels:20270722T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -16817,7 +16821,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-24\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-25\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -16939,8 +16943,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-07-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112582
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112583
 DTSTART;TZID=America/New_York:20270728T140000
 DTEND;TZID=America/New_York:20270728T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -16956,7 +16960,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-24\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-25\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -17084,8 +17088,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-06@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270729T083000
 DTEND;TZID=America/New_York:20270729T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -17101,10 +17105,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -17532,8 +17536,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-07@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270825T083000
 DTEND;TZID=America/New_York:20270825T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -17549,10 +17553,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -17684,8 +17688,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-09-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112560
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112561
 DTSTART;TZID=Europe/Brussels:20270909T141500
 DTEND;TZID=Europe/Brussels:20270909T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -17702,7 +17706,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-24\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-25\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -17881,8 +17885,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-09-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112582
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112583
 DTSTART;TZID=America/New_York:20270915T140000
 DTEND;TZID=America/New_York:20270915T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -17898,7 +17902,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-24\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-25\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -18169,8 +18173,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-08@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270930T083000
 DTEND;TZID=America/New_York:20270930T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -18186,10 +18190,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -18569,8 +18573,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-09@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20271028T083000
 DTEND;TZID=America/New_York:20271028T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -18586,10 +18590,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -18621,8 +18625,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-10-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112560
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112561
 DTSTART;TZID=Europe/Brussels:20271028T141500
 DTEND;TZID=Europe/Brussels:20271028T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -18640,7 +18644,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 4\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 5\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -19109,8 +19113,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-fomc-2027-11-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112511
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112512
 DTSTART;TZID=America/New_York:20271117T140000
 DTEND;TZID=America/New_York:20271117T143000
 SUMMARY:🇺🇸 FOMC 利率决议（⭐⭐⭐ 高影响）
@@ -19126,7 +19130,7 @@ DESCRIPTION:🇺🇸 FOMC 利率决议\n⭐⭐⭐ 高影响\n\n⏰ 公布
  ↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值：\n
  官方数据源不提供市场一致预期\n\n📌 前值：\n联邦基金
  目标区间下限：3.75%\n联邦基金目标区间上限：4.00%\n数据
- 期：2026-11-24\n数据来源：美国联邦储备委员会（经 FRED
+ 期：2026-11-25\n数据来源：美国联邦储备委员会（经 FRED
   获取）\nhttps://www.federalreserve.gov/monetarypolicy/openmarket.htm\n
  \n🏛️ 官方来源：\n美国联邦储备委员会（Federal Reserve
  ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n\n
@@ -19254,8 +19258,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-10@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20271124T083000
 DTEND;TZID=America/New_York:20271124T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -19271,10 +19275,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump
@@ -19604,8 +19608,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-12-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112560
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112561
 DTSTART;TZID=Europe/Brussels:20271216T141500
 DTEND;TZID=Europe/Brussels:20271216T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -19623,7 +19627,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 4\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 5\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -19841,8 +19845,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-pce-2027-11@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20271222T083000
 DTEND;TZID=America/New_York:20271222T090000
 SUMMARY:🇺🇸 美国 PCE 物价指数（个人收入与支出报告）
@@ -19858,10 +19862,10 @@ DESCRIPTION:🇺🇸 美国 PCE 物价指数（个人收入与支出报告
  黄金　↗｜↘\n📊 股票｜美股　↗｜↘\n₿ 加密资产｜B
  itcoin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一
  致预期\n\n📌 前值：\nPCE 物价指数同比：免费数据源尚
- 未提供本统计期数值（源端最新数据期 2026-09-01）\n核心
+ 未提供本统计期数值（源端最新数据期 2026-10-01）\n核心
   PCE 同比：免费数据源尚未提供本统计期数值（源端最新
- 数据期 2026-09-01）\n核心 PCE 环比：免费数据源尚未提供
- 本统计期数值（源端最新数据期 2026-09-01）\n数据来源：
+ 数据期 2026-10-01）\n核心 PCE 环比：免费数据源尚未提供
+ 本统计期数值（源端最新数据期 2026-10-01）\n数据来源：
  美国经济分析局（BEA，经 FRED 获取）\nhttps://www.bea.gov/data
  /personal-consumption-expenditures-price-index\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/personal-consump

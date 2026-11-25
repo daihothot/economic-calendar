@@ -2010,8 +2010,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q3-second@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261123T000000Z
-SEQUENCE:2026112306
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112307
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -2026,7 +2026,10 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  注：\n💱 外汇｜美元与主要货币对　↗｜↘\n🏛️ 债券
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
- n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
+ n\n✅ 实际值：\n实际 GDP 环比年化（当前官方修订值）：
+ +4.3%\n数据期：2026-07-01\n数据来源：美国经济分析局（BEA
+ ，经 FRED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product
+ \n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
   前值：\n实际 GDP 环比年化（当前官方修订值）：+2.2%\n
  数据期：2026-04-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
@@ -2261,8 +2264,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-advance@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270128T083000
 DTEND;TZID=America/New_York:20270128T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，初值）（⭐⭐⭐
@@ -2278,7 +2281,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，初值）\n⭐⭐⭐
  益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\n📊 股票｜美
  股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\n\n🔮 预测值
  ：\n官方数据源不提供市场一致预期\n\n📌 前值：\n实际
-  GDP 环比年化（当前官方修订值）：+3.4%\n数据期：2026-07-
+  GDP 环比年化（当前官方修订值）：+4.3%\n数据期：2026-07-
  01\n数据来源：美国经济分析局（BEA，经 FRED 获取）\nhttps
  ://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛️ 官方来源：\
  n美国经济分析局（BEA）\nhttps://www.bea.gov/data/gdp/gross-domest
@@ -2461,8 +2464,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-second@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270225T083000
 DTEND;TZID=America/New_York:20270225T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第二次估算）（⭐
@@ -2478,7 +2481,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第二次估算）\n
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+4.3%\n
  数据期：2026-07-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d
@@ -2613,8 +2616,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-gdp-2026-q4-third@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261125T000000Z
-SEQUENCE:2026112502
+LAST-MODIFIED:20261125T213813Z
+SEQUENCE:2026112503
 DTSTART;TZID=America/New_York:20270331T083000
 DTEND;TZID=America/New_York:20270331T090000
 SUMMARY:🇺🇸 美国 GDP（国内生产总值，第三次估算）（⭐
@@ -2630,7 +2633,7 @@ DESCRIPTION:🇺🇸 美国 GDP（国内生产总值，第三次估算）\n
  ｜美国国债收益率　↗｜↘\n🥇 贵金属｜黄金　↗｜↘\
  n📊 股票｜美股　↗｜↘\n₿ 加密资产｜Bitcoin　↗｜↘\
  n\n🔮 预测值：\n官方数据源不提供市场一致预期\n\n📌
-  前值：\n实际 GDP 环比年化（当前官方修订值）：+3.4%\n
+  前值：\n实际 GDP 环比年化（当前官方修订值）：+4.3%\n
  数据期：2026-07-01\n数据来源：美国经济分析局（BEA，经 F
  RED 获取）\nhttps://www.bea.gov/data/gdp/gross-domestic-product\n\n🏛
  ️ 官方来源：\n美国经济分析局（BEA）\nhttps://www.bea.gov/d

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 129,
-  "updatedAt": "2026-11-25T08:26:13.848Z",
+  "revision": 130,
+  "updatedAt": "2026-11-25T21:38:13.128Z",
   "events": {
     "cn-cpi-ppi-2025-12": {
       "revision": 1,
@@ -1548,8 +1548,8 @@
       }
     },
     "eu-ecb-2026-12-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1571,7 +1571,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1599,8 +1599,8 @@
       }
     },
     "eu-ecb-2027-02-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1622,7 +1622,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1650,8 +1650,8 @@
       }
     },
     "eu-ecb-2027-03-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1673,7 +1673,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1701,8 +1701,8 @@
       }
     },
     "eu-ecb-2027-04-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1724,7 +1724,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1752,8 +1752,8 @@
       }
     },
     "eu-ecb-2027-06-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1775,7 +1775,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1803,8 +1803,8 @@
       }
     },
     "eu-ecb-2027-07-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1826,7 +1826,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1854,8 +1854,8 @@
       }
     },
     "eu-ecb-2027-09-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1877,7 +1877,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1905,8 +1905,8 @@
       }
     },
     "eu-ecb-2027-10-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1928,7 +1928,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -1956,8 +1956,8 @@
       }
     },
     "eu-ecb-2027-12-decision": {
-      "revision": 59,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 60,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -1979,7 +1979,7 @@
           "主要再融资操作利率：2.65%",
           "边际贷款机制利率：2.90%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "欧洲中央银行（ECB，经 FRED 获取）",
         "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
       }
@@ -6215,8 +6215,8 @@
       }
     },
     "us-fomc-2026-12-decision": {
-      "revision": 81,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 82,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6237,7 +6237,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -6287,8 +6287,8 @@
       }
     },
     "us-fomc-2027-01-decision": {
-      "revision": 81,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 82,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6309,7 +6309,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -6359,8 +6359,8 @@
       }
     },
     "us-fomc-2027-03-decision": {
-      "revision": 81,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 82,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6381,7 +6381,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -6431,8 +6431,8 @@
       }
     },
     "us-fomc-2027-04-decision": {
-      "revision": 81,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 82,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6453,7 +6453,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -6503,8 +6503,8 @@
       }
     },
     "us-fomc-2027-06-decision": {
-      "revision": 81,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 82,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6525,7 +6525,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -6575,8 +6575,8 @@
       }
     },
     "us-fomc-2027-07-decision": {
-      "revision": 81,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 82,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6597,7 +6597,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -6647,8 +6647,8 @@
       }
     },
     "us-fomc-2027-09-decision": {
-      "revision": 81,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 82,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6669,7 +6669,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -6719,8 +6719,8 @@
       }
     },
     "us-fomc-2027-11-decision": {
-      "revision": 10,
-      "updatedAt": "2026-11-24T22:22:19.022Z",
+      "revision": 11,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -6741,7 +6741,7 @@
           "联邦基金目标区间下限：3.75%",
           "联邦基金目标区间上限：4.00%"
         ],
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "sourceName": "美国联邦储备委员会（经 FRED 获取）",
         "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
       }
@@ -7071,8 +7071,8 @@
       }
     },
     "us-gdp-2026-q3-second": {
-      "revision": 3,
-      "updatedAt": "2026-11-01T17:44:06.838Z",
+      "revision": 4,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7080,10 +7080,11 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "available",
         "lines": [
-          "等待官方公布"
+          "实际 GDP 环比年化（当前官方修订值）：+4.3%"
         ],
+        "asOf": "2026-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/gdp/gross-domestic-product"
       },
@@ -7125,8 +7126,8 @@
       }
     },
     "us-gdp-2026-q4-advance": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7144,7 +7145,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+3.4%"
+          "实际 GDP 环比年化（当前官方修订值）：+4.3%"
         ],
         "asOf": "2026-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7152,8 +7153,8 @@
       }
     },
     "us-gdp-2026-q4-second": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7171,7 +7172,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+3.4%"
+          "实际 GDP 环比年化（当前官方修订值）：+4.3%"
         ],
         "asOf": "2026-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -7179,8 +7180,8 @@
       }
     },
     "us-gdp-2026-q4-third": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -7198,7 +7199,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "实际 GDP 环比年化（当前官方修订值）：+3.4%"
+          "实际 GDP 环比年化（当前官方修订值）：+4.3%"
         ],
         "asOf": "2026-07-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
@@ -9063,8 +9064,8 @@
       }
     },
     "us-pce-2026-08": {
-      "revision": 5,
-      "updatedAt": "2026-11-01T17:44:06.838Z",
+      "revision": 6,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9074,7 +9075,7 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.4%",
+          "PCE 物价指数同比：3.5%",
           "核心 PCE 同比：3.0%",
           "核心 PCE 环比：0.3%"
         ],
@@ -9095,8 +9096,8 @@
       }
     },
     "us-pce-2026-09": {
-      "revision": 4,
-      "updatedAt": "2026-11-01T17:44:06.838Z",
+      "revision": 5,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9106,7 +9107,7 @@
       "actual": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.6%",
+          "PCE 物价指数同比：3.7%",
           "核心 PCE 同比：3.1%",
           "核心 PCE 环比：0.3%"
         ],
@@ -9117,7 +9118,7 @@
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.4%",
+          "PCE 物价指数同比：3.5%",
           "核心 PCE 同比：3.0%",
           "核心 PCE 环比：0.3%"
         ],
@@ -9127,8 +9128,8 @@
       }
     },
     "us-pce-2026-10": {
-      "revision": 4,
-      "updatedAt": "2026-11-01T17:44:06.838Z",
+      "revision": 5,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9136,19 +9137,20 @@
         ]
       },
       "actual": {
-        "status": "pending",
+        "status": "available",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：3.8%",
+          "核心 PCE 同比：3.3%",
+          "核心 PCE 环比：0.3%"
         ],
+        "asOf": "2026-10-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       },
       "previous": {
         "status": "available",
         "lines": [
-          "PCE 物价指数同比：3.6%",
+          "PCE 物价指数同比：3.7%",
           "核心 PCE 同比：3.1%",
           "核心 PCE 环比：0.3%"
         ],
@@ -9158,8 +9160,8 @@
       }
     },
     "us-pce-2026-11": {
-      "revision": 4,
-      "updatedAt": "2026-11-01T17:44:06.838Z",
+      "revision": 5,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9169,27 +9171,28 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       },
       "previous": {
-        "status": "unavailable",
+        "status": "available",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：3.8%",
+          "核心 PCE 同比：3.3%",
+          "核心 PCE 环比：0.3%"
         ],
+        "asOf": "2026-10-01",
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2026-12": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9199,9 +9202,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9209,17 +9212,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-01": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9229,9 +9232,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9239,17 +9242,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-02": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9259,9 +9262,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9269,17 +9272,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-03": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9289,9 +9292,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9299,17 +9302,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-04": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9319,9 +9322,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9329,17 +9332,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-05": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9349,9 +9352,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9359,17 +9362,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-06": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9379,9 +9382,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9389,17 +9392,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-07": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9409,9 +9412,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9419,17 +9422,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-08": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9439,9 +9442,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9449,17 +9452,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-09": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9469,9 +9472,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9479,17 +9482,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-10": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9499,9 +9502,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9509,17 +9512,17 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
       }
     },
     "us-pce-2027-11": {
-      "revision": 1,
-      "updatedAt": "2026-11-23T23:49:55.685Z",
+      "revision": 2,
+      "updatedAt": "2026-11-25T21:38:13.128Z",
       "forecast": {
         "status": "unavailable",
         "lines": [
@@ -9529,9 +9532,9 @@
       "actual": {
         "status": "pending",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
@@ -9539,9 +9542,9 @@
       "previous": {
         "status": "unavailable",
         "lines": [
-          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）",
-          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-09-01）"
+          "PCE 物价指数同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 同比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）",
+          "核心 PCE 环比：免费数据源尚未提供本统计期数值（源端最新数据期 2026-10-01）"
         ],
         "sourceName": "美国经济分析局（BEA，经 FRED 获取）",
         "sourceUrl": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
