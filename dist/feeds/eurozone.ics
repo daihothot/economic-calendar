@@ -2131,8 +2131,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2026-12-decision@economic-calendar-pro
 DTSTAMP:20261123T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112364
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112365
 DTSTART;TZID=Europe/Brussels:20261217T141500
 DTEND;TZID=Europe/Brussels:20261217T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2150,7 +2150,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 6\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 7\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -2377,8 +2377,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-02-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112562
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112563
 DTSTART;TZID=Europe/Brussels:20270204T141500
 DTEND;TZID=Europe/Brussels:20270204T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2395,7 +2395,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-26\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-27\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -2524,8 +2524,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-03-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112562
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112563
 DTSTART;TZID=Europe/Brussels:20270318T141500
 DTEND;TZID=Europe/Brussels:20270318T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2542,7 +2542,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-26\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-27\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -2671,8 +2671,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-04-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112562
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112563
 DTSTART;TZID=Europe/Brussels:20270429T141500
 DTEND;TZID=Europe/Brussels:20270429T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2689,7 +2689,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-26\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-27\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -2917,8 +2917,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-06-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112562
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112563
 DTSTART;TZID=Europe/Brussels:20270610T141500
 DTEND;TZID=Europe/Brussels:20270610T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -2935,7 +2935,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-26\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-27\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -3064,8 +3064,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-07-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112562
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112563
 DTSTART;TZID=Europe/Brussels:20270722T141500
 DTEND;TZID=Europe/Brussels:20270722T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3082,7 +3082,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-26\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-27\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -3310,8 +3310,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-09-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112562
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112563
 DTSTART;TZID=Europe/Brussels:20270909T141500
 DTEND;TZID=Europe/Brussels:20270909T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3328,7 +3328,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  ｜↘\n📊 股票｜欧洲股市　↗｜↘\n₿ 加密资产｜Bitcoin
  　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致预
  期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操作
- 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-26\n
+ 利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-27\n
  数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://www.
  ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/
  index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\nhtt
@@ -3457,8 +3457,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-10-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112562
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112563
 DTSTART;TZID=Europe/Brussels:20271028T141500
 DTEND;TZID=Europe/Brussels:20271028T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3476,7 +3476,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 6\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 7\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
@@ -3703,8 +3703,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eu-ecb-2027-12-decision@economic-calendar-pro
 DTSTAMP:20261125T000000Z
-LAST-MODIFIED:20261126T212731Z
-SEQUENCE:2026112562
+LAST-MODIFIED:20261127T211227Z
+SEQUENCE:2026112563
 DTSTART;TZID=Europe/Brussels:20271216T141500
 DTEND;TZID=Europe/Brussels:20271216T144500
 SUMMARY:🇪🇺 欧洲央行（ECB）货币政策决定（⭐⭐⭐ 高影
@@ -3722,7 +3722,7 @@ DESCRIPTION:🇪🇺 欧洲央行（ECB）货币政策决定\n⭐⭐⭐ 高
  oin　↗｜↘\n\n🔮 预测值：\n官方数据源不提供市场一致
  预期\n\n📌 前值：\n存款机制利率：2.50%\n主要再融资操
  作利率：2.65%\n边际贷款机制利率：2.90%\n数据期：2026-11-2
- 6\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
+ 7\n数据来源：欧洲中央银行（ECB，经 FRED 获取）\nhttps://w
  ww.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/ht
  ml/index.en.html\n\n🏛️ 官方来源：\n欧洲中央银行（ECB）\n
  https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n\n🔗
